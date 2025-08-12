@@ -1,0 +1,39 @@
+RID: DA36FE1N016	
+Job Title:ATP8				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_15491 Length: 48
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+ATP synthase F0 subunit 8 [Rhodotorula toruloides]                Rhodotorula ... NA              5286       51.2   51.2  100%  5e-11 45.83  48         YP_009988031.1   
+
+
+Alignments:
+
+>ATP synthase F0 subunit 8 [Rhodotorula toruloides]
+Sequence ID: YP_009988031.1 Length: 48
+>ATP synthase F0 subunit 8 [Rhodotorula toruloides]
+Sequence ID: QNL17841.1 Length: 48
+>ATP synthase F0 subunit 8 [Rhodotorula toruloides]
+Sequence ID: CAE5968187.1 Length: 48 
+Range 1: 1 to 48
+
+Score:51.2 bits(121), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:22/48(46%), Positives:40/48(83%), Gaps:0/48(0%)
+
+Query  1   MPQLVPFYFMNQLTYGFLLMITLLILFSQFFLPMILRLYVSRLFISKL  48
+           MPQL+PFYF+NQL++  L++ TL+ +F  + LP+ ++L+V+R++++KL
+Sbjct  1   MPQLLPFYFVNQLSFAVLVLGTLVYVFGTYVLPVFVQLFVTRMYVTKL  48
+
+
+
+
+
+
+
+		
+
+

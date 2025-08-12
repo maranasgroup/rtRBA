@@ -1,0 +1,25 @@
+Subsystem	Correlation	Number of points
+Terpenoid backbone biosynthesis	1.0	n=9
+Histidine metabolism	1.0	n=10
+Cell wall biosynthesis	0.9999999999999998	n=2
+Unassigned	0.9999999999999996	n=2
+Valine, leucine and isoleucine metabolism	0.9999999999994349	n=12
+Pyrimidine metabolism	0.9893408125792964	n=14
+Glycine, serine and threonine metabolism	0.9856007961751044	n=19
+Cysteine and methionine metabolism	0.9781639345725535	n=13
+Glyoxylate metabolism	0.9765906880326316	n=5
+Pentose phosphate pathway	0.9665631604622327	n=10
+Arginine and proline metabolism	0.9510458572555662	n=22
+Starch and sucrose metabolism	0.9087060773982382	n=4
+Purine metabolism	0.9009411178328113	n=31
+Glycolysis / Gluconeogenesis	0.6603042204880762	n=12
+Folate metabolism	0.6425050726829963	n=9
+Phenylalanine, tyrosine and tryptophan metabolism	0.6209524761196232	n=15
+Methylglyoxal metabolism	0.5000000000000001	n=6
+Oxidative phosphorylation	0.442332193048851	n=9
+Pyruvate metabolism	0.36192162851633525	n=7
+Alanine, aspartate and glutamate metabolism	0.264627142651402	n=9
+Exchange	0.19114361974629315	n=17
+Transport	0.18913598158778755	n=56
+Acetyl-CoA synthesis	0.006117009091251979	n=4
+Citric acid cycle	0.0016082379928071735	n=12

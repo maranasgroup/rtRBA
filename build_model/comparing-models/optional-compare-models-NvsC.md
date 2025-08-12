@@ -1,0 +1,23 @@
+# Metabolites unique to iRhtoC :
+
+# Metabolites unique to iRhtoN :
+
+# Metabolites with different versions present:
+
+# Reactions unique to iRhtoC :
+	 Rxn unique to iRhtoC : Biomass_Rt_Clim: 1.001123 13BDglucan_c + 0.263454 16BDglucan_en + 0.015503 G00006_c + 0.386254 alatrna_c + 0.0001 amet_c + 0.152604 argtrna_c + 0.183441 asntrna_c + 0.183441 asptrna_c + 144.979806 atp_c + 0.0001 btn_c + 0.001286 ca2_c + 0.023669 chtn_c + 0.0001 coa_c + 0.07053 ctp_c + 0.000114 cu2_c + 0.005535 cystrna_c + 0.007095 datp_c + 0.011074 dctp_c + 0.011074 dgtp_c + 4.1e-05 docosa_c + 0.007095 dttp_c + 0.102571 epist_c + 0.0001 fad_c + 0.000664 fe2_c + 0.305999 glntrna_c + 0.305999 glutrna_c + 0.351464 glytrna_c + 0.016989 gpianchorSC_r + 0.0618 gtp_c + 144.9394 h2o_c + 0.000478 hdca_c + 0.0001 hemeA_c + 0.076302 histrna_c + 0.23286 iletrna_c + 0.008081 ipc_g + 0.60365 k_c + 0.316673 leutrna_c + 0.001219 linoea_c + 0.000327 linolen_c + 0.259743 lystrna_c + 0.04507 mettrna_c + 0.063607 mg2_c + 9.4e-05 mn2_c + 0.0001 nad_c + 0.0001 nadp_c + 0.000318 ocdca_c + 0.000584 ocdcea_c + 0.047788 oglycanSC_g + 0.021936 pail_c + 0.041166 pc_c + 0.009943 pe_c + 0.148651 phetrna_c + 0.166837 protrna_c + 0.005332 ps_c + 0.0001 pydx5p_c + 0.0001 ribflv_c + 0.21072 sertrna_c + 0.031223 so4_c + 0.0001 spmd_c + 0.012646 tag_c + 0.0001 thf_c + 0.0001 thmpp_c + 0.220209 thrtrna_c + 0.025698 trptrna_c + 0.000252 ttcosa_c + 0.077488 tyrtrna_c + 0.036971 utp_c + 0.28979 valtrna_c + 0.001576 zn2_c --> 144.9394 adp_c + 144.9394 h_c + 144.833745 pi_c + 0.246044 ppi_c + 0.386254 trnaala_c + 0.152604 trnaarg_c + 0.183441 trnaasn_c + 0.183441 trnaasp_c + 0.005535 trnacys_c + 0.305999 trnagln_c + 0.305999 trnaglu_c + 0.351464 trnagly_c + 0.076302 trnahis_c + 0.23286 trnaile_c + 0.316673 trnaleu_c + 0.259743 trnalys_c + 0.04507 trnamet_c + 0.148651 trnaphe_c + 0.166837 trnapro_c + 0.21072 trnaser_c + 0.220209 trnathr_c + 0.025698 trnatrp_c + 0.077488 trnatyr_c + 0.28979 trnaval_c
+
+# Reactions unique to iRhtoN :
+	 Biomass_Rt_Nlim: 0.383841 13BDglucan_c + 0.101011 16BDglucan_en + 0.005671 G00006_c + 0.273846 alatrna_c + 0.0001 amet_c + 0.108193 argtrna_c + 0.130056 asntrna_c + 0.130056 asptrna_c + 154.941601 atp_c + 0.0001 btn_c + 0.001286 ca2_c + 0.009075 chtn_c + 0.0001 coa_c + 0.049138 ctp_c + 0.000114 cu2_c + 0.003924 cystrna_c + 0.021281 datp_c + 0.033216 dctp_c + 0.033216 dgtp_c + 0.000313 docosa_c + 0.021281 dttp_c + 0.791386 epist_c + 0.0001 fad_c + 0.000664 fe2_c + 0.216946 glntrna_c + 0.216946 glutrna_c + 0.24918 glytrna_c + 0.00652 gpianchorSC_r + 0.043055 gtp_c + 154.94 h2o_c + 0.003776 hdca_c + 0.0001 hemeA_c + 0.054096 histrna_c + 0.165092 iletrna_c + 0.022537 ipc_g + 0.60365 k_c + 0.224514 leutrna_c + 0.004771 linoea_c + 0.001887 linolen_c + 0.184152 lystrna_c + 0.031953 mettrna_c + 0.063607 mg2_c + 9.4e-05 mn2_c + 0.0001 nad_c + 0.0001 nadp_c + 0.003208 ocdca_c + 0.009807 ocdcea_c + 0.018322 oglycanSC_g + 0.006587 pail_c + 0.012365 pc_c + 0.002987 pe_c + 0.10539 phetrna_c + 0.118283 protrna_c + 0.001601 ps_c + 0.0001 ribflv_c + 0.149396 sertrna_c + 0.031223 so4_c + 0.0001 spmd_c + 0.097911 tag_c + 0.0001 thf_c + 0.0001 thmpp_c + 0.156123 thrtrna_c + 0.018219 trptrna_c + 0.001249 ttcosa_c + 0.054937 tyrtrna_c + 0.025757 utp_c + 0.205454 valtrna_c + 0.001576 zn2_c --> 154.94 adp_c + 154.94 h_c + 154.834345 pi_c + 0.255097 ppi_c + 0.273846 trnaala_c + 0.108193 trnaarg_c + 0.130056 trnaasn_c + 0.130056 trnaasp_c + 0.003924 trnacys_c + 0.216946 trnagln_c + 0.216946 trnaglu_c + 0.24918 trnagly_c + 0.054096 trnahis_c + 0.165092 trnaile_c + 0.224514 trnaleu_c + 0.184152 trnalys_c + 0.031953 trnamet_c + 0.10539 trnaphe_c + 0.118283 trnapro_c + 0.149396 trnaser_c + 0.156123 trnathr_c + 0.018219 trnatrp_c + 0.054937 trnatyr_c + 0.205454 trnaval_c
+
+# Reactions with different versions present:
+	 Differences in Stoichiometries for reaction 'compFALPD_c'
+	 Differences in Stoichiometries for reaction 'compFALPD_en'
+	 Differences in Stoichiometries for reaction 'compACYLCOA_x'
+	 Differences in Stoichiometries for reaction 'compACYLCOA_l'
+	 Differences in Stoichiometries for reaction 'compFALPD_mm'
+	 Differences in Stoichiometries for reaction 'compACYLCOA_m'
+	 Differences in Stoichiometries for reaction 'compACYLCOA_rm'
+	 Differences in Stoichiometries for reaction 'compFALPD_rm'
+	 Differences in Stoichiometries for reaction 'compACYLCOA_r'
+	 Differences in Stoichiometries for reaction 'compFALPD_m'

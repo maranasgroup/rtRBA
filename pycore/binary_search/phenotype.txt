@@ -1,0 +1,32 @@
+* Parameters define in this file will overwrite ones define in GAMS runRBA.gms file
+* check runRBA_GAMS_settings.txt for additional settings (e.g., file paths)
+
+* included in model-version-settings:
+* NGAM (N-lim and C-lim chemostats using glucose)
+* max_allowed_mito_proteome_allo_fraction
+* nonmodeled_proteome_allocation
+$include %gms_path%model-version-settings.txt
+* file with settings updated by build_model scripts, to help with managing multiple GSM models
+
+$setGlobal kribonuc 6.6*3600
+$setGlobal kribomito 6.6*3600
+
+* extra dummy protein for 0.3% of proteome not identified in measurements
+Equation dummyUnidentified; dummyUnidentified.. v('PROSYN-PROTDUMMYUNIDENTIFIED') =e= 0.003 * v('BIOSYN-PROTTOBIO');
+
+* Biomass rxn
+v.fx('BIOSYN-BIODILAERO') = %mu% * %nscale%;
+
+* Substrate and oxygenation
+*$setGlobal vglc 1.353245177 
+$setGlobal vglc 1.4
+v.up('RXN-EX_glc__D_e_REV-SPONT') = %vglc% * %nscale%;
+v.fx('RXN-EX_glc__D_e_FWD-SPONT') = 0 * %nscale%;
+v.up('RXN-EX_o2_e_REV-SPONT') = 1e3 * %nscale%;
+v.fx('RXN-EX_o2_e_FWD-SPONT') = 0 * %nscale%;
+
+* Turn off forming incomplete functional enzyme (to prevent cheap incomplete complex from being formed)
+*$include ./incomplete_enzyme_complex_off.txt
+
+*FOR TESTING ONLY
+*Equation makepro; makepro.. sum(j$prosyn(j),v(j)) =g= 2e-9;

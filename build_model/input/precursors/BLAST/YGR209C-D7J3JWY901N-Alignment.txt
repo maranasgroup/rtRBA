@@ -1,0 +1,937 @@
+RID: D7J3JWY901N	
+Job Title:sp|P22803|TRX2_YEAST Thioredoxin-2 OS=Saccharomyces...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P22803|TRX2_YEAST Thioredoxin-2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRX2 PE=1 SV=3 Query ID: lcl|Query_231584 Length: 104
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+thioredoxin 1 [Rhodotorula toruloides NP11]                       Rhodotorula ... NA              1130832    100    100   95%   5e-28 48.00  163        XP_016276354.1   
+Thioredoxin-like fold [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       98.2   98.2  99%   3e-27 46.15  163        PRQ73772.1       
+thioredoxin [Rhodotorula toruloides NP11]                         Rhodotorula ... NA              1130832    95.9   95.9  96%   5e-27 44.00  106        XP_016277134.1   
+hypothetical protein AAT19DRAFT_8855 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       94.4   94.4  91%   1e-24 44.79  283        PRQ77787.1       
+thioredoxin family protein [Rhodotorula toruloides NP11]          Rhodotorula ... NA              1130832    94.4   94.4  91%   1e-24 43.75  291        XP_016277189.1   
+thioredoxin family protein [Rhodotorula toruloides]               Rhodotorula ... NA              5286       92.0   92.0  91%   1e-23 42.71  291        GEM07024.1       
+thioredoxin [Rhodotorula toruloides NP11]                         Rhodotorula ... NA              1130832    87.8   87.8  88%   1e-23 37.63  130        XP_016270277.1   
+ATP-dependent metalloendopeptidase [Rhodotorula toruloides]       Rhodotorula ... NA              5286       93.6   93.6  95%   2e-23 47.00  961        GEM09628.1       
+lysophospholipase [Rhodotorula toruloides]                        Rhodotorula ... NA              5286       93.6   93.6  98%   2e-23 40.78  1158       KAJ8295787.1     
+Thioredoxin-like fold [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       85.1   85.1  85%   2e-22 37.78  130        PRQ73266.1       
+thioredoxin [Rhodotorula toruloides]                              Rhodotorula ... NA              5286       84.7   84.7  88%   2e-22 36.56  130        GEM09204.1       
+Thioredoxin-like fold [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       86.7   86.7  98%   5e-22 38.10  241        PRQ75877.1       
+thioredoxinh [Rhodotorula toruloides]                             Rhodotorula ... NA              5286       86.3   86.3  95%   7e-22 40.20  241        GEM12373.1       
+Thioredoxin H5 [Rhodotorula toruloides]                           Rhodotorula ... NA              5286       85.5   85.5  98%   1e-21 38.10  241        KAJ8292470.1     
+thioredoxin h [Rhodotorula toruloides NP11]                       Rhodotorula ... NA              1130832    84.7   84.7  98%   2e-21 37.14  241        XP_016272767.1   
+thioredoxin [Rhodotorula toruloides]                              Rhodotorula ... NA              5286       73.6   73.6  96%   2e-18 39.00  102        GEM06974.1       
+Thioredoxin-1 [Rhodotorula toruloides]                            Rhodotorula ... NA              5286       73.6   73.6  93%   2e-16 40.21  985        KAJ8295820.1     
+RHTO0S12e04412g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       66.2   66.2  83%   2e-15 31.46  108        CDR46435.1       
+thioredoxin [Rhodotorula toruloides NP11]                         Rhodotorula ... NA              1130832    65.1   65.1  97%   6e-15 34.95  109        XP_016271092.1   
+thioredoxin [Rhodotorula toruloides]                              Rhodotorula ... NA              5286       65.1   65.1  97%   6e-15 34.95  109        GEM12263.1       
+Thioredoxin [Rhodotorula toruloides]                              Rhodotorula ... NA              5286       64.3   64.3  97%   1e-14 34.95  109        PRQ75715.1       
+thioredoxin [Rhodotorula toruloides NP11]                         Rhodotorula ... NA              1130832    58.2   58.2  97%   3e-12 32.04  109        XP_016271084.1   
+adenosylmethionine-8-amino-7-oxononanoate aminotransferase...     Rhodotorula ... NA              5286       59.3   59.3  97%   1e-11 33.98  975        GEM12258.1       
+PITH domain-domain containing protein [Rhodotorula toruloides]    Rhodotorula ... NA              5286       48.9   48.9  42%   6e-08 52.27  247        PRQ77796.1       
+thioredoxin family protein [Rhodotorula toruloides]               Rhodotorula ... NA              5286       48.9   48.9  42%   7e-08 52.27  246        PRQ77792.1       
+putative protein disulfate isomerase [Rhodotorula toruloides]     Rhodotorula ... NA              5286       47.8   90.1  72%   2e-07 35.80  454        PRQ70959.1       
+Thioredoxin-like fold [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       47.4   47.4  74%   2e-07 33.72  268        PRQ70356.1       
+protein disulfide-isomerase A6 [Rhodotorula toruloides NP11]      Rhodotorula ... NA              1130832    47.4   47.4  74%   2e-07 33.72  351        XP_016270638.1   
+Protein disulfide-isomerase [Rhodotorula toruloides]              Rhodotorula ... NA              5286       46.6   46.6  72%   5e-07 34.57  743        KAJ8291884.1     
+Thioredoxin-domain containing protein [Rhodotorula toruloides]    Rhodotorula ... NA              5286       45.8   45.8  74%   7e-07 30.00  252        PRQ76739.1       
+protein disulfide-isomerase A1 [Rhodotorula toruloides NP11]      Rhodotorula ... NA              1130832    46.2   88.6  72%   7e-07 34.57  489        XP_016271604.1   
+protein disulfide-isomerase A6 [Rhodotorula toruloides NP11]      Rhodotorula ... NA              1130832    45.1   45.1  74%   1e-06 30.00  245        XP_016272090.1   
+RHTO0S16e02608g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       45.1   45.1  74%   1e-06 30.00  252        CDR48163.1       
+hypothetical protein Rt10032_c22g6578 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       44.7   44.7  72%   2e-06 34.57  484        GEM12561.1       
+proteophosphoglycan ppg4 [Rhodotorula toruloides]                 Rhodotorula ... NA              5286       41.6   41.6  59%   3e-05 36.36  771        GEM08170.1       
+ATP-dependent RNA helicase DBP7 [Rhodotorula toruloides]          Rhodotorula ... NA              5286       41.6   41.6  59%   3e-05 36.36  4659       KAJ8294770.1     
+ATP-dependent RNA helicase DBP7 [Rhodotorula toruloides]          Rhodotorula ... NA              5286       41.6   41.6  59%   3e-05 36.36  4707       KAJ8294769.1     
+hypothetical protein AAT19DRAFT_14424 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       41.6   41.6  59%   3e-05 36.36  747        PRQ75402.1       
+protein disulfide-isomerase [Rhodotorula toruloides NP11]         Rhodotorula ... NA              1130832    41.2   41.2  59%   3e-05 36.36  747        XP_016273266.1   
+Thioredoxin domain-containing protein 5 [Rhodotorula toruloides]  Rhodotorula ... NA              5286       40.4   40.4  59%   4e-05 37.88  157        KAJ8294783.1     
+protein disulfide oxidoreductase [Rhodotorula toruloides NP11]    Rhodotorula ... NA              1130832    40.0   40.0  59%   6e-05 37.88  157        XP_016273249.1   
+Proteophosphoglycan ppg4 [Rhodotorula toruloides ATCC 204091]     Rhodotorula ... NA              1001064    40.8   40.8  59%   6e-05 36.36  2510       EGU13003.1       
+
+
+Alignments:
+
+>thioredoxin 1 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276354.1 Length: 163
+>thioredoxin 1 [Rhodotorula toruloides NP11]
+Sequence ID: EMS25235.1 Length: 163
+>RHTO0S07e06964g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR43033.1 Length: 163 
+Range 1: 4 to 103
+
+Score:100 bits(248), Expect:5e-28, 
+Method:Compositional matrix adjust., 
+Identities:48/100(48%), Positives:63/100(63%), Gaps:1/100(1%)
+
+Query  2    VTQLKSASEYDSALASG-DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDE  60
+            +T L S  E +  LA+  D+LVV+DF ATWCGPC  IAP  EK A QY  A F K+DVD 
+Sbjct  4    ITHLTSLPELNKLLAAKKDRLVVIDFHATWCGPCHAIAPTFEKLANQYRQATFCKVDVDA  63
+
+Query  61   VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAI  100
+              ++A+   V +MPT +F K  ++V  V GAN +AI+  I
+Sbjct  64   AQEIARAYSVRAMPTFVFIKNERKVHEVKGANASAIESGI  103
+
+
+
+
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ73772.1 Length: 163
+Range 1: 4 to 107
+
+Score:98.2 bits(243), Expect:3e-27, 
+Method:Compositional matrix adjust., 
+Identities:48/104(46%), Positives:64/104(61%), Gaps:1/104(0%)
+
+Query  2    VTQLKSASEYDSALASG-DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDE  60
+            +T L S  E +  LA+  ++LVV+DF ATWCGPC  IAP  EK A QY  A F K+DVD 
+Sbjct  4    ITHLTSLPELNKLLAAKKERLVVIDFHATWCGPCHAIAPTFEKLANQYRQATFCKVDVDA  63
+
+Query  61   VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIASNV  104
+              ++A+   V +MPT +F K  ++V  V GAN +AI+  I   V
+Sbjct  64   AQEIARAYSVRAMPTFVFIKNERKVHEVKGANASAIEAGIKQYV  107
+
+
+
+
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277134.1 Length: 106
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS26015.1 Length: 106
+>RHTO0S03e09274g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38414.1 Length: 106 
+Range 1: 1 to 99
+
+Score:95.9 bits(237), Expect:5e-27, 
+Method:Compositional matrix adjust., 
+Identities:44/100(44%), Positives:65/100(65%), Gaps:1/100(1%)
+
+Query  1   MVTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDE  60
+           MV  + S   + SA  S DKLV++DF+ATWCGPCK+I P+ EK    + +  F+K DVD 
+Sbjct  1   MVAVIDSYDAFKSA-TSQDKLVIIDFWATWCGPCKVIGPVFEKLESSFPNIGFFKCDVDA  59
+
+Query  61  VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAI  100
+             +VA +  + +MPT + +K G++V  VVGA+P  +K A+
+Sbjct  60  QEEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLKAAL  99
+
+
+
+
+>hypothetical protein AAT19DRAFT_8855 [Rhodotorula toruloides]
+Sequence ID: PRQ77787.1 Length: 283
+Range 1: 3 to 98
+
+Score:94.4 bits(233), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:43/96(45%), Positives:62/96(64%), Gaps:1/96(1%)
+
+Query  2   VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYS-DAAFYKLDVDE  60
+           +T + S  + DS  +  +K+ ++DF A WCGPCK IAP+ ++ A QY+    F K+DVD 
+Sbjct  3   ITVVSSLQQLDSLTSDANKVSIIDFHAVWCGPCKAIAPVFQRLASQYAGRVQFLKVDVDA  62
+
+Query  61  VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAI  96
+           V DVA+K  VS+MPT +  KG  +V  + GANPA +
+Sbjct  63  VPDVARKFSVSAMPTFVVLKGPNKVDEMKGANPAGL  98
+
+
+
+
+>thioredoxin family protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277189.1 Length: 291
+>thioredoxin family protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS26070.1 Length: 291
+>RHTO0S03e10506g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38528.1 Length: 291 
+Range 1: 3 to 98
+
+Score:94.4 bits(233), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:42/96(44%), Positives:62/96(64%), Gaps:1/96(1%)
+
+Query  2   VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYS-DAAFYKLDVDE  60
+           +T + S  + DS  +  +K+ ++DF A WCGPCK IAP+ ++ A QY+    F K+DVD 
+Sbjct  3   ITVVSSLQQLDSLTSDANKVSILDFHAVWCGPCKAIAPVFQRLASQYAGRVQFLKVDVDA  62
+
+Query  61  VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAI  96
+           V D+A+K  VS+MPT +  KG  +V  + GANPA +
+Sbjct  63  VPDIARKFSVSAMPTFVILKGANKVDEMKGANPAGL  98
+
+
+
+
+>thioredoxin family protein [Rhodotorula toruloides]
+Sequence ID: GEM07024.1 Length: 291
+Range 1: 3 to 98
+
+Score:92.0 bits(227), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:41/96(43%), Positives:62/96(64%), Gaps:1/96(1%)
+
+Query  2   VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSD-AAFYKLDVDE  60
+           +T + S  + D+  +  +++ ++DF A WCGPCK IAP+ ++ A QY+    F K+DVD 
+Sbjct  3   ITVVSSLQQLDTLTSDANEMSIIDFHAVWCGPCKAIAPVFQRLASQYAGRVQFLKVDVDA  62
+
+Query  61  VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAI  96
+           V DVA+K  VS+MPT +  KG  +V  + GANPA +
+Sbjct  63  VPDVARKFSVSAMPTFVVLKGPNKVDEMKGANPAGL  98
+
+
+
+
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270277.1 Length: 130
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS19158.1 Length: 130
+>RHTO0S02e06634g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36770.1 Length: 130 
+Range 1: 30 to 122
+
+Score:87.8 bits(216), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:35/93(38%), Positives:65/93(69%), Gaps:1/93(1%)
+
+Query  7    SASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDEVSDVAQ  66
+            +  ++++    G++  VVDF+A WCGPC+ + P++EK  ++ SDA   K+D DE  ++AQ
+Sbjct  30   TPEDFETHAIKGNRTTVVDFYADWCGPCRFLGPVLEKVVDEASDADLLKVDTDEHIELAQ  89
+
+Query  67   KAEVSSMPTLIFYKGGKEVTRVVGA-NPAAIKQ  98
+            K +++++PT++ ++ G+ V ++VGA N A +KQ
+Sbjct  90   KYKITALPTVLAFRNGQVVGKMVGATNEAGVKQ  122
+
+
+
+
+>ATP-dependent metalloendopeptidase [Rhodotorula toruloides]
+Sequence ID: GEM09628.1 Length: 961
+Range 1: 4 to 103
+
+Score:93.6 bits(231), Expect:2e-23, 
+Method:Composition-based stats., 
+Identities:47/100(47%), Positives:62/100(62%), Gaps:1/100(1%)
+
+Query  2    VTQLKSASEYDSALASG-DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDE  60
+            +T L S  E +  LA+  ++LVV+DF ATWCGPC  IAP  EK A QY  A F K+DVD 
+Sbjct  4    ITHLTSLPELNKLLAAKKERLVVIDFHATWCGPCHAIAPTFEKLANQYRQATFCKVDVDA  63
+
+Query  61   VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAI  100
+              ++A+   V +MPT +F K   +V  V GAN +AI+  I
+Sbjct  64   AQEIARAYSVRAMPTFVFIKNEHKVHEVKGANASAIEAGI  103
+
+
+
+
+>lysophospholipase [Rhodotorula toruloides]
+Sequence ID: KAJ8295787.1 Length: 1158
+Range 1: 870 to 972
+
+Score:93.6 bits(231), Expect:2e-23, 
+Method:Composition-based stats., 
+Identities:42/103(41%), Positives:65/103(63%), Gaps:1/103(0%)
+
+Query  2    VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSD-AAFYKLDVDE  60
+            +T + S  + DS  +  +K+ ++DF A WCGPCK IAP+ ++ A QY+    F K+DVD 
+Sbjct  870  ITVVSSLQQLDSLTSDANKVSILDFHAVWCGPCKAIAPVFQRLASQYAGRVQFLKVDVDA  929
+
+Query  61   VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIASN  103
+            V D+A+K  VS+MPT +  KG  +V  + GANPA +   ++ +
+Sbjct  930  VPDIARKFSVSAMPTFVILKGANKVDEMKGANPAGLMAMVSKH  972
+
+
+
+
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ73266.1 Length: 130
+Range 1: 33 to 122
+
+Score:85.1 bits(209), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:34/90(38%), Positives:62/90(68%), Gaps:1/90(1%)
+
+Query  10   EYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDEVSDVAQKAE  69
+            ++++    G++  VVDF+A WCGPC+ + P++EK  ++ S A   K+D DE  ++AQK  
+Sbjct  33   DFETHAIKGNRTTVVDFYADWCGPCRFLGPVLEKVVDEASGADLLKVDTDEHIELAQKYN  92
+
+Query  70   VSSMPTLIFYKGGKEVTRVVGA-NPAAIKQ  98
+            ++++PT++ ++ G+ V ++VGA N A +KQ
+Sbjct  93   ITALPTVLAFRNGQVVGKMVGATNEAGVKQ  122
+
+
+
+
+>thioredoxin [Rhodotorula toruloides]
+Sequence ID: GEM09204.1 Length: 130
+Range 1: 30 to 122
+
+Score:84.7 bits(208), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:34/93(37%), Positives:64/93(68%), Gaps:1/93(1%)
+
+Query  7    SASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDEVSDVAQ  66
+            +  ++++    G++  VVDF+A WCGPC+ + P++EK  ++ S A   K+D DE  ++AQ
+Sbjct  30   TPEDFETHAIKGERTTVVDFYADWCGPCRFLGPVLEKVVDEASGADLLKVDTDEHIELAQ  89
+
+Query  67   KAEVSSMPTLIFYKGGKEVTRVVGA-NPAAIKQ  98
+            K +++++PT++ ++ G+ V ++VGA N A +KQ
+Sbjct  90   KYKITALPTVLAFRNGQVVGKMVGATNEAGVKQ  122
+
+
+
+
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ75877.1 Length: 241
+Range 1: 3 to 107
+
+Score:86.7 bits(213), Expect:5e-22, 
+Method:Compositional matrix adjust., 
+Identities:40/105(38%), Positives:69/105(65%), Gaps:3/105(2%)
+
+Query  2    VTQLKSASEYDSALASG---DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDV  58
+            + ++ S S++++AL S     + V+VD +ATWCGPCK IAP+ ++ A+Q     F + DV
+Sbjct  3    IIEVHSVSDWNTALRSATAAGQTVIVDAYATWCGPCKAIAPVFDQLAKQADWVKFVRFDV  62
+
+Query  59   DEVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIASN  103
+            D++  +AQK +V++MPT    + GK V  + GA+PAA+ + + ++
+Sbjct  63   DKLPQIAQKYKVTAMPTFFAIQAGKAVDTLKGADPAALNRLVYTH  107
+
+
+
+
+>thioredoxinh [Rhodotorula toruloides]
+Sequence ID: GEM12373.1 Length: 241
+Range 1: 3 to 104
+
+Score:86.3 bits(212), Expect:7e-22, 
+Method:Compositional matrix adjust., 
+Identities:41/102(40%), Positives:67/102(65%), Gaps:3/102(2%)
+
+Query  2    VTQLKSASEYDSALASG---DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDV  58
+            V ++ S S++++AL S     + V+VD +ATWCGPCK IAP+ ++ A+Q     F + DV
+Sbjct  3    VIEVHSVSDWNNALRSATTAGQTVIVDAYATWCGPCKAIAPVFDQLAKQADWVKFVRFDV  62
+
+Query  59   DEVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAI  100
+            D++  +AQK +V++MPT    + GK V  + GA+PAA+ + +
+Sbjct  63   DKLGPIAQKYKVTAMPTFFAIQAGKVVDTLKGADPAALNRLV  104
+
+
+
+
+>Thioredoxin H5 [Rhodotorula toruloides]
+Sequence ID: KAJ8292470.1 Length: 241
+Range 1: 3 to 107
+
+Score:85.5 bits(210), Expect:1e-21, 
+Method:Compositional matrix adjust., 
+Identities:40/105(38%), Positives:69/105(65%), Gaps:3/105(2%)
+
+Query  2    VTQLKSASEYDSALASG---DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDV  58
+            + ++ S S++++AL S     + V+VD +ATWCGPCK IAP+ ++ A+Q     F + DV
+Sbjct  3    LVEVHSVSDWNNALRSATAVGQTVIVDAYATWCGPCKAIAPVFDQLAKQADWVKFVRFDV  62
+
+Query  59   DEVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIASN  103
+            D++  +AQK +V++MPT    + GK V  + GA+PAA+ + + ++
+Sbjct  63   DKLPQIAQKYKVTAMPTFFAIQSGKVVDTLKGADPAALNRLVYTH  107
+
+
+
+
+>thioredoxin h [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272767.1 Length: 241
+>thioredoxin h [Rhodotorula toruloides NP11]
+Sequence ID: EMS21648.1 Length: 241
+>RHTO0S11e03532g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR45709.1 Length: 241 
+Range 1: 3 to 107
+
+Score:84.7 bits(208), Expect:2e-21, 
+Method:Compositional matrix adjust., 
+Identities:39/105(37%), Positives:69/105(65%), Gaps:3/105(2%)
+
+Query  2    VTQLKSASEYDSALASG---DKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDV  58
+            + ++ + S++++AL S     + V+VD +ATWCGPCK IAP+ ++ A+Q     F + DV
+Sbjct  3    LVEVHTVSDWNNALRSATATGQTVIVDAYATWCGPCKTIAPVFDQLAKQADWVKFVRFDV  62
+
+Query  59   DEVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIASN  103
+            D++  +AQK +V++MPT    + GK V  + GA+PAA+ + + ++
+Sbjct  63   DKLPQIAQKYKVTAMPTFFAIQAGKVVDTLKGADPAALNRLVYTH  107
+
+
+
+
+>thioredoxin [Rhodotorula toruloides]
+Sequence ID: GEM06974.1 Length: 102
+Range 1: 1 to 95
+
+Score:73.6 bits(179), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:39/100(39%), Positives:60/100(60%), Gaps:5/100(5%)
+
+Query  1   MVTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDE  60
+           MV  + S   + +A  S DKLV++DF+AT    CK+I+P+ EK    + +  F K DVD 
+Sbjct  1   MVATIDSYDAFKAA-TSQDKLVIIDFWAT----CKVISPVFEKLESSFPNIGFLKCDVDA  55
+
+Query  61  VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAI  100
+             +VA +  + +MPT + +K G +V  VVGA+P  +K A+
+Sbjct  56  QEEVAAEVGIKAMPTFVLFKNGAKVGTVVGADPNKLKAAL  95
+
+
+
+
+>Thioredoxin-1 [Rhodotorula toruloides]
+Sequence ID: KAJ8295820.1 Length: 985
+Range 1: 693 to 784
+
+Score:73.6 bits(179), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:39/97(40%), Positives:59/97(60%), Gaps:5/97(5%)
+
+Query  1    MVTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDAAFYKLDVDE  60
+            MV  + S   + SA  S DKLV++DF+AT    CK+I P+ EK    + +  F+K DVD 
+Sbjct  693  MVAVIDSYDAFKSA-TSQDKLVIIDFWAT----CKVIGPVFEKLESSFPNIGFFKCDVDA  747
+
+Query  61   VSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIK  97
+              +VA +  + +MPT + +K G++V  VVGA+P  +K
+Sbjct  748  QEEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  784
+
+
+
+
+>RHTO0S12e04412g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46435.1 Length: 108
+Range 1: 17 to 105
+
+Score:66.2 bits(160), Expect:2e-15, 
+Method:Compositional matrix adjust., 
+Identities:28/89(31%), Positives:54/89(60%), Gaps:2/89(2%)
+
+Query  17   SGDKLVVVDFFATWCGPCKMIAPMIEKFAEQ--YSDAAFYKLDVDEVSDVAQKAEVSSMP  74
+             G+K  +++F ATWCGPCK +AP+  + ++   +S   F+  D+D     AQ+  + ++P
+Sbjct  17   HGEKPAIIEFNATWCGPCKSMAPLFAELSDDPAHSSLDFFVCDIDVNEQAAQEVGIRTVP  76
+
+Query  75   TLIFYKGGKEVTRVVGANPAAIKQAIASN  103
+              + +K   ++  V+GA PAA+K+ + ++
+Sbjct  77   AFMVFKEMTKLEEVMGAQPAALKRLVETH  105
+
+
+
+
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271092.1 Length: 109
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS19973.1 Length: 109
+>Thioredoxin [Rhodotorula toruloides]
+Sequence ID: KAJ8292355.1 Length: 109
+>RHTO0S11e00320g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR45448.1 Length: 109 
+Range 1: 3 to 104
+
+Score:65.1 bits(157), Expect:6e-15, 
+Method:Compositional matrix adjust., 
+Identities:36/103(35%), Positives:57/103(55%), Gaps:3/103(2%)
+
+Query  2    VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVD  59
+            VT +KS S+Y  A+ S   L  + F A W   CK I P  + +AE  ++ D  FY++D+ 
+Sbjct  3    VTPIKSESQYKDAI-SDQGLTAIQFVAPWEESCKAITPKFKAYAENPRWKDFKFYRVDIC  61
+
+Query  60   EVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIAS  102
+            +  DVA  + V   PT  FYK G +V   VG++  A+++ + +
+Sbjct  62   DQQDVAMTSGVEMAPTFHFYKNGAKVKEFVGSSHPALERTMGA  104
+
+
+
+
+>thioredoxin [Rhodotorula toruloides]
+Sequence ID: GEM12263.1 Length: 109
+Range 1: 3 to 104
+
+Score:65.1 bits(157), Expect:6e-15, 
+Method:Compositional matrix adjust., 
+Identities:36/103(35%), Positives:58/103(56%), Gaps:3/103(2%)
+
+Query  2    VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVD  59
+            VT ++S S+Y  A+ S   L  + F A W   CK I P  + +AE  ++ D  FY++D+ 
+Sbjct  3    VTPIRSESQYKDAI-SDQGLTAIQFVAPWEESCKAITPKFKAYAENPRWKDFKFYRVDIC  61
+
+Query  60   EVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIAS  102
+            +  DVA  + V   PT  FYK G +V   VG++  A+++A+ +
+Sbjct  62   DQQDVAMTSGVEMAPTFHFYKNGAKVKEFVGSSYPALERAMGA  104
+
+
+
+
+>Thioredoxin [Rhodotorula toruloides]
+Sequence ID: PRQ75715.1 Length: 109
+Range 1: 3 to 104
+
+Score:64.3 bits(155), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:36/103(35%), Positives:57/103(55%), Gaps:3/103(2%)
+
+Query  2    VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVD  59
+            VT +KS S+Y  A+ S   L  + F A W   CK I P  + +AE  ++ D  FY++D+ 
+Sbjct  3    VTPIKSESQYKDAI-SDQGLTAIQFVAPWEESCKAITPKFKAYAENPRWKDFKFYRVDIC  61
+
+Query  60   EVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIAS  102
+            +  DVA  + V   PT  FYK G +V   VG++  A+++ + +
+Sbjct  62   DQQDVAMTSGVEMAPTFHFYKNGAKVKEFVGSSYPALERTMGA  104
+
+
+
+
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271084.1 Length: 109
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS19965.1 Length: 109
+>Thioredoxin [Rhodotorula toruloides]
+Sequence ID: PRQ75708.1 Length: 109
+>RHTO0S11e00144g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR45431.1 Length: 109 
+Range 1: 3 to 104
+
+Score:58.2 bits(139), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:33/103(32%), Positives:55/103(53%), Gaps:3/103(2%)
+
+Query  2    VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVD  59
+            VT +KS  +Y   +A       + F A W   CK IAP  +++AE  ++ D  FY++D+ 
+Sbjct  3    VTAIKSEQQYKDIIAD-QGYTAIFFVAPWEESCKGIAPKFKEYAENPRWKDFKFYRVDIC  61
+
+Query  60   EVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIAS  102
+            E  DV   + V   PT  FYK G ++   VG++  A+++ + +
+Sbjct  62   EQQDVGMTSGVKMAPTFHFYKDGAKLKEYVGSSYPALERTMGA  104
+
+
+
+
+>adenosylmethionine-8-amino-7-oxononanoate aminotransferase [Rhodotorula toruloides]
+Sequence ID: GEM12258.1 Length: 975
+Range 1: 869 to 970
+
+Score:59.3 bits(142), Expect:1e-11, 
+Method:Composition-based stats., 
+Identities:35/103(34%), Positives:56/103(54%), Gaps:3/103(2%)
+
+Query  2    VTQLKSASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVD  59
+            VT +KS  +Y   +A       V F A W   CK IAP  +++AE  ++ D  FY++D+ 
+Sbjct  869  VTAIKSEQQYKDIVAD-QGYSAVFFIAPWEESCKGIAPKFKEYAENPRWKDFKFYRVDIC  927
+
+Query  60   EVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAIKQAIAS  102
+            E  DVA  + V   PT  FYK G ++   VG++  A+++ + +
+Sbjct  928  EQQDVAMTSGVKMAPTFHFYKDGAKLKEYVGSSYPALERTMGA  970
+
+
+
+
+>PITH domain-domain containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ77796.1 Length: 247
+Range 1: 10 to 53
+
+Score:48.9 bits(115), Expect:6e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/44(52%), Positives:30/44(68%), Gaps:0/44(0%)
+
+Query  53  FYKLDVDEVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAI  96
+           F K+DVD V DVA+K  VS+MPT +  KG  +V  + GANPA +
+Sbjct  10  FLKVDVDAVPDVARKFSVSAMPTFVVLKGPNKVDEMKGANPAGL  53
+
+
+
+
+>thioredoxin family protein [Rhodotorula toruloides]
+Sequence ID: PRQ77792.1 Length: 246
+Range 1: 10 to 53
+
+Score:48.9 bits(115), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/44(52%), Positives:30/44(68%), Gaps:0/44(0%)
+
+Query  53  FYKLDVDEVSDVAQKAEVSSMPTLIFYKGGKEVTRVVGANPAAI  96
+           F K+DVD V DVA+K  VS+MPT +  KG  +V  + GANPA +
+Sbjct  10  FLKVDVDAVPDVARKFSVSAMPTFVVLKGPNKVDEMKGANPAGL  53
+
+
+
+
+>putative protein disulfate isomerase [Rhodotorula toruloides]
+Sequence ID: PRQ70959.1 Length: 454
+Range 1: 359 to 437
+
+Score:47.8 bits(112), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:29/81(36%), Positives:43/81(53%), Gaps:8/81(9%)
+
+Query  8    ASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDA----AFYKLDVDEVSD  63
+            A E+D  +A  DK ++V+F+A WCG CK + P  +   E+YS+A       K D  E +D
+Sbjct  359  ADEFDKVVAE-DKDLLVEFYAPWCGHCKKLKPTWDTLGERYSNAKSKITVAKFDATE-ND  416
+
+Query  64   VAQKA--EVSSMPTLIFYKGG  82
+            +   A   V+  PT+ F   G
+Sbjct  417  IPSTAGFRVAGFPTIKFKAAG  437
+
+
+
+
+Range 2: 37 to 100
+
+Score:42.4 bits(98), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/64(38%), Positives:34/64(53%), Gaps:3/64(4%)
+
+Query  21  LVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVDEVSDVAQKAEVSSMPTL-I  77
+           L +++FFA WCG CK +AP  E+ A   +       K+D    SD+     V+  PTL +
+Sbjct  37  LTLIEFFAPWCGHCKALAPHYEEAATILKKDKIPIAKVDCTVESDLCSSQGVNGYPTLKV  96
+
+Query  78  FYKG  81
+           F KG
+Sbjct  97  FRKG  100
+
+
+
+
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ70356.1 Length: 268
+Range 1: 32 to 117
+
+Score:47.4 bits(111), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:29/86(34%), Positives:41/86(47%), Gaps:9/86(10%)
+
+Query  7    SASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYS-----DAAFYKLDVDEV  61
+            + S +D  +AS  +  +V FFA WCG CK + P+  K AE +        A +  D    
+Sbjct  32   TPSNFDGVIASQSEGTLVAFFAPWCGHCKSLEPVWTKIAEAFDGDDRCKVAHFNADDAAA  91
+
+Query  62   SDVAQKAEVSSMPTLIFY----KGGK  83
+              +A K  VS  PT+ F     KGG+
+Sbjct  92   RPLASKYGVSGFPTIKFIAPPSKGGQ  117
+
+
+
+
+>protein disulfide-isomerase A6 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270638.1 Length: 351
+>protein disulfide-isomerase A6 [Rhodotorula toruloides NP11]
+Sequence ID: EMS19519.1 Length: 351
+>RHTO0S20e01090g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48773.1 Length: 351 
+Range 1: 32 to 117
+
+Score:47.4 bits(111), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:29/86(34%), Positives:41/86(47%), Gaps:9/86(10%)
+
+Query  7    SASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYS-----DAAFYKLDVDEV  61
+            + S +D  +AS  +  +V FFA WCG CK + P+  K AE +        A +  D    
+Sbjct  32   TPSNFDGVIASQSEGTLVAFFAPWCGHCKSLEPVWTKIAEAFDGDDRCKVAHFNADDAAA  91
+
+Query  62   SDVAQKAEVSSMPTLIFY----KGGK  83
+              +A K  VS  PT+ F     KGG+
+Sbjct  92   RPLASKYGVSGFPTIKFIPPPSKGGQ  117
+
+
+
+
+>Protein disulfide-isomerase [Rhodotorula toruloides]
+Sequence ID: KAJ8291884.1 Length: 743
+Range 1: 292 to 370
+
+Score:46.6 bits(109), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:28/81(35%), Positives:43/81(53%), Gaps:8/81(9%)
+
+Query  8    ASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDA----AFYKLDVDEVSD  63
+            A E++  +A  DK ++V+F+A WCG CK + P  +   E+YS+A       K D  E +D
+Sbjct  292  ADEFEKVVAE-DKDLLVEFYAPWCGHCKKLKPTWDTLGERYSNAKSKITVAKFDATE-ND  349
+
+Query  64   VAQKA--EVSSMPTLIFYKGG  82
+            +   A   V+  PT+ F   G
+Sbjct  350  IPSSAGFRVAGFPTIKFKAAG  370
+
+
+
+
+>Thioredoxin-domain containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ76739.1 Length: 252
+Range 1: 35 to 114
+
+Score:45.8 bits(107), Expect:7e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/80(30%), Positives:37/80(46%), Gaps:3/80(3%)
+
+Query  11   YDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQY---SDAAFYKLDVDEVSDVAQK  67
+            +  A+ S DKL +  F A WCG CK +AP  ++ A+     ++      D DE   +  +
+Sbjct  35   FKKAVHSSDKLTLAAFVAPWCGYCKKLAPEYDRVADSLKGITNVVSVDCDTDENKPLCGE  94
+
+Query  68   AEVSSMPTLIFYKGGKEVTR  87
+              +   PTL  + GG    R
+Sbjct  95   MGIQGFPTLKMFPGGSAPPR  114
+
+
+
+
+>protein disulfide-isomerase A1 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271604.1 Length: 489
+>protein disulfide-isomerase A1 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20485.1 Length: 489
+>RHTO0S17e02366g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48379.1 Length: 489 
+Range 1: 359 to 437
+
+Score:46.2 bits(108), Expect:7e-07, 
+Method:Compositional matrix adjust., 
+Identities:28/81(35%), Positives:43/81(53%), Gaps:8/81(9%)
+
+Query  8    ASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDA----AFYKLDVDEVSD  63
+            A E++  +A  DK ++V+F+A WCG CK + P  +   E+YS+A       K D  E +D
+Sbjct  359  ADEFEKVVAE-DKDLLVEFYAPWCGHCKKLKPTWDTLGERYSNAKSKITVAKFDATE-ND  416
+
+Query  64   VAQKA--EVSSMPTLIFYKGG  82
+            +   A   V+  PT+ F   G
+Sbjct  417  IPSSAGFRVAGFPTIKFKAAG  437
+
+
+
+
+Range 2: 37 to 100
+
+Score:42.4 bits(98), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/64(38%), Positives:34/64(53%), Gaps:3/64(4%)
+
+Query  21  LVVVDFFATWCGPCKMIAPMIEKFAE--QYSDAAFYKLDVDEVSDVAQKAEVSSMPTL-I  77
+           L +++FFA WCG CK +AP  E+ A   +       K+D    SD+     V+  PTL +
+Sbjct  37  LTLIEFFAPWCGHCKALAPHYEEAATILKKDKIPIAKVDCTVESDLCSSQGVNGYPTLKV  96
+
+Query  78  FYKG  81
+           F KG
+Sbjct  97  FRKG  100
+
+
+
+
+>protein disulfide-isomerase A6 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272090.1 Length: 245
+>protein disulfide-isomerase A6 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20971.1 Length: 245
+>putative protein disulfide-isomerase [Rhodotorula toruloides]
+Sequence ID: KAJ8294958.1 Length: 245 
+Range 1: 35 to 114
+
+Score:45.1 bits(105), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/80(30%), Positives:36/80(45%), Gaps:3/80(3%)
+
+Query  11   YDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYS---DAAFYKLDVDEVSDVAQK  67
+            +  A+ S DKL +  F A WCG CK +AP  ++ A+      +      D DE   +  +
+Sbjct  35   FKKAVHSSDKLTLAAFVAPWCGYCKKLAPEYDRVADSLKGIVNVVSVDCDTDENKPLCGE  94
+
+Query  68   AEVSSMPTLIFYKGGKEVTR  87
+              +   PTL  + GG    R
+Sbjct  95   MGIQGFPTLKMFPGGSAPPR  114
+
+
+
+
+>RHTO0S16e02608g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48163.1 Length: 252
+Range 1: 35 to 114
+
+Score:45.1 bits(105), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/80(30%), Positives:36/80(45%), Gaps:3/80(3%)
+
+Query  11   YDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYS---DAAFYKLDVDEVSDVAQK  67
+            +  A+ S DKL +  F A WCG CK +AP  ++ A+      +      D DE   +  +
+Sbjct  35   FKKAVHSSDKLTLAAFVAPWCGYCKKLAPEYDRVADSLKGIVNVVSVDCDTDENKPLCGE  94
+
+Query  68   AEVSSMPTLIFYKGGKEVTR  87
+              +   PTL  + GG    R
+Sbjct  95   MGIQGFPTLKMFPGGSAPPR  114
+
+
+
+
+>hypothetical protein Rt10032_c22g6578 [Rhodotorula toruloides]
+Sequence ID: GEM12561.1 Length: 484
+Range 1: 354 to 432
+
+Score:44.7 bits(104), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:28/81(35%), Positives:42/81(51%), Gaps:8/81(9%)
+
+Query  8    ASEYDSALASGDKLVVVDFFATWCGPCKMIAPMIEKFAEQYSDA----AFYKLDVDEVSD  63
+            A E+D  + S DK ++V+F+A WCG CK + P  +   E+Y +A       K D  E +D
+Sbjct  354  ADEFDKVV-SEDKDLLVEFYAPWCGHCKKLKPTWDTLGERYLNAKSKITVAKFDATE-ND  411
+
+Query  64   VAQKA--EVSSMPTLIFYKGG  82
+            +   A   V+  PT+ F   G
+Sbjct  412  IPSSAGFRVAGFPTIKFKAAG  432
+
+
+
+
+>proteophosphoglycan ppg4 [Rhodotorula toruloides]
+Sequence ID: GEM08170.1 Length: 771
+Range 1: 355 to 420
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/66(36%), Positives:32/66(48%), Gaps:4/66(6%)
+
+Query  24   VDFFATWCGPCKMIAPMIEKFAEQYSDAA--FYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+            V F+A WC  CK IAP  +  A   + +    Y++D D  E     +K  V + PTL FY
+Sbjct  355  VKFYAPWCSHCKQIAPKWKDLAAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  414
+
+Query  80   KGGKEV  85
+              G  V
+Sbjct  415  NKGASV  420
+
+
+
+
+>ATP-dependent RNA helicase DBP7 [Rhodotorula toruloides]
+Sequence ID: KAJ8294770.1 Length: 4659
+Range 1: 2460 to 2525
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Composition-based stats., 
+Identities:24/66(36%), Positives:32/66(48%), Gaps:4/66(6%)
+
+Query  24    VDFFATWCGPCKMIAPMIEKFAEQYSDAA--FYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+             V F+A WC  CK IAP  +  A   + +    Y++D D  E     +K  V + PTL FY
+Sbjct  2460  VKFYAPWCSHCKQIAPKWKDLAAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  2519
+
+Query  80    KGGKEV  85
+               G  V
+Sbjct  2520  NKGASV  2525
+
+
+
+
+>ATP-dependent RNA helicase DBP7 [Rhodotorula toruloides]
+Sequence ID: KAJ8294769.1 Length: 4707
+Range 1: 2508 to 2573
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Composition-based stats., 
+Identities:24/66(36%), Positives:32/66(48%), Gaps:4/66(6%)
+
+Query  24    VDFFATWCGPCKMIAPMIEKFAEQYSDAA--FYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+             V F+A WC  CK IAP  +  A   + +    Y++D D  E     +K  V + PTL FY
+Sbjct  2508  VKFYAPWCSHCKQIAPKWKDLAAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  2567
+
+Query  80    KGGKEV  85
+               G  V
+Sbjct  2568  NKGASV  2573
+
+
+
+
+>hypothetical protein AAT19DRAFT_14424 [Rhodotorula toruloides]
+Sequence ID: PRQ75402.1 Length: 747
+Range 1: 331 to 396
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/66(36%), Positives:32/66(48%), Gaps:4/66(6%)
+
+Query  24   VDFFATWCGPCKMIAPMIEKFAEQYSDAA--FYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+            V F+A WC  CK IAP  +  A   + +    Y++D D  E     +K  V + PTL FY
+Sbjct  331  VKFYAPWCSHCKQIAPKWKDLAAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  390
+
+Query  80   KGGKEV  85
+              G  V
+Sbjct  391  NKGASV  396
+
+
+
+
+>protein disulfide-isomerase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273266.1 Length: 747
+>protein disulfide-isomerase [Rhodotorula toruloides NP11]
+Sequence ID: EMS22147.1 Length: 747
+>RHTO0S08e08108g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR43932.1 Length: 747 
+Range 1: 331 to 396
+
+Score:41.2 bits(95), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/66(36%), Positives:32/66(48%), Gaps:4/66(6%)
+
+Query  24   VDFFATWCGPCKMIAPMIEKFAEQYSDAA--FYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+            V F+A WC  CK IAP  +  A   + +    Y++D D  E     +K  V + PTL FY
+Sbjct  331  VKFYAPWCSHCKQIAPKWKDLAAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  390
+
+Query  80   KGGKEV  85
+              G  V
+Sbjct  391  NKGASV  396
+
+
+
+
+>Thioredoxin domain-containing protein 5 [Rhodotorula toruloides]
+Sequence ID: KAJ8294783.1 Length: 157
+Range 1: 34 to 99
+
+Score:40.4 bits(93), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:25/66(38%), Positives:31/66(46%), Gaps:4/66(6%)
+
+Query  24  VDFFATWCGPCKMIAPMIEKF--AEQYSDAAFYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+           V F+A WC  CK IAP  +    A   S    Y++D D  E     +K  V + PTL FY
+Sbjct  34  VKFYALWCSHCKQIAPKWKDLTAAVTPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  93
+
+Query  80  KGGKEV  85
+             G  V
+Sbjct  94  NKGASV  99
+
+
+
+
+>protein disulfide oxidoreductase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273249.1 Length: 157
+>protein disulfide oxidoreductase [Rhodotorula toruloides NP11]
+Sequence ID: EMS22130.1 Length: 157
+>RHTO0S08e08526g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR43957.1 Length: 157 
+Range 1: 34 to 99
+
+Score:40.0 bits(92), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:25/66(38%), Positives:31/66(46%), Gaps:4/66(6%)
+
+Query  24  VDFFATWCGPCKMIAPMIEKF--AEQYSDAAFYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+           V F+A WC  CK IAP  +    A   S    Y++D D  E     +K  V + PTL FY
+Sbjct  34  VKFYALWCSHCKQIAPKWKDLTAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  93
+
+Query  80  KGGKEV  85
+             G  V
+Sbjct  94  NKGASV  99
+
+
+
+
+>Proteophosphoglycan ppg4 [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU13003.1 Length: 2510
+Range 1: 325 to 390
+
+Score:40.8 bits(94), Expect:6e-05, 
+Method:Composition-based stats., 
+Identities:24/66(36%), Positives:32/66(48%), Gaps:4/66(6%)
+
+Query  24   VDFFATWCGPCKMIAPMIEKFAEQYSDAA--FYKLDVD--EVSDVAQKAEVSSMPTLIFY  79
+            V F+A WC  CK IAP  +  A   + +    Y++D D  E     +K  V + PTL FY
+Sbjct  325  VKFYAPWCSHCKQIAPKWKDLAAAVAPSGIRIYEMDCDANENKKACRKEGVKAYPTLQFY  384
+
+Query  80   KGGKEV  85
+              G  V
+Sbjct  385  NKGASV  390
+
+
+
+
+
+
+
+		
+
+

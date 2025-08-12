@@ -1,0 +1,73 @@
+RID: CRGWRGW101N	
+Job Title:tr|A0A0K3CP23|A0A0K3CP23_RHOTO Succinate dehydrogenase...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: tr|A0A0K3CP23|A0A0K3CP23_RHOTO Succinate dehydrogenase cytochrome b560 subunit OS=Rhodosporidium toruloides OX=5286 GN=FGENESH: predicted gene_17.78 PE=3 SV=1 Query ID: lcl|Query_421082 Length: 172
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+protein SHH3 [Saccharomyces cerevisiae S288C]                     Saccharomyce... NA              559292     62.4   62.4  79%   5e-13 32.14  196        NP_013836.1      
+succinate dehydrogenase cytochrome b subunit SDH3 [Saccharomyc... Saccharomyce... NA              559292     59.3   59.3  85%   7e-12 32.78  198        NP_012781.1      
+
+
+Alignments:
+
+>protein SHH3 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_013836.1 Length: 196
+>RecName: Full=Mitochondrial inner membrane protein SHH3; AltName: Full=SDH3 homolog; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: Q04487.1 Length: 196 
+Range 1: 60 to 195
+
+Score:62.4 bits(150), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:45/140(32%), Positives:68/140(48%), Gaps:8/140(5%)
+
+Query  36   SKEEALEYLNQQRAKRASSPWH--IYQPQLTSISSIANRVTGTGLSVAFYGIFLSHVIAP  93
+            +KEE  E L  QR KR  SP H  +Y+P+++   S  +R++G  L++ FY   ++  +  
+Sbjct  60   NKEE--ELLVSQRKKRPISP-HLTVYEPEMSWYLSSLHRISGVLLALGFYAFTITLGVTT  116
+
+Query  94   VFGASVDSAALIDAW--TALPSFLQLTTKTAIVGATTYHTFNGLRHLSWDMGYLLNLKTS  151
+            + G       L + W    +P + Q   K +      +H  NG+RHL WDMGY L  +  
+Sbjct  117  IMGMDTTFQDL-NKWYHEKMPKWSQWVAKGSAAYLFAFHFGNGIRHLIWDMGYELTNRGV  175
+
+Query  152  YMAGYAVLGATAVSTAAILA  171
+               G  VL  T V    +LA
+Sbjct  176  IKTGSIVLAGTLVLGTYLLA  195
+
+
+
+
+>succinate dehydrogenase cytochrome b subunit SDH3 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_012781.1 Length: 198
+>RecName: Full=Succinate dehydrogenase [ubiquinone] cytochrome b subunit, mitochondrial; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P33421.1 Length: 198
+>Cryo-EM structure of the TIM22 complex from yeast [Saccharomyces cerevisiae S288C]
+Sequence ID: 6LO8_C Length: 198 
+Range 1: 22 to 190
+
+Score:59.3 bits(142), Expect:7e-12, 
+Method:Compositional matrix adjust., 
+Identities:59/180(33%), Positives:82/180(45%), Gaps:44/180(24%)
+
+Query  18   FARPAALVPAR----------FISTQPMSK------------EEALEYLNQQRAKRASSP  55
+            F+R AAL  +R          F+ST P+              EE  + LN+QRAKR  SP
+Sbjct  22   FSRAAALSSSRRLLFNTARTNFLSTSPLKNVASEMNTKAAIAEE--QILNKQRAKRPISP  79
+
+Query  56   WH--IYQPQLTSISSIANRVTGTGLSVAFYGIFLSHVIAPVFGASVD-----SAALIDAW  108
+             H  IYQPQLT   S  +R++   + + FY      +   +FG S       +   +  W
+Sbjct  80   -HLTIYQPQLTWYLSSLHRISLVLMGLGFY------LFTILFGVSGLLGLGLTTEKVSNW  132
+
+Query  109  TALPSFLQLTTKTAIVGATTY----HTFNGLRHLSWDMGYLLNLKTSYMAGYAVLGATAV  164
+                 F ++T + +I G+  Y    H    +RHL WD    L LK  Y  GYA++G TAV
+Sbjct  133  YH-QKFSKIT-EWSIKGSFAYLFAIHYGGAIRHLIWDTAKELTLKGVYRTGYALIGFTAV  190
+
+
+
+
+
+
+
+		
+
+

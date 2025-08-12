@@ -1,0 +1,89 @@
+#begin change from ubiquinone-6 to ubiquinone-7 utilization
+q7_m	met	create
+q7_m	met	name:ubiquinone-7
+q7_m	met	charge:0
+q7_m	met	formula:C44H66O4
+q7_m	met	annotation:pubchem.compound-5289540
+q7_m	met	annotation:chebi-CHEBI:46448
+q7_m	met	annotation:biocyc-META:UBIQUINONE-7
+q7_m	met	annotation:sbo-SBO:0000247
+
+q7h2_m	met	create
+q7h2_m	met	name:ubiquinol-7
+q7h2_m	met	charge:0
+q7h2_m	met	formula:C44H68O4
+q7h2_m	met	annotation:pubchem.compound-448338
+q7h2_m	met	annotation:chebi-CHEBI:84432
+q7h2_m	met	annotation:biocyc-META:UBIQUINOL-7
+q7h2_m	met	annotation:sbo-SBO:0000247
+
+FECRq6_m	rxn	id:FECRq7_m
+FECRq7_m	rxn	reaction:2.0 ficytC_m + 2.0 h_m + q7h2_m --> 2.0 focytC_m + 4.0 h_c + q7_m
+
+#this reaction is a duplicate of FECRq6_m, and without annotations
+FECR_m	rxn	delete
+
+SUCDq6_m	rxn	id:SUCDq7_m
+SUCDq7_m	rxn	name:succinate dehydrogenase (ubiquinone-7)
+SUCDq7_m	rxn	reaction:q6_m + succ_m <=> fum_m + q6h2_m
+
+DXHPS_m	rxn	id:DXHPSq7_m
+DXHPSq7_m	rxn	reaction:h2o_c + q7_m + spmd_c --> 13dampp_c + 4abutn_c + q7h2_m
+
+NADHq6_c	rxn	id:NADHq7_c
+NADHq7_c	rxn	reaction:h_m + nadh_c + q7_m --> nad_c + q7h2_m
+
+NADHcplxI_c_m	rxn	reaction:5.0 h_m + nadh_m + q7_m --> 4.0 h_c + nad_m + q7h2_m
+
+ETFOXRq6_m	rxn	id:ETFOXRq7_m
+ETFOXRq7_m	rxn	reaction:fadh2_m + q7_m <=> fad_m + h_m + q7h2_m
+
+#end change from ubiquinone-6 to ubiquinone-7 utilization
+
+#begin reaction id updates
+r_0141	rxn	id:ADNUC_c
+r_0333	rxn	id:DURIPP_c
+r_0515	rxn	id:GNNUC_c
+r_0944	rxn	id:PUNP1_c
+r_0945	rxn	id:PUNP1_m
+r_0946	rxn	id:PUNP2_c
+r_0947	rxn	id:PUNP4_c
+r_0948	rxn	id:PUNP6_c
+r_0952	rxn	id:PUNP7_c
+r_1044	rxn	id:TMDPP_c
+r_1117	rxn	id:ASPt2_m
+R00057_c_04	rxn	id:THIOOR_r
+R00057_c_13	rxn	id:THIOOR_n
+R00078_c_02	rxn	id:FE2OOR_en
+R00082_c_11	rxn	id:FEC2OOR_m
+R00086_c_03	rxn	id:ATPASE_c
+R00086_c_13	rxn	id:ATPASE_n
+R00100_c_04	rxn	id:FCYTOB5OXR_r
+R00371_c_03	rxn	id:GLYAT_c
+R00401_c_03	rxn	id:ALAR_c
+R00490_c_03	rxn	id:AALF_c
+R00660_c_13	rxn	id:UAGCVT_n
+R00691_c_03	rxn	id:AROH
+R00997_c_15	rxn	id:ACCAH_x
+R01005_c_03	rxn	id:UDPDOLPT_c
+R01157_c_03	rxn	id:AGMAMH_c
+R01184_c_13	rxn	id:INOSTO_n
+R01206_c_06	rxn	id:CHTNH_e
+R01625_c_03	rxn	id:ACPS1_c
+R01625_c_11	rxn	id:ACPS1_m
+R01883_c_03	rxn	id:GACMTR_c
+R01883_c_13	rxn	id:GACMTR_n
+R01931_c_03	rxn	id:CYANST_c
+R01931_c_11	rxn	id:CYANST_m
+R02059_c_03	rxn	id:ACGAM6PAMH_c
+R02106_c_15	rxn	id:URO_x
+R02144_c_03	rxn	id:SAMCMT_c
+R02144_c_11	rxn	id:SAMCMT_m
+R02382_c_03	rxn	id:TYMR_c
+
+R02613_c_03	rxn	id:PEAMNO_c
+R03139_c_03	rxn	id:PAO_c
+R03341_c_03	rxn	id:4HPPCL_c
+R03352_c_11	rxn	id:3HMPCOAH_m
+
+

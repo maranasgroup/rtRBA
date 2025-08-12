@@ -1,0 +1,23 @@
+Subsystem	Correlation	Number of points
+Cell wall biosynthesis	1.0	n=2
+Glyoxylate metabolism	1.0	n=2
+Histidine metabolism	0.9999999999999765	n=10
+Terpenoid backbone biosynthesis	0.99999999999971	n=9
+Valine, leucine and isoleucine metabolism	0.9999999999976847	n=12
+Pyrimidine metabolism	0.985028466922231	n=14
+Exchange	0.9814734856857663	n=15
+Cysteine and methionine metabolism	0.9478667206864756	n=8
+Pentose phosphate pathway	0.8734791242703898	n=9
+Starch and sucrose metabolism	0.8000127490529184	n=4
+Ergosterol biosynthesis	0.5726315628708818	n=16
+Transport	0.5021616736525921	n=39
+Oxidative phosphorylation	0.4614753414669986	n=5
+Glycine, serine and threonine metabolism	0.4277998539298591	n=15
+Glycolysis / Gluconeogenesis	0.42110853976242946	n=11
+Purine metabolism	0.24977753458474786	n=30
+Acetyl-CoA synthesis	0.11445218850663905	n=3
+Phenylalanine, tyrosine and tryptophan metabolism	0.08697214346685149	n=15
+Arginine and proline metabolism	0.06243649275575954	n=16
+Folate metabolism	0.04855077667827449	n=9
+Citric acid cycle	0.0232558456933213	n=9
+Alanine, aspartate and glutamate metabolism	0.0022840571629812994	n=5

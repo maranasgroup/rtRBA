@@ -1,0 +1,2589 @@
+RID: D4XSJ522013	
+Job Title:YNL065W				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_33893 Length: 587
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Major facilitator superfamily domain-containing protein...        Rhodotorula ... NA              5286       231    231   83%   1e-67 30.44  614        PRQ77528.1       
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    223    223   85%   8e-65 30.21  615        XP_016275553.1   
+MFS transporter [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       207    207   75%   2e-58 29.36  649        GEM08710.1       
+vacuolar DHA amino acid exporter [Rhodotorula toruloides]         Rhodotorula ... NA              5286       139    139   94%   1e-34 24.24  586        GEM10807.1       
+RHTO0S12e02542g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       139    139   88%   1e-34 25.09  668        CDR46298.1       
+Vacuolar DHA amino acid exporter [Rhodotorula toruloides ATCC...  Rhodotorula ... NA              1001064    133    133   77%   7e-33 25.31  587        EGU11169.1       
+Itaconate transport protein [Rhodotorula toruloides]              Rhodotorula ... NA              5286       133    133   83%   1e-32 25.54  659        KAJ8291748.1     
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    131    131   77%   3e-32 25.31  584        XP_016272955.1   
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    132    132   83%   4e-32 26.02  651        XP_016274347.1   
+MFS transporter [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       130    130   83%   6e-32 25.78  600        GEM11038.1       
+Major facilitator superfamily domain-containing protein...        Rhodotorula ... NA              5286       117    117   78%   2e-27 25.55  537        PRQ70777.1       
+MFS antiporter QDR3 [Rhodotorula toruloides]                      Rhodotorula ... NA              5286       96.3   96.3  40%   4e-21 27.50  416        KAJ8291747.1     
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    86.7   86.7  91%   1e-17 21.52  553        XP_016272217.1   
+Efflux pump atB [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       86.3   86.3  91%   1e-17 21.52  553        KAJ8296993.1     
+MFS polyamine transporter [Rhodotorula toruloides]                Rhodotorula ... NA              5286       85.9   85.9  89%   2e-17 22.26  668        GEM10976.1       
+MFS transporter [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       86.3   86.3  64%   3e-17 23.68  1237       GEM07131.1       
+MFS transporter [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       83.2   83.2  66%   2e-16 22.08  555        GEM06256.1       
+putative Caffeine resistance protein [Rhodotorula toruloides...   Rhodotorula ... NA              1001064    81.3   81.3  91%   6e-16 21.05  566        EGU13528.1       
+MFS general substrate transporter [Rhodotorula toruloides]        Rhodotorula ... NA              5286       80.9   80.9  51%   7e-16 24.03  490        PRQ72530.1       
+MFS polyamine transporter [Rhodotorula toruloides]                Rhodotorula ... NA              5286       79.3   79.3  62%   2e-15 22.08  558        GEM10444.1       
+MFS general substrate transporter [Rhodotorula toruloides]        Rhodotorula ... NA              5286       77.4   77.4  86%   9e-15 22.53  547        PRQ70860.1       
+MFS polyamine transporter [Rhodotorula toruloides NP11]           Rhodotorula ... NA              1130832    77.4   77.4  89%   1e-14 21.74  673        XP_016274421.1   
+cycloheximide resistance protein, Mfs transporter [Rhodotorula... Rhodotorula ... NA              5286       76.6   76.6  74%   2e-14 22.32  541        GEM07346.1       
+putative transporter [Rhodotorula toruloides]                     Rhodotorula ... NA              5286       76.6   76.6  73%   4e-14 24.12  2475       KAJ8294896.1     
+Major facilitator superfamily domain-containing protein...        Rhodotorula ... NA              5286       72.0   72.0  64%   4e-13 22.22  494        PRQ76826.1       
+Major facilitator superfamily domain-containing protein...        Rhodotorula ... NA              5286       72.0   72.0  79%   5e-13 22.75  598        PRQ72504.1       
+major facilitator superfamily protein [Rhodotorula toruloides...  Rhodotorula ... NA              1130832    71.2   71.2  64%   9e-13 21.62  496        XP_016275586.1   
+putative transporter [Rhodotorula toruloides]                     Rhodotorula ... NA              5286       71.2   71.2  64%   9e-13 21.62  496        KAJ8297015.1     
+MFS multidrug transporter [Rhodotorula toruloides NP11]           Rhodotorula ... NA              1130832    68.9   68.9  83%   5e-12 21.61  577        XP_016272157.1   
+RHTO0S16e00716g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       68.9   68.9  83%   6e-12 21.61  577        CDR48075.1       
+Major facilitator superfamily domain-containing protein...        Rhodotorula ... NA              5286       68.2   68.2  67%   9e-12 23.04  539        PRQ71449.1       
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    67.8   67.8  67%   1e-11 22.75  539        XP_016274890.1   
+putative MFS-type transporter [Rhodotorula toruloides]            Rhodotorula ... NA              5286       64.7   64.7  31%   1e-10 28.19  517        KAJ8294109.1     
+MFS multidrug transporter [Rhodotorula toruloides]                Rhodotorula ... NA              5286       64.3   64.3  83%   2e-10 20.92  578        GEM07606.1       
+benomyl/methotrexate resistance protein [Rhodotorula toruloides]  Rhodotorula ... NA              5286       63.9   63.9  36%   2e-10 23.61  582        GEM07040.1       
+major facilitator superfamily protein [Rhodotorula toruloides]    Rhodotorula ... NA              5286       62.0   62.0  55%   6e-10 21.59  487        GEM06232.1       
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    60.1   60.1  36%   3e-09 24.26  583        XP_016277207.1   
+MFS multidrug transporter [Rhodotorula toruloides NP11]           Rhodotorula ... NA              1130832    59.7   59.7  28%   4e-09 28.00  575        XP_016270826.1   
+Benomyl/methotrexate resistance protein [Rhodotorula toruloide... Rhodotorula ... NA              1001064    59.7   59.7  36%   4e-09 24.26  583        EGU12715.1       
+major facilitator superfamily protein [Rhodotorula toruloides]    Rhodotorula ... NA              5286       59.3   59.3  35%   5e-09 25.12  565        GEM08581.1       
+MFS transporter [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       59.3   59.3  41%   5e-09 22.71  547        GEM07099.1       
+Efflux pump FUS6 [Rhodotorula toruloides]                         Rhodotorula ... NA              5286       59.3   59.3  28%   6e-09 28.00  575        KAJ8294016.1     
+iron permease [Rhodotorula toruloides]                            Rhodotorula ... NA              5286       58.2   58.2  17%   1e-08 31.43  575        PRQ78223.1       
+major facilitator superfamily protein [Rhodotorula toruloides...  Rhodotorula ... NA              1130832    57.8   57.8  24%   1e-08 26.57  552        XP_016274846.1   
+hypothetical protein RTG_00616 [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    57.0   57.0  24%   3e-08 25.87  552        EGU13090.1       
+putative MFS-type transporter [Rhodotorula toruloides]            Rhodotorula ... NA              5286       56.6   56.6  24%   4e-08 25.87  552        KAJ8294072.1     
+iron permease [Rhodotorula toruloides]                            Rhodotorula ... NA              5286       55.5   55.5  17%   8e-08 30.48  570        PRQ78209.1       
+hypothetical protein RTG_00771 [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    55.5   55.5  17%   8e-08 34.62  593        EGU12757.1       
+Efflux pump FUS6 [Rhodotorula toruloides]                         Rhodotorula ... NA              5286       55.1   55.1  17%   1e-07 34.62  599        KAJ8296709.1     
+major facilitator superfamily protein [Rhodotorula toruloides...  Rhodotorula ... NA              1130832    54.7   54.7  17%   1e-07 34.62  592        XP_016274462.1   
+Efflux pump FUB11 [Rhodotorula toruloides]                        Rhodotorula ... NA              5286       53.5   53.5  36%   4e-07 24.61  604        KAJ8295775.1     
+cycloheximide resistance protein, Mfs transporter [Rhodotorula... Rhodotorula ... NA              1130832    52.0   52.0  74%   1e-06 21.57  545        XP_016270439.1   
+RHTO0S24e01354g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       52.0   52.0  74%   1e-06 21.57  566        CDR49231.1       
+hypothetical protein RTG_00781 [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    50.4   50.4  71%   3e-06 20.48  544        EGU12767.1       
+putative MFS-type transporter [Rhodotorula toruloides]            Rhodotorula ... NA              5286       48.5   48.5  82%   1e-05 20.08  587        KAJ8294718.1     
+RHTO0S01e17964g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       48.5   48.5  28%   1e-05 28.00  588        CDR36270.1       
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    48.1   48.1  71%   1e-05 20.44  544        XP_016274486.1   
+MFS transporter [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    47.4   47.4  86%   3e-05 19.81  529        XP_016273349.1   
+Efflux pump FUS6 [Rhodotorula toruloides]                         Rhodotorula ... NA              5286       47.4   47.4  17%   3e-05 31.73  608        KAJ8294002.1     
+Efflux pump FUS6 [Rhodotorula toruloides]                         Rhodotorula ... NA              5286       47.0   47.0  17%   3e-05 31.43  588        KAJ8294001.1     
+major facilitator superfamily protein [Rhodotorula toruloides...  Rhodotorula ... NA              1130832    47.0   47.0  17%   3e-05 31.73  608        XP_016270812.1   
+MFS multidrug transporter [Rhodotorula toruloides]                Rhodotorula ... NA              5286       47.0   47.0  24%   4e-05 27.21  516        GEM06774.1       
+MFS transporter [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       45.4   45.4  71%   1e-04 20.84  568        GEM12061.1       
+putative glucose transporter rco-3 [Rhodotorula toruloides]       Rhodotorula ... NA              5286       43.1   43.1  44%   5e-04 21.64  548        PRQ76572.1       
+putative MFS-type transporter [Rhodotorula toruloides]            Rhodotorula ... NA              5286       41.6   41.6  71%   0.002 19.29  566        KAJ8296692.1     
+putative MFS-type transporter [Rhodotorula toruloides]            Rhodotorula ... NA              5286       40.0   40.0  25%   0.006 26.09  1216       KAJ8296750.1     
+
+
+Alignments:
+
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ77528.1 Length: 614
+Range 1: 73 to 586
+
+Score:231 bits(588), Expect:1e-67, 
+Method:Compositional matrix adjust., 
+Identities:158/519(30%), Positives:264/519(50%), Gaps:31/519(5%)
+
+Query  65   DSETSSHSSDDKVDPTQQ-ITAETKAP--YTLLSYGQKWGMVAILTMCGFWSSLGSPIYY  121
+            D+  +    +  + P ++ +T  T AP  YT+ S+  +W +V+++ + G +S L + IY+
+Sbjct  73   DNVVAGEEDESGMQPVRRRVTTGTVAPPPYTIHSHRMRWFIVSLVALAGLFSPLSANIYF  132
+
+Query  122  PALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASI  181
+            P +  + +   V    +N++V VY++ QG+SP+  G + D  GRRP  +A  LIY+ A  
+Sbjct  133  PVIPAVAQDLRVSVENINISVTVYMILQGVSPSFFGAICDVLGRRPTYIATFLIYLGACA  192
+
+Query  182  GLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFG  241
+            GLA   +Y +++ LRC+Q+ G +  IAI SG +GD     ERG F+       ++G C G
+Sbjct  193  GLANTHTYWLLLVLRCVQAAGSASVIAIGSGSIGDIAPPSERGLFMSVFGLGPMVGPCIG  252
+
+Query  242  SLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIF  301
+             +IG +L  R+ W+++FWFL        L+  L LPET R++ GN SI P R INR+ + 
+Sbjct  253  PIIGGLLAQRYGWQSLFWFLFAFGAFALLLIILFLPETLRSLVGNGSI-PARGINRS-LV  310
+
+Query  302  LLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLMLSS  361
+             +   R+R +        +D    K      G   V P   L +F    +F   TL  +S
+Sbjct  311  SVWQQRQRQRAGGERAREVDEASLKAKPRKKGWRDVRPFAPLKMFREKDVF--LTLTFNS  368
+
+Query  362  I----------SSGLSV-APYNYHLVIIGVCYLPGGIGGLMGSFFTG-RIIDMY--FKRK  407
+            I          S+G +  + YN +   +G+C++  G+G L  +F  G R+   Y   +R+
+Sbjct  369  ICYTLFYCVTTSTGTTFKSTYNLNETSLGLCFIANGVGCLAATFVNGPRMTHDYKVVQRQ  428
+
+Query  408  IKKFEQDKANGLIPQD--------AEINMFKVRLVCLLPQNFLAVVAY-LLFGWSIDKGW  458
+            +++ +++   G   +         +E  + + RL   +P  F+A++A  +++GW +DKG 
+Sbjct  429  VERKKEENGEGGREKRRRKDQNDLSEFPIERARLRS-MPYFFVALIASTIVYGWVLDKGV  487
+
+Query  459  RIESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKM  518
+             + + LI  F+      S  +  +TLLVDLYP +S++A++  N  RC       G    +
+Sbjct  488  HLSAPLIMQFIIGLSVTSIFNAVSTLLVDLYPGQSASATAANNLYRCICGAAGTGFIEPL  547
+
+Query  519  KAAMTVGGTFTFLCALVFFFNFLMFIPMKYGMKWREDRL  557
+               +  G  FT L  +   F  LM +  +YGMKWR  R 
+Sbjct  548  LNRLGAGWGFTMLSLINVCFVPLMILEWRYGMKWRLQRF  586
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275553.1 Length: 615
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS24434.1 Length: 615
+>RHTO0S01e14686g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36120.1 Length: 615 
+Range 1: 60 to 587
+
+Score:223 bits(569), Expect:8e-65, 
+Method:Compositional matrix adjust., 
+Identities:161/533(30%), Positives:267/533(50%), Gaps:38/533(7%)
+
+Query  58   REIEGDLDSETSS-------HSSDDKVDPTQQ-ITAETKAP--YTLLSYGQKWGMVAILT  107
+            R +EG+L+ +  S          D  + P ++ +T  T AP  YT+ S+  +W +V+++ 
+Sbjct  60   RALEGNLEGKGESKNVVAGDEDEDSGMQPVRRRVTTGTVAPPPYTIHSHRMRWFVVSLVA  119
+
+Query  108  MCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRP  167
+            + G +S L + IY+P +  + +   V    +N++V VY++ QG+SP+  G + D  GRRP
+Sbjct  120  LAGLFSPLSANIYFPVIPAVAQDLRVSVENINISVTVYMILQGVSPSFFGAICDVLGRRP  179
+
+Query  168  IILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFV  227
+              +A  LIY+ A  GLA   +Y +++ LRC+Q+ G +  IAI SG +GD     ERG F+
+Sbjct  180  TYIATFLIYLGACAGLANTHTYWLLLVLRCVQAAGSASVIAIGSGSIGDVAPPSERGLFM  239
+
+Query  228  GATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNL  287
+                   ++G C G +IG +L  R+ W+++FWFL        L+  L LPET R++ GN 
+Sbjct  240  SVFGLGPMVGPCIGPIIGGLLAQRYGWQSLFWFLFAFGAFALLLIILFLPETLRSLVGNG  299
+
+Query  288  SIKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFP  347
+            SI P R INR+ + +    +RR +    +   +D    K   +  G   V P   L +F 
+Sbjct  300  SI-PARGINRSLVSVWQQRQRRRQMG--EGSEVDEASLKAKPAKKGWRDVRPWAPLKMFR  356
+
+Query  348  SGLLFAMWTLMLSSI----------SSGLSV-APYNYHLVIIGVCYLPGGIGGLMGSFFT  396
+               +F   TL  +SI          S+G +  + YN +   +G+C++  G+G L  +F  
+Sbjct  357  EKDVFL--TLTFNSICYTLFYCVTTSTGTTFKSTYNLNETSLGLCFIANGVGCLAATFVN  414
+
+Query  397  GRIIDMYFKRKIKKFEQDK---------ANGLIPQDAEINMFKVRLVCL--LPQNFLAVV  445
+            G  +   +K   ++ E+ K         A        +++ F +    L  +P  F+A++
+Sbjct  415  GPRLTHDYKVVQRQVERRKEVEGRGEERARRRRKDQNDLSDFPIERARLRSMPYFFVALI  474
+
+Query  446  A-YLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVR  504
+            A  +++GW +DKG  + + L+  F+      S  +  +TLLVDLYP +S++A++  N  R
+Sbjct  475  ASTIVYGWVLDKGVHLSAPLVMQFIIGLSVTSIFNAVSTLLVDLYPGQSASATAANNLYR  534
+
+Query  505  CSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMFIPMKYGMKWREDRL  557
+            C       G    +   +  G  FT L  +   F  LM +  +YGMKWR  R 
+Sbjct  535  CICGAAGTGFIEPLLNRLGAGWGFTMLSLINVCFVPLMILEWRYGMKWRLQRF  587
+
+
+
+
+>MFS transporter [Rhodotorula toruloides]
+Sequence ID: GEM08710.1 Length: 649
+Range 1: 61 to 527
+
+Score:207 bits(526), Expect:2e-58, 
+Method:Compositional matrix adjust., 
+Identities:138/470(29%), Positives:243/470(51%), Gaps:32/470(6%)
+
+Query  65   DSETSS-----HSSDDKVDPTQ-QITAETKAP--YTLLSYGQKWGMVAILTMCGFWSSLG  116
+            D ET +        D  + P + ++T  T AP  YT+ S   +W +V+++ + G +S L 
+Sbjct  61   DCETGNVVARLQDEDGGMQPVKRKVTTGTVAPPPYTIHSRRMRWFIVSLVALAGLFSPLS  120
+
+Query  117  SPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIY  176
+            + IY+P +  + +   V    +N++V VY++ QG+SP+  G + D  GRRP  +A  L+Y
+Sbjct  121  ANIYFPVIPAVAQDLRVSVENINISVTVYMILQGVSPSFFGAICDVLGRRPTYIATFLVY  180
+
+Query  177  VIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLL  236
+            + A  GLA   +Y +++ LRC+Q+ G +  IAI SG +GD     ERG  +       ++
+Sbjct  181  LGACAGLANTHTYWLLLVLRCVQAAGSASVIAIGSGSIGDIAPPSERGLLMSVFGLGPMV  240
+
+Query  237  GQCFGSLIGAVLTARWDWRAIFWFL-TIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFI  295
+            G C G +IG +L  R+ W+++FWFL   G  +  LI  L LPET R++ GN SI P R I
+Sbjct  241  GPCIGPIIGGLLAQRYGWQSLFWFLFAFGVFALSLI-ILFLPETLRSLVGNGSI-PARGI  298
+
+Query  296  NRAPIFL-----LGPVRRRFKYDNPDYETLDPTIPKLDLS--SAGKILVLPEIILSLFPS  348
+            NR+ + +         +  F+ D        P     D+   +  K+ +  ++ L+L  +
+Sbjct  299  NRSLVSVWQQRQRRRRQEGFEVDEASLRDKPPRKGWRDVRPFAPFKMFLEKDVFLTLTFN  358
+
+Query  349  GLLFAMWTLMLSSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTG-------RIID  401
+             + + ++  + +S  +    A Y+ +   +G+C++  G+G L  +F  G       R++ 
+Sbjct  359  SVCYTLFYCVTTSTGTTFK-ATYHLNETELGLCFIANGVGCLAATFVNGPRMTHDYRVVQ  417
+
+Query  402  MYFKRKIKKF---EQDKANGLIPQDAEINMFKVRLVCL--LPQNFLA-VVAYLLFGWSID  455
+               +RK ++      D+A        +++ F +    L  +P  F+A V++ +++GW +D
+Sbjct  418  RQMERKREQAGAERVDQAKRRRKDQNDLSDFPIERARLRSMPYFFVALVLSTIVYGWVLD  477
+
+Query  456  KGWRIESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRC  505
+            KG  + + LI  F+      S  +  +TLLVDLYP +S++A++  N  RC
+Sbjct  478  KGVHLSAPLIMQFIIGLSVTSIFNAVSTLLVDLYPGQSASATAANNLYRC  527
+
+
+
+
+>vacuolar DHA amino acid exporter [Rhodotorula toruloides]
+Sequence ID: GEM10807.1 Length: 586
+Range 1: 9 to 557
+
+Score:139 bits(349), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:143/590(24%), Positives:250/590(42%), Gaps:79/590(13%)
+
+Query  2    SRSNSIYTEDIEMYPTHNEQHL----TREYTKPDGQTK-SEKLNFEGAYINSHGTLSKTT  56
+            S +N    E+I   PT     +        + PD  +   E+   E     +  T+ +  
+Sbjct  9    SPANPSAREEISAPPTSTADDVLALKDEAASLPDQSSAVEERAGHEADAETAASTVCEQA  68
+
+Query  57   TREIEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLG  116
+              E +G L  +      DD  DP Q   A            +K  ++A +       ++ 
+Sbjct  69   DHEPDGGLALDVEHVPVDD--DPRQWPRA------------RKIAVLATIAFTAMGGTIS  114
+
+Query  117  SPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIY  176
+            + +++PAL  L+++   ++ +V  +V  ++  QG+ P +   L++  GR+   +  ++IY
+Sbjct  115  ASVFFPALGSLQQELKANDALVAASVSSFIAGQGVFPLLWSSLSEVTGRKKCYIVALVIY  174
+
+Query  177  VIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLL  236
+            V+ S+  + + S GV I +R +QS+G S  +++ +G + D    HERG  +G      LL
+Sbjct  175  VVGSVVCSRSSSIGVFIAMRVLQSLGSSAVLSLGAGTLADMYDTHERGEKLGVYYSVPLL  234
+
+Query  237  GQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPET-----------------  279
+            G   G ++G  +T+  DWRA F+FL    G C+L+A L LP+T                 
+Sbjct  235  GPALGPIVGGAVTSASDWRAAFYFLVAYGGVCWLLA-LWLPDTFRHQRSLAWRKAYERAQ  293
+
+Query  280  -----KRTIAGNLSIKPKRFINRAPIFLLG----------PVRRRFKYDNPDYETLDPTI  324
+                 KR  A ++  KP      +P+  +G           V+ RF+  NP         
+Sbjct  294  QQVREKRAKARSVLSKPTSTSAFSPLKKIGTALSAKSGDVKVKIRFRDINP---------  344
+
+Query  325  PKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLMLSSISSGLSVAPYNYHLVIIGVCYLP  384
+                +++AG +L  P  +L L  SGL+F     M  + S   +  PYN   + +G+  L 
+Sbjct  345  ----MAAAGAVLREPANVLILTYSGLIFGSQYCMTYTASRTFAAPPYNCTPIKVGLVLLA  400
+
+Query  385  GGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKV-RLVCLLPQNFLA  443
+             GIG ++GS   GR  D Y  RK+K  E++   G    + E+ +      +  LP  F+A
+Sbjct  401  FGIGNVVGSVGGGRYSD-YVLRKMK--ERNGGKG----EPEMRIKSTYPALAFLPPLFVA  453
+
+Query  444  VVAYLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFV  503
+                  + W++     I   ++  F      M   +++   +VD  P +SS+A +C +  
+Sbjct  454  ------YAWTVYYKVHIAGPIVVLFFLGATLMIIYASTLAYIVDANPGRSSSAVACNSLF  507
+
+Query  504  RCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMFIPMKYGMKWR  553
+            R  L+         + A +  G  ++    L+      + I    G  WR
+Sbjct  508  RGVLACAASQAAEPIMARVGHGAFYSGWGVLLLLGEAALVIVAIKGKIWR  557
+
+
+
+
+>RHTO0S12e02542g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46298.1 Length: 668
+Range 1: 88 to 606
+
+Score:139 bits(351), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:138/550(25%), Positives:243/550(44%), Gaps:59/550(10%)
+
+Query  32   GQTKSEKLNFEGAYINSHGTLSKTTTREIEGDLDSETSSHSSDDKVDPTQQITAETKAPY  91
+            G+ +S  +          G + + +  ++   +D E +    D+ V+ T++        Y
+Sbjct  88   GRGRSRSMRAPVVVGGKEGRIEEDSEAQV---VDEEVAVGEHDEAVEETEE---HANRMY  141
+
+Query  92   TLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGI  151
+               S  +K  +V I+      +   S  + P++ Q+ +  +    ++NVTV +++L  GI
+Sbjct  142  ARFSPRRKRAIVGIVAYAALLAPFSSSSFLPSIPQITEDLHTSTTVINVTVAIFILCIGI  201
+
+Query  152  SPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISS  211
+             P V    +  +GR+PI +  + I+ +  +G A + S   +I  R IQ++G SP +++ +
+Sbjct  202  FPLVWAPYSGIYGRKPIYVISLPIFALGCLGTALSKSLSALIVTRIIQALGSSPVLSVGA  261
+
+Query  212  GVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTA-----RWDWRAIFWFLTIGCG  266
+            G +GD   KHERGT +G     +L+G      I  +LT       + WRA+ +FL     
+Sbjct  262  GTIGDLYPKHERGTAMGLFYLGILVGPATAPAIAGILTEYVKPYGFGWRAMQYFLMSLGF  321
+
+Query  267  SCFLIAFLILPETKRTIAGNLSIKPKRFINRAP----------------IFLLGPVRRRF  310
+            S F +  L  PET     G   ++ +R   RA                    +G VRR  
+Sbjct  322  SAFALVLLCFPETAHA-KGIDVVRQERLQERAEKEGVEFEVLEKEEERRRAEMGWVRR--  378
+
+Query  311  KYDNPDYETLDPTIPKLDLSSAGKILVLPEI-ILSLFPSGLLFAMWTLMLSSISSGLSVA  369
+            ++D   +  L+P  P        ++L+ P I  +SL  S  L + +T++   +    ++A
+Sbjct  379  QWDGVAWVWLNPLAPL-------RLLLHPNIAAMSLNSSFTLMSTYTIL---VPLSQTLA  428
+
+Query  370  P-YNY-HLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEIN  427
+            P YN  +  I+G  YL  G+G    S +TGR  D   KR +K+    +    +P+D    
+Sbjct  429  PRYNITNAAILGCFYLAQGVGNATASRYTGRYADWTLKRWLKR----RGGVYVPED----  480
+
+Query  428  MFKVRL-VCLLPQNFLAVVAYLLFGWSIDKGW---RIESILITSFVCSYCAMSTLSTSTT  483
+                RL   L+    +   + L  GW +DKG     +   +I  F+     M  L+ S T
+Sbjct  481  ----RLYAALIGGGVILPFSVLALGWVLDKGTGKVGLAFAVILLFIDGIGLMCVLTPSNT  536
+
+Query  484  LLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMF  543
+              VD+ P +SS   +  N  R  ++         M  A+ VG T TF   +V+    ++ 
+Sbjct  537  YCVDVMPLRSSEVIAVNNACRYIVAAAASAFVLPMINAIGVGWTNTFAAFVVWLGCGMVL  596
+
+Query  544  IPMKYGMKWR  553
+            + +++G + R
+Sbjct  597  LTIRFGPQMR  606
+
+
+
+
+>Vacuolar DHA amino acid exporter [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11169.1 Length: 587
+>vacuolar DHA amino acid exporter [Rhodotorula toruloides]
+Sequence ID: PRQ72145.1 Length: 587 
+Range 1: 96 to 558
+
+Score:133 bits(335), Expect:7e-33, 
+Method:Compositional matrix adjust., 
+Identities:124/490(25%), Positives:221/490(45%), Gaps:60/490(12%)
+
+Query  97   GQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVS  156
+             +K  ++A +       ++ + +++PAL  L+++   ++ +V  +V  ++  QG+ P + 
+Sbjct  96   ARKTAVLATIAFTAMGGTISASVFFPALGSLQQELRANDPLVAASVSSFIAGQGVFPLLW  155
+
+Query  157  GGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGD  216
+              L++  GR+   +  ++IYV+ S+  + + S GV I +R +QS+G S  +++ +G + D
+Sbjct  156  SSLSEVTGRKKCYIVALVIYVVGSVVCSRSNSIGVFIAMRVLQSLGSSAVLSLGAGTLAD  215
+
+Query  217  FTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLIL  276
+                HERG  +G      LLG   G ++G  +T+  DWRA F+FL    G C+L+A L L
+Sbjct  216  MYDTHERGEKLGVYYSVPLLGPALGPIVGGAVTSASDWRAAFYFLVAYGGVCWLLA-LWL  274
+
+Query  277  PET----------------------KRTIAGNLSIKPKRFINRAPIFLLG----------  304
+            P+T                      KR  A ++  KP      +P+  +G          
+Sbjct  275  PDTFRHQRSLAWRKAYERAQQQAREKRAKARSVLPKPASTSAFSPLKKIGTALSAKSGDV  334
+
+Query  305  PVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLMLSSISS  364
+             V+ RF+  NP             +++AG +L  P  +L L  SGL+F     M  + S 
+Sbjct  335  KVKIRFRDINP-------------MAAAGAVLREPANVLILTYSGLIFGSQYCMTYTASR  381
+
+Query  365  GLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDA  424
+              + APYN   + +G+  L  GIG ++GS   GR  D Y  RK+K  E++   G    + 
+Sbjct  382  TFAAAPYNCTPIQVGLVLLAFGIGNVVGSVGGGRYSD-YVLRKMK--ERNGGKG----EP  434
+
+Query  425  EINMFKV-RLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTSTT  483
+            E+ +      +  LP  F+A      + W++     I   ++  F      M   +++  
+Sbjct  435  EMRIKSTYPALAFLPPLFVA------YAWTVYYKVHIAGPIVVLFFLGATLMIIYASTLA  488
+
+Query  484  LLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMF  543
+             +VD  P +SS+A +C +  R +L+         + A +  G  ++    L+      + 
+Sbjct  489  YIVDANPGRSSSAVACNSLFRGALACAASQAAEPIMARVGHGAFYSGWGVLLLLGEAALV  548
+
+Query  544  IPMKYGMKWR  553
+            I    G  WR
+Sbjct  549  IVAIKGKSWR  558
+
+
+
+
+>Itaconate transport protein [Rhodotorula toruloides]
+Sequence ID: KAJ8291748.1 Length: 659
+Range 1: 116 to 593
+
+Score:133 bits(335), Expect:1e-32, 
+Method:Compositional matrix adjust., 
+Identities:131/513(26%), Positives:227/513(44%), Gaps:58/513(11%)
+
+Query  64   LDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPA  123
+            +D E +    D+ V+ T++        Y   S  +K  +V I+      +   S  + P+
+Sbjct  116  VDEEVAVGEHDEAVEETEE---HANRMYARFSPRRKRAIVGIVAYAALLAPFSSSSFLPS  172
+
+Query  124  LRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGL  183
+            + Q+ +  +    ++NVTV +++L  GI P V    +  +GR+PI +  + I+ +  +G 
+Sbjct  173  IPQITEDLHTSATVINVTVAIFILCIGIFPLVWAPYSGIYGRKPIYVISLPIFALGCLGT  232
+
+Query  184  ACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSL  243
+            A + S   +I  R IQ++G SP +++ +G +GD   KHERGT +G     +L+G      
+Sbjct  233  ALSKSLSALIVTRIIQALGSSPVLSVGAGTIGDLYPKHERGTAMGLFYLGILVGPATAPA  292
+
+Query  244  IGAVLTA-----RWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRA  298
+            I  +LT       + WRA+ + L     S F +  L  PET     G   ++ +R   RA
+Sbjct  293  IAGILTEYVKPYGFGWRAMQYLLMSLGFSAFALVLLCFPETAHA-KGIDVVRQERLQERA  351
+
+Query  299  -------PIFLLGPVRRRF-------KYDNPDYETLDPTIPKLDLSSAGKILVLPEI-IL  343
+                    +      RRR        ++    +  L+P  P        ++L+ P I  +
+Sbjct  352  EKEGVEVEVLEKDEERRRAEMRWLRRQWAGVAWVWLNPLAPL-------RLLLHPNIAAM  404
+
+Query  344  SLFPSGLLFAMWTLMLSSISSGLSVAP-YNY-HLVIIGVCYLPGGIGGLMGSFFTGRIID  401
+            SL  S  L + +T++   +    ++AP YN  +  I+G  YL  G+G    S +TGR  D
+Sbjct  405  SLNSSFTLMSTYTIL---VPLSQTLAPRYNITNAAILGCFYLAQGVGNATASRYTGRYAD  461
+
+Query  402  MYFKRKIKKFEQDKANGLIPQDAEINMFKVRL-VCLLPQNFLAVVAYLLFGWSIDKGWRI  460
+               KR +K+    +    +P+D        RL   L+    +   + L  GW +DKG   
+Sbjct  462  WTLKRWLKR----RGGVYVPED--------RLYAALIGGGVILPCSVLALGWVLDKG---  506
+
+Query  461  ESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKA  520
+               +  +F C       L+ S T  VD+ P +SS   +  N  R  ++         M  
+Sbjct  507  TGKVGLAFAC------VLTPSNTYCVDVMPLRSSEVIAVNNACRYIVAAAASAFVLPMIN  560
+
+Query  521  AMTVGGTFTFLCALVFFFNFLMFIPMKYGMKWR  553
+            A+ VG T TF   +V+    ++ + +++G + R
+Sbjct  561  AIGVGWTNTFAAIVVWLGCGMVLLTIRFGPQMR  593
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272955.1 Length: 584
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS21836.1 Length: 584
+>RHTO0S01e04588g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR35674.1 Length: 584 
+Range 1: 93 to 555
+
+Score:131 bits(330), Expect:3e-32, 
+Method:Compositional matrix adjust., 
+Identities:124/490(25%), Positives:220/490(44%), Gaps:60/490(12%)
+
+Query  97   GQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVS  156
+             +K  ++A +       ++ + +++PAL  L+++   ++ +V  +V  ++  QG+ P + 
+Sbjct  93   ARKTAVLATIAFTAMGGTISASVFFPALGSLQQELKANDALVAASVSSFIAGQGVFPLLW  152
+
+Query  157  GGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGD  216
+              L++  GR+   +  ++IYV+ S+  + + S GV I +R +QS+G S  +++ +G + D
+Sbjct  153  SSLSEVTGRKKCYIVALVIYVVGSVVCSRSNSIGVFIAMRVLQSLGSSAVLSLGAGTLAD  212
+
+Query  217  FTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLIL  276
+                HERG  +G      LLG   G ++G  +T+  DWRA F+FL    G C+L+A L L
+Sbjct  213  MYDTHERGEKLGVYYSVPLLGPALGPIVGGAVTSASDWRAAFYFLVAYGGVCWLLA-LWL  271
+
+Query  277  PET----------------------KRTIAGNLSIKPKRFINRAPIFLLG----------  304
+            P+T                      KR  A ++  KP      +P+  +G          
+Sbjct  272  PDTFRHQRSLAWRKAYERAQQQAREKRAKAPSVLPKPASTSAFSPLKKIGTALSAKSGDV  331
+
+Query  305  PVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLMLSSISS  364
+             V+ RF+  NP             +++AG +L  P  +L L  SGL+F     M  + S 
+Sbjct  332  KVKIRFRDINP-------------MAAAGAVLREPANVLILTYSGLIFGSQYCMTYTASR  378
+
+Query  365  GLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDA  424
+              + APYN   + +G+  L  GIG ++GS   GR  D Y  RK+K  E++   G    + 
+Sbjct  379  TFAAAPYNCTPIQVGLVLLAFGIGNVVGSVGGGRYSD-YVLRKMK--ERNGGKG----EP  431
+
+Query  425  EINMFKV-RLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTSTT  483
+            E+ +      +  LP  F+A      + W++     I   +   F      M   +++  
+Sbjct  432  EMRIKSTYPALAFLPPLFVA------YAWTVYYQVHIAGPIGVLFFLGATLMIIYASTLA  485
+
+Query  484  LLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMF  543
+             +VD  P +SS+A +C +  R +L+         + A +  G  ++    L+      + 
+Sbjct  486  YIVDANPGRSSSAVACNSLFRGALACAASQAAEPIMARVGHGAFYSGWGVLLLLGEAALV  545
+
+Query  544  IPMKYGMKWR  553
+            I    G  WR
+Sbjct  546  IVAIKGKSWR  555
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274347.1 Length: 651
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS23228.1 Length: 651 
+Range 1: 117 to 589
+
+Score:132 bits(331), Expect:4e-32, 
+Method:Compositional matrix adjust., 
+Identities:134/515(26%), Positives:229/515(44%), Gaps:67/515(13%)
+
+Query  64   LDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPA  123
+            +D E +    D+ V+ T++        Y   S  +K  +V I+      +   S  + P+
+Sbjct  117  VDEEVAVGEHDEAVEETEE---HANRMYARFSPRRKRAIVGIVAYAALLAPFSSSSFLPS  173
+
+Query  124  LRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGL  183
+            + Q+ +  +    ++NVTV +++L  GI P V    +  +GR+PI +  + I+ +  +G 
+Sbjct  174  IPQITEDLHTSTTVINVTVAIFILCIGIFPLVWAPYSGIYGRKPIYVISLPIFALGCLGT  233
+
+Query  184  ACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSL  243
+            A + S   +I  R IQ++G SP +++ +G +GD   KHERGT +G     +L+G      
+Sbjct  234  ALSKSLSALIVTRIIQALGSSPVLSVGAGTIGDLYPKHERGTAMGLFYLGILVGPATAPA  293
+
+Query  244  IGAVLTA-----RWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRA  298
+            I  +LT       + WRA+ +FL     S F +  L  PET     G   ++ +R   RA
+Sbjct  294  IAGILTEYVKPYGFGWRAMQYFLMSLGFSAFALVLLCFPETAHA-KGIDVVRQERLQERA  352
+
+Query  299  P----------------IFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEI-  341
+                                +G VRR  ++D   +  L+P  P        ++L+ P I 
+Sbjct  353  EKEGVEFEVLEKEEERRRAEMGWVRR--QWDGVAWVWLNPLAPL-------RLLLHPNIA  403
+
+Query  342  ILSLFPSGLLFAMWTLMLSSISSGLSVAP-YNY-HLVIIGVCYLPGGIGGLMGSFFTGRI  399
+             +SL  S  L + +T++   +    ++AP YN  +  I+G  YL  G+G    S +TGR 
+Sbjct  404  AMSLNSSFTLMSTYTIL---VPLSQTLAPRYNITNAAILGCFYLAQGVGNATASRYTGRY  460
+
+Query  400  IDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRL-VCLLPQNFLAVVAYLLFGWSIDKGW  458
+             D   KR +K+    +    +P+D        RL   L+    +   + L  GW +DKG 
+Sbjct  461  ADWTLKRWLKR----RGGVYVPED--------RLYAALIGGGVILPFSVLALGWVLDKG-  507
+
+Query  459  RIESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKM  518
+                 +  +F C       L+ S T  VD+ P +SS   +  N  R       +   A  
+Sbjct  508  --TGKVGLAFAC------VLTPSNTYCVDVMPLRSSEVIAVNNACR-----YIVAAAASA  554
+
+Query  519  KAAMTVGGTFTFLCALVFFFNFLMFIPMKYGMKWR  553
+              A+ VG T TF   +V+    ++ + +++G + R
+Sbjct  555  FNAIGVGWTNTFAAFVVWLGCGMVLLTIRFGPQMR  589
+
+
+
+
+>MFS transporter [Rhodotorula toruloides]
+Sequence ID: GEM11038.1 Length: 600
+Range 1: 11 to 534
+
+Score:130 bits(328), Expect:6e-32, 
+Method:Compositional matrix adjust., 
+Identities:140/543(26%), Positives:241/543(44%), Gaps:69/543(12%)
+
+Query  61   EGDLDSETSSHSSDDKVDPTQQITA--ETKAP----YTLLSYGQKWGMVAILTMCGFWSS  114
+            EG ++ ++ +   D++V   +Q  A  ET+      Y   S  +K  +V I+      + 
+Sbjct  11   EGRIEEDSEAQVVDEEVAVGEQGEAVEETEEHANRMYARFSPRRKRAIVGIVAYAALLAP  70
+
+Query  115  LGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGML  174
+              S  + P++ Q+ +  +    ++NVTV +++L  GI P V    +  +GR+PI +  + 
+Sbjct  71   FSSSSFLPSIPQITEDLHTSATIINVTVAIFILCIGIFPLVWAPYSGIYGRKPIYVISLP  130
+
+Query  175  IYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFV  234
+            I+ +  +G A + S   +I  R IQ++G SP +++ +G +GD   KHERGT +G     +
+Sbjct  131  IFALGCLGTALSKSLAALIVTRIIQALGSSPVLSVGAGTIGDLYPKHERGTAMGLFYLGI  190
+
+Query  235  LLGQCFGSLIGAVLTAR-----WDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSI  289
+            L+G      I  +LT       + WRA+ + L     S F +     PET     G   +
+Sbjct  191  LVGPATAPAIAGILTEYVKPYGFGWRAMQYLLMSLGFSAFALVLFCFPETAHA-KGIDVV  249
+
+Query  290  KPKRFINRAPI----------------FLLGPVRRRFK-----YDNPDYE---TLDPTIP  325
+            + +R   R+                    +G VRR++      + NP       L P I 
+Sbjct  250  RQERLQERSEKEGVKVDALEKDEERRRAEMGWVRRQWDRLAWVWLNPLAPLRLLLHPNIA  309
+
+Query  326  KLDLSSAGKILVLPEIILSLFP---SGLL------FAMWTLMLSSISSGLSVAP-YNY-H  374
+             + L+S+  ++       S FP   S L+      FA++  +L  +S   ++AP YN  +
+Sbjct  310  AMSLNSSFTLMS----TYSEFPRLRSTLIKRLTSSFALFAAILVPLSQ--TLAPRYNITN  363
+
+Query  375  LVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRL-  433
+              I+G  YL  G+G    S +TGR  D   KR +K+    +    +P+D        RL 
+Sbjct  364  AAILGCFYLAQGVGNATASRYTGRYADWTLKRWLKR----RGGVYVPED--------RLY  411
+
+Query  434  VCLLPQNFLAVVAYLLFGWSIDKGW---RIESILITSFVCSYCAMSTLSTSTTLLVDLYP  490
+              LL   F+   + L  GW +DKG     +   ++  F+     M  L+ S T  VD+ P
+Sbjct  412  AALLGGGFILPCSVLALGWVLDKGTGKVGLAFAVVLLFIDGIGLMCVLTPSNTYCVDVMP  471
+
+Query  491  TKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMFIPMKYGM  550
+             +SS   +  N  R  ++         M  A+ VG T TF   +V+    ++ + +++G 
+Sbjct  472  LRSSEVIAVNNACRYIVAAAASAFVLPMINAIGVGWTNTFAAFVVWLGCGMVLLTIRFGP  531
+
+Query  551  KWR  553
+            + R
+Sbjct  532  QMR  534
+
+
+
+
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ70777.1 Length: 537
+Range 1: 2 to 475
+
+Score:117 bits(292), Expect:2e-27, 
+Method:Compositional matrix adjust., 
+Identities:127/497(26%), Positives:220/497(44%), Gaps:57/497(11%)
+
+Query  91   YTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQG  150
+            Y   S  +K  +V I+      +   S  + P++ Q+ +  +    ++NVTV +++L  G
+Sbjct  2    YARFSPRRKRAIVGIVAYAALLAPFSSSSFLPSIPQITEDLHTSAFVINVTVAIFILCIG  61
+
+Query  151  ISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAIS  210
+            I P V    +  +GR+PI +  + I+ +  +G A + S   +I  R IQ++G SP +++ 
+Sbjct  62   IFPLVWAPYSGIYGRKPIYVISLPIFALGCLGTALSKSLSALIVTRIIQALGSSPVLSVG  121
+
+Query  211  SGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTAR-----WDWRAIFWFLTIGC  265
+            +G +GD   KHERGT +G     +L+G      I  +LT       + WRA+ + L    
+Sbjct  122  AGTIGDLYPKHERGTAMGLFYLGILVGPATAPAIAGILTEYVKPYGFGWRAMQYLLMSLG  181
+
+Query  266  GSCFLIAFLILPETKRTIAGNLSIKPKRFINRAP---IFLLGPVRR-----------RFK  311
+             S F +  +  PET     G   ++ +R   RA    + + G  +            R +
+Sbjct  182  FSAFALVLICFPETAHA-KGIDVVRQERLQERAEKEGVEVEGLEKEEQRKRAEMRWARRQ  240
+
+Query  312  YDNPDYETLDPTIPKLDLSSAGKILVLPEI-ILSLFPSGLLFAMWTLMLSSISSGLSVAP  370
+            ++   +  L+P  P        ++L+ P I  +SL  S  L + +T++   +    ++AP
+Sbjct  241  WEGIAWVWLNPLAPL-------RLLLHPNIAAMSLNSSFTLMSTYTIL---VPLSQTLAP  290
+
+Query  371  -YNY-HLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINM  428
+             YN  +  I+G  YL  G+G    S +TGR  D   KR +K+    +    +P+D     
+Sbjct  291  RYNITNAAILGCFYLAQGVGNATASRYTGRYADWTLKRWLKR----RGGVYVPED-----  341
+
+Query  429  FKVRL-VCLLPQNFLAVVAYLLFGWSIDKGW---RIESILITSFVCSYCAMSTLSTSTTL  484
+               RL   L+    +   + L  GW +DKG     +   +I  F+     M  L+ S T 
+Sbjct  342  ---RLYAALIGGGVILPCSVLALGWVLDKGTGKVGLAFAVILLFIDGIGLMCVLTPSNTY  398
+
+Query  485  LVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAK--------MKAAMTVGGTFTFLCALVF  536
+             VD+ P +SS   +    V   L T      A         M  A+ VG T TF   +V+
+Sbjct  399  CVDVMPLRSSEVIAVNKRVLSRLQTACRYIVAAAASAFVLPMINAIGVGWTNTFAAFVVW  458
+
+Query  537  FFNFLMFIPMKYGMKWR  553
+                ++ + +++G + R
+Sbjct  459  LGCGMVLLTIRFGPQMR  475
+
+
+
+
+>MFS antiporter QDR3 [Rhodotorula toruloides]
+Sequence ID: KAJ8291747.1 Length: 416
+Range 1: 116 to 351
+
+Score:96.3 bits(238), Expect:4e-21, 
+Method:Compositional matrix adjust., 
+Identities:66/240(28%), Positives:115/240(47%), Gaps:9/240(3%)
+
+Query  64   LDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPA  123
+            +D E +    D+ V+ T++        Y   S  +K  +V I+      +   S  + P+
+Sbjct  116  VDEEVAVGEHDEAVEETEE---HANRMYARFSPRRKRAIVGIVAYAALLAPFSSSSFLPS  172
+
+Query  124  LRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGL  183
+            + Q+ +  +    ++NVTV +++L  GI P V    +  +GR+PI +  + I+ +  +G 
+Sbjct  173  IPQITEDLHTSATVINVTVAIFILCIGIFPLVWAPYSGIYGRKPIYVISLPIFALGCLGT  232
+
+Query  184  ACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSL  243
+            A + S   +I  R IQ++G SP +++ +G +GD   KHERGT +G     +L+G      
+Sbjct  233  ALSKSLSALIVTRIIQALGSSPVLSVGAGTIGDLYPKHERGTAMGLFYLGILVGPATAPA  292
+
+Query  244  IGAVLTAR-----WDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRA  298
+            I  +LT       + WRA+ + L     S F +  L  PET     G   ++ +R   RA
+Sbjct  293  IAGILTEYVKPYGFGWRAMQYLLMSLGFSAFALVLLCFPETAHA-KGIDVVRQERLQERA  351
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272217.1 Length: 553
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS21098.1 Length: 553
+>RHTO0S04e04852g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR39410.1 Length: 553 
+Range 1: 14 to 544
+
+Score:86.7 bits(213), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:122/567(22%), Positives:222/567(39%), Gaps:65/567(11%)
+
+Query  17   THNEQHLTREYTKPDGQTKSEKLNFEGAYINSHGTLSKTTTREI---EGDLDSETSSHSS  73
+            T  E   +RE  K   + ++         +   G    +  R++   EG   + T++ ++
+Sbjct  14   TRIEASGSREKEKDTARGEAGAPGPTLEDVEKQGGKEASGRRDVLPSEGKEAAGTANGTA  73
+
+Query  74   DDKVDPTQQITAETKAPYTLL------------SYGQKWGMVAILTMCGFWSSLGSPIYY  121
+              +      +  E   P   L            S  +KW +V+I+T   F  +  S +  
+Sbjct  74   TPQERDEDGVAIENGVPIVRLRGPDDPLSPLNFSKARKWLIVSIVTSGAFCITCCSSMIA  133
+
+Query  122  PALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASI  181
+                 +E++F+V   +  + + +++L  GI P + G L++ +GR P+   G  +Y+  + 
+Sbjct  134  FTYPGVEREFHVSAEVATLGLSLFVLGMGIFPLLVGPLSEWYGRSPVYFVGFAVYIAFNF  193
+
+Query  182  GLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFG  241
+            G+A A +   ++  R +     S  ++++ G V D     E G  + A +    LG   G
+Sbjct  194  GVAFANNIATLLICRFLSGAFASSFLSVAGGTVADLFRPQETGAPMSAYTAGPFLGPVAG  253
+
+Query  242  SLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIF  301
+             +I   +    DWR  ++ L I     F+   + +PET   +   L  K +R        
+Sbjct  254  PIISGFINQNLDWRWTWYILLIWSAVEFVALLVFVPETY--LQAILKKKAQRLRKAGRTD  311
+
+Query  302  LLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLML--  359
+            +  PV           E  + +I  + + S  K    P  IL+  P  L    WT +L  
+Sbjct  312  VRAPV-----------EVDERSIATVIMVSCYK----PFQILATEPMALALCTWTALLLG  356
+
+Query  360  ------SSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQ  413
+                  S+ +       Y + + I+G+ Y+P GIG + G+     I   Y++ K  +   
+Sbjct  357  ILYMFFSAFNIVYGAEGYGFKMQIVGLTYIPIGIGIVAGA-LCHPIWARYYRLKATQL--  413
+
+Query  414  DKANGLIPQDAEINMFKVRLVCLLPQN--FLAVVAYLLFGWSIDKGWRIESILITSFVCS  471
+                G  P   E     +  VCL+P +  + A   Y    W +         LI +    
+Sbjct  414  ----GRRPPPEEHLRKGLWGVCLVPVSLFWFAFTTYTSVHWIVS--------LIATVPFG  461
+
+Query  472  YCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIF----MGCFAKMKAAMTVGGT  527
+               + +       LVD +   +++A +  + +R S +  F    +  F ++ A   +  T
+Sbjct  462  VGLVWSFQAVFVYLVDAFRPVAASAMAANSAMRSSFAAAFPLFTIQMFHRLGAQYALMLT  521
+
+Query  528  FTFLCALVFFFNFLMFIPMKYGMKWRE  554
+              FLC  +  F FL F   K G K+R 
+Sbjct  522  -AFLCLAMVPFPFLFF---KLGHKYRR  544
+
+
+
+
+>Efflux pump atB [Rhodotorula toruloides]
+Sequence ID: KAJ8296993.1 Length: 553
+Range 1: 14 to 544
+
+Score:86.3 bits(212), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:122/567(22%), Positives:222/567(39%), Gaps:65/567(11%)
+
+Query  17   THNEQHLTREYTKPDGQTKSEKLNFEGAYINSHGTLSKTTTREI---EGDLDSETSSHSS  73
+            T  E   +RE  K   + ++         +   G    +  R++   EG   + T++ ++
+Sbjct  14   TRIEASGSREKEKDTARGEAGAPGPTLEDVEKQGGKEASGRRDVLPSEGKEAAGTANGTA  73
+
+Query  74   DDKVDPTQQITAETKAPYTLL------------SYGQKWGMVAILTMCGFWSSLGSPIYY  121
+              +      +  E   P   L            S  +KW +V+I+T   F  +  S +  
+Sbjct  74   TPQERDEDGVAIENGVPIVRLRGPDDPLSPLNFSKARKWLIVSIVTSGAFCITCCSSMIA  133
+
+Query  122  PALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASI  181
+                 +E++F+V   +  + + +++L  GI P + G L++ +GR P+   G  +Y+  + 
+Sbjct  134  FTYPGVEREFHVSAEVATLGLSLFVLGMGIFPLLVGPLSEWYGRSPVYFVGFAVYIAFNF  193
+
+Query  182  GLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFG  241
+            G+A A +   ++  R +     S  ++++ G V D     E G  + A +    LG   G
+Sbjct  194  GVAFANNIATLLICRFLSGAFASSFLSVAGGTVADLFRPQETGAPMSAYTAGPFLGPVAG  253
+
+Query  242  SLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIF  301
+             +I   +    DWR  ++ L I     F+   + +PET   +   L  K +R        
+Sbjct  254  PIISGFINQNLDWRWTWYILLIWSAVEFVALLVFVPETY--LQAILKKKAQRLRKAGRTD  311
+
+Query  302  LLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLML--  359
+            +  PV           E  + +I  + + S  K    P  IL+  P  L    WT +L  
+Sbjct  312  VRAPV-----------EVDERSIATVIMVSCYK----PFQILATEPMALALCTWTALLLG  356
+
+Query  360  ------SSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQ  413
+                  S+ +       Y + + I+G+ Y+P GIG + G+     I   Y++ K  +   
+Sbjct  357  ILYMFFSAFNIVYGAEGYGFKMQIVGLTYIPIGIGIVAGA-LCHPIWARYYRLKATQL--  413
+
+Query  414  DKANGLIPQDAEINMFKVRLVCLLPQN--FLAVVAYLLFGWSIDKGWRIESILITSFVCS  471
+                G  P   E     +  VCL+P +  + A   Y    W +         LI +    
+Sbjct  414  ----GRRPPPEEHLRKGLWGVCLVPVSLFWFAFTTYTSVHWIVS--------LIATVPFG  461
+
+Query  472  YCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIF----MGCFAKMKAAMTVGGT  527
+               + +       LVD +   +++A +  + +R S +  F    +  F ++ A   +  T
+Sbjct  462  VGLVWSFQAVFVYLVDAFRPLAASAMAANSAMRSSFAAAFPLFTIQMFHRLGAQYALMLT  521
+
+Query  528  FTFLCALVFFFNFLMFIPMKYGMKWRE  554
+              FLC  +  F FL F   K G K+R 
+Sbjct  522  -AFLCLAMVPFPFLFF---KLGHKYRR  544
+
+
+
+
+>MFS polyamine transporter [Rhodotorula toruloides]
+Sequence ID: GEM10976.1 Length: 668
+Range 1: 104 to 633
+
+Score:85.9 bits(211), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:128/575(22%), Positives:231/575(40%), Gaps:93/575(16%)
+
+Query  28   TKPDGQTKSEKLN------------FEGAYINSHGTLSKTTTREIEGDLDSETSSHSSDD  75
+            T+P G+T+S                 + A+ ++H  LS+ +     G   S  +    D+
+Sbjct  104  TEPTGRTRSRSQTAWSENGFPELHLVDTAFSDAHRQLSRMSRARSRGTSTSALTQDGGDE  163
+
+Query  76   KVDPTQQITAETKAPYTL--------LSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQL  127
+             V   +Q     K  +           S  +KW +  +        +  S     A +Q+
+Sbjct  164  DVQQGEQEEDPNKVFWEEQDEHNPQNWSDKKKWAITILCAQATLVVTFASSSPSSATQQI  223
+
+Query  128  EKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAP  187
+             +QF     + ++T  ++L    + P +   +++  GRRP+ +  + I+ +  IG A A 
+Sbjct  224  AQQFGSALEVADLTTSLFLAGYCLGPIIWAPMSEMVGRRPVFVISLAIFGLFQIGDALAQ  283
+
+Query  188  SYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGA-  246
+            +   II +R + +   S  +  + GV+ D      RG  +   S  V +G   G +IG  
+Sbjct  284  NIWTIIIIRFLAACFASSPLTNAGGVIADIWDPMGRGKAMALFSASVFVGPVLGPIIGGF  343
+
+Query  247  -VLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIFLLGP  305
+             V+     WR IF F+     + +++  + LPET           PK    RA       
+Sbjct  344  TVMNQSLRWRWIFAFIGFWSAASWILIAVFLPET---------YHPKLLAQRA-------  387
+
+Query  306  VRRRFKYDNPD-----YETLDPTIPKLDLSSAG---KILVLPEIILSLFPSGLLFAMWTL  357
+              +R + +NPD     Y  L+    K D S      + L  P I+L + P  L   ++  
+Sbjct  388  --KRLRKENPDKHGEKYAELE----KADFSIKSLVTRTLARPAIMLVVEPIVLTVTIYLS  441
+
+Query  358  MLSSISSGL-SVAP------YNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKK  410
+            ++  +  GL SV P        ++    G+ ++  G+G  +G+     +I ++ +R  ++
+Sbjct  442  VVYGLLYGLFSVFPIIWGELRGFNPGETGLIFISVGLGTTIGA-----LIFVWTQRHYRE  496
+
+Query  411  FEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSIDK---GW---RIESIL  464
+                K +G  P +  +         +L   FL V+     GW+ +     W    + +IL
+Sbjct  497  L-VPKWHGHPPPEERL------YGAMLAGPFL-VIGIFWLGWTGNYPSIHWAVPAVSAIL  548
+
+Query  465  I-TSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMT  523
+            I  SF   + +        T LV++Y   S++A +    VR + +  F     +M AA+ 
+Sbjct  549  IGVSFTLVFISF------LTYLVEVYLMYSASALAANTIVRSATAVAFPLFVRQMFAALG  602
+
+Query  524  VGGTFTFLCALVFFFNFLM----FIPMKYGMKWRE  554
+            VG    + C+L  F    +    F+  KYG K R+
+Sbjct  603  VG----WACSLFGFVALAISPSPFLFYKYGWKLRQ  633
+
+
+
+
+>MFS transporter [Rhodotorula toruloides]
+Sequence ID: GEM07131.1 Length: 1237
+Range 1: 51 to 413
+
+Score:86.3 bits(212), Expect:3e-17, 
+Method:Compositional matrix adjust., 
+Identities:94/397(24%), Positives:165/397(41%), Gaps:55/397(13%)
+
+Query  76   KVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLG---SPIYYPALRQLEKQFN  132
+            ++D T   + +   PY   S    W   A+L    F + +G   +    P+     K F 
+Sbjct  51   RIDLTPLPSDDPHDPYNWSS----WVKHALLIQVAFHAMMGPFSAAAVIPSFETFVKDFG  106
+
+Query  133  VDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVI  192
+            +     +  V V +LF G++P V+  ++   GRRPI+L   ++     +G A   SYG +
+Sbjct  107  ITITQASYLVSVPILFLGVTPLVAAPISARVGRRPILLGSAILSAAVHVGGAYCHSYGTL  166
+
+Query  193  IFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVL---T  249
+            +  R +Q+I ++P  ++ + +V +   +HE+G  +G  +    LG     L+   L   T
+Sbjct  167  MVTRVLQAILLAPPQSLGADMVNEMFFQHEKGQKLGIWTLLTALGPPVAPLVMGPLVWNT  226
+
+Query  250  ARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIFLLGPVRRR  309
+             +W W   F+ L I     F++   + PET    AG   ++P R +      L  P R++
+Sbjct  227  GKWQW--TFYLLAIINLVQFILYVFLAPET----AG--FVRPARGVPGMESTLSEPPRQK  278
+
+Query  310  ---------FK------YDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAM  354
+                     FK      +    YET+ P +          +++ P ++L      + F+ 
+Sbjct  279  TPWWKLYFSFKRTSSAPWSRVPYETVHPFV----------MVLRPTVLLPALAYAITFSY  328
+
+Query  355  WTLMLSSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQD  414
+              ++L+     L    Y  +   IG+ Y+   IG  +G    G   D +   + K     
+Sbjct  329  TNVLLTVEIPALLGRKYKLNPQQIGLQYISSIIGASLGEVLAGTGSDWWMLWRTK-----  383
+
+Query  415  KANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFG  451
+            +ANG    + E  M   R+   LP   +  V  L+FG
+Sbjct  384  RANG----NREPEM---RIPFGLPGFVIGAVGTLVFG  413
+
+
+
+
+>MFS transporter [Rhodotorula toruloides]
+Sequence ID: GEM06256.1 Length: 555
+Range 1: 58 to 434
+
+Score:83.2 bits(204), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:89/403(22%), Positives:167/403(41%), Gaps:36/403(8%)
+
+Query  46   INSHGTLSKTTTREIEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSY--GQKWGMV  103
+            + S G       +   G  D +    + +D V P  ++  +   P + L++   +KW +V
+Sbjct  58   LPSDGKERAGPAKGTAGTPDRDEDGVAVEDGV-PIVRLR-DPDDPLSPLNFTTARKWLIV  115
+
+Query  104  AILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCF  163
+            +I+T   F  +  S +       +E++F+V   +  + + +++L  GI P + G L++ +
+Sbjct  116  SIVTSGAFCITCCSSMIAFTYPGVEREFHVSAEVATLGLSLFVLGMGIFPLLVGPLSEWY  175
+
+Query  164  GRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHER  223
+            GR P+   G  +Y+  + G+A A +   ++  R +     S  ++++ G V D     E 
+Sbjct  176  GRSPVYFIGFAVYIAFNFGVAFANNIATLLICRFLSGAFASSFLSVAGGTVADLFRPQET  235
+
+Query  224  GTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTI  283
+            G  + A +    LG   G +I   +    DWR  ++ L I     F+   + +PET   +
+Sbjct  236  GAPMSAYTAGPFLGPVAGPIISGFINQNLDWRWTWYILLIWSAVEFVALLVFVPETY--L  293
+
+Query  284  AGNLSIKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIIL  343
+               L  K +R        +  PV           E  + +I  + + S  K    P  IL
+Sbjct  294  QAILKKKAQRLRKAGRTDVRAPV-----------EVDERSIATVIMVSCYK----PFQIL  338
+
+Query  344  SLFPSGLLFAMWTLML--------SSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFF  395
+            +  P  L    WT +L        ++         Y + + ++G+ Y+P GIG + G+  
+Sbjct  339  ATEPMALALCTWTAILLGILYMWFTAFDIVYGAEGYGFEMQMVGLTYIPIGIGIVTGA-L  397
+
+Query  396  TGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRLVCLLP  438
+               I   Y++RK  +       G  P   E     +  VC++P
+Sbjct  398  CHPIWAGYYRRKAAQL------GRRPPPEEHLRKGLWGVCIVP  434
+
+
+
+
+>putative Caffeine resistance protein [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU13528.1 Length: 566
+>putative caffeine resistance protein [Rhodotorula toruloides]
+Sequence ID: PRQ73100.1 Length: 566 
+Range 1: 50 to 558
+
+Score:81.3 bits(199), Expect:6e-16, 
+Method:Compositional matrix adjust., 
+Identities:116/551(21%), Positives:231/551(41%), Gaps:55/551(9%)
+
+Query  20   EQHLTREYTKPDGQTKSEKLNFEGAYINSHGTLSKTTTREIEGDLDSET-SSHSSDDKVD  78
+            E   T E   P  +++ E L      +N+ GT ++  T + + D++ +   S  +     
+Sbjct  50   ESSSTLEARSPTPKSREETL------VNAPGTCAELKTLKTDVDVEKQILESVGAQTPTP  103
+
+Query  79   PTQQ--ITAETKAPYTLLSYGQKWGMVA--ILTMCGFWSSLGSPIYYPALRQLEKQFNVD  134
+            P  +  +  E   P   +++  +  +    ++++  F   +GS IY  ++  L ++F ++
+Sbjct  104  PAYEYLVEFEENDPDKPMNWSSRKRIFIGFLISLLTFGIYIGSAIYTASIPGLMEEFGIN  163
+
+Query  135  ENMVNVTVVVYLLFQGISPTVSGGLADC--FGRRPIILAGMLIYVIASIGLACAPSYGVI  192
+            +      + +++   GI P +   + +   +GR P+ + G+  +VI  I    A +   +
+Sbjct  164  QVGATSGLTLFVAAYGIGPMILSPMQELPRWGRNPVYILGLFAFVIFQIPEILAKNVATV  223
+
+Query  193  IFLRCIQSIGISPTIAISSGVVGD-FTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTAR  251
+            +  R +     SP +A     +GD F L+H     +GA S   + G  FG +IG     R
+Sbjct  224  LVFRFLSGFVGSPALATGGATMGDIFPLQH-IAIAIGAWSVGAISGPIFGPVIGGFAAER  282
+
+Query  252  WDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIFLLGPVRRRFK  311
+             +WR  F  L    G+  LI FL+LPET  +       +  R +   P+     +R   +
+Sbjct  283  MNWRWPFLELLWISGTVLLIVFLLLPETMESTILIRRAERLRRLTGNPL-----LRAPAE  337
+
+Query  312  YDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLMLSSISSGLSVAPY  371
+              +     L P + +  +  A ++++ P + ++ F   L++A++ L   +     +   +
+Sbjct  338  LGHAGEIELAPLLTE-TIGRAFRLMLEPALAVAHFYLALVYAIFYLWFEAFPLTFNEI-H  395
+
+Query  372  NYHLVIIGVCYLP---GGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINM  428
+            ++ L + G+ YL      +   +G +F        ++ +       K   L P+      
+Sbjct  396  HFSLGLGGLPYLAFVVAAVPTFIGYYF--------YQTRYMASRMAKNPNLAPE------  441
+
+Query  429  FKVRLVCLLPQNFLAVVAYLLFGWS--IDKGWRIESILITSFVCSYCAMSTLSTSTTLLV  486
+               RL   +       V+ L+FGW+   D  W    I  T     Y      S  + L  
+Sbjct  442  --ARLELAMIGAVFVPVSLLIFGWTARADVHW----IWPTIGAGIYLPGVYYSFQSIL--  493
+
+Query  487  DLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMFIPM  546
+             +YP  +++  +  +F+R   +++F    A+    + +GG     C+L+   + LM IP+
+Sbjct  494  -IYPKYAASNLAGNDFLRSVFASVFPLFGARYYKVLGIGGG----CSLLAGVSILM-IPL  547
+
+Query  547  KYGMKWREDRL  557
+             Y +    DRL
+Sbjct  548  LYAIIRFGDRL  558
+
+
+
+
+>MFS general substrate transporter [Rhodotorula toruloides]
+Sequence ID: PRQ72530.1 Length: 490
+Range 1: 22 to 312
+
+Score:80.9 bits(198), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:74/308(24%), Positives:131/308(42%), Gaps:25/308(8%)
+
+Query  94   LSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISP  153
+             S  +KW +V I+T   F  +  S +       +E++F+V   +  + + +++L  GI P
+Sbjct  22   FSKARKWLIVTIVTSGAFCITCCSSMIAFTYPGVEREFHVSAEVATLGLSLFVLGMGIFP  81
+
+Query  154  TVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGV  213
+             + G L++ +GR P+   G  +Y+  + G+A A +   ++  R +     S  ++++ G 
+Sbjct  82   LLVGPLSEWYGRSPVYFIGFAVYIAFNFGVAFANNIATLLICRFLSGAFASSFLSVAGGT  141
+
+Query  214  VGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAF  273
+            V D     E G  + A +    LG   G +I   +    DWR  ++ L I     F+   
+Sbjct  142  VADLFRPQETGAPMSAYTAGPFLGPVAGPIISGFINQNLDWRWTWYILLIWSAVEFVALL  201
+
+Query  274  LILPETKRTIAGNLSIKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAG  333
+            + +PET   +   L  K +R        +  PV           E  + +I  + + S  
+Sbjct  202  VFVPETY--LQAILKKKAQRLRKAGRTDVRAPV-----------EVDERSIATVIIVSCY  248
+
+Query  334  KILVLPEIILSLFPSGLLFAMWTLMLSSISSGLSVA--------PYNYHLVIIGVCYLPG  385
+            K    P  IL+  P  L    WT +L  I      A         Y + + I+G+ Y+P 
+Sbjct  249  K----PFQILATEPMALALCTWTALLLGILYAFFSAFNIVYGREGYGFEMQIVGLTYIPI  304
+
+Query  386  GIGGLMGS  393
+            GIG + G+
+Sbjct  305  GIGIVAGA  312
+
+
+
+
+>MFS polyamine transporter [Rhodotorula toruloides]
+Sequence ID: GEM10444.1 Length: 558
+Range 1: 68 to 418
+
+Score:79.3 bits(194), Expect:2e-15, 
+Method:Compositional matrix adjust., 
+Identities:85/385(22%), Positives:160/385(41%), Gaps:55/385(14%)
+
+Query  47   NSHGTLSKTTTREIEGDLDSETSSHSSDDKV------DPTQQITAETKAPYTLLSYGQKW  100
+             S  TL   +    +G +D+E  +   D K+      DP       TK         +KW
+Sbjct  68   RSQTTLVSRSPTGGKGIVDAEKGARMDDAKLVTWLPNDPENPRNWPTK---------KKW  118
+
+Query  101  GMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLA  160
+                + T+  F + L S +    + ++ + F V   +  +TV V+++  G+ P +   L+
+Sbjct  119  LQTILPTILCFEAGLASSLITGGIPEMGEHFGVSALVAGLTVCVFVVGFGLGPLLLSPLS  178
+
+Query  161  DCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLK  220
+            + +GR+ + +  M ++ I ++      S+ V+I  R +     S  +  ++G +GD    
+Sbjct  179  EMYGRKIVYIVSMFLFFIFTLPECVTDSFAVLIVFRFLAGCSCSGVMCNAAGSIGDLWAV  238
+
+Query  221  HERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETK  280
+            +ERG  + A SG +    C G L G  LT    WR ++W L I  G  +    + L ET 
+Sbjct  239  NERGNKMFAFSGILFASPCLGPLFGGALTVSVGWRWMWWVLFIYSGVNWAFCSVFLVET-  297
+
+Query  281  RTIAGNLSIKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDPTI---------PKLDLSS  331
+                                    P   R++      ET DP I         P  D+  
+Sbjct  298  ----------------------YSPTLLRWRAQKMRKETGDPDIVTEQERQGRPLADV--  333
+
+Query  332  AGKILVLPEIILSLFPSGLLFAMWTLMLSSISSGLSVA------PYNYHLVIIGVCYLPG  385
+            A + L+ P ++L+  P  +LF+ +  ++  +      A       + ++   +G+C+L  
+Sbjct  334  ARETLLRPLVLLTTEPIMILFSGYLCLIYGLLYAFFFAYPIVFMVHGFNATEVGLCFLSV  393
+
+Query  386  GIGGLMGSFFTGRIIDMYFKRKIKK  410
+             +G ++ S   G + + Y++RK+ +
+Sbjct  394  FVGIVLVSATAGPVQERYYQRKVTE  418
+
+
+
+
+>MFS general substrate transporter [Rhodotorula toruloides]
+Sequence ID: PRQ70860.1 Length: 547
+Range 1: 25 to 512
+
+Score:77.4 bits(189), Expect:9e-15, 
+Method:Compositional matrix adjust., 
+Identities:121/537(23%), Positives:221/537(41%), Gaps:78/537(14%)
+
+Query  47   NSHGTLSKTTTRE-IEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAI  105
+             S GT +  TT++  +GD           +KV+  +    +   P    S  +KW +  +
+Sbjct  25   GSRGTSTGETTQDGSDGDEQQPDEQEKDPNKVEWEEN---DEHNPQNW-SDKKKWLITIL  80
+
+Query  106  LTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGR  165
+                    +  S     A +Q+ +QF     + ++T  ++L    + P V   +++  GR
+Sbjct  81   CAQATLVVTFASSSPSSATQQIAQQFGSSLEVADLTTSLFLAGYCLGPIVWAPMSEMIGR  140
+
+Query  166  RPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGT  225
+            RP+ +  + I+ +  IG A A +   II +R + +   S  +  + GV+ D      RG 
+Sbjct  141  RPVFVVSLAIFGLFQIGDALAQNIWTIIIIRFLAACFASSPLTNAGGVIADIWDPMGRGK  200
+
+Query  226  FVGATSGFVLLGQCFGSLIGA--VLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTI  283
+             +   S  V +G   G +IG   V+     WR IF F+     + +++  + LPET    
+Sbjct  201  AMALFSASVFVGPVLGPIIGGFTVMNQSLRWRWIFAFIGFWSAASWILIAVFLPETYH--  258
+
+Query  284  AGNLSIKPKRFINRAPIFLLGPVRRRFKYDNPD-----YETLDPTIPKLDLSSAG---KI  335
+                   PK    RA         +R + ++PD     Y  L+    K D S      + 
+Sbjct  259  -------PKLLAQRA---------KRLRKEDPDKHGEKYAELE----KADFSIRSIVTRT  298
+
+Query  336  LVLPEIILSLFPSGLLFAMWTLMLSSISSGL-SVAPY------NYHLVIIGVCYLPGGIG  388
+            L  P I+L + P  L   ++  ++  +  GL SV P        ++    G+ ++  G+G
+Sbjct  299  LARPAIMLVVEPIVLTVTIYLSVVYGLLYGLFSVFPIIWGELRGFNPGETGLVFIAVGLG  358
+
+Query  389  GLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYL  448
+              +G+     +I ++ +R  ++    K +G  P +  +         +L   FL +V   
+Sbjct  359  TTIGA-----LIFVWTQRHYREL-IPKWHGHPPPEERLYG------AMLAGPFL-IVGIF  405
+
+Query  449  LFGWSIDK---GWRI---ESILI-TSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFN  501
+              GW+ +     W +    +ILI  SF   + +        T LV++Y   S+++ +   
+Sbjct  406  WLGWTGNYPSIHWAVPAASAILIGMSFTLVFISF------LTYLVEVYLMYSASSLAANT  459
+
+Query  502  FVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLM----FIPMKYGMKWRE  554
+             +R + +  F     +M AA+ VG    + C+L  F    +    F+  KYG K R+
+Sbjct  460  IIRSATAVAFPLFVRQMFAALGVG----WACSLFGFVALAISPSPFLFYKYGWKLRQ  512
+
+
+
+
+>MFS polyamine transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274421.1 Length: 673
+>MFS polyamine transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS23302.1 Length: 673
+>Citrinin biosynthesis cluster MFS transporter mrr1 [Rhodotorula toruloides]
+Sequence ID: KAJ8291822.1 Length: 673
+>RHTO0S12e00848g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46137.1 Length: 673 
+Range 1: 109 to 638
+
+Score:77.4 bits(189), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:125/575(22%), Positives:230/575(40%), Gaps:93/575(16%)
+
+Query  28   TKPDGQTKSEKLN------------FEGAYINSHGTLSKTTTREIEGDLDSETSSHSSDD  75
+            T+P G+T+S                 + A+ ++H  LS+ +     G     T+    D+
+Sbjct  109  TRPTGRTRSRSQTAWSENGFPELHLVDTAFSDAHRQLSRMSRARSRGTSIGTTTQDGGDE  168
+
+Query  76   KV-------DPTQQITAETKAPYTLLSYG--QKWGMVAILTMCGFWSSLGSPIYYPALRQ  126
+                     DP  ++  E + P    ++   +KW +  +        +  S     A +Q
+Sbjct  169  DEQQDEQEKDP-NKVEWEEEDPLNPQNWSDKKKWAITILCAQATLVVTFASSSPSSATQQ  227
+
+Query  127  LEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACA  186
+            + + F     + ++T  ++L    + P V   +++  GRRP+ +  + I+ +  IG A A
+Sbjct  228  IAQDFGSSLEVADLTTSLFLAGYCLGPIVWAPMSEMVGRRPVFVVSLAIFGLFQIGDALA  287
+
+Query  187  PSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGA  246
+             +   II +R + +   S  +  + GV+ D      RG  +   S  V +G   G +IG 
+Sbjct  288  QNIWTIIIIRFLAACFASSPLTNAGGVIADIWDPMGRGKAMALFSASVFVGPVLGPIIGG  347
+
+Query  247  --VLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIFLLG  304
+              V+     WR IF F+     + +++  + LPET           PK    RA      
+Sbjct  348  FTVMNQSLRWRWIFAFIGFWSAASWILIAVFLPET---------YHPKLLAQRA------  392
+
+Query  305  PVRRRFKYDNPD-----YETLDPTIPKLDLSSAG---KILVLPEIILSLFPSGLLFAMWT  356
+               +R + ++PD     Y  L+    K D S      + L  P I+L + P  L   ++ 
+Sbjct  393  ---KRLRKEDPDKHGDKYAELE----KADFSIRSIVTRTLARPAIMLVVEPIVLTVTIYL  445
+
+Query  357  LMLSSISSGL-SVAP------YNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIK  409
+             ++  +  GL SV P        ++    G+ ++  G+G  MG+     +I ++ +R  +
+Sbjct  446  SVVYGLLYGLFSVFPIIWGELRGFNPGETGLVFIAVGLGTTMGA-----LIFVWTQRHYR  500
+
+Query  410  KFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSIDK---GWRI---ESI  463
+            +        LIP+       + RL   +      ++     GW+ +     W +    +I
+Sbjct  501  E--------LIPKWHGHPPPEERLYGAMLAGPFLIIGIFWLGWTGNYPSIHWAVPAASAI  552
+
+Query  464  LI-TSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAM  522
+            LI  SF   + +        T LV++Y   S++A +    +R + +  F     +M AA+
+Sbjct  553  LIGMSFTLVFISF------LTYLVEVYLMYSASALAGNTIIRSATAVAFPLFVRQMFAAL  606
+
+Query  523  TVG---GTFTFLCALVFFFNFLMFIPMKYGMKWRE  554
+             VG     F F+   +    FL +   KYG K R+
+Sbjct  607  GVGWACSVFGFVALAISPSPFLFY---KYGWKLRQ  638
+
+
+
+
+>cycloheximide resistance protein, Mfs transporter [Rhodotorula toruloides]
+Sequence ID: GEM07346.1 Length: 541
+Range 1: 50 to 484
+
+Score:76.6 bits(187), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:104/466(22%), Positives:188/466(40%), Gaps:59/466(12%)
+
+Query  71   HSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQ  130
+              SDD  DP    T + +  Y        W +V   ++ G   ++G P+  P   Q+ K+
+Sbjct  50   QPSDDPRDPLNWPTWKRELAY--------WNIVFATSLVG---AIG-PLISPGFVQIAKE  97
+
+Query  131  FNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYG  190
+            F V  N V  T    +L  G +      +A  +GRRP+ + G    +  SI  A  P   
+Sbjct  98   FRVSVNKVAGTNAALVLAIGAAMIPVSTVAIKWGRRPVYIWGATFLLAGSIWSAAKPDLD  157
+
+Query  191  VIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQC-FGSLIGAVLT  249
+             ++  R IQ +G++P  + ++  +GD    H+RG  V A  G  LLG      ++   + 
+Sbjct  158  NLLASRVIQGLGMAPVESTATATIGDLFPVHQRGMRV-AVWGLSLLGGINVAPIVAGTII  216
+
+Query  250  ARWDWRAIFWFLTIGCGSCFLIAFLILPET---KRTIAGNLSIKP------------KRF  294
+            +   WR  FW +        +   L LPET   +  +A  L   P            K F
+Sbjct  217  STIGWRYCFWTIVPFFALSLVFMILFLPETAYDRAPVANGLGTSPGDIVVAEDDKDEKAF  276
+
+Query  295  INRAPIFLLGPVRRRFKYDNPDYETLD--PTIPKLDLSSAGKILVLPEIIL---SLFPSG  349
+              +  +  +  V ++  Y  P    L+  P    ++     KI + P ++L   + F   
+Sbjct  277  AEQ--VEDVDAVEKQDGYLPPKSVWLEMLPWSGYINKDPIWKIFLRPFLMLFSPATFWGF  334
+
+Query  350  LLFAMWTLMLSSISSGLSV---APYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKR  406
+            L + + +L+L  +S+  S+     Y +     G+  +   I  ++ S   G I D     
+Sbjct  335  LTYGIASLLLVLVSATNSLIFSKSYGFTSRQTGLVSISPLIASILMSLVAGYIADF----  390
+
+Query  407  KIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSID----KGWRIES  462
+             +  F   +  G+   +       +RL+ ++P   L +  Y+  GW++       W +  
+Sbjct  391  -LATFMARRNKGVFEPE-------MRLLLMIPYAVLVIAGYV--GWALSYRNHDHWMVPV  440
+
+Query  463  ILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLS  508
+            I+          +ST   S T ++D++  ++S   +  NF++  +S
+Sbjct  441  IMYGFVNAGQKFLST--ASVTYIIDVHREQTSECQAVINFLKNVIS  484
+
+
+
+
+>putative transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8294896.1 Length: 2475
+Range 1: 161 to 577
+
+Score:76.6 bits(187), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:109/452(24%), Positives:180/452(39%), Gaps:55/452(12%)
+
+Query  130  QFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSY  189
+             F+V + +  + + +++    + P + G L++ +GRR + L     Y+   IG A AP+ 
+Sbjct  161  HFHVSQEVGVLLIAIFVAGYCVGPLLWGPLSERYGRRLVFLVVWPPYIGFQIGCALAPNI  220
+
+Query  190  GVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLI-GAVL  248
+            G +I  R +     +  +  S GV+ D      RG  +   +     G     +I G + 
+Sbjct  221  GSLIVFRFLGGCFAASPLTNSGGVIADLWDAERRGDAMAIFALMPFAGPALAPIISGFMQ  280
+
+Query  249  TARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIFLLGPVRR  308
+                +WR IFW LT   G C ++    LPET                   P+ L    RR
+Sbjct  281  VTGTNWRWIFWVLTAFAGLCGILLVAFLPETY-----------------VPVILQAEARR  323
+
+Query  309  -RFKYDNPDYETLDPTIPKLDLSSAGKI-LVLPEIILSLFPSGLLFAMWTLMLSSISSGL  366
+             R +  +  Y        +LD+   G I   L   +L  F    + A+   ML  I+  +
+Sbjct  324  LRKETGDSRYHA------ELDIKKEGGIKATLQRTVLKPF----VMAVQEPMLLLITIYM  373
+
+Query  367  SVAPYNYHL------VIIGVCYLPGGIGGLMG-SFFTGRIIDM-----YFKRK-IKKFEQ  413
+             V    Y L      V  G   L GG  GL+  +  TG +I +     YF  + +KK   
+Sbjct  374  CVYGVVYLLFEAIPIVFEGKHGLNGGESGLVFLALLTGGVIGVCGYIFYFNPQYMKKHRA  433
+
+Query  414  DKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWS-IDKGWRIESILITSFVCSY  472
+             + N + P++        RL  +L  + L  VA+  FGW+       I S ++   +   
+Sbjct  434  LRPNMVPPEE--------RLKPMLIASPLFAVAFFWFGWTGAYPHISIWSPILAIVMLGT  485
+
+Query  473  CAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLC  532
+              +    T    L+D Y   +S+A +    +R S    F     +M   + + G  + L 
+Sbjct  486  TILYVFLTGFNYLIDTYLWGASSALAFNTVIRSSFGAGFPLFAVQMYNKLGIQGASSLLG  545
+
+Query  533  ALVFFFNFLMFIPMKYGMK---WREDRLLKQQ  561
+             L   F    F+ +KYG K   W ++ +L Q+
+Sbjct  546  GLAILFIPAPFLLIKYGKKIRSWSKNAVLSQR  577
+
+
+
+
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ76826.1 Length: 494
+Range 1: 4 to 397
+
+Score:72.0 bits(175), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:90/405(22%), Positives:174/405(42%), Gaps:39/405(9%)
+
+Query  75   DKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVD  134
+            + VDP+         P   LS  +K+ ++  L+  GF ++    I   A   + K F V 
+Sbjct  4    NHVDPS----LPPNHPVNSLSSLRKFLILLTLSYSGFLANFSVAIIQVAFVPMGKAFGVS  59
+
+Query  135  ENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIF  194
+               +  T+   LL   + P +   L+   GRRP+ L G  +++   + +A +PSY     
+Sbjct  60   PGDIPNTIGYNLLGFAVGPLLWNPLSKTIGRRPVYLIGSALFLPCVVWMALSPSYACFSA  119
+
+Query  195  LRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDW  254
+             R +  I  S +  +    V D  +K  RG+ +   +  V++      +   ++     W
+Sbjct  120  ARTVAGIVSSFSQTVPPATVADIFVKEVRGSKMSMYAVAVVIAPAVAPVFSGLIVNSQPW  179
+
+Query  255  RAIFWFLTIGCGSCFLIAFLILPETK-RTIAGNLSIKPKRFINRAPIFLLGPVRRRFKYD  313
+              +FWF+    G    +  +I+PET     + + S+     +N +    +     +  +D
+Sbjct  180  HVLFWFILGLAGLQLALFAVIVPETLWNEESTSNSVDKHNSLNDS----IADAGEKAAFD  235
+
+Query  314  NPDYETLDPT--------------IPKLDLSSAGKILVLP-----EIILSLFPS---GLL  351
+                ET+D T              +P        +I V P      I +SL PS   G++
+Sbjct  236  EQQIETVDNTASVNSRAGRVGAAWMPWQRPGEFFRIFVSPFLMARYIAISL-PSIYYGMV  294
+
+Query  352  FAMWTLMLSSISSGL-SVAPYNYHLVIIGVCYLPGGIGGLMGSFFTG----RIIDMYFKR  406
+            FA W++ ++ ++  +    PYN+  + +G  +L  GIGG++G +  G    +++  + ++
+Sbjct  295  FA-WSVSITIVAPQMFEKPPYNFKTIPVGASFLAYGIGGVLGKWSGGIVGDKVVAHFERK  353
+
+Query  407  KIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFG  451
+            K  +  +D+   L+P      M    +V ++ ++ L  +AYL+ G
+Sbjct  354  KGSRQPEDRLWALLP-ILPFMMVACAIVAVVIRDQLPWIAYLIGG  397
+
+
+
+
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ72504.1 Length: 598
+Range 1: 136 to 588
+
+Score:72.0 bits(175), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:111/488(23%), Positives:188/488(38%), Gaps:55/488(11%)
+
+Query  86   ETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVY  145
+            E  +P+T  S   +W + A+       ++  S      +  +   F+V + +  + + ++
+Sbjct  136  EHLSPHTW-SVWYRWALTALAGFLVLNATFASSAPSNLIPSIIGHFHVSQEVGILLIAIF  194
+
+Query  146  LLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISP  205
+            +    + P + G L++ +GRR + L     Y+   IG A AP+ G +I  R +     + 
+Sbjct  195  VAGYCVGPLLWGPLSERYGRRLVFLVVWPPYIGFQIGCALAPNIGSLIVFRFLGGCFAAS  254
+
+Query  206  TIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLI-GAVLTARWDWRAIFWFLTIG  264
+             +  S GV+ D      RG  +   +     G     +I G +     +WR IFW LT  
+Sbjct  255  PLTNSGGVIADLWDAERRGDAMAIFALMPFAGPALAPIISGFMQVTGTNWRWIFWVLTAF  314
+
+Query  265  CGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIFLLGPVRR-RFKYDNPDYETLDPT  323
+             G C ++    LPET                   P+ L    RR R +  +  Y      
+Sbjct  315  AGLCGILLVAFLPET-----------------YLPVILQAEARRLRKETGDSRYHA----  353
+
+Query  324  IPKLDLSSAGKI-LVLPEIILSLFPSGLLFAMWTLMLSSISSGLSVAPYNYHLVII----  378
+              +LD+   G I   L   +L  F    + A+   ML  ++  + V P  Y +V +    
+Sbjct  354  --ELDIKKEGGIKATLQRTVLKPF----VMAVEEPMLLILTVYMYVTPLVYGVVYLLFEA  407
+
+Query  379  ------GVCYLPGGIGGLMG-SFFTGRIIDM-----YFKRKIKKFEQDKANGLIPQDAEI  426
+                  G   L GG  GL+  +  TG +I +     YF  +  K  +     ++P +   
+Sbjct  408  IPIVFEGKHGLNGGESGLVFLALLTGGVIGVLGYIFYFNPQYMKKHRAIRPKMVPPEE--  465
+
+Query  427  NMFKVRLVCLLPQNFLAVVAYLLFGWS-IDKGWRIESILITSFVCSYCAMSTLSTSTTLL  485
+                 RL  +L  + L   A+  FGW+       I S ++   +     +    T    L
+Sbjct  466  -----RLKPMLIASPLFAAAFFWFGWTGAYPHISIWSPILAIVMLGTTILYVFLTGFNYL  520
+
+Query  486  VDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTVGGTFTFLCALVFFFNFLMFIP  545
+            +D Y   +S+A +    VR S    F     +M   + + G  + L  L   F    F+ 
+Sbjct  521  IDTYLWGASSALAFNTVVRSSFGAGFPLFAVQMYNKLGIQGASSLLGGLAILFIPAPFLL  580
+
+Query  546  MKYGMKWR  553
+            +KYG K R
+Sbjct  581  IKYGKKIR  588
+
+
+
+
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275586.1 Length: 496
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS24467.1 Length: 496
+>RHTO0S01e13872g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36082.1 Length: 496 
+Range 1: 4 to 399
+
+Score:71.2 bits(173), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:88/407(22%), Positives:170/407(41%), Gaps:41/407(10%)
+
+Query  75   DKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVD  134
+            + VDP+         P   LS  +K+ ++  L+  GF ++    I   A   + + F V 
+Sbjct  4    NDVDPS----LPPNHPLNSLSSLRKFLILLTLSYSGFLANFSVAIIQVAFVPMGQAFGVS  59
+
+Query  135  ENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIF  194
+               +  T+   LL   + P +   L+   GRRP+ L G  +++   + +A +PSY     
+Sbjct  60   PGDIPNTIGYNLLGFAVGPLLWNPLSKTIGRRPVYLIGSALFLPCVVWMALSPSYACFSA  119
+
+Query  195  LRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDW  254
+             R +  I  S +  +    V D  +K  RG+ +   +  V++      +   ++     W
+Sbjct  120  ARTVAGIVSSFSQTVPPATVADIFVKEVRGSKMSMYAVAVVIAPAVAPVFSGLIVNTQPW  179
+
+Query  255  RAIFWFLTIGCGSCFLIAFLILPE---TKRTIAGNLSIKPKRFINRAPIFLLGPVRRRFK  311
+              +FWF+    G    +   I+PE   T+   +          +N +    +    ++  
+Sbjct  180  HVLFWFILGLAGLQLALFAAIVPETLWTEEATSDRAGADKHNSLNDS----IANAGKKAA  235
+
+Query  312  YDNPDYETLDPTIPKLDLSSAGKILVL------PEIILSLFPSGLLFAMW-TLMLSSISS  364
+            +D    ET++   P ++ S AG++         P     +F S  L A +  + L SI  
+Sbjct  236  FDEQQIETVE-NKPSVN-SRAGRVGAAWMPWQRPGEFFHIFVSPFLMARYLAISLPSIYY  293
+
+Query  365  GLSVA----------------PYNYHLVIIGVCYLPGGIGGLMGSFFTG----RIIDMYF  404
+            G+  A                PYN+  + +G  +L  GIGG++G +  G    +++ ++ 
+Sbjct  294  GMVFAWSVSITIVAPQMFEKPPYNFKTIPVGASFLAYGIGGVLGKWSGGIVGDKVVALFE  353
+
+Query  405  KRKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFG  451
+            ++K  +  +D+   L+P      M    +V ++ ++ LA +AYL+ G
+Sbjct  354  RKKGTRQPEDRLWALLP-ILPFMMVACAIVAVVIRDKLAWIAYLIGG  399
+
+
+
+
+>putative transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8297015.1 Length: 496
+Range 1: 4 to 399
+
+Score:71.2 bits(173), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:88/407(22%), Positives:170/407(41%), Gaps:41/407(10%)
+
+Query  75   DKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVD  134
+            + VDP+         P   LS  +K+ ++  L+  GF ++    I   A   + + F V 
+Sbjct  4    NDVDPS----LPPNHPLNSLSSLRKFLILLTLSYSGFLANFSVAIIQVAFVPMGQAFGVS  59
+
+Query  135  ENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIF  194
+               +  T+   LL   + P +   L+   GRRP+ L G  +++   + +A +PSY     
+Sbjct  60   PGDIPNTIGYNLLGFAVGPLLWNPLSKTIGRRPVYLIGSALFLPCVVWMALSPSYACFSA  119
+
+Query  195  LRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDW  254
+             R +  I  S +  +    V D  +K  RG+ +   +  V++      +   ++     W
+Sbjct  120  ARTVAGIVSSFSQTVPPATVADIFVKEVRGSKMSMYAVAVVIAPAVAPVFSGLIVNTQPW  179
+
+Query  255  RAIFWFLTIGCGSCFLIAFLILPE---TKRTIAGNLSIKPKRFINRAPIFLLGPVRRRFK  311
+              +FWF+    G    +   I+PE   T+   +          +N +    +    ++  
+Sbjct  180  HVLFWFILGLAGLQLALFAAIVPETLWTEEATSDRAGADKHNSLNDS----IANAGKKAA  235
+
+Query  312  YDNPDYETLDPTIPKLDLSSAGKILVL------PEIILSLFPSGLLFAMW-TLMLSSISS  364
+            +D    ET++   P ++ S AG++         P     +F S  L A +  + L SI  
+Sbjct  236  FDEQQIETVE-NKPSVN-SRAGRVGAAWMPWQRPGEFFRIFVSPFLMARYLAISLPSIYY  293
+
+Query  365  GLSVA----------------PYNYHLVIIGVCYLPGGIGGLMGSFFTG----RIIDMYF  404
+            G+  A                PYN+  + +G  +L  GIGG++G +  G    +++ ++ 
+Sbjct  294  GMVFAWSVSITIVAPQMFEKPPYNFKTIPVGASFLAYGIGGVLGKWSGGIVGDKVVALFE  353
+
+Query  405  KRKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFG  451
+            ++K  +  +D+   L+P      M    +V ++ ++ LA +AYL+ G
+Sbjct  354  RKKGTRQPEDRLWALLP-ILPFMMVACAIVAVVIRDKLAWIAYLIGG  399
+
+
+
+
+>MFS multidrug transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272157.1 Length: 577
+>MFS multidrug transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS21038.1 Length: 577 
+Range 1: 93 to 567
+
+Score:68.9 bits(167), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:110/509(22%), Positives:195/509(38%), Gaps:54/509(10%)
+
+Query  65   DSETSSHSSDDKV--DP--TQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIY  120
+            D  T++   +D    DP        E  +P+T  S   +W + A+       ++  S   
+Sbjct  93   DPATAAKGKEDPAGGDPFLVTLKGREHLSPHTW-SVWYRWALTALAGFLVLNATFASSAP  151
+
+Query  121  YPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIAS  180
+               +  +   F+V + +  + + +++    + P   G L++ +GRR + L     Y+   
+Sbjct  152  SNLIPSIIGHFHVSQEVGVLLIAIFVAGYCVGPLFWGPLSERYGRRLVFLVVWPPYIGFQ  211
+
+Query  181  IGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCF  240
+            IG A AP+ G +I  R +     +  +  S GV+ D      RG  +   +     G   
+Sbjct  212  IGCALAPNIGSLIVFRFLGGCFAASPLTNSGGVIADLWDAERRGDAMAIFALMPFAGPAL  271
+
+Query  241  GSLI-GAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAP  299
+              +I G +     +WR IFW LT   G C ++    LPET                   P
+Sbjct  272  APIISGFMQVTSTNWRWIFWVLTAFAGLCGILLVAFLPET-----------------YVP  314
+
+Query  300  IFLLGPVRR-RFKYDNPDYETLDPTIPKLDLSSAGKI-------LVLPEIILSLFPSGLL  351
+            + L    RR R +  +  Y        +LD+   G I       ++ P ++ +  P  L+
+Sbjct  315  VILQAEARRLRKETGDSRYHA------ELDIKKEGGIKATLQRTVLKPFVMAAQEPMLLI  368
+
+Query  352  FAMWTLMLSSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMG-SFFTGRIIDM-----YFK  405
+              ++  ++  +   L  A     +V  G   L GG  GL+  +  TG +I +     YF 
+Sbjct  369  ITIYMSLVYGVVYLLFEA---IPIVFEGKHGLNGGESGLVFLALLTGGVIGVCGYIFYFN  425
+
+Query  406  RKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWS-IDKGWRIESIL  464
+             +  K  +     ++P +        RL  ++  + L  VA+  FGW+       I S +
+Sbjct  426  PQYMKKHRALRPKMVPPEE-------RLKPMVIASPLFAVAFFWFGWTGAYPHISIWSPI  478
+
+Query  465  ITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTV  524
+            +   +     +    T    L+D Y   +++A S    VR      F     +M   + +
+Sbjct  479  LAIVMLGTTILYVFLTGFNYLIDTYLWNAASALSFNTVVRSGFGAGFPLFATQMYNKLGI  538
+
+Query  525  GGTFTFLCALVFFFNFLMFIPMKYGMKWR  553
+             G  + L  L   F    F+ +KYG + R
+Sbjct  539  QGASSLLGGLAILFIPAPFLLIKYGKRIR  567
+
+
+
+
+>RHTO0S16e00716g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48075.1 Length: 577
+Range 1: 93 to 567
+
+Score:68.9 bits(167), Expect:6e-12, 
+Method:Compositional matrix adjust., 
+Identities:110/509(22%), Positives:195/509(38%), Gaps:54/509(10%)
+
+Query  65   DSETSSHSSDDKV--DP--TQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIY  120
+            D  T++   +D    DP        E  +P+T  S   +W + A+       ++  S   
+Sbjct  93   DPATAAKGKEDPAGGDPFLVTLKGREHLSPHTW-SVWYRWALTALAGFLVLNATFASSAP  151
+
+Query  121  YPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIAS  180
+               +  +   F+V + +  + + +++    + P   G L++ +GRR + L     Y+   
+Sbjct  152  SNLIPSIIGHFHVSQEVGVLLIAIFVAGYCVGPLFWGPLSERYGRRLVFLVVWPPYIGFQ  211
+
+Query  181  IGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCF  240
+            IG A AP+ G +I  R +     +  +  S GV+ D      RG  +   +     G   
+Sbjct  212  IGCALAPNIGSLIVFRFLGGCFAASPLTNSGGVIADLWDAERRGDAMAIFALMPFAGPAL  271
+
+Query  241  GSLI-GAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAP  299
+              +I G +     +WR IFW LT   G C ++    LPET                   P
+Sbjct  272  APIISGFMQVTSTNWRWIFWVLTAFAGLCGILLVAFLPET-----------------YVP  314
+
+Query  300  IFLLGPVRR-RFKYDNPDYETLDPTIPKLDLSSAGKI-------LVLPEIILSLFPSGLL  351
+            + L    RR R +  +  Y        +LD+   G I       ++ P ++ +  P  L+
+Sbjct  315  VILQAEARRLRKETGDSRYHA------ELDIKKEGGIKATLQRTVLKPFVMAAQEPMLLI  368
+
+Query  352  FAMWTLMLSSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMG-SFFTGRIIDM-----YFK  405
+              ++  ++  +   L  A     +V  G   L GG  GL+  +  TG +I +     YF 
+Sbjct  369  ITIYMCVVYGVVYLLFEA---IPIVFEGKHGLNGGESGLVFLALLTGGVIGVCGYIFYFN  425
+
+Query  406  RKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWS-IDKGWRIESIL  464
+             +  K  +     ++P +        RL  ++  + L  VA+  FGW+       I S +
+Sbjct  426  PQYMKKHRALRPKMVPPEE-------RLKPMVIASPLFAVAFFWFGWTGAYPHISIWSPI  478
+
+Query  465  ITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCFAKMKAAMTV  524
+            +   +     +    T    L+D Y   +++A S    VR      F     +M   + +
+Sbjct  479  LAIVMLGTTILYVFLTGFNYLIDTYLWNAASALSFNTVVRSGFGAGFPLFATQMYNKLGI  538
+
+Query  525  GGTFTFLCALVFFFNFLMFIPMKYGMKWR  553
+             G  + L  L   F    F+ +KYG + R
+Sbjct  539  QGASSLLGGLAILFIPAPFLLIKYGKRIR  567
+
+
+
+
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71449.1 Length: 539
+Range 1: 52 to 452
+
+Score:68.2 bits(165), Expect:9e-12, 
+Method:Compositional matrix adjust., 
+Identities:97/421(23%), Positives:168/421(39%), Gaps:47/421(11%)
+
+Query  98   QKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSG  157
+            +KW  +A + +  F S   +   Y           +D   +N  V V  L  G  P ++ 
+Sbjct  52   RKWLSLACVVLYTFSSGALTAALYSIYPDYSAATGIDIPTLNQAVGVMFLLVGFGPMLTT  111
+
+Query  158  GLADCFGRRPIILAGMLI---YVIASIGLACAPS-YGVIIFLRCIQSIGISPTIAISSGV  213
+             L++  G+RPI L  +L+     I S+ +   P  YG  +FL     I   P  A +   
+Sbjct  112  PLSNIIGKRPIYLGSLLLSGSISIWSVFIKSTPQWYGRCVFL----GIAGGPVFATTEVS  167
+
+Query  214  VGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAF  273
+            V D    HER   +G     + LG     LIGA L A WD+RA+F+F  I         F
+Sbjct  168  VSDVFFAHERALPMGIYIIALYLGALAAPLIGAYLAAAWDYRAVFYFCAILIYGTLAFCF  227
+
+Query  274  LILPET--------KRTIAGNLS------IKPKRFINRAPIFLLGPVRRRFKYDNPDYET  319
+            + + ET        + + AG+ S      + P +    + +  +   R+ F      +E 
+Sbjct  228  VFMEETNYVRPSPLETSPAGDDSDDDHKHVDPHKIAASSHVVQVDAKRKSFVKRMALFER  287
+
+Query  320  LDPTIPKLDLSSAGKILVLPEIILSLFP----SGLLFA---MWTLMLSSISSGLSVA-PY  371
+              P   K+      K+ +L  I     P      +++A   +W  +++++++ + +A PY
+Sbjct  288  PGPQAWKI-----FKVGILQPIAFLRLPIVWWCAVMYAFGQVWFNLMNALTASILMAPPY  342
+
+Query  372  NYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKV  431
+            N+ +  +G+ YL       M       II  Y   K   +   +  G+   + ++++  +
+Sbjct  343  NFSVKQVGLSYL-----SPMVLTIPSVIIYGYINDKWALWMARRRGGISEPEDKLSLLLL  397
+
+Query  432  RLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTSTT-LLVDLYP  490
+                 LP      V+ L+ G     GW   + ++     S    S L+ S+   L D Y 
+Sbjct  398  STAIPLP------VSLLMLGLPPTYGWHWAAYVVGGMGLSVLFGSLLTASSIYYLFDCYH  451
+
+Query  491  T  491
+            T
+Sbjct  452  T  452
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274890.1 Length: 539
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS23771.1 Length: 539
+>RHTO0S05e08592g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40907.1 Length: 539 
+Range 1: 52 to 452
+
+Score:67.8 bits(164), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:96/422(23%), Positives:172/422(40%), Gaps:49/422(11%)
+
+Query  98   QKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSG  157
+            +KW  +A + +  F S   +   Y           +D   +N  V V  L  G  P ++ 
+Sbjct  52   RKWLSLACVVLYTFSSGALTAALYSIYPDYSAATGIDIPTLNQAVGVMFLLVGFGPMLTT  111
+
+Query  158  GLADCFGRRPIILAGMLI---YVIASIGLACAPSYGVIIFLRCIQSIGIS--PTIAISSG  212
+             L++  G+RPI L  +L+     I S+ +   P +    + RC+  +GI+  P  A +  
+Sbjct  112  PLSNIIGKRPIYLGSLLLSGSISIWSVFIKSTPQW----YGRCVL-LGIAGGPVFATTEV  166
+
+Query  213  VVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIA  272
+             V D    HER   +G     + LG     LIGA L A WD+RA+F+F  I         
+Sbjct  167  SVSDVFFAHERALPMGIYIIALYLGALAAPLIGAYLAAAWDYRAVFYFCAILIYGTLAFC  226
+
+Query  273  FLILPET--------KRTIAGNLS------IKPKRFINRAPIFLLGPVRRRFKYDNPDYE  318
+            F+ + ET        + T AG+ S      + P +    + +  +   R+ F      +E
+Sbjct  227  FVFMEETNYVRPSPLETTSAGDDSDDDHKHVDPHKISASSHVVQVDAKRKSFVKRMALFE  286
+
+Query  319  TLDPTIPKLDLSSAGKILVLPEIILSLFP----SGLLFA---MWTLMLSSISSGLSVA-P  370
+               P   K+      K+ +L  I     P      +++A   +W  +++++++ + +A P
+Sbjct  287  RPGPHAWKI-----FKVGILQPIAFLRLPIVWWCAVMYAFGQVWFNLMNALTASILMAPP  341
+
+Query  371  YNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFK  430
+            YN+ +  +G+ YL   I  +      G + D     K   +   +  G+   + ++++  
+Sbjct  342  YNFSVKQVGLAYLSPMILTIPSVILYGWVND-----KWALWMAKRRGGISEPEDKLSLLL  396
+
+Query  431  VRLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTSTT-LLVDLY  489
+            +     LP      V+ L+ G      WR  + ++     S    S L+ S+   L D Y
+Sbjct  397  LTTAIPLP------VSLLMLGLPPTYAWRWPAYVVAGMGMSVMFGSFLTASSIYYLFDCY  450
+
+Query  490  PT  491
+             T
+Sbjct  451  HT  452
+
+
+
+
+>putative MFS-type transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8294109.1 Length: 517
+Range 1: 52 to 234
+
+Score:64.7 bits(156), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/188(28%), Positives:82/188(43%), Gaps:10/188(5%)
+
+Query  98   QKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSG  157
+            +KW  +A + +  F S   +   Y           +D   +N  V V  L  G  P ++ 
+Sbjct  52   RKWLSLACVVLYTFSSGALTAALYSIYPDYSAATGIDIPTLNQAVGVMFLLVGFGPMLTT  111
+
+Query  158  GLADCFGRRPIILAGMLI---YVIASIGLACAPSYGVIIFLRCIQSIGIS--PTIAISSG  212
+             L++  G+RPI L  +L+     I S+ +   P +    + RC+  +GI+  P  A +  
+Sbjct  112  PLSNIIGKRPIYLGSLLLSGSISIWSVFIKSTPQW----YGRCVL-LGIAGGPVFATTEV  166
+
+Query  213  VVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIA  272
+             V D    HER   +G     + LG     LIGA L A WD+RA+F+F  I         
+Sbjct  167  SVSDVFFAHERALPMGIYIIALYLGALAAPLIGAYLAAAWDYRAVFYFCAILIYGTLAFC  226
+
+Query  273  FLILPETK  280
+            F+ + ET 
+Sbjct  227  FVFMEETN  234
+
+
+
+
+>MFS multidrug transporter [Rhodotorula toruloides]
+Sequence ID: GEM07606.1 Length: 578
+Range 1: 93 to 568
+
+Score:64.3 bits(155), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:105/502(21%), Positives:191/502(38%), Gaps:39/502(7%)
+
+Query  65   DSETSSHSSDDKV--DP--TQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIY  120
+            D  T++   +D    DP        E  +P+T  S   +W + A+       ++  S   
+Sbjct  93   DPATAAKGKEDPAGGDPFLVTLKGREHLSPHTW-SVWYRWALTALAGFLVLNATFASSAP  151
+
+Query  121  YPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIAS  180
+               +  +   F+V + +  + + +++    + P + G L++ +GRR + L     Y+   
+Sbjct  152  SNLIPSIISHFHVSQEVGILLIAIFVAGYCVGPLLWGPLSERYGRRLVFLVVWPPYIGFQ  211
+
+Query  181  IGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCF  240
+            IG A AP+ G +I  R +     +  +  S GV+ D      RG  +   +     G   
+Sbjct  212  IGCALAPNIGSLIVFRFLGGCFAASPLTNSGGVIADIWDAERRGDAMAIFALMPFAGPAL  271
+
+Query  241  GSLI-GAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAP  299
+              +I G +     +WR IFW LT   G C ++    LPET   +   L  +  R      
+Sbjct  272  APIISGFMQVTGTNWRWIFWVLTAFAGLCGILLVAFLPETYLPVI--LQDEASRLRKET-  328
+
+Query  300  IFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLML  359
+                G  R   + D      +  T+ +  L      +  P +++      L++ +  L+ 
+Sbjct  329  ----GDSRWHAELDIKKEGGIKATLQRTVLKPFVMAIEEPMLLILTIYMSLVYGVVYLLF  384
+
+Query  360  SSI------SSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQ  413
+             +I        GL+         ++ +  L GG+ G++G  F       YF  +  K  +
+Sbjct  385  EAIPIVFEGKHGLNGGESG----LVFLALLTGGVIGVLGYIF-------YFNPQYMKKHR  433
+
+Query  414  DKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWS-IDKGWRIESILITSFVCSY  472
+                 ++P +        RL  +L  + L   A+  FGW+       I S ++   +   
+Sbjct  434  ALRPKMVPPEE-------RLKPMLIASPLFAAAFFWFGWTGAYPHISIWSPILAIVMLGT  486
+
+Query  473  CAMSTLSTSTTLLVDLYPTKSSTASSCFN-FVRCSLSTIFMGCFAKMKAAMTVGGTFTFL  531
+              +    T    LV L     ++++  FN  +R S    F     +M   + + G  + L
+Sbjct  487  TILYVFLTGFNYLVILLSLWGASSALAFNTVIRSSFGAGFPLFAVQMYNKLGIQGASSLL  546
+
+Query  532  CALVFFFNFLMFIPMKYGMKWR  553
+              L   F    F+ +KYG K R
+Sbjct  547  GGLAILFIPAPFLLIKYGKKIR  568
+
+
+
+
+>benomyl/methotrexate resistance protein [Rhodotorula toruloides]
+Sequence ID: GEM07040.1 Length: 582
+Range 1: 21 to 252
+
+Score:63.9 bits(154), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:55/233(24%), Positives:93/233(39%), Gaps:18/233(7%)
+
+Query  64   LDSETSSHSSDDKVDPTQQIT-----AETKAPYTL------------LSYGQKWGMVAIL  106
+            LD   S H + D++D              ++PY +             S  +KW + A  
+Sbjct  21   LDLHPSPHKAHDRLDAATAPVPYDGQGTEQSPYIVKWLDGEEENPQNWSGTKKWLITANA  80
+
+Query  107  TMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRR  166
+             +     + GS IY   L      FN    ++ + + +Y+L   + P +    ++ +GRR
+Sbjct  81   AVSTLCIAFGSSIYAGGLGDFLVYFNTSVTIITLGLSLYVLGFALGPLLWAPFSEQWGRR  140
+
+Query  167  PIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTF  226
+            P+ L    ++ + +I  A A +   ++  R +     S  +  S GV+ D     ER   
+Sbjct  141  PVFLVTYFLFAVFNIPCALAKNIETLLICRFLAGFFGSSPLTNSGGVISDMFSASERALG  200
+
+Query  227  VGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPET  279
+            +   +     G   G +IG  L     WR +FW LTI     + + FL  PET
+Sbjct  201  ISIFALAPFAGPVLGPIIGGFLGQNASWRWLFWLLTIFAFVMWGLGFLS-PET  252
+
+
+
+
+>major facilitator superfamily protein [Rhodotorula toruloides]
+Sequence ID: GEM06232.1 Length: 487
+Range 1: 45 to 390
+
+Score:62.0 bits(149), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:76/352(22%), Positives:151/352(42%), Gaps:35/352(9%)
+
+Query  129  KQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPS  188
+            K F V    +  T+   LL   + P +   L+   GRRP+ L G  +++   + +A +PS
+Sbjct  45   KAFGVSPGEIPNTIGYNLLGFAVGPLLWNPLSKTIGRRPVYLIGSALFLPCVVWMALSPS  104
+
+Query  189  YGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVL  248
+            Y      R +  I  S +  +    V D  +K  RG+ +   +  V++      +   ++
+Sbjct  105  YACFSAARTVAGIVSSFSQTVPPATVADIFVKEVRGSKMSMYAVAVVIAPAVAPVFSGLI  164
+
+Query  249  TARWDWRAIFWFLTIGCGSCFLIAFLILPET--KRTIAGNLSIKPKR-FINRAPIFLLGP  305
+                 W  +FWF+    G    +  +++PET        +L++  K   +N +    +  
+Sbjct  165  VNSQPWHVLFWFILGLAGLQLALFAVVVPETLWVEDSTADLAVADKHNSLNDS----IAD  220
+
+Query  306  VRRRFKYDNPDYETLD--PTIPK---------LDLSSAG---KILVLP-------EIILS  344
+               +  +D    E +D   TI           + L   G   +I V P        I L 
+Sbjct  221  AGEKAVFDEQQIENVDNKATIGAHAGHVGAAWMPLQRPGEFFRIFVSPFFMARYAAISLP  280
+
+Query  345  LFPSGLLFAMWTLMLSSISSGL-SVAPYNYHLVIIGVCYLPGGIGGLMGSFFTG----RI  399
+                G++FA W++ ++ ++  +    PY++  + +G  +L  GIGG++G +  G    ++
+Sbjct  281  SIYYGMVFA-WSVSITIVAPQMFEKPPYSFKTIPVGASFLAYGIGGVLGKWSGGIVGDKV  339
+
+Query  400  IDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFG  451
+            +  + ++K  +  +D+   L+P      M    +V ++ ++ LA +AYL+ G
+Sbjct  340  VAHFERKKGSRHPEDRLWALLPI-LPFMMVACAIVAVVIRDKLAWIAYLIGG  390
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277207.1 Length: 583
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS26088.1 Length: 583
+>RHTO0S03e10902g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38567.1 Length: 583 
+Range 1: 21 to 252
+
+Score:60.1 bits(144), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:57/235(24%), Positives:94/235(40%), Gaps:22/235(9%)
+
+Query  64   LDSETSSHSSDDKVDPTQ-------QITAETKAPYTL------------LSYGQKWGMVA  104
+            LD   S H + D +D          Q T E+  PY +             S  +KW + A
+Sbjct  21   LDLHPSPHKAHDGLDAATASVPYDGQGTEES--PYIVKWLDGEDENPQNWSGTKKWLITA  78
+
+Query  105  ILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFG  164
+               +     + GS IY   L      F     ++ + + +Y+L   + P +    ++ +G
+Sbjct  79   NAAVSTLCIAFGSSIYAGGLGDFLVYFKTSVTIITLGLSLYVLGFALGPLLWAPFSEQWG  138
+
+Query  165  RRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERG  224
+            R+P+ LA   ++ + +I  A A +   ++  R +     S  +  S GV+ D     ER 
+Sbjct  139  RKPVFLATYFLFAVFNIPCALAKNIETLLICRFLAGFFGSSPLTNSGGVISDMFSASERA  198
+
+Query  225  TFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPET  279
+              +   +     G   G +IG  L     WR +FW LTI     + + FL  PET
+Sbjct  199  LGISIFALAPFAGPVLGPIIGGFLGQNASWRWLFWLLTIFAFVMWGLGFLS-PET  252
+
+
+
+
+>MFS multidrug transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270826.1 Length: 575
+>MFS multidrug transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS19707.1 Length: 575
+>RHTO0S01e18272g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36284.1 Length: 575 
+Range 1: 112 to 285
+
+Score:59.7 bits(143), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:49/175(28%), Positives:75/175(42%), Gaps:7/175(4%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +LI+ + S     A S  + I  R +Q IG    + +S  +V 
+Sbjct  112  TGGLANIFGRRPVLVAALLIFALGSALTGGAQSMAMAIAGRSVQGIGGGAILTMSEIIVI  171
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTI---GCGSCFLIA  272
+            D     ERG ++G       +    G  IG  L     WR +F +L +   G     ++ 
+Sbjct  172  DLVPLAERGAYMGILGAVWAIASVAGPPIGGGLATAGAWRWLF-YLNLPFTGLALALVVV  230
+
+Query  273  FLILPETKRTIAGNLS---IKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDPTI  324
+            FL +   + T+   L         F+  A   +LG       Y    Y  L P I
+Sbjct  231  FLNIKAPQTTLKEKLERMDYANVVFVAGATALILGLTWGGSAYAWSSYHVLVPLI  285
+
+
+
+
+>Benomyl/methotrexate resistance protein [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12715.1 Length: 583
+>Benomyl/methotrexate resistance protein [Rhodotorula toruloides]
+Sequence ID: PRQ69996.1 Length: 583 
+Range 1: 21 to 252
+
+Score:59.7 bits(143), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:57/235(24%), Positives:93/235(39%), Gaps:22/235(9%)
+
+Query  64   LDSETSSHSSDDKVDPTQ-------QITAETKAPYTL------------LSYGQKWGMVA  104
+            LD   S H + D +D          Q T E+  PY +             S  +KW + A
+Sbjct  21   LDLHPSPHETHDGLDAATAPVPYDGQGTEES--PYIVKWLDGEEENPQNWSGTKKWLITA  78
+
+Query  105  ILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFG  164
+               +     + GS IY   L      F     ++ + + +Y+L   + P +    ++ +G
+Sbjct  79   NAAVSTLCIAFGSSIYAGGLGDFLVYFKTSVTIITLGLSLYVLGFALGPLLWAPFSEQWG  138
+
+Query  165  RRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERG  224
+            RRP+ L    ++ + +I  A A +   ++  R +     S  +  S GV+ D     ER 
+Sbjct  139  RRPVFLVTYFLFAVFNIPCALAKNIETLLICRFLAGFFGSSPLTNSGGVISDMFSASERA  198
+
+Query  225  TFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPET  279
+              +   +     G   G +IG  L     WR +FW LTI     + + FL  PET
+Sbjct  199  LGISIFALAPFAGPVLGPIIGGFLGQNASWRWLFWLLTIFAFVMWGLGFLS-PET  252
+
+
+
+
+>major facilitator superfamily protein [Rhodotorula toruloides]
+Sequence ID: GEM08581.1 Length: 565
+Range 1: 10 to 211
+
+Score:59.3 bits(142), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/211(25%), Positives:89/211(42%), Gaps:12/211(5%)
+
+Query  53   SKTTTREIEGDLDSETS--SHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCG  110
+            + ++T E +  L S  +  S ++   V+P      + K P+        W +   L    
+Sbjct  10   TPSSTLEKDQQLPSTHANPSRAASTLVEPLDGTPEKGKKPFAF------WAVFIALCFSL  63
+
+Query  111  FWSSLGSPIYYPALRQLEKQF-NVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPII  169
+            F S++        L  + ++F + D + V      Y L        +GGLA+ FGRRPI+
+Sbjct  64   FLSAIDVTAVSTVLPDMAQEFKSADYSWVGSA---YALTSTALIPWTGGLANIFGRRPIL  120
+
+Query  170  LAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGA  229
+            +A +L + + S     A S  + I  R +Q IG    + +S  +V D     ERG+++G 
+Sbjct  121  VAALLFFALGSALTGAAQSMAMAIAGRSVQGIGGGAILTMSEIIVIDLVPLAERGSYMGI  180
+
+Query  230  TSGFVLLGQCFGSLIGAVLTARWDWRAIFWF  260
+                  +    G  IG  L     WR +F+ 
+Sbjct  181  LGAVWAIASVAGPPIGGGLATAGAWRWLFYL  211
+
+
+
+
+>MFS transporter [Rhodotorula toruloides]
+Sequence ID: GEM07099.1 Length: 547
+Range 1: 91 to 353
+
+Score:59.3 bits(142), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:62/273(23%), Positives:116/273(42%), Gaps:37/273(13%)
+
+Query  138  VNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLI---YVIASIGLACAPSYGVIIF  194
+            +N  V V  L  G  P ++  L++  G+RPI L  + +     I S+ +   P +    +
+Sbjct  91   LNQAVGVMFLLVGFGPMLTTPLSNIIGKRPIYLLSLFLSGALAIWSVFIKSTPQW----Y  146
+
+Query  195  LRCIQSIGIS--PTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARW  252
+             RC+  +GI+  P  A +   V D    HER   +G     + LG     L GA + A W
+Sbjct  147  GRCVL-LGIAGGPVFASTEVSVSDVFFAHERALPMGIYIIALYLGALAAPLFGAYVAAAW  205
+
+Query  253  DWRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNL--------------SIKPKRFINRA  298
+            D+RA+F+F  I   + F   ++ + ET       L              ++ P +    +
+Sbjct  206  DYRAVFYFCAILIYATFAFCYIFMEETNYVRPSPLESAHTSDDSDDEHKTVDPYKIAASS  265
+
+Query  299  PIFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFP----SGLLFA-  353
+             +  +   R+ F      +E      P L      K+ +L  +     P      +++A 
+Sbjct  266  HVVQVDAKRKSFVKRMALFER-----PGLQAGKIFKVGILQPVAFLRLPIVWWCAVMYAF  320
+
+Query  354  --MWTLMLSSISSGLSVA-PYNYHLVIIGVCYL  383
+              +W  +++++++ + +A PYN+ +  +G+ YL
+Sbjct  321  GQVWFNLMNALTASILMAPPYNFSVKQVGLAYL  353
+
+
+
+
+>Efflux pump FUS6 [Rhodotorula toruloides]
+Sequence ID: KAJ8294016.1 Length: 575
+Range 1: 112 to 285
+
+Score:59.3 bits(142), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:49/175(28%), Positives:75/175(42%), Gaps:7/175(4%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +LI+ + S     A S  + I  R +Q IG    + +S  +V 
+Sbjct  112  TGGLANIFGRRPVLVAALLIFALGSALTGGAQSMAMAIAGRSVQGIGGGAILTMSEIIVI  171
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTI---GCGSCFLIA  272
+            D     ERG ++G       +    G  IG  L     WR +F +L +   G     ++ 
+Sbjct  172  DLVPLAERGAYMGILGAVWAIASVAGPPIGGGLATAGAWRWLF-YLNLPFTGLALALVVV  230
+
+Query  273  FLILPETKRTIAGNLS---IKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDPTI  324
+            FL +   + T+   L         F+  A   +LG       Y    Y  L P I
+Sbjct  231  FLNIKAPQTTLKEKLERMDYANVVFVAGATALILGLTWGGSAYAWSSYHVLVPFI  285
+
+
+
+
+>iron permease [Rhodotorula toruloides]
+Sequence ID: PRQ78223.1 Length: 575
+Range 1: 112 to 216
+
+Score:58.2 bits(139), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:33/105(31%), Positives:52/105(49%), Gaps:0/105(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +LI+ + S     A S  + I  R +Q IG    + +S  +V 
+Sbjct  112  TGGLANIFGRRPVLVAALLIFALGSALTGGAQSMAMAIAGRSVQGIGGGAILTMSEIIVI  171
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWF  260
+            D     ERG ++G       +    G  +G  L     WR +F+ 
+Sbjct  172  DLVPLAERGAYMGILGAVWAIASVAGPPVGGGLATAGAWRWLFYL  216
+
+
+
+
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274846.1 Length: 552
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS23727.1 Length: 552
+>RHTO0S05e09560g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40951.1 Length: 552 
+Range 1: 96 to 238
+
+Score:57.8 bits(138), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:38/143(27%), Positives:62/143(43%), Gaps:0/143(0%)
+
+Query  138  VNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRC  197
+            +N  V V  L  G +P ++  L + FG+RP+ L  MLI     + +A   S    +    
+Sbjct  96   LNQGVGVQYLLVGFAPLITSSLGNAFGKRPLYLITMLISAGCCVWMANIKSRASWMVQCV  155
+
+Query  198  IQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAI  257
+            +      PT A +   +      HER T +GA    +        L+GA ++    ++A+
+Sbjct  156  VLGFSNGPTFAATEVSIAQVFFAHERATPMGAYVATLYGAALIAPLLGAYISEGLGYKAV  215
+
+Query  258  FWFLTIGCGSCFLIAFLILPETK  280
+            F+F  I C   F+  F  + ET 
+Sbjct  216  FYFAGIFCLGSFIFCFFFMEETN  238
+
+
+
+
+>hypothetical protein RTG_00616 [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU13090.1 Length: 552
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71497.1 Length: 552 
+Range 1: 96 to 238
+
+Score:57.0 bits(136), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:37/143(26%), Positives:62/143(43%), Gaps:0/143(0%)
+
+Query  138  VNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRC  197
+            +N  V V  L  G +P ++  L + FG+RP+ L  +LI     + +A   S    +    
+Sbjct  96   LNQGVGVQYLLVGFAPLITSSLGNAFGKRPLYLVTLLISAGCCVWMANIKSRASWMVQCV  155
+
+Query  198  IQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAI  257
+            +      PT A +   +      HER T +GA    +        L+GA ++    ++A+
+Sbjct  156  VLGFSNGPTFAATEVSIAQVFFAHERATPMGAYVATLYGAALIAPLLGACISEGLGYKAV  215
+
+Query  258  FWFLTIGCGSCFLIAFLILPETK  280
+            F+F  I C   F+  F  + ET 
+Sbjct  216  FYFAGIFCLGSFVFCFFFMEETN  238
+
+
+
+
+>putative MFS-type transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8294072.1 Length: 552
+Range 1: 96 to 238
+
+Score:56.6 bits(135), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:37/143(26%), Positives:62/143(43%), Gaps:0/143(0%)
+
+Query  138  VNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRC  197
+            +N  V V  L  G +P ++  L + FG+RP+ L  +LI     + +A   S    +    
+Sbjct  96   LNQGVGVQYLLVGFAPLITSSLGNAFGKRPLYLITLLISAGCCVWMANIKSRASWMVQCV  155
+
+Query  198  IQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAI  257
+            +      PT A +   +      HER T +GA    +        L+GA ++    ++A+
+Sbjct  156  VLGFSNGPTFAATEVSIAQVFFAHERATPMGAYVATLYGAALIAPLLGAYISEGLGYKAV  215
+
+Query  258  FWFLTIGCGSCFLIAFLILPETK  280
+            F+F  I C   F+  F  + ET 
+Sbjct  216  FYFAGIFCLGSFIFCFFFMEETN  238
+
+
+
+
+>iron permease [Rhodotorula toruloides]
+Sequence ID: PRQ78209.1 Length: 570
+Range 1: 107 to 211
+
+Score:55.5 bits(132), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:32/105(30%), Positives:51/105(48%), Gaps:0/105(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++  +L + + S     A S  + I  R IQ IG    + ++  +V 
+Sbjct  107  TGGLANIFGRRPVLVGALLFFALGSALTGAAQSMAMAIAGRSIQGIGGGAILTMAEIIVI  166
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWF  260
+            D     ERG+++G       +    G  IG  L     WR +F+ 
+Sbjct  167  DLVPLAERGSYMGILGAVWAIASVAGPPIGGGLATAGAWRWLFYL  211
+
+
+
+
+>hypothetical protein RTG_00771 [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12757.1 Length: 593
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ74746.1 Length: 593 
+Range 1: 110 to 212
+
+Score:55.5 bits(132), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/104(35%), Positives:51/104(49%), Gaps:1/104(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            SGGLA  FGRRP++LAG+ ++ + SI    A +   ++  R IQ  G     AI   ++ 
+Sbjct  110  SGGLAYIFGRRPVMLAGLGLFSLGSIVGGAAKNMTTMLAGRGIQGAGAGVIFAIVEIILS  169
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFW  259
+            D     ERG +    S         G LIG    A +D+R +FW
+Sbjct  170  DLVPLSERGVYQAGFSATWSFASATGPLIGGAF-ASFDYRWLFW  212
+
+
+
+
+>Efflux pump FUS6 [Rhodotorula toruloides]
+Sequence ID: KAJ8296709.1 Length: 599
+Range 1: 110 to 212
+
+Score:55.1 bits(131), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:36/104(35%), Positives:51/104(49%), Gaps:1/104(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            SGGLA  FGRRP++LAG+ ++ + SI    A +   ++  R IQ  G     AI   ++ 
+Sbjct  110  SGGLAYIFGRRPVMLAGLGLFSLGSIVGGAAKNMTTMLAGRGIQGAGAGVIFAIVEIILS  169
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFW  259
+            D     ERG +    S         G LIG    A +D+R +FW
+Sbjct  170  DLVPLSERGLYQAGFSATWSFASATGPLIGGAF-ASFDYRWLFW  212
+
+
+
+
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274462.1 Length: 592
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS23343.1 Length: 592
+>RHTO0S02e15874g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR37516.1 Length: 592 
+Range 1: 110 to 212
+
+Score:54.7 bits(130), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:36/104(35%), Positives:51/104(49%), Gaps:1/104(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            SGGLA  FGRRP++LAG+ ++ + SI    A +   ++  R IQ  G     AI   ++ 
+Sbjct  110  SGGLAYIFGRRPVMLAGLGLFSLGSIVGGAAKNMTTMLAGRGIQGAGAGVIFAIVEIILS  169
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFW  259
+            D     ERG +    S         G LIG    A +D+R +FW
+Sbjct  170  DLVPLSERGLYQAGFSATWSFASATGPLIGGAF-ASFDYRWLFW  212
+
+
+
+
+>Efflux pump FUB11 [Rhodotorula toruloides]
+Sequence ID: KAJ8295775.1 Length: 604
+Range 1: 21 to 273
+
+Score:53.5 bits(127), Expect:4e-07, 
+Method:Compositional matrix adjust., 
+Identities:63/256(25%), Positives:100/256(39%), Gaps:43/256(16%)
+
+Query  64   LDSETSSHSSDDKVDPTQ-------QITAETKAPYTL------------LSYGQKWGMVA  104
+            LD   S H + D +D          Q T E+  PY +             S  +KW + A
+Sbjct  21   LDLHPSPHKAHDGLDAATASVPYDGQGTEES--PYIVKWLDGEDENPQNWSGTKKWLITA  78
+
+Query  105  ILTMCGFWSSLGSPIYYPALRQLEKQFNV------DENMV----------NVTVV-----  143
+               +     + GS IY   L      F V      DE+ V          +VT++     
+Sbjct  79   NAAVSTLCIAFGSSIYAGGLGDFLVYFKVSRRTRPDEDEVRLLTCASSQTSVTIITLGLS  138
+
+Query  144  VYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGI  203
+            +Y+L   + P +    ++ +GR+P+ LA   ++ + +I  A A +   ++  R +     
+Sbjct  139  LYVLGFALGPLLWAPFSEQWGRKPVFLATYFLFAVFNIPCALAKNIETLLICRFLAGFFG  198
+
+Query  204  SPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTI  263
+            S  +  S GV+ D     ER   +   +     G   G +IG  L     WR +FW LTI
+Sbjct  199  SSPLTNSGGVISDMFSASERALGISIFALAPFAGPVLGPIIGGFLGQNASWRWLFWLLTI  258
+
+Query  264  GCGSCFLIAFLILPET  279
+                 + + FL  PET
+Sbjct  259  FAFVMWGLGFLS-PET  273
+
+
+
+
+>cycloheximide resistance protein, Mfs transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270439.1 Length: 545
+>cycloheximide resistance protein, Mfs transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS19320.1 Length: 545 
+Range 1: 57 to 485
+
+Score:52.0 bits(123), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:99/459(22%), Positives:184/459(40%), Gaps:50/459(10%)
+
+Query  73   SDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFN  132
+            SDD  DP      +    Y +L YG          +CG   +LG P+   A  ++ + F 
+Sbjct  57   SDDPNDPLNWPRWKKHLTYGVLMYGT--------VLCG---ALG-PLVAGAQVEMAQIFG  104
+
+Query  133  VD-ENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGV  191
+            V  + M        +   GI+  V   LA  +G+RP+ L   +  ++ +I  + A +YGV
+Sbjct  105  VSLQAMSRALGTALVATLGIATLVWAPLATKYGKRPVYLLSTVFMLVGTIVASEAKTYGV  164
+
+Query  192  IIFLRCIQSIGISPTIAISSGVVGDFTLKHERG----TFVGATSGFVLLGQCFGSLIGAV  247
+            ++  R +Q +G +    +    + D    HERG     F  A    + +       + A 
+Sbjct  165  LLGSRILQGVGQAVCEFLCGSTINDIYFVHERGWPIALFTIALLNGINVTPPISGQVFAH  224
+
+Query  248  LTARWDWRAIFWFLTIGCGSCFLIAFLILPET----KRTIAGNLSI--------KPKRFI  295
+            L  RW WR IF+  TI      ++    LPET    +R +A + +         KP+   
+Sbjct  225  LGWRWCWR-IFYIATI---LLLVLQIFFLPETTYNRRRVVAPSKATDEKLSDLDKPELDQ  280
+
+Query  296  NRAPIFLLGPVRRRFKYDNPDYE---TLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLF  352
+              +    +   ++ F  +   Y      D +  +L       +L  P ++ ++   G L+
+Sbjct  281  LESGSSHMHKQKKSFLQEMSLYSGPFDKDRSFLQLAFEPVAALLS-PAVLYAVCTYG-LY  338
+
+Query  353  AMWTLMLSSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFE  412
+              + +++++ S+ + V  Y++  V +G  YL   +   + +   G + D Y  R++    
+Sbjct  339  ITFLVVIATGSAQVYVGVYSFGAVGVGNTYLAPLVADFLAAALVGPLTD-YLARRL----  393
+
+Query  413  QDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSY  472
+               ANG I +       + RL  +L     +   ++ FG SI       + +I + + ++
+Sbjct  394  -SAANGGIFEP------EFRLPVMLAFFICSGAGFIGFGLSIRNHLSYWAPIIFAGILNF  446
+
+Query  473  CAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIF  511
+                        +V+ +   S  A     F + +LS IF
+Sbjct  447  GITIGCHGVIAYVVECHRHSSDAALGAVIFGKNALSAIF  485
+
+
+
+
+>RHTO0S24e01354g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR49231.1 Length: 566
+Range 1: 78 to 506
+
+Score:52.0 bits(123), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:99/459(22%), Positives:184/459(40%), Gaps:50/459(10%)
+
+Query  73   SDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQFN  132
+            SDD  DP      +    Y +L YG          +CG   +LG P+   A  ++ + F 
+Sbjct  78   SDDPNDPLNWPRWKKHLTYGVLMYGT--------VLCG---ALG-PLVAGAQVEMAQIFG  125
+
+Query  133  VD-ENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGV  191
+            V  + M        +   GI+  V   LA  +G+RP+ L   +  ++ +I  + A +YGV
+Sbjct  126  VSLQAMSRALGTALVATLGIATLVWAPLATKYGKRPVYLLSTVFMLVGTIVASEAKTYGV  185
+
+Query  192  IIFLRCIQSIGISPTIAISSGVVGDFTLKHERG----TFVGATSGFVLLGQCFGSLIGAV  247
+            ++  R +Q +G +    +    + D    HERG     F  A    + +       + A 
+Sbjct  186  LLGSRILQGVGQAVCEFLCGSTINDIYFVHERGWPIALFTIALLNGINVTPPISGQVFAH  245
+
+Query  248  LTARWDWRAIFWFLTIGCGSCFLIAFLILPET----KRTIAGNLSI--------KPKRFI  295
+            L  RW WR IF+  TI      ++    LPET    +R +A + +         KP+   
+Sbjct  246  LGWRWCWR-IFYIATI---LLLVLQIFFLPETTYNRRRVVAPSKATDEKLSDLDKPELDQ  301
+
+Query  296  NRAPIFLLGPVRRRFKYDNPDYE---TLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLF  352
+              +    +   ++ F  +   Y      D +  +L       +L  P ++ ++   G L+
+Sbjct  302  LESGSSHMHKQKKSFLQEMSLYSGPFDKDRSFLQLAFEPVAALLS-PAVLYAVCTYG-LY  359
+
+Query  353  AMWTLMLSSISSGLSVAPYNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFE  412
+              + +++++ S+ + V  Y++  V +G  YL   +   + +   G + D Y  R++    
+Sbjct  360  ITFLVVIATGSAQVYVGVYSFGAVGVGNTYLAPLVADFLAAALVGPLTD-YLARRL----  414
+
+Query  413  QDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSY  472
+               ANG I +       + RL  +L     +   ++ FG SI       + +I + + ++
+Sbjct  415  -SAANGGIFEP------EFRLPVMLAFFICSGAGFIGFGLSIRNHLSYWAPIIFAGILNF  467
+
+Query  473  CAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTIF  511
+                        +V+ +   S  A     F + +LS IF
+Sbjct  468  GITIGCHGVIAYVVECHRHSSDAALGAVIFGKNALSAIF  506
+
+
+
+
+>hypothetical protein RTG_00781 [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12767.1 Length: 544
+>Major facilitator superfamily domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ74770.1 Length: 544 
+Range 1: 25 to 449
+
+Score:50.4 bits(119), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:93/454(20%), Positives:167/454(36%), Gaps:63/454(13%)
+
+Query  47   NSHGTLSKTTTREIEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAIL  106
+             +  T S   ++   G  D       SDD +DP        +A Y +L  G       + 
+Sbjct  25   ETQTTESDVFSKHAPGRPDLILVPTPSDDPLDPLNWSRFRKEAAYAVLLLG-----TCLA  79
+
+Query  107  TMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRR  166
+              CG    L +P +     QLE+  +     +N ++V  +   G+   +   +   +G R
+Sbjct  80   GTCG---PLVAPAFVEMSHQLERPLSQIATGLNGSLVFAI---GVGSCIFAPIQTKWGTR  133
+
+Query  167  PIILAGMLIYVIASI-GLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGT  225
+            P  L   ++  ++ I   A   ++  +   R +Q + +      +   +   T  HERG 
+Sbjct  134  PSFLIASVVAFVSQIWAGASGTNFPSLCAARVLQGLAMGCWFNGAPSAIAAITFVHERGF  193
+
+Query  226  FVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPET------  279
+             +   +  ++ G   G +I A +  R  W   FW+ ++  G   L    ++PE       
+Sbjct  194  RIALWNLGLVGGINLGPVISAQICQRQGWHFAFWWQSLAAGLVLLGTIFLVPEMEYDRSY  253
+
+Query  280  -------KRTI--AGNLSIKPKRFINRAPIFLLGPV---------RRRFKYDNPDYETLD  321
+                   +R +  +G+ S    +F+      +LG V           R ++    + T  
+Sbjct  254  YYAELERRREMLTSGSGSPSEDKFVPEQKEIVLGKVVTAPRDIERGTRSRWTQYRFSTGS  313
+
+Query  322  PTIPKLDLSSAGKIL------VLPEIILSLFPSGLLFAMWTLMLSSISSGLSVAPYNY-H  374
+                K D+S     L      + P II +     + F +  L  +  +      PYN   
+Sbjct  314  ----KTDVSFLTLFLRPFYYFISPTIIWAALTFSVCFKLLPLAATVYAQVFGAPPYNLTV  369
+
+Query  375  LVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRLV  434
+              I  V  +P  IG L+G+F TG + DM       K+   + NG+   + E  +  + L 
+Sbjct  370  GGIGLVGGIPPLIGTLIGTFATGPLSDMS-----AKYLSKRNNGI--YEPEFRLLPMIL-  421
+
+Query  435  CLLPQNFLAVVAYLLFGWSIDK--GWRIESILIT  466
+                  FL       +GW + +   W + +I I 
+Sbjct  422  ------FLVFGGMGFYGWGLQQSSSWIVPAIFIA  449
+
+
+
+
+>putative MFS-type transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8294718.1 Length: 587
+Range 1: 109 to 576
+
+Score:48.5 bits(114), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:99/493(20%), Positives:188/493(38%), Gaps:35/493(7%)
+
+Query  72   SSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAILTMCGFWSSLGSPIYYPALRQLEKQF  131
+            + D +     Q + + + P     + +K  ++ I+ +  F     S    P L    +++
+Sbjct  109  AKDGRTILVPQPSDDPRDPLNWPEW-KKHAILIIVALAAFGGDFQSGAGIPLLLSQGEEW  167
+
+Query  132  NVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGV  191
+             +    VN    + +L  GI   V       +GR P++    LI     +G      +  
+Sbjct  168  GLSPAKVNEAGNLNVLLLGIGGLVWIPPLYFWGRLPVLFWTQLIGTFMVLGSVLVQDFNA  227
+
+Query  192  IIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTAR  251
+               LR + S+ ++    I    V D    HE    +G      L     G   G  + + 
+Sbjct  228  YYALRPLTSLFLTAGQTIGLTFVKDMFYFHEHARKIGLWVVIFLCSPYCGPFFGGFIVSG  287
+
+Query  252  WD--WRAIFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKPKRFINRAPIF--LLGPVR  307
+             +  WR + W   +   SCF++  +I    +     +LS++P+R       F  L+G   
+Sbjct  288  LNGAWRPVLW--VVFAWSCFVLLLVIFLADETWYDRSLSVQPERPTGVYGRFCNLVGITG  345
+
+Query  308  RRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLLFAMWTLMLSSISSGLS  367
+             R +   P+     P+I +L      ++   P + +      L F MW + ++  SS + 
+Sbjct  346  IRQRAYKPN---AFPSIMRLF-----EVFTKPTLWMVFVVYALSF-MWAVGINITSSIIL  396
+
+Query  368  VAP-----YNYHLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQ  422
+              P     Y   L    V YL   +  ++G        D    R ++K      NG+   
+Sbjct  397  ATPKVAGGYGLTLKQTSVVYLTPLVALILGEGIGHVANDWIANRYVRKH-----NGVFKP  451
+
+Query  423  DAEINMFKVRLVCLLPQNFLAVVAYLLFGWSIDKGWRIESILITSFVCSYCAMSTLSTST  482
+            +  + +F          + L +   +L G ++ KG  + +I++         M +    T
+Sbjct  452  ECRLYIFPF-------ASILMIAGLVLVGQALAKGLSVGAIVVGWGGYVLGVMVSSVAIT  504
+
+Query  483  TLLVDLYPTKSSTASSCFNFVRCSLSTIFMGCF-AKMKAAMTVGGTFTFLCALVFFFNFL  541
+              ++D++P+ S   S+  N  R ++S   +G F A    A+    +F    A+V F   L
+Sbjct  505  AYILDVFPSASGEVSAAVNLSR-TISGFSVGYFQAPWGEAVGYDVSFGIQAAIVAFAMGL  563
+
+Query  542  MFIPMKYGMKWRE  554
+            +F+ +  G + R+
+Sbjct  564  VFVLIAVGERIRK  576
+
+
+
+
+>RHTO0S01e17964g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36270.1 Length: 588
+Range 1: 107 to 280
+
+Score:48.5 bits(114), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:49/175(28%), Positives:76/175(43%), Gaps:7/175(4%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +L++ + S     A S  + I  R IQ IG    + ++  +V 
+Sbjct  107  TGGLANIFGRRPVLVAALLLFALGSALTGAAQSMAMAIAGRSIQGIGGGAILTMAEIIVI  166
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWF---LTIGCGSCFLIA  272
+            D     ERG+++G       +    G  IG  L     WR +F+    LT G     ++ 
+Sbjct  167  DLVPLAERGSYMGILGAVWAIASVAGPPIGGGLATAGAWRWLFYLNLPLT-GLAFALVVV  225
+
+Query  273  FLILPETKRTIAGNLSIKPKR---FINRAPIFLLGPVRRRFKYDNPDYETLDPTI  324
+            FL +   + T+   L         F+  A   +LG       Y    Y  L P I
+Sbjct  226  FLDIKAPQTTLKEKLEQMDYANVIFVAGATALILGLTWGGSAYPWSSYHVLAPLI  280
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274486.1 Length: 544
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS23367.1 Length: 544
+>RHTO0S02e15346g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR37477.1 Length: 544 
+Range 1: 25 to 449
+
+Score:48.1 bits(113), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:93/455(20%), Positives:165/455(36%), Gaps:65/455(14%)
+
+Query  47   NSHGTLSKTTTREIEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAIL  106
+             +  T S   ++   G  D       SDD +DP        +A Y +L  G       + 
+Sbjct  25   ETQTTESDVFSKHAPGRPDLILVPTPSDDPLDPLNWSRFRKEAAYAVLLLG-----TCLA  79
+
+Query  107  TMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQ-GISPTVSGGLADCFGR  165
+              CG       P+  PA  ++ +Q     + +   +   L+F  G+   +   +   +G 
+Sbjct  80   GTCG-------PLVAPAFVEMSQQLGRPLSQIATGLNGSLVFAIGVGSCIFAPIQTKWGT  132
+
+Query  166  RPIILAGMLIYVIASI-GLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERG  224
+            RP  L   ++  ++ I   A   ++  +   R +Q + +      +   +   T  HERG
+Sbjct  133  RPSFLIASVVAFVSQIWAGASGTNFPSLCAARVLQGLAMGCWFNGAPSAIAAITFVHERG  192
+
+Query  225  TFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLTIGCGSCFLIAFLILPET-----  279
+              +   +  ++ G   G +I A +  R  W   FW+ ++  G   L    ++PE      
+Sbjct  193  FRIALWNLGLVGGINLGPVISAQICQRQGWHFAFWWQSLAAGLVLLGTIFLVPEMEYDRS  252
+
+Query  280  --------KRTI--AGNLSIKPKRFINRAPIFLLGPVRRRFKYDNPDYETLDP-------  322
+                    +R +   G+ S   +++       +LG V    +    D E   P       
+Sbjct  253  YYYAELERRREMLTTGSGSPSEEKYAPEQKEVVLGKVVTAPQ----DIERATPSRWTQYR  308
+
+Query  323  --TIPKLDLSSAGKIL------VLPEIILSLFPSGLLFAMWTLMLSSISSGLSVAPYNY-  373
+              T  K D+S     L      + P II +     + F +  L  +  +      PYN  
+Sbjct  309  FSTGSKTDVSFLTLFLRPFYYFISPTIIWASLTFSVCFNLLPLAATVYAQVFGAPPYNLT  368
+
+Query  374  HLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRL  433
+               I  V  +P  IG L+G+F TG + DM       K+   + NG+   + E  +  + L
+Sbjct  369  VGGIGLVGGIPPLIGTLIGTFATGPLSDMS-----AKYLSKRNNGI--YEPEFRLLPMIL  421
+
+Query  434  VCLLPQNFLAVVAYLLFGWSIDK--GWRIESILIT  466
+                   FL       +GW + +   W + +I I 
+Sbjct  422  -------FLVFGGMGFYGWGLQQSSSWIVPAIFIA  449
+
+
+
+
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273349.1 Length: 529
+>MFS transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS22230.1 Length: 529
+>RHTO0S08e06238g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR43816.1 Length: 529 
+Range 1: 19 to 518
+
+Score:47.4 bits(111), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:104/525(20%), Positives:198/525(37%), Gaps:42/525(8%)
+
+Query  47   NSHGTLSKTTTREIEGDLDSETSSHSS-------DDKVDPTQQITAETKAPYTLLSYGQK  99
+             +H   S T   +  G+L  +    ++       D +     Q + + + P     + +K
+Sbjct  19   GAHVVRSDTELEKDGGNLVLQVEDAAAAGLKTAKDGRTILVPQPSDDPRDPLNWPEW-KK  77
+
+Query  100  WGMVAILTMCGFWSSLGSPIYYPALRQLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGL  159
+              ++ I+ +  F     S    P L    +++ +    VN    + +L  GI   V    
+Sbjct  78   HAILIIVALAAFGGDFQSGAGIPLLLSQGEEWGLSPAKVNEAGNLNVLLLGIGGLVWIPP  137
+
+Query  160  ADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTL  219
+               +GR P++    LI     +G      +     LR + S+ ++    I    V D   
+Sbjct  138  LYFWGRLPVLFWTQLIGTFMVLGSVLVQDFNAYYALRPLTSLFLTAGQTIGLTFVKDMFY  197
+
+Query  220  KHERGTFVGATSGFVLLGQCFGSLIGAVLTARWD--WRAIFWFLTIGCGSCFLIAFLILP  277
+             HE    +G      L     G   G  + +  +  WR + W   +   SCF++  +I  
+Sbjct  198  FHEHARKIGLWVVIFLCSPYCGPFFGGFIVSGLNGAWRPVLW--VVFAWSCFVLLLVIFL  255
+
+Query  278  ETKRTIAGNLSIKPKRFINRAPIF--LLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKI  335
+              +     +LS++P+R       F  L+G    R +   P+     P+I +L      ++
+Sbjct  256  ADETWYDRSLSVQPERPTGVYGRFCNLVGITGIRQRAYKPN---AFPSIMRLF-----EV  307
+
+Query  336  LVLPEIILSLFPSGLLFAMWTLMLSSISSGLSVAP-----YNYHLVIIGVCYLPGGIGGL  390
+               P + +      L F MW + ++  SS +   P     Y   L    V YL   +  +
+Sbjct  308  FTKPTLWMVFVVYALSF-MWAVGINITSSIILATPKVAGGYGLTLKQTSVVYLTPLVALI  366
+
+Query  391  MGSFFTGRIIDMYFKRKIKKFEQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLF  450
+            +G        D    R ++K      NG+   +  + +F          + L +   +L 
+Sbjct  367  LGEGIGHVANDWIANRYVRKH-----NGVFKPECRLYIFPF-------ASILMIAGLVLV  414
+
+Query  451  GWSIDKGWRIESILITSFVCSYCAMSTLSTSTTLLVDLYPTKSSTASSCFNFVRCSLSTI  510
+            G ++ KG  + +I++         M +    T  ++D++P+ S   S+  N  R ++S  
+Sbjct  415  GQALAKGLSVGAIVVGWGGYVLGVMVSSVAITAYILDVFPSASGEVSAAVNLSR-TISGF  473
+
+Query  511  FMGCF-AKMKAAMTVGGTFTFLCALVFFFNFLMFIPMKYGMKWRE  554
+             +G F A    A+    +F    A+V F   L+F+ +  G + R+
+Sbjct  474  SVGYFQAPWGEAVGYDVSFGIQAAIVAFAMGLVFVLIAVGERIRK  518
+
+
+
+
+>Efflux pump FUS6 [Rhodotorula toruloides]
+Sequence ID: KAJ8294002.1 Length: 608
+Range 1: 107 to 210
+
+Score:47.4 bits(111), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:33/104(32%), Positives:53/104(50%), Gaps:0/104(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +L++ + S     A S  + I  R IQ IG    + ++  +V 
+Sbjct  107  TGGLANIFGRRPVLVAALLLFALGSALTGAAQSMAMAIAGRSIQGIGGGAILTMAEIIVI  166
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFW  259
+            D     ERG+++G       +    G  IG  L     WR +F+
+Sbjct  167  DLVPLAERGSYMGILGAVWAIASVAGPPIGGGLATAGAWRWLFY  210
+
+
+
+
+>Efflux pump FUS6 [Rhodotorula toruloides]
+Sequence ID: KAJ8294001.1 Length: 588
+Range 1: 107 to 211
+
+Score:47.0 bits(110), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:33/105(31%), Positives:53/105(50%), Gaps:0/105(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +L++ + S     A S  + I  R IQ IG    + ++  +V 
+Sbjct  107  TGGLANIFGRRPVLVAALLLFALGSALTGAAQSMAMAIAGRSIQGIGGGAILTMAEIIVI  166
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWF  260
+            D     ERG+++G       +    G  IG  L     WR +F+ 
+Sbjct  167  DLVPLAERGSYMGILGAVWAIASVAGPPIGGGLATAGAWRWLFYL  211
+
+
+
+
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270812.1 Length: 608
+>major facilitator superfamily protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS19693.1 Length: 608 
+Range 1: 107 to 210
+
+Score:47.0 bits(110), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:33/104(32%), Positives:53/104(50%), Gaps:0/104(0%)
+
+Query  156  SGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLRCIQSIGISPTIAISSGVVG  215
+            +GGLA+ FGRRP+++A +L++ + S     A S  + I  R IQ IG    + ++  +V 
+Sbjct  107  TGGLANIFGRRPVLVAALLLFALGSALTGAAQSMAMAIAGRSIQGIGGGAILTMAEIIVI  166
+
+Query  216  DFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFW  259
+            D     ERG+++G       +    G  IG  L     WR +F+
+Sbjct  167  DLVPLAERGSYMGILGAVWAIASVAGPPIGGGLATAGAWRWLFY  210
+
+
+
+
+>MFS multidrug transporter [Rhodotorula toruloides]
+Sequence ID: GEM06774.1 Length: 516
+Range 1: 85 to 227
+
+Score:47.0 bits(110), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:40/147(27%), Positives:59/147(40%), Gaps:8/147(5%)
+
+Query  137  MVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGLACAPSYGVIIFLR  196
+            +  + + ++LL     P     L++ +GRRP  + G L         A APSYG ++ LR
+Sbjct  85   LTALPLSLFLLGYVAGPWCWSPLSEAYGRRPFFVLGSLCLTAFLGASAAAPSYGALLVLR  144
+
+Query  197  CIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRA  256
+                   +  +  S  + GD     ERGT +   S     G   G ++G+    R  W  
+Sbjct  145  FFSGFFGAVPMTNSGALTGDIWHAKERGTAMSFYSVATFAGPALGPIVGSFAAYRLSWH-  203
+
+Query  257  IFWFLTIGCG----SCFLIAFLILPET  279
+              W   I C      C  + F  LPET
+Sbjct  204  --WAFIIPCLFSAILCVAVVFF-LPET  227
+
+
+
+
+>MFS transporter [Rhodotorula toruloides]
+Sequence ID: GEM12061.1 Length: 568
+Range 1: 25 to 471
+
+Score:45.4 bits(106), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:99/475(21%), Positives:167/475(35%), Gaps:83/475(17%)
+
+Query  47   NSHGTLSKTTTREIEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAIL  106
+             +  T S   ++   G  D       SDD +DP        +A Y +L  G       + 
+Sbjct  25   ETQTTESDVFSKHAPGRPDLILVPTPSDDPLDPLNWSRFRKEAAYAVLLLG-----TCLA  79
+
+Query  107  TMCGFWSSLGSPIYYPALRQLEKQF---------------NVDENMVNVTVVVYLLFQGI  151
+              CG       P+  PA  ++ +Q                +  ++ V   V   LL    
+Sbjct  80   GTCG-------PLVAPAFVEMSQQLGRPLSQIATGLNGEASCPQHAVASQVDDVLLRSTG  132
+
+Query  152  SPTVSGGLADC--------FGRRPIILAGMLIYVIASI-GLACAPSYGVIIFLRCIQSIG  202
+            S  ++ G+  C        +G RP  L   ++  ++ I   A   ++  +   R +Q +G
+Sbjct  133  SLVLAIGIGSCIFAPIQTKWGTRPSFLIAAVVAFVSQIWAGASGTNFPSLCAARVLQGLG  192
+
+Query  203  ISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLT  262
+            +      +   +   T  HERG  +   +  ++ G   G +I A +  R  W   FW+ +
+Sbjct  193  MGCWFNGAPSAIAAITFVHERGLRIALWNLGLVGGINLGPVISAQICQRQGWHFAFWWQS  252
+
+Query  263  IGCGSCFLIAFLILPET-------------KRTI--AGNLSIKPKRFINRAPIFLLGP--  305
+            +  G   L   +++PE              +R +  +G+ S    +F+      +LG   
+Sbjct  253  LAAGLVLLGTVILVPEMDYDRSYYYAELERRREMLTSGSGSPSEDKFVPEQKEVVLGKVI  312
+
+Query  306  -----VRRRFKYDNPDYETLDPTIPKLDLSSAGKIL------VLPEIILSLFPSGLLFAM  354
+                 V R        Y     T  K D+S     L      + P II S     + F +
+Sbjct  313  TAPQDVERGSSSRWTQYRF--STGSKTDVSFVALFLRPFYYFISPTIIWSALTFSVCFNL  370
+
+Query  355  WTLMLSSISSGLSVAPYNYH-LVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKFEQ  413
+              L  +  +      PYN     I  V  +P  IG L+G+F TG + D        KF  
+Sbjct  371  LPLAATVYAQVFGAPPYNLSVGGIGLVGGIPPLIGTLIGTFATGPLSDAS-----AKFLS  425
+
+Query  414  DKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSID--KGWRIESILIT  466
+             + NG+   + E  +  + L       FL       +GW +     W + +I I 
+Sbjct  426  KRNNGI--YEPEFRLLPMML-------FLVFGGMGFYGWGMQTSSSWIVPAIFIA  471
+
+
+
+
+>putative glucose transporter rco-3 [Rhodotorula toruloides]
+Sequence ID: PRQ76572.1 Length: 548
+Range 1: 48 to 291
+
+Score:43.1 bits(100), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:58/268(22%), Positives:108/268(40%), Gaps:28/268(10%)
+
+Query  116  GSPIYYPALR-QLEKQFNVDENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGML  174
+            GSP++  A+  +     +   N + V+++    F G    ++G +AD  GRRP I+AG  
+Sbjct  48   GSPVFIKAIMGEGHTALSSSRNSLIVSILSAGTFFG--ALIAGDIADRIGRRPTIIAGCF  105
+
+Query  175  IYVIASI-GLACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERGTFVGATSGF  233
+            +Y+   I  +  A +   I+  R I   G+    AI    + +   +  RG  V      
+Sbjct  106  VYMAGVIIQMFAATALATIVVGRLIAGFGVGFVSAIIILYMSEICPRKVRGALVSGYQFC  165
+
+Query  234  VLLGQCFGSLIGAVLTARWDWRA--IFWFLTIGCGSCFLIAFLILPETKRTIAGNLSIKP  291
+            + +G    +++    + R D  +  I   L    G    +    LP++           P
+Sbjct  166  ITIGLMLAAIVTNYTSNRSDSGSYRIPIGLQFAWGIILAVGLFFLPDS-----------P  214
+
+Query  292  KRFINRAPIFLLGPVRRRFKYDNPDYETLDPTIPKLDLSSAGKILVLPEIILSLFPSGLL  351
+            + ++ R  +     V  R +   P  + ++     L+L+   +I+   E+     P+G +
+Sbjct  215  RYYVKRGDLDRARDVLVRLRGQPPTSQYVE-----LELA---EIVANAEVEAKAIPTGSM  266
+
+Query  352  FAMWTLMLSSISSGLSVAPYNYHLVIIG  379
+            FA W+   +  S  L  A  N    I+G
+Sbjct  267  FASWS---ACFSGSLWEAKSNLRRTILG  291
+
+
+
+
+>putative MFS-type transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8296692.1 Length: 566
+Range 1: 25 to 471
+
+Score:41.6 bits(96), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:92/477(19%), Positives:166/477(34%), Gaps:87/477(18%)
+
+Query  47   NSHGTLSKTTTREIEGDLDSETSSHSSDDKVDPTQQITAETKAPYTLLSYGQKWGMVAIL  106
+             +  T S   ++   G  D       SDD +DP +      +A Y +L  G       + 
+Sbjct  25   ETQTTESDVFSKHAPGRPDLILVPTPSDDPLDPLKWSRFRKEAAYAVLLLG-----TCLA  79
+
+Query  107  TMCGFWSSLGSPIYYPALRQLEKQFNVD-----------------------ENMVNVTVV  143
+              CG       P+  PA  ++ +Q                           +N++  +  
+Sbjct  80   GTCG-------PLVAPAFVEMSQQLGRPLSQIATGLNGKASCSRHDAASQVDNLLQTSTG  132
+
+Query  144  VYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASI-GLACAPSYGVIIFLRCIQSIG  202
+              +   G+   +   +   +G RP  L   ++  ++ I   A   ++  +   R +Q + 
+Sbjct  133  SLVFAIGVGSCIFAPIQTKWGTRPSFLIASVVAFVSQIWAGASGTNFPSLCAARVLQGLA  192
+
+Query  203  ISPTIAISSGVVGDFTLKHERGTFVGATSGFVLLGQCFGSLIGAVLTARWDWRAIFWFLT  262
+            +      +   +   T  HERG  +   +  ++ G   G +I A +  R  W   FW+ +
+Sbjct  193  MGCWFNGAPSAIAAITFVHERGFRIALWNLGLVGGINLGPVISAQICQRQGWHFAFWWQS  252
+
+Query  263  IGCGSCFLIAFLILPET-------------KRTI--AGNLSIKPKRFINRAPIFLLGPVR  307
+            +  G   L    ++PE              +R +   G+ S   +++       +LG V 
+Sbjct  253  LAAGLVLLGTIFLVPEMEYDRSYYYAELERRREMLTTGSGSPSEEKYAPEQKEVVLGKVV  312
+
+Query  308  RRFKYDNPDYETLDP---------TIPKLDLSSAGKIL------VLPEIILSLFPSGLLF  352
+               +    D E   P         T  K D+S     L      + P II +     + F
+Sbjct  313  TAPQ----DIERATPSRWTQYRFSTGSKTDVSFLTLFLRPFYYFISPTIIWASLTFSVCF  368
+
+Query  353  AMWTLMLSSISSGLSVAPYNY-HLVIIGVCYLPGGIGGLMGSFFTGRIIDMYFKRKIKKF  411
+             +  L  +  +      PYN     I  V  +P  IG L+G+F TG + DM       K+
+Sbjct  369  NLLPLAATVYAQVFGAPPYNLTVGGIGLVGGIPPLIGTLIGTFATGPLSDMS-----AKY  423
+
+Query  412  EQDKANGLIPQDAEINMFKVRLVCLLPQNFLAVVAYLLFGWSIDK--GWRIESILIT  466
+               + NG+   + E  +  + L       FL       +GW + +   W + +I I 
+Sbjct  424  LSKRNNGIY--EPEFRLLPMIL-------FLVFGGMGFYGWGLQQSSSWIVPAIFIA  471
+
+
+
+
+>putative MFS-type transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8296750.1 Length: 1216
+Range 1: 730 to 890
+
+Score:40.0 bits(92), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:42/161(26%), Positives:67/161(41%), Gaps:9/161(5%)
+
+Query  73   SDDKVDPTQQITAETKAPYTLLSYGQ----KWGMVAILTMCGFWSSLGSP--IYYPALRQ  126
+            SDD  DP      +    Y +L YG       G +      G  S +G    I  P   Q
+Sbjct  730  SDDPNDPLNWPRWKKHLTYGVLMYGTVLCGALGPLVAGVSEGATSKIGGSTLISPPTQAQ  789
+
+Query  127  LE--KQFNVD-ENMVNVTVVVYLLFQGISPTVSGGLADCFGRRPIILAGMLIYVIASIGL  183
+            +E  + F V  + M        +   GI+  V   LA  +G+RP+ L   +  ++ +I  
+Sbjct  790  VEMAQIFGVSLQAMSRALGTALVATLGIATLVWAPLATKYGKRPVYLLSTVFMLVGTIVA  849
+
+Query  184  ACAPSYGVIIFLRCIQSIGISPTIAISSGVVGDFTLKHERG  224
+            + A +YGV++  R +Q +G +    +    + D    HERG
+Sbjct  850  SEAKTYGVLLGSRILQGVGQAVCEFLCGSTINDIYFVHERG  890
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,99 @@
+RID: CRHTWESY013	
+Job Title:tr|A0A2S9ZVK4|A0A2S9ZVK4_RHOTO Succinate dehydrogenase...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: tr|A0A2S9ZVK4|A0A2S9ZVK4_RHOTO Succinate dehydrogenase [ubiquinone] cytochrome b small subunit OS=Rhodosporidium toruloides OX=5286 GN=AAT19DRAFT_11802 PE=3 SV=1 Query ID: lcl|Query_51278 Length: 207
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+protein SHH4 [Saccharomyces cerevisiae S288C]                     Saccharomyce... NA              559292     79.0   79.0  60%   4e-19 30.77  168        NP_013265.1      
+succinate dehydrogenase membrane anchor subunit SDH4...           Saccharomyce... NA              559292     77.4   77.4  70%   2e-18 29.63  181        NP_010463.1      
+Tim18p [Saccharomyces cerevisiae S288C]                           Saccharomyce... NA              559292     57.4   57.4  80%   8e-11 25.28  192        NP_014940.4      
+
+
+Alignments:
+
+>protein SHH4 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_013265.1 Length: 168
+>RecName: Full=Mitochondrial inner membrane protein SHH4; AltName: Full=SDH4 homolog; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: Q06236.1 Length: 168 
+Range 1: 39 to 168
+
+Score:79.0 bits(193), Expect:4e-19, 
+Method:Compositional matrix adjust., 
+Identities:40/130(31%), Positives:67/130(51%), Gaps:5/130(3%)
+
+Query  83   VEGTVNDPTPFPTPNKAHGQYHWTFERLLSASLVPLIGATAVSSA--NPVLDGVLCTAIV  140
+            V GT ND +  P  ++A G YHW  ER LS +++PLI    V++   +   D  L   ++
+Sbjct  39   VSGTANDSSYMPPESRAQGSYHWIVERGLSLAVLPLIAVPLVTTGPISTFTDTFLSLVLL  98
+
+Query  141  AHSHMGFDQILTDYLHPRKFPVLGPIMSWLLRFATVGALVGVYQFETNDIGITELIKRAW  200
+             H H+GF   + DY+  R +  +     +LL   +  + VG+Y+ E+ + G+   +K  W
+Sbjct  99   GHCHIGFQSCIIDYISERVYGKVHHYAMYLLSLGSFLSFVGIYKLESQEAGLIASLKSLW  158
+
+Query  201  K---AEKKQE  207
+                 EKK++
+Sbjct  159  DNKPVEKKRQ  168
+
+
+
+
+>succinate dehydrogenase membrane anchor subunit SDH4 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_010463.1 Length: 181
+>RecName: Full=Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial; Short=CybS; AltName: Full=Succinate-ubiquinone reductase membrane anchor subunit; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P37298.1 Length: 181 
+Range 1: 14 to 173
+
+Score:77.4 bits(189), Expect:2e-18, 
+Method:Compositional matrix adjust., 
+Identities:48/162(30%), Positives:78/162(48%), Gaps:19/162(11%)
+
+Query  63   RSFHSGRPLAAAQSSAAK----PY----------VEGTVNDPTPFPTPNKAHGQYHWTFE  108
+            R FH+   + A QS+A K    P+          V GT ND    P  NK  G YHW  E
+Sbjct  14   RIFHTAT-VRAFQSTAKKSLTIPFLPVLPQKPGGVRGTPNDAYVPPPENKLEGSYHWYME  72
+
+Query  109  RLLSASLVPLIGATAVSSANPV---LDGVLCTAIVAHSHMGFDQILTDYLHPRKFPVLGP  165
+            ++ + S+VPL   TA+ +  P+    D      ++ + +M F+  +TDY+  R + V   
+Sbjct  73   KIFALSVVPL-ATTAMLTTGPLSTAADSFFSVMLLGYCYMEFNSCITDYISERVYGVWHK  131
+
+Query  166  IMSWLLRFATVGALVGVYQFETNDIGITELIKRAWKAEKKQE  207
+               ++L   +  +L G+Y+ ET + G+  L+K  W + +K  
+Sbjct  132  YAMYMLGLGSAVSLFGIYKLETENDGVVGLVKSLWDSSEKDN  173
+
+
+
+
+>Tim18p [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_014940.4 Length: 192
+>RecName: Full=Mitochondrial import inner membrane translocase subunit TIM18; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: Q08749.2 Length: 192
+>Cryo-EM structure of the TIM22 complex from yeast [Saccharomyces cerevisiae S288C]
+Sequence ID: 6LO8_D Length: 192 
+Range 1: 6 to 182
+
+Score:57.4 bits(137), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:45/178(25%), Positives:78/178(43%), Gaps:13/178(7%)
+
+Query  38   GLSAVLHV-TMSLTAIRS--PALRQLAARSFHSGRPLAAAQS----SAAKPYVEGTVNDP  90
+            GL  VL+  T+ +  +R+  P L     RSF+S   L A       +        +V   
+Sbjct  6    GLKPVLNASTVIVNPVRAVFPGLVLSTKRSFYSINRLNAENKINDIANTSKEASSSVQMF  65
+
+Query  91   TPFPTPNKAHGQYHWTFERLLSASLVPLIGATAVSS-----ANPVLDGVLCTAIVAHSHM  145
+             P P  ++    Y   +ER+   +L+PL      +S      NP+LD  L +  + +   
+Sbjct  66   KP-PEFSQFKDSYQKDYERIAKYTLIPLTMVPFYASFTGGVINPLLDASLSSIFLIYLQY  124
+
+Query  146  GFDQILTDYLHPRKFPVLGPIMSWLLRFATVGALVGVYQFETNDIGITELIKRAWKAE  203
+            GF   + DY+   K+P    +  + L   ++ +L G+Y+ ET + G  +L+K+ W   
+Sbjct  125  GFTSCIIDYIPKEKYPRWHKLALYCLYGGSMLSLYGIYELETKNNGFVDLVKKLWNEN  182
+
+
+
+
+
+
+
+		
+
+

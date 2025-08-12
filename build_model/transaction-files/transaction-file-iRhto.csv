@@ -1,0 +1,70 @@
+id,object_type,command
+# created on 2024-07-23 13:50:00 EST
+#adding medium ingredients not found in minimal media (original source of model medium) but in YPD according to https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmaranasgroup%2FiRhto_memote%2Fmaster%2Fsupplementary_files%2FSupplementary%2520Materials%25201.xlsx&wdOrigin=BROWSELINK
+# added cobalt as cofactor for enzymes despite not being stated as medium component because it was found in the original GSM model medium 
+EX_ala__L_e,r,lower_bound:0
+EX_arg__L_e,r,lower_bound:0
+EX_asn__L_e,r,lower_bound:0
+EX_asp__L_e,r,lower_bound:0
+EX_cys__L_e,r,lower_bound:0
+EX_gln__L_e,r,lower_bound:0
+EX_glu__L_e,r,lower_bound:0
+EX_gly_e,r,lower_bound:0
+EX_his__L_e,r,lower_bound:0
+EX_ile__L_e,r,lower_bound:0
+EX_leu__L_e,r,lower_bound:0
+EX_lys__L_e,r,lower_bound:0
+EX_met__L_e,r,lower_bound:0
+EX_phe__L_e,r,lower_bound:0
+EX_pro__L_e,r,lower_bound:0
+EX_ser__L_e,r,lower_bound:0
+EX_thr__L_e,r,lower_bound:0
+EX_trp__L_e,r,lower_bound:0
+EX_tyr__L_e,r,lower_bound:0
+EX_val__L_e,r,lower_bound:0
+EX_thm_e,r,lower_bound:-0.25
+EX_ribflv_e,r,lower_bound:-0.25
+EX_nac_e,r,lower_bound:-0.25
+EX_pydxn_e,r,lower_bound:-0.25
+EX_fol_e,r,lower_bound:-0.25
+EX_pnto__R_e,r,lower_bound:-0.25
+EX_4abz_e,r,lower_bound:-0.25
+EX_inost_e,r,lower_bound:-0.25
+
+# 2025-05-30: updated bounds to match scRBA's original version; corroborated by yeast9 (https://github.com/SysBioChalmers/yeast-GEM/blob/main/model/yeast-GEM.xlsx). All original values for these bounds were 0.
+IPPYP2_c,r,lower_bound:-1000
+IPPYP3_c,r,lower_bound:-1000
+ACACT40ir_c,r,lower_bound:-1000
+DBTS_c,r,lower_bound:-1000
+GHMT2r_m,r,lower_bound:-1000
+GPIA6_r,r,lower_bound:-1000
+GPIA7_r,r,lower_bound:-1000
+ACGS_m,r,lower_bound:-1000
+NDPK10_c,r,lower_bound:-1000
+NDPK6_c,r,lower_bound:-1000
+UGLT_c,r,lower_bound:-1000
+AKGCITta_m,r,lower_bound:-1000
+Ktps_e,r,lower_bound:-1000
+Ht_c_v,r,lower_bound:-1000
+THYMDt_c_e,r,lower_bound:-1000
+GPIA5_r,r,lower_bound:-1000
+## These risk allowing cycles
+PHCD_m,r,lower_bound:-1000
+4HGLSD_m,r,lower_bound:-1000
+ILEt_c_v,r,upper_bound:1000
+LEUt_c_v,r,upper_bound:1000
+TYRt_c_v,r,upper_bound:1000
+HCO3E_e,r,lower_bound:-1000
+HCO3t_c_n,r,lower_bound:-1000
+CITMALta_x,r,lower_bound:-1000
+
+## Present in yeast9; but should keep off to ensure acetaldehyde and ethanol can't be secreted
+#ACALDt_c_m,r,lower_bound:-1000
+
+# 2025-06-02: Added rxn directions present in GSM_iSace1144_rba.json but not iRhtoC.json.
+## These risk allowing cycles
+HCO3t_c_n,r,upper_bound:1000
+CITMALta_x,r,upper_bound:1000
+## turn off to avoid cycles (more serious than most cycles since they're not just transport reactions)
+#PHCD_m,r,upper_bound:1000
+#4HGLSD_m,r,upper_bound:1000

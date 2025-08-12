@@ -1,0 +1,538 @@
+{
+  "Seq_annot": {
+    "desc": [
+      {
+        "user": {
+          "type": {
+            "str": "Hist Seqalign"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "Hist Seqalign"
+              },
+              "data": {
+                "bool": true
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Type"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "psiblast"
+              },
+              "data": {
+                "int": 10
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Database Title"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects"
+              },
+              "data": {
+                "bool": false
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "data": {
+      "align": [
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 956
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 956
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 1.2270343479499e-134
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 372.859026857034
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 189
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 189
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 99.4736842105263
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 1.2270343479499e-134
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 372.859026857034
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 372.859026857034
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 99
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 100
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 189
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 1,
+              "ids": [
+                {
+                  "local": {
+                    "str": "Query_67386"
+                  }
+                },
+                {
+                  "other": {
+                    "accession": "NP_009526",
+                    "version": 1
+                  }
+                }
+              ],
+              "starts": [
+                0,
+                0
+              ],
+              "lens": [
+                189
+              ],
+              "strands": [
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 39,
+                  "data": {
+                    "strs": [
+                      "seqid:NP_009526.1",
+                      "seqid:NP_009641.1",
+                      "seqid:P0CX82.1",
+                      "seqid:P0CX83.1",
+                      "seqid:3JCT_R",
+                      "seqid:4V88_BR",
+                      "seqid:4V88_DR",
+                      "seqid:4V8T_R",
+                      "seqid:5APN_R",
+                      "seqid:5APO_R",
+                      "seqid:5FL8_R",
+                      "seqid:5H4P_R",
+                      "seqid:5JCS_R",
+                      "seqid:5MC6_BF",
+                      "seqid:5T62_e",
+                      "seqid:5T6R_e",
+                      "seqid:6ELZ_R",
+                      "seqid:6EM5_R",
+                      "seqid:6FT6_R",
+                      "seqid:6M62_R",
+                      "seqid:6N8J_R",
+                      "seqid:6N8K_R",
+                      "seqid:6N8L_R",
+                      "seqid:6N8M_e",
+                      "seqid:6N8N_e",
+                      "seqid:6N8O_e",
+                      "seqid:6Z6J_LR",
+                      "seqid:6Z6K_LR",
+                      "seqid:7AZY_H",
+                      "seqid:7BT6_R",
+                      "seqid:7BTB_R",
+                      "seqid:7OF1_R",
+                      "seqid:7OH3_R",
+                      "seqid:7OHQ_R",
+                      "seqid:7OHR_R",
+                      "seqid:7OHV_R",
+                      "seqid:7UG6_R",
+                      "seqid:7Z34_R",
+                      "seqid:8HFR_RP"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 946
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 946
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 3.87960770878304e-133
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 369.00703109786
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 188
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 188
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 99.4473684210526
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 3.87960770878304e-133
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 369.00703109786
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 369.00703109786
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 98
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 100
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 188
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 1,
+              "ids": [
+                {
+                  "local": {
+                    "str": "Query_67386"
+                  }
+                },
+                {
+                  "pdb": {
+                    "mol": "4U3M",
+                    "chain": 32,
+                    "chain_id": "M9"
+                  }
+                }
+              ],
+              "starts": [
+                1,
+                0
+              ],
+              "lens": [
+                188
+              ],
+              "strands": [
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 69,
+                  "data": {
+                    "strs": [
+                      "seqid:4U3M_M9",
+                      "seqid:4U3M_m9",
+                      "seqid:4U3N_M9",
+                      "seqid:4U3N_m9",
+                      "seqid:4U3U_M9",
+                      "seqid:4U3U_m9",
+                      "seqid:4U4N_M9",
+                      "seqid:4U4N_m9",
+                      "seqid:4U4O_M9",
+                      "seqid:4U4O_m9",
+                      "seqid:4U4Q_M9",
+                      "seqid:4U4Q_m9",
+                      "seqid:4U4R_M9",
+                      "seqid:4U4R_m9",
+                      "seqid:4U4U_M9",
+                      "seqid:4U4U_m9",
+                      "seqid:4U4Y_M9",
+                      "seqid:4U4Y_m9",
+                      "seqid:4U4Z_M9",
+                      "seqid:4U4Z_m9",
+                      "seqid:4U50_M9",
+                      "seqid:4U50_m9",
+                      "seqid:4U51_M9",
+                      "seqid:4U51_m9",
+                      "seqid:4U52_M9",
+                      "seqid:4U52_m9",
+                      "seqid:4U53_M9",
+                      "seqid:4U53_m9",
+                      "seqid:4U55_M9",
+                      "seqid:4U55_m9",
+                      "seqid:4U56_M9",
+                      "seqid:4U56_m9",
+                      "seqid:4U6F_M9",
+                      "seqid:4U6F_m9",
+                      "seqid:5DAT_M9",
+                      "seqid:5DAT_m9",
+                      "seqid:5DC3_M9",
+                      "seqid:5DC3_m9",
+                      "seqid:5DGE_M9",
+                      "seqid:5DGE_m9",
+                      "seqid:5DGF_M9",
+                      "seqid:5DGF_m9",
+                      "seqid:5DGV_M9",
+                      "seqid:5DGV_m9",
+                      "seqid:5FCI_M9",
+                      "seqid:5FCI_m9",
+                      "seqid:5FCJ_M9",
+                      "seqid:5FCJ_m9",
+                      "seqid:5I4L_M9",
+                      "seqid:5I4L_m9",
+                      "seqid:5MEI_CT",
+                      "seqid:5MEI_z",
+                      "seqid:5NDV_M9",
+                      "seqid:5NDV_m9",
+                      "seqid:5NDW_M9",
+                      "seqid:5NDW_m9",
+                      "seqid:5OBM_M9",
+                      "seqid:5OBM_m9",
+                      "seqid:5ON6_CT",
+                      "seqid:5ON6_z",
+                      "seqid:5TBW_CT",
+                      "seqid:5TBW_z",
+                      "seqid:6GQ1_R",
+                      "seqid:6GQB_R",
+                      "seqid:6T7T_LR",
+                      "seqid:6TB3_BF",
+                      "seqid:7B7D_Ln",
+                      "seqid:7NRC_LT",
+                      "seqid:7NRD_LT"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
+

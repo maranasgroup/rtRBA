@@ -1,0 +1,532 @@
+RID: D7XX37M5016	
+Job Title:sp|Q12265|KPR5_YEAST Ribose-phosphate pyrophosphokinase...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|Q12265|KPR5_YEAST Ribose-phosphate pyrophosphokinase 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PRS5 PE=1 SV=1 Query ID: lcl|Query_93332 Length: 496
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+ribose-phosphate pyrophosphokinase [Rhodotorula toruloides NP11]  Rhodotorula ... NA              1130832    109    313   56%   4e-26 55.81  365        XP_016271762.1   
+Phosphoribosyltransferase-like protein [Rhodotorula toruloides]   Rhodotorula ... NA              5286       109    320   58%   5e-26 55.81  375        PRQ72668.1       
+RHTO0S04e01794g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       109    321   58%   6e-26 55.81  375        CDR39123.1       
+ribose-phosphate pyrophosphokinase [Rhodotorula toruloides]       Rhodotorula ... NA              5286       109    322   58%   7e-26 55.81  375        GEM06377.1       
+RHTO0S20e01882g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       108    288   64%   8e-26 60.67  365        CDR48810.1       
+ribose-phosphate pyrophosphokinase [Rhodotorula toruloides NP11]  Rhodotorula ... NA              1130832    107    172   35%   3e-25 43.86  378        XP_016270672.1   
+Ribose-phosphate pyrophosphokinase 2 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       107    254   60%   4e-25 43.86  366        KAJ8291546.1     
+ribose-phosphate pyrophosphokinase [Rhodotorula toruloides]       Rhodotorula ... NA              5286       107    273   60%   4e-25 43.86  379        GEM11325.1       
+ribose-phosphate pyrophosphokinase 3 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       100    268   63%   3e-23 43.24  333        PRQ70396.1       
+
+
+Alignments:
+
+>ribose-phosphate pyrophosphokinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271762.1 Length: 365
+>ribose-phosphate pyrophosphokinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS20643.1 Length: 365 
+Range 1: 157 to 242
+
+Score:109 bits(273), Expect:4e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/86(56%), Positives:64/86(74%), Gaps:0/86(0%)
+
+Query  225  LIAHLLSAAGADHVITMDLHDPQFPGFFDIPVDNLYCKPIAQNYIQHRIPDYQDAVIVSP  284
+            L+A++L  AG DHVITMDLH  Q  GFF +PVDNL+ +P    +++  I D+ +A+IVSP
+Sbjct  157  LVANMLQIAGCDHVITMDLHASQIQGFFQVPVDNLWTEPSMVRWVKENIDDWHNAIIVSP  216
+
+Query  285  DAGGAKRATAIADALELSFALIHKER  310
+            DAGGAKRAT +AD L+  FALI++ R
+Sbjct  217  DAGGAKRATNLADRLDCDFALINRNR  242
+
+
+
+
+Range 2: 256 to 365
+
+Score:107 bits(268), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:48/111(43%), Positives:81/111(72%), Gaps:1/111(0%)
+
+Query  383  MLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERIGQSS  442
+            +LVGDV+NK  I++DD+ DT  TI  A + L ++G+ +VYAL++HG+ SG ++E + +  
+Sbjct  256  LLVGDVKNKTAILIDDMADTGGTIKLATQTLVEKGAKEVYALVSHGLLSGRSMEELAKMP  315
+
+Query  443  IDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLFE  493
+            + K+++SNTV Q    +   + +++V+D+S ++ E+IRR HNGESIS+LF+
+Sbjct  316  LVKVVVSNTVCQTEHFKT-AQGKLEVMDISPVLAESIRRTHNGESISLLFK  365
+
+
+
+
+Range 3: 5 to 62
+
+Score:55.5 bits(132), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:26/58(45%), Positives:40/58(68%), Gaps:0/58(0%)
+
+Query  4   SNIVVFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSG  61
+           S+I +  G+SHPEL   + + L I  +   + KFS+ ET++ + ESVRE+DV+IIQ+G
+Sbjct  5   SSIKLLTGNSHPELAQMVAQRLGIPLTPCTVKKFSDNETSVQIGESVREEDVFIIQTG  62
+
+
+
+
+Range 4: 120 to 143
+
+Score:40.4 bits(93), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:17/24(71%), Positives:21/24(87%), Gaps:0/24(0%)
+
+Query  66   NDTFMQLLILISACKSASASRVTA  89
+            ND  M+LLI+ISACK+ASA R+TA
+Sbjct  120  NDLLMELLIMISACKTASAKRITA  143
+
+
+
+
+>Phosphoribosyltransferase-like protein [Rhodotorula toruloides]
+Sequence ID: PRQ72668.1 Length: 375
+Range 1: 167 to 252
+
+Score:109 bits(272), Expect:5e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/86(56%), Positives:64/86(74%), Gaps:0/86(0%)
+
+Query  225  LIAHLLSAAGADHVITMDLHDPQFPGFFDIPVDNLYCKPIAQNYIQHRIPDYQDAVIVSP  284
+            L+A++L  AG DHVITMDLH  Q  GFF +PVDNL+ +P    +++  I D+ +A+IVSP
+Sbjct  167  LVANMLQIAGCDHVITMDLHASQIQGFFQVPVDNLWTEPSMVRWVKENIDDWHNAIIVSP  226
+
+Query  285  DAGGAKRATAIADALELSFALIHKER  310
+            DAGGAKRAT +AD L+  FALI++ R
+Sbjct  227  DAGGAKRATNLADRLDCDFALINRNR  252
+
+
+
+
+Range 2: 263 to 375
+
+Score:106 bits(265), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:48/114(42%), Positives:82/114(71%), Gaps:1/114(0%)
+
+Query  380  QTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERIG  439
+            +  +LVGDV+NK  I++DD+ DT  TI  A + L ++G+ +VYAL++HG+ SG ++E + 
+Sbjct  263  KMELLVGDVKNKTAILIDDMADTGGTIKLATQTLVEKGAKEVYALVSHGLLSGRSMEELA  322
+
+Query  440  QSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLFE  493
+            +  + K+++SNTV Q    +   + +++V+D+S ++ E+IRR HNGESIS+LF+
+Sbjct  323  KMPLVKVVVSNTVCQTEHFKK-AQGKLEVMDISPVLAESIRRTHNGESISLLFK  375
+
+
+
+
+Range 3: 5 to 62
+
+Score:55.1 bits(131), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:26/58(45%), Positives:40/58(68%), Gaps:0/58(0%)
+
+Query  4   SNIVVFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSG  61
+           S+I +  G+SHPEL   + + L I  +   + KFS+ ET++ + ESVRE+DV+IIQ+G
+Sbjct  5   SSIKLLTGNSHPELAQMVAQRLGIPLTPCTVKKFSDNETSVQIGESVREEDVFIIQTG  62
+
+
+
+
+Range 4: 120 to 152
+
+Score:49.7 bits(117), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:21/33(64%), Positives:27/33(81%), Gaps:0/33(0%)
+
+Query  66   NDTFMQLLILISACKSASASRVTAVMPYLCYSR  98
+            ND  M+LLI+ISACK+ASA R+TAV+P   Y+R
+Sbjct  120  NDLLMELLIMISACKTASAKRITAVIPCFPYAR  152
+
+
+
+
+>RHTO0S04e01794g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR39123.1 Length: 375
+Range 1: 167 to 252
+
+Score:109 bits(272), Expect:6e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/86(56%), Positives:64/86(74%), Gaps:0/86(0%)
+
+Query  225  LIAHLLSAAGADHVITMDLHDPQFPGFFDIPVDNLYCKPIAQNYIQHRIPDYQDAVIVSP  284
+            L+A++L  AG DHVITMDLH  Q  GFF +PVDNL+ +P    +++  I D+ +A+IVSP
+Sbjct  167  LVANMLQIAGCDHVITMDLHASQIQGFFQVPVDNLWTEPSMVRWVKENIDDWHNAIIVSP  226
+
+Query  285  DAGGAKRATAIADALELSFALIHKER  310
+            DAGGAKRAT +AD L+  FALI++ R
+Sbjct  227  DAGGAKRATNLADRLDCDFALINRNR  252
+
+
+
+
+Range 2: 266 to 375
+
+Score:107 bits(267), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:48/111(43%), Positives:81/111(72%), Gaps:1/111(0%)
+
+Query  383  MLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERIGQSS  442
+            +LVGDV+NK  I++DD+ DT  TI  A + L ++G+ +VYAL++HG+ SG ++E + +  
+Sbjct  266  LLVGDVKNKTAILIDDMADTGGTIKLATQTLVEKGAKEVYALVSHGLLSGRSMEELAKMP  325
+
+Query  443  IDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLFE  493
+            + K+++SNTV Q    +   + +++V+D+S ++ E+IRR HNGESIS+LF+
+Sbjct  326  LVKVVVSNTVCQTEHFKT-AQGKLEVMDISPVLAESIRRTHNGESISLLFK  375
+
+
+
+
+Range 3: 5 to 62
+
+Score:55.5 bits(132), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:26/58(45%), Positives:40/58(68%), Gaps:0/58(0%)
+
+Query  4   SNIVVFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSG  61
+           S+I +  G+SHPEL   + + L I  +   + KFS+ ET++ + ESVRE+DV+IIQ+G
+Sbjct  5   SSIKLLTGNSHPELAQMVAQRLGIPLTPCTVKKFSDNETSVQIGESVREEDVFIIQTG  62
+
+
+
+
+Range 4: 120 to 152
+
+Score:49.7 bits(117), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:21/33(64%), Positives:27/33(81%), Gaps:0/33(0%)
+
+Query  66   NDTFMQLLILISACKSASASRVTAVMPYLCYSR  98
+            ND  M+LLI+ISACK+ASA R+TAV+P   Y+R
+Sbjct  120  NDLLMELLIMISACKTASAKRITAVIPCFPYAR  152
+
+
+
+
+>ribose-phosphate pyrophosphokinase [Rhodotorula toruloides]
+Sequence ID: GEM06377.1 Length: 375
+Range 1: 167 to 252
+
+Score:109 bits(272), Expect:7e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/86(56%), Positives:64/86(74%), Gaps:0/86(0%)
+
+Query  225  LIAHLLSAAGADHVITMDLHDPQFPGFFDIPVDNLYCKPIAQNYIQHRIPDYQDAVIVSP  284
+            L+A++L  AG DHVITMDLH  Q  GFF +PVDNL+ +P    +++  I D+ +A+IVSP
+Sbjct  167  LVANMLQIAGCDHVITMDLHASQIQGFFQVPVDNLWTEPSMVRWVKENIDDWHNAIIVSP  226
+
+Query  285  DAGGAKRATAIADALELSFALIHKER  310
+            DAGGAKRAT +AD L+  FALI++ R
+Sbjct  227  DAGGAKRATNLADRLDCDFALINRNR  252
+
+
+
+
+Range 2: 263 to 375
+
+Score:107 bits(268), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:48/114(42%), Positives:83/114(72%), Gaps:1/114(0%)
+
+Query  380  QTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERIG  439
+            +  +LVGDV+NK  I++DD+ DT  TI  A + L ++G+ +VYAL++HG+ SG ++E + 
+Sbjct  263  KMELLVGDVKNKTAILIDDMADTGGTIKLATQTLVEKGAKEVYALVSHGLLSGRSMEELA  322
+
+Query  440  QSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLFE  493
+            +  + K+++SNTV Q   ++   + +++V+D+S ++ E+IRR HNGESIS+LF+
+Sbjct  323  KMPLVKVVVSNTVCQTEHIKK-AQGKLEVMDISPVLAESIRRTHNGESISLLFK  375
+
+
+
+
+Range 3: 5 to 62
+
+Score:55.5 bits(132), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:26/58(45%), Positives:40/58(68%), Gaps:0/58(0%)
+
+Query  4   SNIVVFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSG  61
+           S+I +  G+SHPEL   + + L I  +   + KFS+ ET++ + ESVRE+DV+IIQ+G
+Sbjct  5   SSIKLLTGNSHPELAQMVAQRLGIPLTPCTVKKFSDNETSVQIGESVREEDVFIIQTG  62
+
+
+
+
+Range 4: 120 to 152
+
+Score:50.1 bits(118), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:21/33(64%), Positives:27/33(81%), Gaps:0/33(0%)
+
+Query  66   NDTFMQLLILISACKSASASRVTAVMPYLCYSR  98
+            ND  M+LLI+ISACK+ASA R+TAV+P   Y+R
+Sbjct  120  NDLLMELLIMISACKTASAKRITAVIPCFPYAR  152
+
+
+
+
+>RHTO0S20e01882g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48810.1 Length: 365
+Range 1: 117 to 205
+
+Score:108 bits(271), Expect:8e-26, 
+Method:Compositional matrix adjust., 
+Identities:54/89(61%), Positives:68/89(76%), Gaps:2/89(2%)
+
+Query  225  LIAHLL-SAAGADHVITMDLHDPQFPGFFDIPVDNLYCKPIAQNYIQHRI-PDYQDAVIV  282
+            LIA++L   AG DHVITMDLH  Q  GFFDIPVDNLY +P    Y++  +  + Q++VIV
+Sbjct  117  LIANMLVEGAGIDHVITMDLHASQIQGFFDIPVDNLYAEPTMLQYLRDTMGKEVQNSVIV  176
+
+Query  283  SPDAGGAKRATAIADALELSFALIHKERR  311
+            SPDAGGAKRA+++A AL+L FAL HKER+
+Sbjct  177  SPDAGGAKRASSMAAALDLDFALFHKERK  205
+
+
+
+
+Range 2: 210 to 321
+
+Score:106 bits(265), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/114(44%), Positives:80/114(70%), Gaps:2/114(1%)
+
+Query  379  VQTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERI  438
+            +   +LVG+V++K  I++DD+ DT  T+  AAK L   G+ +V AL+THG+ SG AL+ +
+Sbjct  210  IARMVLVGNVQDKTAILIDDMADTCGTLALAAKHLLSNGAKRVVALVTHGILSGPALKVL  269
+
+Query  439  GQSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLF  492
+             +S ++KLI+SN++PQ+      G  ++ VID+S ++ EA+RR H+GES+S LF
+Sbjct  270  NESPLEKLIVSNSIPQEE--HKRGCPKLRVIDISHVLAEAVRRSHHGESVSQLF  321
+
+
+
+
+Range 3: 3 to 124
+
+Score:72.4 bits(176), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:43/124(35%), Positives:61/124(49%), Gaps:5/124(4%)
+
+Query  2    SMSNIVVFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSG  61
+            S  N+ +F G SHP+L   I   L +      +    +GE ++   ESVRE DVYI+ + 
+Sbjct  3    SADNLKIFSGTSHPQLAQLIARRLGLPLGSSSIVTLPSGELSVTFHESVREADVYIVATA  62
+
+Query  62   CGQ---VNDTFMQLLILISACKSASASRVTAVMPYLCYSRQPDIPYTAKGAPIISKPKEN  118
+             G     N   M+L I+    + ASA R+TAV+P+  Y+RQ         API +K   N
+Sbjct  63   GGMETSSNTALMELCIMAHTLRIASARRITAVLPHFPYARQDK--KDKSRAPITAKLIAN  120
+
+Query  119  YTFE  122
+               E
+Sbjct  121  MLVE  124
+
+
+
+
+>ribose-phosphate pyrophosphokinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270672.1 Length: 378
+>ribose-phosphate pyrophosphokinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS19553.1 Length: 378 
+Range 1: 223 to 334
+
+Score:107 bits(266), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/114(44%), Positives:81/114(71%), Gaps:2/114(1%)
+
+Query  379  VQTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERI  438
+            +   +LVG+V++K  I++DD+ DT  T+  AAK L   G+ +V AL+THG+ SG AL+ +
+Sbjct  223  IARMVLVGNVQDKTAILIDDMADTCGTLALAAKHLLSNGAKRVVALVTHGILSGPALKVL  282
+
+Query  439  GQSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLF  492
+             +S ++KLI+SN++PQ+   +  G  ++ VID+S ++ EA+RR H+GES+S LF
+Sbjct  283  NESPLEKLIVSNSIPQEEHKR--GCPKLRVIDISHVLAEAVRRSHHGESVSQLF  334
+
+
+
+
+Range 2: 155 to 218
+
+Score:65.1 bits(157), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:32/64(50%), Positives:44/64(68%), Gaps:1/64(1%)
+
+Query  249  PGFFDIPVDNLYCKPIAQNYIQHRI-PDYQDAVIVSPDAGGAKRATAIADALELSFALIH  307
+            PG F      LY +P    Y++  +  + Q++VIVSPDAGGAKRA+++A AL+L FAL H
+Sbjct  155  PGLFRHSRRQLYAEPTMLQYLRDTMGKEVQNSVIVSPDAGGAKRASSMAAALDLDFALFH  214
+
+Query  308  KERR  311
+            KER+
+Sbjct  215  KERK  218
+
+
+
+
+>Ribose-phosphate pyrophosphokinase 2 [Rhodotorula toruloides]
+Sequence ID: KAJ8291546.1 Length: 366
+Range 1: 211 to 322
+
+Score:107 bits(266), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/114(44%), Positives:80/114(70%), Gaps:2/114(1%)
+
+Query  379  VQTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERI  438
+            +   +LVG+V++K  I++DD+ DT  T+  AAK L   G+ +V AL+THG+ SG AL+ +
+Sbjct  211  IARMVLVGNVQDKTAILIDDMADTCGTLALAAKHLLSNGAKRVVALVTHGILSGPALKVL  270
+
+Query  439  GQSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLF  492
+             +S ++KLI+SN++PQ+      G  ++ VID+S ++ EA+RR H+GES+S LF
+Sbjct  271  NESPLEKLIVSNSIPQEE--HKRGCPKLRVIDISHVLAEAVRRSHHGESVSQLF  322
+
+
+
+
+Range 2: 117 to 206
+
+Score:75.5 bits(184), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/90(49%), Positives:58/90(64%), Gaps:3/90(3%)
+
+Query  225  LIAHLL-SAAGADHVITMD-LHDPQFPGFFDIPVDNLYCKPIAQNYIQHRI-PDYQDAVI  281
+            LIA++L   AG DHVI  D L     PG F      LY +P    Y++  +  + Q++VI
+Sbjct  117  LIANMLVEGAGIDHVIVYDGLAREPNPGLFRHSRRQLYAEPTMLQYLRDTMGKEVQNSVI  176
+
+Query  282  VSPDAGGAKRATAIADALELSFALIHKERR  311
+            VSPDAGGAKRA+++A AL+L FAL HKER+
+Sbjct  177  VSPDAGGAKRASSMAAALDLDFALFHKERK  206
+
+
+
+
+Range 3: 3 to 103
+
+Score:72.4 bits(176), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:37/101(37%), Positives:54/101(53%), Gaps:3/101(2%)
+
+Query  2    SMSNIVVFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSG  61
+            S  N+ +F G SHP+L   I   L +      +    +GE ++   ESVRE DVYI+ + 
+Sbjct  3    SADNLKIFSGTSHPQLAQLIARRLGLPLGSSSIVTLPSGELSVTFHESVREADVYIVATA  62
+
+Query  62   CGQ---VNDTFMQLLILISACKSASASRVTAVMPYLCYSRQ  99
+             G     N   M+L I+    + ASA R+TAV+P+  Y+RQ
+Sbjct  63   GGMETSSNTALMELCIMAHTLRIASARRITAVLPHFPYARQ  103
+
+
+
+
+>ribose-phosphate pyrophosphokinase [Rhodotorula toruloides]
+Sequence ID: GEM11325.1 Length: 379
+Range 1: 224 to 335
+
+Score:107 bits(266), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/114(44%), Positives:80/114(70%), Gaps:2/114(1%)
+
+Query  379  VQTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERI  438
+            +   +LVG+V++K  I++DD+ DT  T+  AAK L   G+ +V AL+THG+ SG AL+ +
+Sbjct  224  IARMVLVGNVQDKTAILIDDMADTCGTLALAAKHLLSNGAKRVVALVTHGILSGPALKVL  283
+
+Query  439  GQSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESISMLF  492
+             +S ++KLI+SN++PQ+      G  ++ VID+S ++ EA+RR H+GES+S LF
+Sbjct  284  NESPLEKLIVSNSIPQEE--HKRGCPKLRVIDISHVLAEAVRRSHHGESVSQLF  335
+
+
+
+
+Range 2: 130 to 219
+
+Score:101 bits(252), Expect:3e-23, 
+Method:Compositional matrix adjust., 
+Identities:53/90(59%), Positives:67/90(74%), Gaps:3/90(3%)
+
+Query  225  LIAHLL-SAAGADHVITMDLHDPQFPGFFDIPVDN-LYCKPIAQNYIQHRI-PDYQDAVI  281
+            LIA++L   AG DHVITMDLH  Q  GFFDIPVD  LY +P    Y++  +  + Q++VI
+Sbjct  130  LIANMLVEGAGIDHVITMDLHASQIQGFFDIPVDKYLYAEPTMLQYLRDTMGKEIQNSVI  189
+
+Query  282  VSPDAGGAKRATAIADALELSFALIHKERR  311
+            VSPDAGGAKRA+++A AL+L FAL HKER+
+Sbjct  190  VSPDAGGAKRASSMAAALDLDFALFHKERK  219
+
+
+
+
+Range 3: 3 to 116
+
+Score:65.1 bits(157), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:37/114(32%), Positives:55/114(48%), Gaps:16/114(14%)
+
+Query  2    SMSNIVVFGGD-------------SHPELVTKICENLDIHPSKVELGKFSNGETNIALRE  48
+            S  N+ +F G+             SHP+L   I   L +      +    +GE ++   E
+Sbjct  3    SADNLKIFSGELHLLPQPARPARTSHPQLAQLIARRLGLSLGSSSIVTLPSGELSVTFHE  62
+
+Query  49   SVREKDVYIIQSGCGQ---VNDTFMQLLILISACKSASASRVTAVMPYLCYSRQ  99
+            SVRE DVYI+ +  G     N   M+L I+    + ASA R+TAV+P+  Y+RQ
+Sbjct  63   SVREADVYIVATAGGMETSSNTALMELCIMAHTLRIASARRITAVLPHFPYARQ  116
+
+
+
+
+>ribose-phosphate pyrophosphokinase 3, partial [Rhodotorula toruloides]
+Sequence ID: PRQ70396.1 Length: 333
+Range 1: 199 to 307
+
+Score:100 bits(250), Expect:3e-23, 
+Method:Compositional matrix adjust., 
+Identities:48/111(43%), Positives:78/111(70%), Gaps:2/111(1%)
+
+Query  379  VQTTMLVGDVRNKVCIIVDDLVDTSYTITRAAKLLKDQGSTKVYALITHGVFSGDALERI  438
+            +   +LVG+V++K  I++DD+ DT  T+  AAK L   G+ +V AL+THG+ SG AL+ +
+Sbjct  199  IARMVLVGNVQDKTAILIDDMADTCGTLALAAKHLLSNGAKRVVALVTHGILSGPALKVL  258
+
+Query  439  GQSSIDKLIISNTVPQDRTLQYLGKDRVDVIDVSCIIGEAIRRIHNGESIS  489
+             +S ++KLI+SN++PQ+      G  ++ VID+S ++ EA+RR H+GES+S
+Sbjct  259  NESPLEKLIVSNSIPQEE--HKRGCPKLRVIDISHVLAEAVRRSHHGESVS  307
+
+
+
+
+Range 2: 109 to 194
+
+Score:98.2 bits(243), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:51/89(57%), Positives:65/89(73%), Gaps:5/89(5%)
+
+Query  225  LIAHLL-SAAGADHVITMDLHDPQFPGFFDIPVDNLYCKPIAQNYIQHRI-PDYQDAVIV  282
+            LIA++L   AG DHVITMDLH  Q  GFFDIP   LY +P    Y++  +  + Q++VIV
+Sbjct  109  LIANMLVEGAGIDHVITMDLHASQIQGFFDIP---LYAEPTMLQYLRDTMGKEVQNSVIV  165
+
+Query  283  SPDAGGAKRATAIADALELSFALIHKERR  311
+            SPDAGGAKRA+++A AL+L FAL HKER+
+Sbjct  166  SPDAGGAKRASSMAAALDLDFALFHKERK  194
+
+
+
+
+Range 3: 1 to 116
+
+Score:69.3 bits(168), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:41/118(35%), Positives:58/118(49%), Gaps:5/118(4%)
+
+Query  8    VFGGDSHPELVTKICENLDIHPSKVELGKFSNGETNIALRESVREKDVYIIQSGCGQ---  64
+            V+ G SHP+L   I   L +      +    +GE ++   ESVRE DVYI+ +  G    
+Sbjct  1    VYAGTSHPQLAQLIARRLGLPLGSSSIVTLPSGELSVTFHESVREADVYIVATAGGMETS  60
+
+Query  65   VNDTFMQLLILISACKSASASRVTAVMPYLCYSRQPDIPYTAKGAPIISKPKENYTFE  122
+             N   M+L I+    + ASA R+TAV+P+  Y+RQ         API +K   N   E
+Sbjct  61   SNTALMELCIMAHTLRIASARRITAVLPHFPYARQDK--KDKSRAPITAKLIANMLVE  116
+
+
+
+
+
+
+
+		
+
+

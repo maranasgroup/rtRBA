@@ -1,0 +1,93 @@
+RID: CRGG4SSY01N	
+Job Title:sp|P37298|DHSD_YEAST Succinate dehydrogenase...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P37298|DHSD_YEAST Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SDH4 PE=1 SV=1 Query ID: lcl|Query_541172 Length: 181
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+succinate dehydrogenase (ubiquinone) membrane anchor subunit...   Rhodotorula ... NA              5286       77.4   77.4  69%   3e-18 30.95  160        GEM07294.1       
+CybS-domain containing protein [Rhodotorula toruloides]           Rhodotorula ... NA              5286       77.4   77.4  70%   1e-17 30.47  207        PRQ69781.1       
+succinate dehydrogenase (ubiquinone) membrane anchor subunit...   Rhodotorula ... NA              1130832    75.9   75.9  70%   2e-17 29.69  161        XP_016273563.1   
+
+
+Alignments:
+
+>succinate dehydrogenase (ubiquinone) membrane anchor subunit [Rhodotorula toruloides]
+Sequence ID: GEM07294.1 Length: 160
+Range 1: 36 to 158
+
+Score:77.4 bits(189), Expect:3e-18, 
+Method:Compositional matrix adjust., 
+Identities:39/126(31%), Positives:66/126(52%), Gaps:4/126(3%)
+
+Query  47   VRGTPNDAYVPPPENKLEGSYHWYMEKIFALSVVPL-ATTAMLTTGPLSTAADSFFSVML  105
+            V GT ND    P  NK  G YHW  E++ + S+VPL   TA+ +  P+    D      +
+Sbjct  36   VEGTVNDPTPFPTPNKAHGQYHWTFERLLSASLVPLIGATAVSSANPV---LDGVLCTAI  92
+
+Query  106  LGYCYMEFNSCITDYISERVYGVWHKYAMYMLGLGSAVSLFGIYKLETENDGVVGLVKSL  165
+            + + ++ F+  +TDY+  R + V      ++L L +  +L G+Y+ ET + G+  L+K  
+Sbjct  93   VAHSHLGFDQILTDYLHPRKFPVLGPIMSWLLRLATVGALVGVYQFETNDIGITELIKRA  152
+
+Query  166  WDSSEK  171
+            W + +K
+Sbjct  153  WKAEKK  158
+
+
+
+
+>CybS-domain containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ69781.1 Length: 207
+Range 1: 83 to 207
+
+Score:77.4 bits(189), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:39/128(30%), Positives:65/128(50%), Gaps:4/128(3%)
+
+Query  47   VRGTPNDAYVPPPENKLEGSYHWYMEKIFALSVVPL-ATTAMLTTGPLSTAADSFFSVML  105
+            V GT ND    P  NK  G YHW  E++ + S+VPL   TA+ +  P+    D      +
+Sbjct  83   VEGTVNDPTPFPTPNKAHGQYHWTFERLLSASLVPLIGATAVSSANPV---LDGVLCTAI  139
+
+Query  106  LGYCYMEFNSCITDYISERVYGVWHKYAMYMLGLGSAVSLFGIYKLETENDGVVGLVKSL  165
+            + + +M F+  +TDY+  R + V      ++L   +  +L G+Y+ ET + G+  L+K  
+Sbjct  140  VAHSHMGFDQILTDYLHPRKFPVLGPIMSWLLRFATVGALVGVYQFETNDIGITELIKRA  199
+
+Query  166  WDSSEKDN  173
+            W + +K  
+Sbjct  200  WKAEKKQE  207
+
+
+
+
+>succinate dehydrogenase (ubiquinone) membrane anchor subunit [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273563.1 Length: 161
+>succinate dehydrogenase (ubiquinone) membrane anchor subunit [Rhodotorula toruloides NP11]
+Sequence ID: EMS22444.1 Length: 161 
+Range 1: 37 to 161
+
+Score:75.9 bits(185), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:38/128(30%), Positives:65/128(50%), Gaps:4/128(3%)
+
+Query  47   VRGTPNDAYVPPPENKLEGSYHWYMEKIFALSVVPL-ATTAMLTTGPLSTAADSFFSVML  105
+            V GT ND    P  NK  G YHW  E++ + S+VPL   TA+ +  P+    D      +
+Sbjct  37   VEGTVNDPTPFPTPNKAHGQYHWTFERLLSASLVPLIGATAVSSANPV---LDGVLCTAI  93
+
+Query  106  LGYCYMEFNSCITDYISERVYGVWHKYAMYMLGLGSAVSLFGIYKLETENDGVVGLVKSL  165
+            + + +M F+  +TDY+  R + V      ++L   +  +L G+Y+ ET + G+  L+K  
+Sbjct  94   VAHSHMGFDQILTDYLHPRKFPVLGPIMSWLLRFATVGALVGVYQFETNDIGITELIKRA  153
+
+Query  166  WDSSEKDN  173
+            W + ++  
+Sbjct  154  WKAEKEQE  161
+
+
+
+
+
+
+
+		
+
+

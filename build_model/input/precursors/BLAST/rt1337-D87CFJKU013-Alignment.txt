@@ -1,0 +1,247 @@
+RID: D87CFJKU013	
+Job Title:tr|A0A0K3CR23|A0A0K3CR23_RHOTO BY PROTMAP:...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: tr|A0A0K3CR23|A0A0K3CR23_RHOTO BY PROTMAP: gi|647399741|emb|CDR44724.1| RHTO0S09e08020g1_1 [Rhodosporidium toruloides] OS=Rhodosporidium toruloides OX=5286 GN=FGENESH: predicted gene_11.13 PE=3 SV=1 Query ID: lcl|Query_134540 Length: 467
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+mitochondrial processing peptidase [Saccharomyces cerevisiae...   Saccharomyce... NA              559292     478    478   92%   1e-167 54.61  462        NP_013264.1      
+ubiquinol--cytochrome-c reductase subunit COR1 [Saccharomyces...  Saccharomyce... NA              559292     250    250   98%   1e-78  33.12  457        NP_009508.1      
+Structural analysis of atovaquone-inhibited cytochrome bc1...     Saccharomyce... NA              559292     238    238   93%   5e-74  33.63  431        4PD4_A           
+Chain A, Cytochrome b-c1 complex subunit 1, mitochondrial...      Saccharomyce... NA              559292     236    236   93%   2e-73  33.18  431        6HU9_A           
+metalloendopeptidase [Saccharomyces cerevisiae S288C]             Saccharomyce... NA              559292     53.9   53.9  49%   4e-08  21.90  1027       NP_013493.2      
+
+
+Alignments:
+
+>mitochondrial processing peptidase [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_013264.1 Length: 462
+>RecName: Full=Mitochondrial-processing peptidase subunit beta; AltName: Full=Beta-MPP; AltName: Full=Mitochondrial assembly protein 1; AltName: Full=Processing enhancing protein; Short=PEP; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P10507.1 Length: 462 
+Range 1: 13 to 445
+
+Score:478 bits(1231), Expect:1e-167, 
+Method:Compositional matrix adjust., 
+Identities:237/434(55%), Positives:318/434(73%), Gaps:5/434(1%)
+
+Query  18   QRTLATHASS-PLTQISTLPNGLTVATEASPSASTATVGVWIDAGSRAETDKTSGTAHFL  76
+            +R L+T +S  P T+ S LPNGLT+ATE  P+ S+ATVG+++DAGSRAE  K +GTAHFL
+Sbjct  13   RRLLSTISSQIPGTRTSKLPNGLTIATEYIPNTSSATVGIFVDAGSRAENVKNNGTAHFL  72
+
+Query  77   EHMAFKGTGKRSQHQLELEVENLGAHLNAYTSREQTVYYAKSFASDVNKSVEIIADILTG  136
+            EH+AFKGT  RSQ  +ELE+EN+G+HLNAYTSRE TVYYAKS   D+ K+V+I++DILT 
+Sbjct  73   EHLAFKGTQNRSQQGIELEIENIGSHLNAYTSRENTVYYAKSLQEDIPKAVDILSDILTK  132
+
+Query  137  SKLESGAIERERDVILREQQEVDKQLEEVVFDHLHAVAFQGQPLGRTILGPKENILSIQR  196
+            S L++ AIERERDVI+RE +EVDK  +EVVFDHLH + ++ QPLGRTILGP +NI SI R
+Sbjct  133  SVLDNSAIERERDVIIRESEEVDKMYDEVVFDHLHEITYKDQPLGRTILGPIKNIKSITR  192
+
+Query  197  DDLASYIKKNYTADRMVLVGTGGVEHSSLVDLANKHFGSLSSSPEPIKLGASSAKTKPDF  256
+             DL  YI KNY  DRMVL G G V+H  LV  A K+FG +  S  P+ LG+      P F
+Sbjct  193  TDLKDYITKNYKGDRMVLAGAGAVDHEKLVQYAQKYFGHVPKSESPVPLGSPRGPL-PVF  251
+
+Query  257  IGSEVRVRDDTMPTCNVAIAVEGVGWQSPDYYTMLVMQSIMGNWDRSLGAQSLLSSRLSH  316
+               E  ++++T+PT ++AIA+EGV W +PDY+  L  Q+I+GNWDR++G  +   S L+ 
+Sbjct  252  CRGERFIKENTLPTTHIAIALEGVSWSAPDYFVALATQAIVGNWDRAIGTGTNSPSPLAV  311
+
+Query  317  IISSN-NLANSFMSFSTSYSDTGLWGCYLVSE-NVTNLDDLTHFLMKEWCRL-STHPTDG  373
+              S N +LANS+MSFSTSY+D+GLWG Y+V++ N  N+  + + ++KEW R+ S   +D 
+Sbjct  312  AASQNGSLANSYMSFSTSYADSGLWGMYIVTDSNEHNVQLIVNEILKEWKRIKSGKISDA  371
+
+Query  374  EVARAKAQLKASLLLGLDGTTAVAEDIGRQLVTTGRRNTPKEIEAAVDAVTTADVMRCAK  433
+            EV RAKAQLKA+LLL LDG+TA+ EDIGRQ+VTTG+R +P+E+   VD +T  D++  A 
+Sbjct  372  EVNRAKAQLKAALLLSLDGSTAIVEDIGRQVVTTGKRLSPEEVFEQVDKITKDDIIMWAN  431
+
+Query  434  KYLWDKDIAVAAVG  447
+              L +K +++ A+G
+Sbjct  432  YRLQNKPVSMVALG  445
+
+
+
+
+>ubiquinol--cytochrome-c reductase subunit COR1 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009508.1 Length: 457
+>RecName: Full=Cytochrome b-c1 complex subunit 1, mitochondrial; AltName: Full=Complex III subunit 1; AltName: Full=Core protein I; AltName: Full=Ubiquinol-cytochrome c oxidoreductase core protein 1; AltName: Full=Ubiquinol-cytochrome c reductase 44 kDa protein; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P07256.1 Length: 457 
+Range 1: 6 to 457
+
+Score:250 bits(639), Expect:1e-78, 
+Method:Compositional matrix adjust., 
+Identities:154/465(33%), Positives:246/465(52%), Gaps:19/465(4%)
+
+Query  9    TARRAPAPFQRTLATHASSPLTQISTLPNGLTVATEASPSASTATVGVWIDAGSRAETDK  68
+            T++     F+R+LAT  ++P  +++ L NG+ VATE +PSA TA+VGV   +G+  E   
+Sbjct  6    TSKTVSNQFKRSLATAVATPKAEVTQLSNGIVVATEHNPSAHTASVGVVFGSGAANENPY  65
+
+Query  69   TSGTAHFLEHMAFKGTGKRSQHQLELEVENLGAHLNAYTSREQTVYYAKSFASDVNKSVE  128
+             +G ++  +++        S+    +  +  G  L++  SR+   Y   S     +KS++
+Sbjct  66   NNGVSNLWKNIFL------SKENSAVAAKE-GLALSSNISRDFQSYIVSSLPGSTDKSLD  118
+
+Query  129  IIADILTGSK---LESGAIERERDVILREQQEVDKQLE-EVVFDHLHAVAFQGQPLGRTI  184
+             +       K   L S   E  +  +L++ Q+ ++      V +HLH+ AFQ  PL    
+Sbjct  119  FLNQSFIQQKANLLSSSNFEATKKSVLKQVQDFEENDHPNRVLEHLHSTAFQNTPLSLPT  178
+
+Query  185  LGPKENILSIQRDDLASYIKKNYTADRMVLVGTGGVEHSSLVDLANKHFGSLSSSPEPIK  244
+             G  E++ ++   DL S+   ++     V+VGTG ++H  LV+       SL +  +P+ 
+Sbjct  179  RGTLESLENLVVADLESFANNHFLNSNAVVVGTGNIKHEDLVNSIESKNLSLQTGTKPV-  237
+
+Query  245  LGASSAKTKPDFIGSEVRVRDDTMPTCNVAIAVEGVGWQSPDYYTMLVMQSIMGNWDRSL  304
+                  K K  F+GSEVR+RDDT+P   +++AVEG    SP+Y+   +   I G+++   
+Sbjct  238  -----LKKKAAFLGSEVRLRDDTLPKAWISLAVEGEPVNSPNYFVAKLAAQIFGSYNAFE  292
+
+Query  305  GAQSLLSSRLSHIISSNNLANSFMSFSTSYSDTGLWGCYLVSENVTNLDDLTHFLMKEWC  364
+             A  L   +L   I    L ++F  FS SY D+GLWG    + NVT +DDL HF +K+W 
+Sbjct  293  PASRLQGIKLLDNIQEYQLCDNFNHFSLSYKDSGLWGFSTATRNVTMIDDLIHFTLKQWN  352
+
+Query  365  RLSTHPTDGEVARAKAQLKASLLLGLDGTTAV--AEDIGRQLVTTGRRNTPKEIEAAVDA  422
+            RL+   TD EV RAK+ LK  L    +    V  A  +G +++  G + +  E    +DA
+Sbjct  353  RLTISVTDTEVERAKSLLKLQLGQLYESGNPVNDANLLGAEVLIKGSKLSLGEAFKKIDA  412
+
+Query  423  VTTADVMRCAKKYLWDKDIAVAAVGRVEGLLDYSRMRAGMTSLMW  467
+            +T  DV   A K LWD+DIA+A  G++EGLLDY R+R+ M+ + W
+Sbjct  413  ITVKDVKAWAGKRLWDQDIAIAGTGQIEGLLDYMRIRSDMSMMRW  457
+
+
+
+
+>Structural analysis of atovaquone-inhibited cytochrome bc1 complex reveals the molecular basis of antimalarial drug action [Saccharomyces cerevisiae S288C]
+Sequence ID: 4PD4_A Length: 431
+Range 1: 2 to 431
+
+Score:238 bits(606), Expect:5e-74, 
+Method:Compositional matrix adjust., 
+Identities:149/443(34%), Positives:231/443(52%), Gaps:19/443(4%)
+
+Query  31   QISTLPNGLTVATEASPSASTATVGVWIDAGSRAETDKTSGTAHFLEHMAFKGTGKRSQH  90
+            +++ L NG+ VATE +PSA TA+VGV   +G+  E    +G ++  +++      K +  
+Sbjct  2    EVTQLSNGIVVATEHNPSAHTASVGVVFGSGAANENPYNNGVSNLWKNIFL---SKENSA  58
+
+Query  91   QLELEVENLGAHLNAYTSREQTVYYAKSFASDVNKSVEIIADILTGSK---LESGAIERE  147
+                E    G  L++  SR+   Y   S     +KS++ +       K   L S   E  
+Sbjct  59   VAAKE----GLALSSNISRDFQSYIVSSLPGSTDKSLDFLNQSFIQQKANLLSSSNFEAT  114
+
+Query  148  RDVILREQQEV-DKQLEEVVFDHLHAVAFQGQPLGRTILGPKENILSIQRDDLASYIKKN  206
+            +  +L++ Q+  D      V +HLH+ AFQ  PL     G  E++ ++   DL S+   +
+Sbjct  115  KKSVLKQVQDFEDNDHPNRVLEHLHSTAFQNTPLSLPTRGTLESLENLVVADLESFANNH  174
+
+Query  207  YTADRMVLVGTGGVEHSSLVDLANKHFGSLSSSPEPIKLGASSAKTKPDFIGSEVRVRDD  266
+            +     V+VGTG ++H  LV+       SL +  +P+       K K  F+GSEVR+RDD
+Sbjct  175  FLNSNAVVVGTGNIKHEDLVNSIESKNLSLQTGTKPV------LKKKAAFLGSEVRLRDD  228
+
+Query  267  TMPTCNVAIAVEGVGWQSPDYYTMLVMQSIMGNWDRSLGAQSLLSSRLSHIISSNNLANS  326
+            T+P   +++AVEG    SP+Y+   +   I G+++    A  L   +L   I    L ++
+Sbjct  229  TLPKAWISLAVEGEPVNSPNYFVAKLAAQIFGSYNAFEPASRLQGIKLLDNIQEYQLCDN  288
+
+Query  327  FMSFSTSYSDTGLWGCYLVSENVTNLDDLTHFLMKEWCRLSTHPTDGEVARAKAQLKASL  386
+            F  FS SY D+GLWG    + NVT +DDL HF +K+W RL+   TD EV RAK+ LK  L
+Sbjct  289  FNHFSLSYKDSGLWGFSTATRNVTMIDDLIHFTLKQWNRLTISVTDTEVERAKSLLKLQL  348
+
+Query  387  LLGLDGTTAV--AEDIGRQLVTTGRRNTPKEIEAAVDAVTTADVMRCAKKYLWDKDIAVA  444
+                +    V  A  +G +++  G + +  E    +DA+T  DV   A K LWD+DIA+A
+Sbjct  349  GQLYESGNPVNDANLLGAEVLIKGSKLSLGEAFKKIDAITVKDVKAWAGKRLWDQDIAIA  408
+
+Query  445  AVGRVEGLLDYSRMRAGMTSLMW  467
+              G++EGLLDY R+R+ M+ + W
+Sbjct  409  GTGQIEGLLDYMRIRSDMSMMRW  431
+
+
+
+
+>Chain A, Cytochrome b-c1 complex subunit 1, mitochondrial [Saccharomyces cerevisiae S288C]
+Sequence ID: 6HU9_A Length: 431
+>Chain L, Cytochrome b-c1 complex subunit 1, mitochondrial [Saccharomyces cerevisiae S288C]
+Sequence ID: 6HU9_L Length: 431
+>Chain A, Cytochrome b-c1 complex subunit 1, mitochondrial [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T0B_A Length: 431
+>Chain L, Cytochrome b-c1 complex subunit 1, mitochondrial [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T0B_L Length: 431
+>Chain A, CYTOCHROME B-C1 COMPLEX SUBUNIT 1, MITOCHONDRIAL; SYNONYM: COMPLEX III SUBUNIT 1, CORE PROTEIN I, UBIQUINOL-CYTOCHROME-C REDUCTASE COMPLEX CORE PROTEIN 1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T15_A Length: 431
+>Chain L, CYTOCHROME B-C1 COMPLEX SUBUNIT 1, MITOCHONDRIAL; SYNONYM: COMPLEX III SUBUNIT 1, CORE PROTEIN I, UBIQUINOL-CYTOCHROME-C REDUCTASE COMPLEX CORE PROTEIN 1 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T15_L Length: 431
+>Chain A, Cytochrome b-c1 complex subunit 1, mitochondrial [Saccharomyces cerevisiae S288C]
+Sequence ID: 6YMX_A Length: 431
+>Chain L, Cytochrome b-c1 complex subunit 1, mitochondrial [Saccharomyces cerevisiae S288C]
+Sequence ID: 6YMX_L Length: 431 
+Range 1: 2 to 431
+
+Score:236 bits(602), Expect:2e-73, 
+Method:Compositional matrix adjust., 
+Identities:147/443(33%), Positives:233/443(52%), Gaps:19/443(4%)
+
+Query  31   QISTLPNGLTVATEASPSASTATVGVWIDAGSRAETDKTSGTAHFLEHMAFKGTGKRSQH  90
+            +++ L NG+ VATE +PSA TA+VGV   +G+  E    +G ++  +++        S+ 
+Sbjct  2    EVTQLSNGIVVATEHNPSAHTASVGVVFGSGAANENPYNNGVSNLWKNIFL------SKE  55
+
+Query  91   QLELEVENLGAHLNAYTSREQTVYYAKSFASDVNKSVEIIADILTGSK---LESGAIERE  147
+               +  +  G  L++  SR+   Y   S     +KS++ +       K   L S   E  
+Sbjct  56   NSAVAAKE-GLALSSNISRDFQSYIVSSLPGSTDKSLDFLNQSFIQQKANLLSSSNFEAT  114
+
+Query  148  RDVILREQQEVDKQLE-EVVFDHLHAVAFQGQPLGRTILGPKENILSIQRDDLASYIKKN  206
+            +  +L++ Q+ ++      V +HLH+ AFQ  PL     G  E++ ++   DL S+   +
+Sbjct  115  KKSVLKQVQDFEENDHPNRVLEHLHSTAFQNTPLSLPTRGTLESLENLVVADLESFANNH  174
+
+Query  207  YTADRMVLVGTGGVEHSSLVDLANKHFGSLSSSPEPIKLGASSAKTKPDFIGSEVRVRDD  266
+            +     V+VGTG ++H  LV+       SL +  +P+       K K  F+GSEVR+RDD
+Sbjct  175  FLNSNAVVVGTGNIKHEDLVNSIESKNLSLQTGTKPV------LKKKAAFLGSEVRLRDD  228
+
+Query  267  TMPTCNVAIAVEGVGWQSPDYYTMLVMQSIMGNWDRSLGAQSLLSSRLSHIISSNNLANS  326
+            T+P   +++AVEG    SP+Y+   +   I G+++    A  L   +L   I    L ++
+Sbjct  229  TLPKAWISLAVEGEPVNSPNYFVAKLAAQIFGSYNAFEPASRLQGIKLLDNIQEYQLCDN  288
+
+Query  327  FMSFSTSYSDTGLWGCYLVSENVTNLDDLTHFLMKEWCRLSTHPTDGEVARAKAQLKASL  386
+            F  FS SY D+GLWG    + NVT +DDL HF +K+W RL+   TD EV RAK+ LK  L
+Sbjct  289  FNHFSLSYKDSGLWGFSTATRNVTMIDDLIHFTLKQWNRLTISVTDTEVERAKSLLKLQL  348
+
+Query  387  LLGLDGTTAV--AEDIGRQLVTTGRRNTPKEIEAAVDAVTTADVMRCAKKYLWDKDIAVA  444
+                +    V  A  +G +++  G + +  E    +DA+T  DV   A K LWD+DIA+A
+Sbjct  349  GQLYESGNPVNDANLLGAEVLIKGSKLSLGEAFKKIDAITVKDVKAWAGKRLWDQDIAIA  408
+
+Query  445  AVGRVEGLLDYSRMRAGMTSLMW  467
+              G++EGLLDY R+R+ M+ + W
+Sbjct  409  GTGQIEGLLDYMRIRSDMSMMRW  431
+
+
+
+
+>metalloendopeptidase [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_013493.2 Length: 1027
+>RecName: Full=A-factor-processing enzyme; AltName: Full=Insulin-degrading enzyme homolog [Saccharomyces cerevisiae S288C]
+Sequence ID: Q06010.2 Length: 1027 
+Range 1: 79 to 315
+
+Score:53.9 bits(128), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:53/242(22%), Positives:102/242(42%), Gaps:17/242(7%)
+
+Query  35   LPNGLTVATEASPSASTATVGVWIDAGSRAETDKTSGTAHFLEHMAFKGTGK-RSQHQLE  93
+            LPN L       P A  A   + ++ G+  +     G AHF EH+ F G+ K   +++  
+Sbjct  79   LPNKLKALLIQDPKADKAAASLDVNIGAFEDPKNLPGLAHFCEHLLFMGSEKFPDENEYS  138
+
+Query  94   LEVENLGAHLNAYTSREQTVYYAKSFASDVNKSVEIIADILTGSKLESGAIERERDVILR  153
+              +   G   NAYT+ + T Y+ +     +  +++  +   +       + ++E + +  
+Sbjct  139  SYLSKHGGSSNAYTASQNTNYFFEVNHQHLFGALDRFSGFFSCPLFNKDSTDKEINAVNS  198
+
+Query  154  EQQ-----------EVDKQLEEVVFDHLHAVAFQGQPLGRTILGPKENILSIQRDDLASY  202
+            E +           ++DK L      +        + LG     PKEN L++ RD+L  +
+Sbjct  199  ENKKNLQNDIWRIYQLDKSLTNTKHPYHKFSTGNIETLGTL---PKENGLNV-RDELLKF  254
+
+Query  203  IKKNYTADRMVLVGTGGVEHSSLVDLANKHFGSLSSSPEPIKLGASSAKTKPDFIGSEVR  262
+             K  Y+A+ M L   G  +  +L D     F  ++++   + L A     +P+ +   ++
+Sbjct  255  HKNFYSANLMKLCILGREDLDTLSDWTYDLFKDVANNGREVPLYAEPI-MQPEHLQKIIQ  313
+
+Query  263  VR  264
+            VR
+Sbjct  314  VR  315
+
+
+
+
+
+
+
+		
+
+

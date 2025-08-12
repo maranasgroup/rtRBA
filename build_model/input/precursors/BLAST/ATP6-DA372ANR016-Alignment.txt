@@ -1,0 +1,55 @@
+RID: DA372ANR016	
+Job Title:ATP6				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_52832 Length: 259
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+ATP synthase F0 subunit a [Rhodotorula toruloides]                Rhodotorula ... NA              5286       207    207   96%   1e-66 42.80  252        YP_009988017.1   
+
+
+Alignments:
+
+>ATP synthase F0 subunit a [Rhodotorula toruloides]
+Sequence ID: YP_009988017.1 Length: 252
+>ATP synthase F0 subunit a [Rhodotorula toruloides]
+Sequence ID: QNL17827.1 Length: 252
+>ATP synthase F0 subunit a [Rhodotorula toruloides]
+Sequence ID: CAE5968152.1 Length: 252 
+Range 1: 5 to 252
+
+Score:207 bits(527), Expect:1e-66, 
+Method:Compositional matrix adjust., 
+Identities:107/250(43%), Positives:163/250(65%), Gaps:2/250(0%)
+
+Query  10   TSPLDQFEIRTLFGLQSSFIDLSCLNLTTFSLYTIIVLLVITSLYTLTNNNNKIIGSRWL  69
+            +SPL+QFE+ +   +  + + L+   LT   LY ++VL++  S++ L  N+ +++ SRW 
+Sbjct  5    SSPLEQFEVTSFLNVNLTLLGLN-FALTNLGLYALLVLMLSISVHVLAANDRRLVPSRWS  63
+
+Query  70   ISQEAIYDTIMNMTKGQIGGKNWGLYFPMIFTLFMFIFIANLISMIPYSFALSAHLVFII  129
+            +  E+ Y ++  M K Q+G  N   Y P I+ LF F+ +ANL   +PYSF +S   V  I
+Sbjct  64   VGLESAYASLHGMVKEQVGSSNER-YLPFIYALFFFVILANLAGNVPYSFTISTSAVLSI  122
+
+Query  130  SLSIVIWLGNTILGLYKHGWVFFSLFVPAGTPLPLVPLLVIIETLSYFARAISLGLRLGS  189
+             LS  I+   T+LGL+KHG  FF+ FVPAGTPL +VPLLV+IE +SY ARA SLG+RL +
+Sbjct  123  GLSFTIFFAVTVLGLHKHGLHFFAFFVPAGTPLAMVPLLVLIELISYLARAFSLGVRLFA  182
+
+Query  190  NILAGHLLMVILAGLTFNFMLINLFTLVFGFVPLAMILAIMMLEFAIGIIQGYVWAILTA  249
+            N++AGH L+ IL+G+ +  +   L   V   +P+++ LA++ LE A+ +IQ YV+ +LT 
+Sbjct  183  NMVAGHTLLKILSGMLWPILTSGLLMFVVALIPMSIFLALVGLEVAVSVIQAYVFVVLTC  242
+
+Query  250  SYLKDAVYLH  259
+             YL+DA+ LH
+Sbjct  243  VYLRDAIDLH  252
+
+
+
+
+
+
+
+		
+
+

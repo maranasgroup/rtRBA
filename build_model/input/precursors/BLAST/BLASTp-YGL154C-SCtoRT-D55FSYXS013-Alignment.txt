@@ -1,0 +1,75 @@
+RID: D55FSYXS013	
+Job Title:sp|P50113|LYS5_YEAST L-aminoadipate-semialdehyde...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P50113|LYS5_YEAST L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LYS5 PE=1 SV=1 Query ID: lcl|Query_23495 Length: 272
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+putative Aminoadipate-semialdehyde...                             Rhodotorula ... NA              5286       50.1   50.1  63%   6e-07 26.74  290        PRQ71362.1       
+putative Aminoadipate-semialdehyde...                             Rhodotorula ... NA              1001064    50.1   50.1  63%   7e-07 26.74  300        EGU13129.1       
+
+
+Alignments:
+
+>putative Aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase [Rhodotorula toruloides]
+Sequence ID: PRQ71362.1 Length: 290
+Range 1: 18 to 201
+
+Score:50.1 bits(118), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:50/187(27%), Positives:80/187(42%), Gaps:18/187(9%)
+
+Query  30   EDILADEFTFEALMRTLPLASQARILNKKSFHDRCSNLCSQLLQLFGC-SIVTG--LNFQ  86
+            +D L+   + E L+R +   S+  I   +   D    L  +LL  +   + + G  L + 
+Sbjct  18   DDNLSPHTSLELLLRYVDSGSRQAISKFRFLRDARRCLLGRLLARYAALAQLDGSDLTWS  77
+
+Query  87   ELKFDKGSFGKPFLDNNRFLP----FSMTIGEQYVAMFLVKCVS-TDEYQDVGID---IA  138
+             L FD+   GKP++ N   LP    +  +I      + L       D+   VG+D   IA
+Sbjct  78   SLSFDRSDRGKPYVVN---LPSGISYDYSISHDSDLVILAASAGPRDKRTTVGVDVMRIA  134
+
+Query  139  SPCNYGGREEL-ELFKEVFSEREFNGLLKASDP---CTIFTYLWSLKESYTKFTGTGLNT  194
+             P   G  +EL E  ++    RE   +  A+       +    W+LKE+Y K  G GL+ 
+Sbjct  135  VPWEGGSTDELVETMRDQLDPRELRQIRSAAAQHARLALALAFWTLKEAYIKAIGEGLHF  194
+
+Query  195  DLSLIDF  201
+            DL  + F
+Sbjct  195  DLRRLHF  201
+
+
+
+
+>putative Aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU13129.1 Length: 300
+Range 1: 28 to 211
+
+Score:50.1 bits(118), Expect:7e-07, 
+Method:Compositional matrix adjust., 
+Identities:50/187(27%), Positives:80/187(42%), Gaps:18/187(9%)
+
+Query  30   EDILADEFTFEALMRTLPLASQARILNKKSFHDRCSNLCSQLLQLFGC-SIVTG--LNFQ  86
+            +D L+   + E L+R +   S+  I   +   D    L  +LL  +   + + G  L + 
+Sbjct  28   DDNLSPHTSLELLLRYVDSGSRQAISKFRFLRDARRCLLGRLLARYAALAQLDGSDLTWS  87
+
+Query  87   ELKFDKGSFGKPFLDNNRFLP----FSMTIGEQYVAMFLVKCVS-TDEYQDVGID---IA  138
+             L FD+   GKP++ N   LP    +  +I      + L       D+   VG+D   IA
+Sbjct  88   SLSFDRSDRGKPYVVN---LPSGISYDYSISHDSDLVILAASAGPRDKRTTVGVDVMRIA  144
+
+Query  139  SPCNYGGREEL-ELFKEVFSEREFNGLLKASDP---CTIFTYLWSLKESYTKFTGTGLNT  194
+             P   G  +EL E  ++    RE   +  A+       +    W+LKE+Y K  G GL+ 
+Sbjct  145  VPWEGGSTDELVETMRDQLDPRELRQIRSAAAQHARLALALAFWTLKEAYIKAIGEGLHF  204
+
+Query  195  DLSLIDF  201
+            DL  + F
+Sbjct  205  DLRRLHF  211
+
+
+
+
+
+
+
+		
+
+

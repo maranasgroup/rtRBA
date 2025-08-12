@@ -1,0 +1,119 @@
+RID: CRGD9CX8013	
+Job Title:sp|P33421|SDH3_YEAST Succinate dehydrogenase...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P33421|SDH3_YEAST Succinate dehydrogenase [ubiquinone] cytochrome b subunit, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SDH3 PE=1 SV=1 Query ID: lcl|Query_6977 Length: 198
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein AAT19DRAFT_11629 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       61.2   61.2  85%   8e-12 32.57  172        PRQ69976.1       
+succinate dehydrogenase (ubiquinone) cytochromeb subunit...       Rhodotorula ... NA              5286       59.7   59.7  76%   3e-11 31.85  172        GEM07056.1       
+succinate dehydrogenase (ubiquinone) cytochrome b subunit...      Rhodotorula ... NA              1130832    58.9   58.9  76%   6e-11 31.85  172        XP_016277225.1   
+Succinate dehydrogenase cytochrome B subunit, mitochondrial...    Rhodotorula ... NA              5286       57.0   57.0  76%   1e-09 31.17  449        KAJ8295765.1     
+
+
+Alignments:
+
+>hypothetical protein AAT19DRAFT_11629 [Rhodotorula toruloides]
+Sequence ID: PRQ69976.1 Length: 172
+Range 1: 18 to 164
+
+Score:61.2 bits(147), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:57/175(33%), Positives:83/175(47%), Gaps:34/175(19%)
+
+Query  22   FSRAAALSSSRRLLFNTARTNFLSTSPLKNVASEMNTKAAIAEE--QILNKQRAKRPISP  79
+            F+R AAL  +R          F+ST P+              EE  + LN+QRAKR  SP
+Sbjct  18   FARPAALVPAR----------FISTQPMSK------------EEALEYLNQQRAKRASSP  55
+
+Query  80   -HLTIYQPQLTWYLSSLHRISLVLMGLGFYLFTILFGVSGLLGLGLTTEK-VSNWYH-QK  136
+             H  IYQPQLT   S  +R++   + + FY   +   ++ + G  + +   +  W     
+Sbjct  56   WH--IYQPQLTSISSIANRVTGTGLSVAFYGIFLSHVIAPVFGASVDSAALIDAWTALPS  113
+
+Query  137  FSKIT-EWSIKGSFAYLFAIHYGGAIRHLIWDTAKELTLKGVYRTGYALIGFTAV  190
+            F ++T + +I G+  Y    H    +RHL WD    L LK  Y  GYA++G TAV
+Sbjct  114  FLQLTTKTAIVGATTY----HTFNGLRHLSWDMGYLLNLKTSYMAGYAVLGATAV  164
+
+
+
+
+>succinate dehydrogenase (ubiquinone) cytochromeb subunit [Rhodotorula toruloides]
+Sequence ID: GEM07056.1 Length: 172
+Range 1: 26 to 172
+
+Score:59.7 bits(143), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/157(32%), Positives:82/157(52%), Gaps:16/157(10%)
+
+Query  48   PLKNVASEMNTKAAIAEE--QILNKQRAKRPISP-HLTIYQPQLTWYLSSLHRISLVLMG  104
+            P ++V+++  +K    EE  + LN+QRAKR  SP H  IYQPQLT   S  +R++   + 
+Sbjct  26   PARSVSTQPMSK----EEALEYLNQQRAKRASSPWH--IYQPQLTSMSSIANRVTGTGLS  79
+
+Query  105  LGFYLFTILFGVSGLLGLGLTTEK-VSNWYH-QKFSKIT-EWSIKGSFAYLFAIHYGGAI  161
+            + FY   +   ++ + G  + +   +  W     F ++T + ++ G+ AY    H    +
+Sbjct  80   VAFYGIFLSHVIAPVFGASVDSAALIDAWTALPSFLQLTTKTAVVGATAY----HTFNGL  135
+
+Query  162  RHLIWDTAKELTLKGVYRTGYALIGFTAVLGTYLLTL  198
+            RHL WD    L LK  Y  GYA+IG +A+    +L +
+Sbjct  136  RHLSWDMGYLLDLKTSYMAGYAVIGASALSTAAILAM  172
+
+
+
+
+>succinate dehydrogenase (ubiquinone) cytochrome b subunit [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277225.1 Length: 172
+>succinate dehydrogenase (ubiquinone) cytochrome b subunit [Rhodotorula toruloides NP11]
+Sequence ID: EMS26106.1 Length: 172
+>RHTO0S03e11298g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38607.1 Length: 172 
+Range 1: 26 to 172
+
+Score:58.9 bits(141), Expect:6e-11, 
+Method:Compositional matrix adjust., 
+Identities:50/157(32%), Positives:81/157(51%), Gaps:16/157(10%)
+
+Query  48   PLKNVASEMNTKAAIAEE--QILNKQRAKRPISP-HLTIYQPQLTWYLSSLHRISLVLMG  104
+            P ++V+++  +K    EE  + LN+QRAKR  SP H  IYQPQLT   S  +R++   + 
+Sbjct  26   PARSVSTQPMSK----EEALEYLNQQRAKRASSPWH--IYQPQLTSISSIANRVTGTGLS  79
+
+Query  105  LGFYLFTILFGVSGLLGLGLTTEK-VSNWYH-QKFSKIT-EWSIKGSFAYLFAIHYGGAI  161
+            + FY   +   ++ + G  + +   +  W     F ++T + ++ G+  Y    H    +
+Sbjct  80   VAFYGIFLSHVIAPVFGASVDSAALIDAWTALPSFLQLTTKTAVVGATTY----HTFNGL  135
+
+Query  162  RHLIWDTAKELTLKGVYRTGYALIGFTAVLGTYLLTL  198
+            RHL WD    L LK  Y  GYA++G TAV    +L +
+Sbjct  136  RHLSWDMGYFLNLKTSYMAGYAVLGATAVSTAAILAM  172
+
+
+
+
+>Succinate dehydrogenase cytochrome B subunit, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8295765.1 Length: 449
+Range 1: 26 to 172
+
+Score:57.0 bits(136), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:48/154(31%), Positives:78/154(50%), Gaps:10/154(6%)
+
+Query  48   PLKNVASEMNTKAAIAEEQILNKQRAKRPISPHLTIYQPQLTWYLSSLHRISLVLMGLGF  107
+            P ++V+++  +K    E   LN+QRAKR  SP   IYQPQLT   S  +R++   + + F
+Sbjct  26   PARSVSTQPMSKEEALE--YLNQQRAKRASSP-WHIYQPQLTSMSSIANRVTGTGLSVAF  82
+
+Query  108  YLFTILFGVSGLLGLGLTTEK-VSNWYH-QKFSKIT-EWSIKGSFAYLFAIHYGGAIRHL  164
+            Y   +   ++ + G  + +   +  W     F ++T + ++ G+  Y    H    +RHL
+Sbjct  83   YGIFLSHVIAPVFGASVDSAALIDAWTALPSFLQLTTKTAVVGATTY----HTFNGLRHL  138
+
+Query  165  IWDTAKELTLKGVYRTGYALIGFTAVLGTYLLTL  198
+             WD    L LK  Y  GYA++G TAV    +L +
+Sbjct  139  SWDMGYLLNLKTSYMAGYAVLGATAVSTAAILAI  172
+
+
+
+
+
+
+
+		
+
+

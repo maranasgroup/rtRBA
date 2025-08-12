@@ -1,0 +1,99 @@
+RID: CUVVWEYF013	
+Job Title:YP_009988033.1 cytochrome c oxidase subunit...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: YP_009988033.1 cytochrome c oxidase subunit 3 (mitochondrion) [Rhodotorula toruloides] Query ID: lcl|Query_32474 Length: 270
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]   Saccharomyce... NA              559292     280    280   99%   1e-95 49.63  269        NP_009328.1      
+Chain c, Cytochrome c oxidase subunit 3 [Saccharomyces...         Saccharomyce... NA              559292     279    279   98%   3e-95 50.00  268        6YMX_c           
+
+
+Alignments:
+
+>cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009328.1 Length: 269
+>RecName: Full=Cytochrome c oxidase subunit 3; AltName: Full=Cytochrome c oxidase polypeptide III [Saccharomyces cerevisiae S288C]
+Sequence ID: P00420.3 Length: 269
+>Chain c, Cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6HU9_c Length: 269
+>Chain o, Cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6HU9_o Length: 269
+>Chain c, Cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T0B_c Length: 269
+>Chain p, Cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T0B_p Length: 269
+>Chain c, CYTOCHROME C OXIDASE SUBUNIT 3; SYNONYM: CYTOCHROME C OXIDASE POLYPEPTIDE III, COX3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T15_c Length: 269
+>Chain c, CYTOCHROME C OXIDASE SUBUNIT 3; SYNONYM: CYTOCHROME C OXIDASE POLYPEPTIDE III, COX3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7Z10_c Length: 269 
+Range 1: 1 to 268
+
+Score:280 bits(717), Expect:1e-95, 
+Method:Compositional matrix adjust., 
+Identities:133/268(50%), Positives:188/268(70%), Gaps:0/268(0%)
+
+Query  2    LQRVTRAQFQAHPYHLVTPSPWPLLTSFSLLILTVAAAMYFNGYANGGLLVSIGFITVLA  61
+            +  + R++ Q HP+H+V PSPWP++ SF+LL L ++ A+  +GY     +V +    +L 
+Sbjct  1    MTHLERSRHQQHPFHMVMPSPWPIVVSFALLSLALSTALTMHGYIGNMNMVYLALFVLLT  60
+
+Query  62   SMSLWFRDVIAEGALLGNHTFAVQKGLNLGVALFIVSEVFFFISIFWAYFHSALAPTVEL  121
+            S  LWFRD++AE   LG+HT AV+KG+NLG  +F++SEV  F  +FWAYFHSA++P V L
+Sbjct  61   SSILWFRDIVAEATYLGDHTMAVRKGINLGFLMFVLSEVLIFAGLFWAYFHSAMSPDVTL  120
+
+Query  122  GNAWPPAGIQALDPYEVPLLNTVILLGSGASVTYAHHSLIQGSRAGTIAGLIVTIALAAV  181
+            G  WPP GI+A+ P E+PLLNT+ILL SGA+VTY+HH+LI G+R   ++GL++T  L  +
+Sbjct  121  GACWPPVGIEAVQPTELPLLNTIILLSSGATVTYSHHALIAGNRNKALSGLLITFWLIVI  180
+
+Query  182  FTMLQGLEYHEASFTIADGAYGSTFYFATGFHGLHVIIGTLFIAVAFVRLLSYQLTDHHH  241
+            F   Q +EY  A+FTI+DG YGS FY  TG H LH+++    + V + R+ +Y LT  HH
+Sbjct  181  FVTCQYIEYTNAAFTISDGVYGSVFYAGTGLHFLHMVMLAAMLGVNYWRMRNYHLTAGHH  240
+
+Query  242  LGFEAAILYWHFVDVVWLFLYVSVYWWG  269
+            +G+E  I+Y H +DV+WLFLYV  YWWG
+Sbjct  241  VGYETTIIYTHVLDVIWLFLYVVFYWWG  268
+
+
+
+
+>Chain c, Cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6YMX_c Length: 268
+>Chain c, Cytochrome c oxidase subunit 3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6YMY_c Length: 268 
+Range 1: 2 to 267
+
+Score:279 bits(714), Expect:3e-95, 
+Method:Compositional matrix adjust., 
+Identities:133/266(50%), Positives:187/266(70%), Gaps:0/266(0%)
+
+Query  4    RVTRAQFQAHPYHLVTPSPWPLLTSFSLLILTVAAAMYFNGYANGGLLVSIGFITVLASM  63
+             + R++ Q HP+H+V PSPWP++ SF+LL L ++ A+  +GY     +V +    +L S 
+Sbjct  2    HLERSRHQQHPFHMVMPSPWPIVVSFALLSLALSTALTMHGYIGNMNMVYLALFVLLTSS  61
+
+Query  64   SLWFRDVIAEGALLGNHTFAVQKGLNLGVALFIVSEVFFFISIFWAYFHSALAPTVELGN  123
+             LWFRD++AE   LG+HT AV+KG+NLG  +F++SEV  F  +FWAYFHSA++P V LG 
+Sbjct  62   ILWFRDIVAEATYLGDHTMAVRKGINLGFLMFVLSEVLIFAGLFWAYFHSAMSPDVTLGA  121
+
+Query  124  AWPPAGIQALDPYEVPLLNTVILLGSGASVTYAHHSLIQGSRAGTIAGLIVTIALAAVFT  183
+             WPP GI+A+ P E+PLLNT+ILL SGA+VTY+HH+LI G+R   ++GL++T  L  +F 
+Sbjct  122  CWPPVGIEAVQPTELPLLNTIILLSSGATVTYSHHALIAGNRNKALSGLLITFWLIVIFV  181
+
+Query  184  MLQGLEYHEASFTIADGAYGSTFYFATGFHGLHVIIGTLFIAVAFVRLLSYQLTDHHHLG  243
+              Q +EY  A+FTI+DG YGS FY  TG H LH+++    + V + R+ +Y LT  HH+G
+Sbjct  182  TCQYIEYTNAAFTISDGVYGSVFYAGTGLHFLHMVMLAAMLGVNYWRMRNYHLTAGHHVG  241
+
+Query  244  FEAAILYWHFVDVVWLFLYVSVYWWG  269
+            +E  I+Y H +DV+WLFLYV  YWWG
+Sbjct  242  YETTIIYTHVLDVIWLFLYVVFYWWG  267
+
+
+
+
+
+
+
+		
+
+

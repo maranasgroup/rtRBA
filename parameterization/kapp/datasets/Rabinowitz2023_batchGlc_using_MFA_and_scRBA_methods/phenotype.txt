@@ -1,0 +1,7 @@
+* Parameters defined in this file will overwrite ones define in GAMS runRBA.gms file
+
+* don't enforce other MFA bounds since model has changed since then, and the MFA only uses 13C for tracing; instead, use slacks to get as close to the model as possible
+
+* allow slack to account for possible measurement error
+$setGlobal prosynSlackAllow 0.01
+*$setGlobal prosynSlackAllow 10

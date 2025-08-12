@@ -1,0 +1,91 @@
+RID: CUV5MZHD016	
+Job Title:YP_009988024.1 cytochrome c oxidase subunit...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: YP_009988024.1 cytochrome c oxidase subunit 2 (mitochondrion) [Rhodotorula toruloides] Query ID: lcl|Query_141494 Length: 245
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]   Saccharomyce... NA              559292     308    308   97%   2e-107 61.76  251        NP_009326.1      
+Chain b, Cytochrome c oxidase subunit 2 [Saccharomyces...         Saccharomyce... NA              559292     308    308   97%   3e-107 61.76  236        6HU9_b           
+
+
+Alignments:
+
+>cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009326.1 Length: 251
+>RecName: Full=Cytochrome c oxidase subunit 2; AltName: Full=Cytochrome c oxidase polypeptide II; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P00410.1 Length: 251 
+Range 1: 16 to 251
+
+Score:308 bits(790), Expect:2e-107, 
+Method:Compositional matrix adjust., 
+Identities:147/238(62%), Positives:182/238(76%), Gaps:2/238(0%)
+
+Query  7    DVPYPWQIGFQDGATPTFEGIVELHDTIFFYLVVISFLVFWMLAVIIAKFSSSKVGIVHK  66
+            DVP P+   FQD ATP  EGI+ELHD I FYL+VI  LV WML  I+  +S  K  I +K
+Sbjct  16   DVPTPYACYFQDSATPNQEGILELHDNIMFYLLVILGLVSWMLYTIVMTYS--KNPIAYK  73
+
+Query  67   YHNHGVLIELVWTITPALVLIAIAFPSFKLLYLMDEVISPTMTVKVAGHQWYWSYEYSDF  126
+            Y  HG  IE++WTI PA++L+ IAFPSF LLYL DEVISP MT+K  G+QWYW YEYSDF
+Sbjct  74   YIKHGQTIEVIWTIFPAVILLIIAFPSFILLYLCDEVISPAMTIKAIGYQWYWKYEYSDF  133
+
+Query  127  ITADGESIEFDSYMVPESDLELGQLRLLEVDNRVVVPVDTHIRFIVTGQDVIHDWAVPAL  186
+            I   GE++EF+SY++P+  LE GQLRLL+ D  +VVPVDTHIRF+VT  DVIHD+A+P+L
+Sbjct  134  INDSGETVEFESYVIPDELLEEGQLRLLDTDTSMVVPVDTHIRFVVTAADVIHDFAIPSL  193
+
+Query  187  GLKMDAVPGRLNQTSIIVQRPGVYYGQCSEICGVYHAFMPIVVEAVTLDKYLMWLDSQ  244
+            G+K+DA PGRLNQ S ++QR GV+YG CSE+CG  HA MPI +EAV+L K+L WL+ Q
+Sbjct  194  GIKVDATPGRLNQVSALIQREGVFYGACSELCGTGHANMPIKIEAVSLPKFLEWLNEQ  251
+
+
+
+
+>Chain b, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6HU9_b Length: 236
+>Chain n, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6HU9_n Length: 236
+>Chain b, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T0B_b Length: 236
+>Chain o, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T0B_o Length: 236
+>Chain b, CYTOCHROME C OXIDASE SUBUNIT 2; SYNONYM: CYTOCHROME C OXIDASE POLYPEPTIDE II, COX2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6T15_b Length: 236
+>Chain b, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6YMX_b Length: 236
+>Chain b, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6YMY_b Length: 236
+>Chain b, Cytochrome c oxidase subunit 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: 7Z10_b Length: 236 
+Range 1: 1 to 236
+
+Score:308 bits(788), Expect:3e-107, 
+Method:Compositional matrix adjust., 
+Identities:147/238(62%), Positives:182/238(76%), Gaps:2/238(0%)
+
+Query  7    DVPYPWQIGFQDGATPTFEGIVELHDTIFFYLVVISFLVFWMLAVIIAKFSSSKVGIVHK  66
+            DVP P+   FQD ATP  EGI+ELHD I FYL+VI  LV WML  I+  +S  K  I +K
+Sbjct  1    DVPTPYACYFQDSATPNQEGILELHDNIMFYLLVILGLVSWMLYTIVMTYS--KNPIAYK  58
+
+Query  67   YHNHGVLIELVWTITPALVLIAIAFPSFKLLYLMDEVISPTMTVKVAGHQWYWSYEYSDF  126
+            Y  HG  IE++WTI PA++L+ IAFPSF LLYL DEVISP MT+K  G+QWYW YEYSDF
+Sbjct  59   YIKHGQTIEVIWTIFPAVILLIIAFPSFILLYLCDEVISPAMTIKAIGYQWYWKYEYSDF  118
+
+Query  127  ITADGESIEFDSYMVPESDLELGQLRLLEVDNRVVVPVDTHIRFIVTGQDVIHDWAVPAL  186
+            I   GE++EF+SY++P+  LE GQLRLL+ D  +VVPVDTHIRF+VT  DVIHD+A+P+L
+Sbjct  119  INDSGETVEFESYVIPDELLEEGQLRLLDTDTSMVVPVDTHIRFVVTAADVIHDFAIPSL  178
+
+Query  187  GLKMDAVPGRLNQTSIIVQRPGVYYGQCSEICGVYHAFMPIVVEAVTLDKYLMWLDSQ  244
+            G+K+DA PGRLNQ S ++QR GV+YG CSE+CG  HA MPI +EAV+L K+L WL+ Q
+Sbjct  179  GIKVDATPGRLNQVSALIQREGVFYGACSELCGTGHANMPIKIEAVSLPKFLEWLNEQ  236
+
+
+
+
+
+
+
+		
+
+

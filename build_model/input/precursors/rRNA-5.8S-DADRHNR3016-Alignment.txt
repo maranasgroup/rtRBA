@@ -1,0 +1,923 @@
+RID: DADRHNR3016	
+Job Title:5.8s				
+Program: BLASTN 
+Database: genomic/5286/GCA_001255795.1 
+Query #1: URS00001B617E_5286 Rhodotorula toruloides 5.8S ribosomal RNA Query ID: lcl|Query_82840 Length: 149
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    821   100%  2e-74 100.00 25024      CWKI01000030.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    552   100%  2e-74 100.00 17304      CWKI01000028.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    821   100%  2e-74 100.00 20541      CWKI01000027.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    1105  100%  2e-74 100.00 30062      CWKI01000026.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    552   100%  2e-74 100.00 14849      CWKI01000023.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    552   100%  2e-74 100.00 20396      CWKI01000022.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    552   100%  2e-74 100.00 18910      CWKI01000019.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    552   100%  2e-74 100.00 352506     CWKI01000018.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          276    276   100%  2e-74 100.00 784862     CWKI01000013.1   
+
+
+Alignments:
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_30, whole genome shotgun sequence
+Sequence ID: CWKI01000030.1 Length: 25024
+Range 1: 15996 to 16144
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15996  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  16055
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  16056  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  16115
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  16116  CGTGGAGCATGCCTGTTTGAGTGTCATGA  16144
+
+
+
+
+Range 2: 24791 to 24939
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24791  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  24850
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24851  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  24910
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  24911  CGTGGAGCATGCCTGTTTGAGTGTCATGA  24939
+
+
+
+
+Range 3: 7217 to 7364
+
+Score:268 bits(145), Expect:3e-72, 
+Identities:148/149(99%),  Gaps:1/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7217  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  7276
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7277  GAA-TGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  7335
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  7336  CGTGGAGCATGCCTGTTTGAGTGTCATGA  7364
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_28, whole genome shotgun sequence
+Sequence ID: CWKI01000028.1 Length: 17304
+Range 1: 145 to 293
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Minus
+
+Query  1    ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  293  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  234
+
+Query  61   GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  233  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  174
+
+Query  121  CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+            |||||||||||||||||||||||||||||
+Sbjct  173  CGTGGAGCATGCCTGTTTGAGTGTCATGA  145
+
+
+
+
+Range 2: 8946 to 9094
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Minus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9094  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  9035
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9034  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  8975
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  8974  CGTGGAGCATGCCTGTTTGAGTGTCATGA  8946
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_27, whole genome shotgun sequence
+Sequence ID: CWKI01000027.1 Length: 20541
+Range 1: 9097 to 9245
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9097  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  9156
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9157  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  9216
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  9217  CGTGGAGCATGCCTGTTTGAGTGTCATGA  9245
+
+
+
+
+Range 2: 17904 to 18052
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  17904  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  17963
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  17964  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  18023
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  18024  CGTGGAGCATGCCTGTTTGAGTGTCATGA  18052
+
+
+
+
+Range 3: 286 to 433
+
+Score:268 bits(145), Expect:3e-72, 
+Identities:148/149(99%),  Gaps:1/149(0%), Strand: Plus/Plus
+
+Query  1    ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  286  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  345
+
+Query  61   GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  346  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  405
+
+Query  121  CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+            ||| |||||||||||||||||||||||||
+Sbjct  406  CGT-GAGCATGCCTGTTTGAGTGTCATGA  433
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_26, whole genome shotgun sequence
+Sequence ID: CWKI01000026.1 Length: 30062
+Range 1: 930 to 1078
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  930   ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  989
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  990   GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  1049
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  1050  CGTGGAGCATGCCTGTTTGAGTGTCATGA  1078
+
+
+
+
+Range 2: 9727 to 9875
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9727  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  9786
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9787  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  9846
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  9847  CGTGGAGCATGCCTGTTTGAGTGTCATGA  9875
+
+
+
+
+Range 3: 18538 to 18686
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  18538  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  18597
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  18598  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  18657
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  18658  CGTGGAGCATGCCTGTTTGAGTGTCATGA  18686
+
+
+
+
+Range 4: 27350 to 27498
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27350  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  27409
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27410  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  27469
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  27470  CGTGGAGCATGCCTGTTTGAGTGTCATGA  27498
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_23, whole genome shotgun sequence
+Sequence ID: CWKI01000023.1 Length: 14849
+Range 1: 3199 to 3347
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3199  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  3258
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3259  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  3318
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  3319  CGTGGAGCATGCCTGTTTGAGTGTCATGA  3347
+
+
+
+
+Range 2: 11999 to 12147
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11999  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  12058
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12059  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  12118
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  12119  CGTGGAGCATGCCTGTTTGAGTGTCATGA  12147
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_22, whole genome shotgun sequence
+Sequence ID: CWKI01000022.1 Length: 20396
+Range 1: 7010 to 7158
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7010  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  7069
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7070  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  7129
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  7130  CGTGGAGCATGCCTGTTTGAGTGTCATGA  7158
+
+
+
+
+Range 2: 15820 to 15968
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15820  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  15879
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15880  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  15939
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  15940  CGTGGAGCATGCCTGTTTGAGTGTCATGA  15968
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_19, whole genome shotgun sequence
+Sequence ID: CWKI01000019.1 Length: 18910
+Range 1: 4588 to 4736
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1     ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4588  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  4647
+
+Query  61    GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4648  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  4707
+
+Query  121   CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+             |||||||||||||||||||||||||||||
+Sbjct  4708  CGTGGAGCATGCCTGTTTGAGTGTCATGA  4736
+
+
+
+
+Range 2: 13403 to 13551
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1      ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  13403  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  13462
+
+Query  61     GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  13463  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  13522
+
+Query  121    CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+              |||||||||||||||||||||||||||||
+Sbjct  13523  CGTGGAGCATGCCTGTTTGAGTGTCATGA  13551
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_18, whole genome shotgun sequence
+Sequence ID: CWKI01000018.1 Length: 352506
+Range 1: 337053 to 337201
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1       ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337053  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  337112
+
+Query  61      GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337113  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  337172
+
+Query  121     CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+               |||||||||||||||||||||||||||||
+Sbjct  337173  CGTGGAGCATGCCTGTTTGAGTGTCATGA  337201
+
+
+
+
+Range 2: 345857 to 346005
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1       ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345857  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  345916
+
+Query  61      GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345917  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  345976
+
+Query  121     CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+               |||||||||||||||||||||||||||||
+Sbjct  345977  CGTGGAGCATGCCTGTTTGAGTGTCATGA  346005
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_13, whole genome shotgun sequence
+Sequence ID: CWKI01000013.1 Length: 784862
+Range 1: 780934 to 781082
+
+Score:276 bits(149), Expect:2e-74, 
+Identities:149/149(100%),  Gaps:0/149(0%), Strand: Plus/Plus
+
+Query  1       ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  780934  ACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGATACGTAATGT  780993
+
+Query  61      GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  780994  GAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCCATGGTATTC  781053
+
+Query  121     CGTGGAGCATGCCTGTTTGAGTGTCATGA  149
+               |||||||||||||||||||||||||||||
+Sbjct  781054  CGTGGAGCATGCCTGTTTGAGTGTCATGA  781082
+
+
+
+
+
+Query #2: URS000021CFE2_5286 Rhodotorula toruloides 5.8S ribosomal RNA Query ID: lcl|Query_82841 Length: 158
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    871   100%  2e-79 100.00 25024      CWKI01000030.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    585   100%  2e-79 100.00 17304      CWKI01000028.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    871   100%  2e-79 100.00 20541      CWKI01000027.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    1171  100%  2e-79 100.00 30062      CWKI01000026.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    585   100%  2e-79 100.00 14849      CWKI01000023.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    585   100%  2e-79 100.00 20396      CWKI01000022.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    585   100%  2e-79 100.00 18910      CWKI01000019.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    585   100%  2e-79 100.00 352506     CWKI01000018.1   
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          292    292   100%  2e-79 100.00 784862     CWKI01000013.1   
+
+
+Alignments:
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_30, whole genome shotgun sequence
+Sequence ID: CWKI01000030.1 Length: 25024
+Range 1: 15987 to 16144
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15987  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  16046
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  16047  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  16106
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  16107  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  16144
+
+
+
+
+Range 2: 24782 to 24939
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24782  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  24841
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24842  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  24901
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  24902  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  24939
+
+
+
+
+Range 3: 7208 to 7364
+
+Score:285 bits(154), Expect:3e-77, 
+Identities:157/158(99%),  Gaps:1/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7208  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  7267
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7268  ACGTAATGTGAA-TGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  7326
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  7327  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  7364
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_28, whole genome shotgun sequence
+Sequence ID: CWKI01000028.1 Length: 17304
+Range 1: 145 to 302
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Minus
+
+Query  1    AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  302  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  243
+
+Query  61   ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  242  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  183
+
+Query  121  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  182  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  145
+
+
+
+
+Range 2: 8946 to 9103
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Minus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9103  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  9044
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9043  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  8984
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  8983  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  8946
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_27, whole genome shotgun sequence
+Sequence ID: CWKI01000027.1 Length: 20541
+Range 1: 9088 to 9245
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9088  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  9147
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9148  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  9207
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  9208  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  9245
+
+
+
+
+Range 2: 17895 to 18052
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  17895  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  17954
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  17955  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  18014
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  18015  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  18052
+
+
+
+
+Range 3: 277 to 433
+
+Score:285 bits(154), Expect:3e-77, 
+Identities:157/158(99%),  Gaps:1/158(0%), Strand: Plus/Plus
+
+Query  1    AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  277  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  336
+
+Query  61   ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  396
+
+Query  121  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+            |||||||||||| |||||||||||||||||||||||||
+Sbjct  397  ATGGTATTCCGT-GAGCATGCCTGTTTGAGTGTCATGA  433
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_26, whole genome shotgun sequence
+Sequence ID: CWKI01000026.1 Length: 30062
+Range 1: 921 to 1078
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  921   AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  980
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  981   ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  1040
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  1041  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  1078
+
+
+
+
+Range 2: 9718 to 9875
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9718  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  9777
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9778  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  9837
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  9838  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  9875
+
+
+
+
+Range 3: 18529 to 18686
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  18529  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  18588
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  18589  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  18648
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  18649  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  18686
+
+
+
+
+Range 4: 27341 to 27498
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27341  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  27400
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27401  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  27460
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  27461  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  27498
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_23, whole genome shotgun sequence
+Sequence ID: CWKI01000023.1 Length: 14849
+Range 1: 3190 to 3347
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3190  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  3249
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3250  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  3309
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  3310  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  3347
+
+
+
+
+Range 2: 11990 to 12147
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11990  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  12049
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12050  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  12109
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  12110  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  12147
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_22, whole genome shotgun sequence
+Sequence ID: CWKI01000022.1 Length: 20396
+Range 1: 7001 to 7158
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7001  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  7060
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7061  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  7120
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  7121  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  7158
+
+
+
+
+Range 2: 15811 to 15968
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15811  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  15870
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15871  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  15930
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  15931  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  15968
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_19, whole genome shotgun sequence
+Sequence ID: CWKI01000019.1 Length: 18910
+Range 1: 4579 to 4736
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1     AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4579  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  4638
+
+Query  61    ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4639  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  4698
+
+Query  121   ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  4699  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  4736
+
+
+
+
+Range 2: 13394 to 13551
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1      AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  13394  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  13453
+
+Query  61     ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  13454  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  13513
+
+Query  121    ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  13514  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  13551
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_18, whole genome shotgun sequence
+Sequence ID: CWKI01000018.1 Length: 352506
+Range 1: 337044 to 337201
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1       AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337044  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  337103
+
+Query  61      ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  337104  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  337163
+
+Query  121     ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  337164  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  337201
+
+
+
+
+Range 2: 345848 to 346005
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1       AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345848  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  345907
+
+Query  61      ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345908  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  345967
+
+Query  121     ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  345968  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  346005
+
+
+
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_13, whole genome shotgun sequence
+Sequence ID: CWKI01000013.1 Length: 784862
+Range 1: 780925 to 781082
+
+Score:292 bits(158), Expect:2e-79, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Plus
+
+Query  1       AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  780925  AAACTTTCAACAACGGATCTCTTGGCTCTCGCATCGATGAAGAACGCAGCGAAATGCGAT  780984
+
+Query  61      ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  780985  ACGTAATGTGAATTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACCTTGCGCTCC  781044
+
+Query  121     ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  158
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  781045  ATGGTATTCCGTGGAGCATGCCTGTTTGAGTGTCATGA  781082
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,101 @@
+id,object_type,command
+# created on 2025-06-03 21:21:35 EST,,
+# how to obtain a rxn's equation:,,
+# rxn='BIOMASS'; print(rxn+',r,reaction:'+cobra.io.load_json_model('./input/iRhtoC.json').reactions.get_by_id(rxn).reaction)
+
+# converts yeast7.6 to release2 of iRhtoC
+RLFC2O_c,r,reaction:2.0 ficytC_m + lac__D_c --> 2.0 focytC_m + pyr_c
+RLFC2O_m,r,reaction:2.0 ficytC_m + lac__D_m --> 2.0 focytC_m + pyr_m
+LLFC2O_c,r,reaction:2.0 ficytC_m + lac__L_c --> 2.0 focytC_m + pyr_c
+3DSPHR_r,r,reaction:3dsphgn_r + 2.0 h_r + nadph_r --> nadp_r + sphgn_r
+HKYNH_c,r,reaction:h2o_c + hLkynr_c --> 3hanthrn_c + ala__L_c
+4DPMIPPH_c,r,reaction:4dpmipp_c + h2o_c <=> 2.0 h_c + inoshp_c + pi_c
+IPPYP1_c,r,reaction:4dpmipp_c + atp_c + 2.0 h_c --> 45dpmitp_c + adp_c + h2o_c
+MTHFR3_c,r,reaction:2.0 h_c + mlthf_c + nadph_c --> 5mthf_c + nadp_c
+PMI12346PS_c,r,reaction:atp_c + h_c + inoshp_c --> 5dpmipp_c + adp_c
+IPPYP2_c,r,reaction:5dpmipp_c + 2.0 h_c + pi_c --> 45dpmitp_c + h2o_c
+IPPYP3_c,r,reaction:5dpmipp_c + 2.0 h_c + pi_c --> 56dpmitp_c + h2o_c
+6DPMIPPH_c,r,reaction:6dpmipp_c + h2o_c <=> 2.0 h_c + inoshp_c + pi_c
+IPPYP4_c,r,reaction:6dpmipp_c + atp_c + 2.0 h_c --> 56dpmitp_c + adp_c + h2o_c
+ACACT180i_x,r,reaction:3ohodcoa_x + coa_x --> accoa_x + pmtcoa_x
+ACOAO260_x,r,reaction:hxccoa_x + o2_x --> h2o2_x + hxc2coa_x
+ATPPRT_c,r,reaction:atp_c + prpp_c --> ppi_c + prbatp_c
+14BMANTF_c,r,reaction:chito2pdol_c + gdpmann_c --> gdp_c + mpdol_c
+BTS1_c,r,reaction:dtbt_c <=> btn_c + 2.0 h_c
+C3STDH2_c,r,reaction:nadp_c + zym_int1C_c --> co2_c + h_c + nadph_c + zym_int2_c
+C3STDH1_c,r,reaction:4mzym4c_c + nad_c --> 3d4mzym_c + co2_c + h_c + nadh_c
+C4STMO3_c,r,reaction:h_c + nadph_c + o2_c + zym_int1B_c --> h2o_c + nadp_c + zym_int1C_c
+C4STMO4_c,r,reaction:14dmlanost_c + 3.0 h_c + 3.0 nadph_c + 3.0 o2_c --> 4mzym4c_c + 4.0 h2o_c + 3.0 nadp_c
+CYSS_c,r,reaction:acser_c + h2s_c --> ac_c + cys__L_c + h_c
+PMI1346PS_c,r,reaction:atp_c + 5.0 h_c + mi13456p_c + 2.0 pi_c --> 56dpmitp_c + adp_c + 2.0 h2o_c
+EPGALURS_e,r,reaction:h2o_e + pectin_e --> galur_e
+FECPOR_m,r,reaction:2.0 focytC_m + h2o2_m --> 2.0 ficytC_m + 2.0 h2o_m
+FRD_c,r,reaction:fadh2_c + fum_c <=> fad_c + succ_c
+G3PD_m,r,reaction:fad_m + glyc3p_m --> dhap_m + fadh2_m
+GCCa_m,r,reaction:gly_m + h_m + lpro_m --> alpro_m + co2_m
+GCCbi_m,r,reaction:alpro_m + thf_m --> dhlpro_m + mlthf_m + nh4_m
+GLYGS_c,r,reaction:h2o_c + udpg_c --> glycogen_c + h_c + udp_c
+HOMOX_m,r,reaction:hemeO_m + nadh_m + o2_m --> h2o_m + hemeA_m + nad_m
+HICITD_m,r,reaction:hicit_m + nad_m --> 2oxoadp_m + co2_m + h_m + nadh_m
+IPK2_n,r,reaction:atp_n + h_n + mi1345p_n --> adp_n + mi13456p_n
+IPK3_n,r,reaction:atp_n + h_n + mi1456p_n --> adp_n + mi13456p_n
+IPK4_n,r,reaction:atp_n + h_n + mi145p_n --> adp_n + mi1456p_n
+IPK5_n,r,reaction:atp_n + h_n + mi145p_n --> adp_n + mi1345p_n
+HPRORy_c,r,reaction:1p3h5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c
+LTA4H_c,r,reaction:h2o_c + leuktrA4_c <=> 56hicte_c
+LTA4H_n,r,reaction:h2o_n + leuktrA4_n <=> 56hicte_n
+LTA4H2_c,r,reaction:h2o_c + leuktrA4_c <=> leuktrB4__6E8Z_c
+LTA4H2_n,r,reaction:h2o_n + leuktrA4_n <=> leuktrB4__6E8Z_n
+METS_c,r,reaction:5mthf_c + hcys__L_c --> h_c + met__L_c + thf_c
+AHSERL2_c,r,reaction:achms_c + h2s_c --> ac_c + h_c + hcys__L_c
+PRAIS_c,r,reaction:atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c
+PAPSR_c,r,reaction:paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c
+PRATPP_c,r,reaction:h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c
+AIRC1_c,r,reaction:air_c + atp_c + co2_c + h2o_c --> 5aizc_c + adp_c + h_c + pi_c
+RBFSa_c,r,reaction:4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c
+RBFSb_c,r,reaction:2.0 dmlz_c --> 4r5au_c + ribflv_c
+SERPT_r,r,reaction:pmtcoa_r + ser__L_r --> 3dsphgn_r + co2_r + coa_r
+SHCHD2_c,r,reaction:dhsch_c + nad_c --> h_c + nadh_c + sch_c
+SHCHF_c,r,reaction:fe2_c + sch_c --> 3.0 h_c + sheme_c
+SO3R_c,r,reaction:5.0 h_c + 3.0 nadph_c + so3_c --> 3.0 h2o_c + h2s_c + 3.0 nadp_c
+TAUDO_c,r,reaction:akg_c + o2_c + taur_c --> aacald_c + co2_c + h_c + so3_c + succ_c
+CITMALta_m,r,reaction:cit_c + mal__L_m --> cit_m + mal__L_c
+AHMMPS4_c,r,reaction:air_c + 2.0 h_c --> 4ahmmp_c + gcald_c + pi_c
+THZPSN2_c,r,reaction:achms_c + cys__L_c + gly_c + h_c + r5p_c --> 4abut_c + 4mpetz_c + ac_c + co2_c + 3.0 h2o_c + nh4_c + pyr_c
+THZPSN1_c,r,reaction:achms_c + cys__L_c + gly_c + h_c + xu5p__D_c --> 4abut_c + 4mpetz_c + ac_c + co2_c + 3.0 h2o_c + nh4_c + pyr_c
+KYNAT2_c,r,reaction:Lkynr_c + pyr_c <=> ala__L_c + kynate_c
+ALDD2x_c,r,reaction:acald_c + h2o_c + nad_c --> ac_c + h_c + nadh_c
+SBP_c,r,reaction:s17bp_c --> pi_c + s7p_c
+3OACR200_rm,r,reaction:3oiccoa_rm + h_rm + nadph_rm --> 3hicoscoa_rm + nadp_rm
+3HACD260_rm,r,reaction:3hhxccoa__R_rm <=> h2o_rm + hxc2coa_rm
+ECOAR200_rm,r,reaction:h_rm + ic2coa_rm + nadph_rm --> icoscoa_rm + nadp_rm
+ECOAR260_rm,r,reaction:h_rm + hxc2coa_rm + nadph_rm --> hxccoa_rm + nadp_rm
+FACOAL260_en,r,reaction:atp_en + coa_en + hxca_en --> amp_en + hxccoa_en + ppi_en
+FACOAL260_rm,r,reaction:atp_rm + coa_rm + hxca_rm --> amp_rm + hxccoa_rm + ppi_rm
+FACOAL260_l,r,reaction:atp_l + coa_l + hxca_l --> amp_l + hxccoa_l + ppi_l
+ACOAO200_x,r,reaction:icoscoa_x + o2_x --> h2o2_x + ic2coa_x
+ACOAO161b_x,r,reaction:hdcoa_x + o2_x --> h2o2_x + hxd29coa_x
+ACOAO181a_x,r,reaction:o2_x + odecoa_x --> h2o2_x + od29coa_x
+ACOAO161a_x,r,reaction:hxd7coa_x + o2_x --> h2o2_x + hxd27coa_x
+ECOAH260_x,r,reaction:h2o_x + hxc2coa_x --> 3hhxccoa__R_x
+ECOAH200_x,r,reaction:h2o_x + ic2coa_x --> 3hiccoa_x
+ECOAH240_x,r,reaction:h2o_x + tc2coa_x --> 3htccoa__R_x
+HACD180i_x,r,reaction:3hodcoa_x + nad_x --> 3ohodcoa_x + h_x + nadh_x
+HACD240i_x,r,reaction:3htccoa__R_x + nad_x --> 3otccoa_x + h_x + nadh_x
+HACD141bi_x,r,reaction:3htd7coa_x + nad_x --> 3otd7coa_x + h_x + nadh_x
+HACD121ai_x,r,reaction:3hdd5coa_x + nad_x --> 3odd5coa_x + h_x + nadh_x
+HACD181ai_x,r,reaction:3hod9coa_x + nad_x --> 3ood9coa_x + h_x + nadh_x
+HACD161ai_x,r,reaction:3hhxd7coa_x + nad_x --> 3ohxd7coa_x + h_x + nadh_x
+HACD141ai_x,r,reaction:3htd5coa_x + nad_x --> 3otd5coa_x + h_x + nadh_x
+ACACT181ai_x,r,reaction:3ood9coa_x + coa_x --> accoa_x + hxd7coa_x
+ECOAI100a_x,r,reaction:dc3coa_x --> dc2coa_x
+ECOAI120a_x,r,reaction:dd3coa__Z_x --> dd2coa_x
+RAFH_e,r,reaction:raffin_e --> fru_e + melib_e
+SUCDq9_m,r,reaction:succ_m <=> fum_m + q9h2_m
+AOXS_c,r,reaction:ala__L_c + pmcoa_c --> 8aonn_c + co2_c + coa_c + 4.0 h_c
+3HAD40_m,r,reaction: <=> but2eACP_m + h2o_m
+3HAD60_m,r,reaction: <=> h2o_m + thex2eACP_m
+3HAD80_m,r,reaction: <=> h2o_m + toct2eACP_m
+CERS126_c,r,reaction:hxccoa_r + sphgn_r --> cer1_26_r + coa_r + h_r
+CERS2A26_r,r,reaction:hxccoa_r + psphings_r --> cer2A_26_r + coa_r + h_r
+NFTYROX_c,r,reaction:2.0 Nfortyr_c + h_c + nadph_c --> Nfortyr2_c + nadp_c

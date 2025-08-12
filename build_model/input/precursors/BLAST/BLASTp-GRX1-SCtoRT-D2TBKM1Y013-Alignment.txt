@@ -1,0 +1,361 @@
+RID: D2TBKM1Y013	
+Job Title:sp|P25373|GLRX1_YEAST Glutaredoxin-1 OS=Saccharomyces...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P25373|GLRX1_YEAST Glutaredoxin-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GRX1 PE=1 SV=1 Query ID: lcl|Query_10280 Length: 110
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+glutaredoxin [Rhodotorula toruloides NP11]                        Rhodotorula ... NA              1130832    75.1   75.1  76%   4e-18 47.62  169        XP_016271887.1   
+Glutaredoxin [Rhodotorula toruloides]                             Rhodotorula ... NA              5286       75.1   75.1  93%   4e-18 42.31  168        KAJ8294347.1     
+glutaredoxin-1 [Rhodotorula toruloides]                           Rhodotorula ... NA              5286       71.6   71.6  76%   2e-17 45.24  103        PRQ74685.1       
+glutaredoxin [Rhodotorula toruloides]                             Rhodotorula ... NA              5286       69.7   69.7  76%   1e-16 45.24  103        GEM10006.1       
+Glutaredoxin-C6 [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       68.9   68.9  93%   4e-16 38.89  127        KAJ8296923.1     
+glutaredoxin 3 [Rhodotorula toruloides NP11]                      Rhodotorula ... NA              1130832    68.6   68.6  93%   5e-16 38.89  127        XP_016271722.1   
+Glutaredoxin [Rhodotorula toruloides ATCC 204091]                 Rhodotorula ... NA              1001064    56.2   56.2  93%   5e-11 32.31  149        EGU13270.1       
+glutaredoxin domain containing protein [Rhodotorula toruloides... Rhodotorula ... NA              1130832    53.1   53.1  90%   3e-09 33.33  415        XP_016272394.1   
+hypothetical protein AAT19DRAFT_13734 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       52.4   52.4  90%   6e-09 33.33  415        PRQ75677.1       
+glutaredoxin domain containing protein [Rhodotorula toruloides]   Rhodotorula ... NA              5286       49.7   49.7  90%   5e-08 31.31  415        GEM12701.1       
+monothiol glutaredoxin [Rhodotorula toruloides NP11]              Rhodotorula ... NA              1130832    46.6   46.6  94%   3e-07 27.03  164        XP_016270786.1   
+monothiol glutaredoxin [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       46.6   46.6  94%   3e-07 27.03  164        GEM08603.1       
+hypothetical protein RTG_02687 [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    46.6   46.6  94%   3e-07 27.03  164        EGU11235.1       
+monothiol glutaredoxin-5 [Rhodotorula toruloides NP11]            Rhodotorula ... NA              1130832    41.6   41.6  46%   3e-05 37.25  262        XP_016270391.1   
+monothiol glutaredoxin-5 [Rhodotorula toruloides]                 Rhodotorula ... NA              5286       41.6   41.6  46%   3e-05 37.25  261        GEM08850.1       
+Thioredoxin-like fold [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       41.6   41.6  46%   3e-05 37.25  262        PRQ77722.1       
+
+
+Alignments:
+
+>glutaredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271887.1 Length: 169
+>glutaredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS20768.1 Length: 169
+>Glutaredoxin [Rhodotorula toruloides]
+Sequence ID: KAJ8294348.1 Length: 169
+>RHTO0S05e01244g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40311.1 Length: 169 
+Range 1: 84 to 163
+
+Score:75.1 bits(183), Expect:4e-18, 
+Method:Compositional matrix adjust., 
+Identities:40/84(48%), Positives:51/84(60%), Gaps:4/84(4%)
+
+Query  21   VASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYEINGQRTVPNIYI  80
+            V SK+YCPYC  A       LK       V +L+ M+EG+D Q AL    GQRTVP+I+I
+Sbjct  84   VFSKSYCPYCRRAKQI----LKDAGEDFDVYELDQMEEGSDWQNALANKTGQRTVPSIWI  139
+
+Query  81   NGKHIGGNDDLQELRETGELEELL  104
+             GK IGG  DL+  + +GEL+ LL
+Sbjct  140  GGKFIGGCSDLEAKQRSGELKTLL  163
+
+
+
+
+>Glutaredoxin [Rhodotorula toruloides]
+Sequence ID: KAJ8294347.1 Length: 168
+Range 1: 64 to 163
+
+Score:75.1 bits(183), Expect:4e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/104(42%), Positives:60/104(57%), Gaps:5/104(4%)
+
+Query  2    VSQETIKHVKDLIAENE-IFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGA  60
+            V+    + V+  IA+ +   V SK+YCPYC  A       LK       V +L+ M+EG+
+Sbjct  64   VTMSAKEAVEQKIAQGKRTVVFSKSYCPYCRRAKQI----LKDAGEDFDVYELDQMEEGS  119
+
+Query  61   DIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELL  104
+            D Q AL    GQRTVP+I+I GK IGG  DL+  + +GEL+ LL
+Sbjct  120  DWQNALANKTGQRTVPSIWIGGKFIGGCSDLEAKQRSGELKTLL  163
+
+
+
+
+>glutaredoxin-1 [Rhodotorula toruloides]
+Sequence ID: PRQ74685.1 Length: 103
+Range 1: 19 to 98
+
+Score:71.6 bits(174), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:38/84(45%), Positives:49/84(58%), Gaps:4/84(4%)
+
+Query  21   VASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYEINGQRTVPNIYI  80
+            V SK+YCPYC  A       LK       V +L+ M EG++ Q AL    GQRTVP+I+I
+Sbjct  19   VFSKSYCPYCRRAKQI----LKDAGEDFDVYELDQMDEGSEWQNALASKTGQRTVPSIWI  74
+
+Query  81   NGKHIGGNDDLQELRETGELEELL  104
+             G  IGG  DL+  + +GEL+ LL
+Sbjct  75   GGNFIGGCSDLEAKQRSGELKTLL  98
+
+
+
+
+>glutaredoxin [Rhodotorula toruloides]
+Sequence ID: GEM10006.1 Length: 103
+Range 1: 19 to 98
+
+Score:69.7 bits(169), Expect:1e-16, 
+Method:Compositional matrix adjust., 
+Identities:38/84(45%), Positives:48/84(57%), Gaps:4/84(4%)
+
+Query  21   VASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYEINGQRTVPNIYI  80
+            V SK YCPYC  A       LK       V +L+ M EG + Q AL    GQRTVP+I+I
+Sbjct  19   VFSKFYCPYCRRAKQI----LKDAGEDFDVYELDQMDEGFEWQNALASKTGQRTVPSIWI  74
+
+Query  81   NGKHIGGNDDLQELRETGELEELL  104
+             GK IGG  +L+  + +GEL+ LL
+Sbjct  75   GGKFIGGCSELEAKQRSGELKTLL  98
+
+
+
+
+>Glutaredoxin-C6 [Rhodotorula toruloides]
+Sequence ID: KAJ8296923.1 Length: 127
+Range 1: 21 to 126
+
+Score:68.9 bits(167), Expect:4e-16, 
+Method:Compositional matrix adjust., 
+Identities:42/108(39%), Positives:62/108(57%), Gaps:7/108(6%)
+
+Query  2    VSQETIKHVKDLI---AENEIFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKE  58
+            +SQE +   K+ +    ++ + V SK+YCPYC  A N L    +  R K  VL+LN  + 
+Sbjct  21   ISQEQVALAKETVEGLIQSPVVVFSKSYCPYCTEAKNILSSLGQSSRMK--VLELNQEQN  78
+
+Query  59   GADIQAALYEING--QRTVPNIYINGKHIGGNDDLQELRETGELEELL  104
+            G+ IQ  L E  G  + TVP +YI G+ +GG  DL++L+  G+L  LL
+Sbjct  79   GSAIQQYLAERVGAAKVTVPQVYIKGQPVGGCSDLKKLQAEGKLTSLL  126
+
+
+
+
+>glutaredoxin 3 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271722.1 Length: 127
+>glutaredoxin 3 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20603.1 Length: 127
+>RHTO0S04e02674g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR39194.1 Length: 127 
+Range 1: 21 to 126
+
+Score:68.6 bits(166), Expect:5e-16, 
+Method:Compositional matrix adjust., 
+Identities:42/108(39%), Positives:62/108(57%), Gaps:7/108(6%)
+
+Query  2    VSQETIKHVKDLI---AENEIFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKE  58
+            +SQE +   K+ +    ++ + V SK+YCPYC  A N L    +  R K  VL+LN  + 
+Sbjct  21   ISQEQVALAKETVEGLIQSPVVVFSKSYCPYCTEAKNILRSLGQSSRMK--VLELNQEQN  78
+
+Query  59   GADIQAALYEING--QRTVPNIYINGKHIGGNDDLQELRETGELEELL  104
+            G+ IQ  L E  G  + TVP +YI G+ +GG  DL++L+  G+L  LL
+Sbjct  79   GSAIQQYLAERVGAAKVTVPQVYIKGQPVGGCSDLKKLQAEGKLTSLL  126
+
+
+
+
+>Glutaredoxin [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU13270.1 Length: 149
+>glutaredoxin [Rhodotorula toruloides]
+Sequence ID: PRQ72625.1 Length: 149 
+Range 1: 21 to 148
+
+Score:56.2 bits(134), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:42/130(32%), Positives:62/130(47%), Gaps:29/130(22%)
+
+Query  2    VSQETIKHVKDLI---AENEIFVASKTYCPYCHA----------------------ALNT  36
+            +SQE +   K+ +    ++ + V SK+YCPYC                        A N 
+Sbjct  21   ISQEQVALAKETVESLIQSPVVVFSKSYCPYCAILSLSKGARDGQLTVDMLTAGTEAKNI  80
+
+Query  37   LFEKLKVPRSKVLVLQLNDMKEGADIQAALYEING--QRTVPNIYINGKHIGGNDDLQEL  94
+            L    +  R K  VL+LN  + G+ IQ  L E  G  + TVP +YI G+ +GG  DL++L
+Sbjct  81   LSSLGQSSRMK--VLELNQEQNGSAIQRYLAERVGAAKVTVPQVYIKGQPVGGCSDLKKL  138
+
+Query  95   RETGELEELL  104
+            +  G+L  LL
+Sbjct  139  QAEGKLTSLL  148
+
+
+
+
+>glutaredoxin domain containing protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272394.1 Length: 415
+>glutaredoxin domain containing protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS21275.1 Length: 415
+>RHTO0S26e01992g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR49448.1 Length: 415 
+Range 1: 312 to 408
+
+Score:53.1 bits(126), Expect:3e-09, 
+Method:Composition-based stats., 
+Identities:33/99(33%), Positives:49/99(49%), Gaps:2/99(2%)
+
+Query  9    HVKDLIAENEIFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYE  68
+             V+ ++    + V SKT CP+   A   L E    P + ++ + L    +   ++A L  
+Sbjct  312  QVEKMVRRVPVVVFSKTTCPFSKRAKERLEELQLFPSAHIVEVDLR--PDIIALKALLAR  369
+
+Query  69   INGQRTVPNIYINGKHIGGNDDLQELRETGELEELLEPI  107
+                 T PNI I  + IGG DDL  L E+GEL E+LE +
+Sbjct  370  RTNHSTWPNIIIGSRSIGGADDLDRLLESGELGEMLEEV  408
+
+
+
+
+>hypothetical protein AAT19DRAFT_13734 [Rhodotorula toruloides]
+Sequence ID: PRQ75677.1 Length: 415
+Range 1: 312 to 408
+
+Score:52.4 bits(124), Expect:6e-09, 
+Method:Composition-based stats., 
+Identities:33/99(33%), Positives:48/99(48%), Gaps:2/99(2%)
+
+Query  9    HVKDLIAENEIFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYE  68
+             V+ ++    + V SKT CP+   A   L E    P + ++ + L    +   ++A L  
+Sbjct  312  QVEKMVRRVPVVVFSKTTCPFSKRAKERLEELQLFPSAHIVEVDLR--PDIIALKALLAR  369
+
+Query  69   INGQRTVPNIYINGKHIGGNDDLQELRETGELEELLEPI  107
+                 T PNI I  + IGG DDL  L E GEL E+LE +
+Sbjct  370  RTNHSTWPNIIIGSRSIGGADDLDRLLERGELGEMLEEV  408
+
+
+
+
+>glutaredoxin domain containing protein [Rhodotorula toruloides]
+Sequence ID: GEM12701.1 Length: 415
+Range 1: 312 to 408
+
+Score:49.7 bits(117), Expect:5e-08, 
+Method:Composition-based stats., 
+Identities:31/99(31%), Positives:48/99(48%), Gaps:2/99(2%)
+
+Query  9    HVKDLIAENEIFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYE  68
+             V+ ++    + + SKT CP+   A   L E    P +  + + L    +   ++A L  
+Sbjct  312  QVEKMVRRVPVVIFSKTTCPFSKRAKARLEELQLFPSAHSVEVDLR--PDIVALKALLAR  369
+
+Query  69   INGQRTVPNIYINGKHIGGNDDLQELRETGELEELLEPI  107
+                 T PNI I  + IGG DDL  L ++GEL E+LE +
+Sbjct  370  RTNHATWPNIIIGSRSIGGADDLDRLLQSGELGEMLEEV  408
+
+
+
+
+>monothiol glutaredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270786.1 Length: 164
+>monothiol glutaredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS19667.1 Length: 164
+>Monothiol glutaredoxin-5 [Rhodotorula toruloides]
+Sequence ID: KAJ8293986.1 Length: 164
+>RHTO0S01e17348g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36242.1 Length: 164 
+Range 1: 42 to 146
+
+Score:46.6 bits(109), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:30/111(27%), Positives:58/111(52%), Gaps:13/111(11%)
+
+Query  1    MVSQETIKHVKDLIAENEI--FVASKTYCPYC--HAALNTLFEKLKVPRSKVLV---LQL  53
+            ++S +  K + D++ +N +  F+      P C    A+  + E   VP  K++    L+ 
+Sbjct  42   LLSSDARKKIDDVVTKNPLVLFMKGTPSFPQCGFSRAVCQILEVNGVPEEKIVAFNCLED  101
+
+Query  54   NDMKEGADIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELL  104
+             +++EG      + E +   T+P +YI G+ +GG D   ++ ++GELE+LL
+Sbjct  102  QELREG------IKEYSSWPTIPQLYIGGEFVGGCDIAIQMHQSGELEKLL  146
+
+
+
+
+>monothiol glutaredoxin [Rhodotorula toruloides]
+Sequence ID: GEM08603.1 Length: 164
+Range 1: 42 to 146
+
+Score:46.6 bits(109), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:30/111(27%), Positives:58/111(52%), Gaps:13/111(11%)
+
+Query  1    MVSQETIKHVKDLIAENEI--FVASKTYCPYC--HAALNTLFEKLKVPRSKVLV---LQL  53
+            ++S +  K + D++ +N +  F+      P C    A+  + E   VP  K++    L+ 
+Sbjct  42   LLSSDARKKIDDVVTKNPLVLFMKGTPSFPQCGFSRAVCQILEVNGVPEEKIVAFNCLED  101
+
+Query  54   NDMKEGADIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELL  104
+             +++EG      + E +   T+P +YI G+ +GG D   ++ ++GELE+LL
+Sbjct  102  QELREG------IKEYSSWPTIPQLYIGGEFVGGCDIAIQMHQSGELEKLL  146
+
+
+
+
+>hypothetical protein RTG_02687 [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11235.1 Length: 164
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ78182.1 Length: 164 
+Range 1: 42 to 146
+
+Score:46.6 bits(109), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:30/111(27%), Positives:58/111(52%), Gaps:13/111(11%)
+
+Query  1    MVSQETIKHVKDLIAENEI--FVASKTYCPYC--HAALNTLFEKLKVPRSKVLV---LQL  53
+            ++S +  K + D++ +N +  F+      P C    A+  + E   VP  K++    L+ 
+Sbjct  42   LLSSDARKKIDDVVTKNPLVLFMKGTPSFPQCGFSRAVCQILEVNGVPEEKIVAFNCLED  101
+
+Query  54   NDMKEGADIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELL  104
+             +++EG      + E +   T+P +YI G+ +GG D   ++ ++GELE+LL
+Sbjct  102  QELREG------IKEYSSWPTIPQLYIGGEFVGGCDIAIQMHQSGELEKLL  146
+
+
+
+
+>monothiol glutaredoxin-5 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270391.1 Length: 262
+>monothiol glutaredoxin-5 [Rhodotorula toruloides NP11]
+Sequence ID: EMS19272.1 Length: 262
+>Monothiol glutaredoxin-4 [Rhodotorula toruloides]
+Sequence ID: KAJ8293756.1 Length: 262
+>RHTO0S04e09208g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR39776.1 Length: 262 
+Range 1: 211 to 261
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:19/51(37%), Positives:33/51(64%), Gaps:0/51(0%)
+
+Query  55   DMKEGADIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELLE  105
+            D+ +   ++  L EIN   T P + I G+ +GG D ++E+ E+GEL+E+L+
+Sbjct  211  DILQDEGVRQKLKEINEWPTFPQLVIKGEFVGGLDVVKEMEESGELQEMLQ  261
+
+
+
+
+>monothiol glutaredoxin-5 [Rhodotorula toruloides]
+Sequence ID: GEM08850.1 Length: 261
+Range 1: 211 to 261
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:19/51(37%), Positives:33/51(64%), Gaps:0/51(0%)
+
+Query  55   DMKEGADIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELLE  105
+            D+ +   ++  L EIN   T P + I G+ +GG D ++E+ E+GEL+E+L+
+Sbjct  211  DILQDEGVRQKLKEINEWPTFPQLVIKGEFVGGLDVVKEMEESGELQEMLQ  261
+
+
+
+
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ77722.1 Length: 262
+Range 1: 211 to 261
+
+Score:41.6 bits(96), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:19/51(37%), Positives:33/51(64%), Gaps:0/51(0%)
+
+Query  55   DMKEGADIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELLE  105
+            D+ +   ++  L EIN   T P + I G+ +GG D ++E+ E+GEL+E+L+
+Sbjct  211  DILQDEGVRQKLKEINEWPTFPQLIIKGEFVGGLDVVKEMEESGELQEMLQ  261
+
+
+
+
+
+
+
+		
+
+

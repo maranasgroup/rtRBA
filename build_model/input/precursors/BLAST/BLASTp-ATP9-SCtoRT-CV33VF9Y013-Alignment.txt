@@ -1,0 +1,43 @@
+RID: CV33VF9Y013	
+Job Title:sp|P61829|ATP9_YEAST ATP synthase subunit...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P61829|ATP9_YEAST ATP synthase subunit 9, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=OLI1 PE=1 SV=1 Query ID: lcl|Query_45410 Length: 76
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+ATP synthase F0 subunit c [Rhodotorula toruloides]                Rhodotorula ... NA              5286       99.0   99.0  90%   4e-29 71.01  73         YP_009988022.1   
+
+
+Alignments:
+
+>ATP synthase F0 subunit c [Rhodotorula toruloides]
+Sequence ID: YP_009988022.1 Length: 73
+>ATP synthase F0 subunit c [Rhodotorula toruloides]
+Sequence ID: QNL17832.1 Length: 73
+>ATP synthase F0 subunit c [Rhodotorula toruloides]
+Sequence ID: CAE5968165.1 Length: 73 
+Range 1: 4 to 72
+
+Score:99.0 bits(245), Expect:4e-29, 
+Method:Compositional matrix adjust., 
+Identities:49/69(71%), Positives:60/69(86%), Gaps:0/69(0%)
+
+Query  6   AAKYIGAGISTIGLLGAGIGIAIVFAALINGVSRNPSIKDTVFPMAILGFALSEATGLFC  65
+           AAKYIG+G++TIGL GAG+GI +VFA LI GVSRNP+++  +F  AILGFALSEATGLF 
+Sbjct  4   AAKYIGSGLATIGLAGAGVGIGVVFAGLITGVSRNPAMRAQLFSYAILGFALSEATGLFA  63
+
+Query  66  LMVSFLLLF  74
+           LM+SFLLL+
+Sbjct  64  LMMSFLLLY  72
+
+
+
+
+
+
+
+		
+
+

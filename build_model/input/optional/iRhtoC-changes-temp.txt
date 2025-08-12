@@ -1,0 +1,22 @@
+diff --git a/build_model/input/iRhtoC.json b/build_model/input/iRhtoC.json
+index 9ab2447..0e3fd50 100644
+--- a/build_model/input/iRhtoC.json
++++ b/build_model/input/iRhtoC.json
+@@ -39270,7 +39270,7 @@
+ "yeastgem.reaction":"r_1030"
+ },
+ "annotation":{
+-"ec-code":"1.4.4.2;1.8.1.4;2.1.2.10",
++"ec-code":"1.4.4.2,1.8.1.4,2.1.2.10",
+ "sbo":"SBO:0000176"
+ }
+ },
+@@ -102809,7 +102809,7 @@
+ "id":"rt8484",
+ "name":"COQ4",
+ "notes":{
+-"notes":"Found in annotated genome; added to existing reaction based on reevaluating homology with S. cerevisiae",
++"notes":"Found this in annotated genome; added to existing reaction based on reevaluating homology with S. cerevisiae",
+ "protein_id":"RT09681",
+ "transcript_id":"9809"
+ },

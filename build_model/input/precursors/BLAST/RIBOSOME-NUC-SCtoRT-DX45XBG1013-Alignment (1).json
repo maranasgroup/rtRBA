@@ -1,0 +1,638 @@
+{
+  "Seq_annot": {
+    "desc": [
+      {
+        "user": {
+          "type": {
+            "str": "Hist Seqalign"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "Hist Seqalign"
+              },
+              "data": {
+                "bool": true
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Type"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "psiblast"
+              },
+              "data": {
+                "int": 10
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Database Title"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects"
+              },
+              "data": {
+                "bool": false
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "data": {
+      "align": [
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 525
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 525
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 3.09576457622119e-68
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 206.838009636654
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 118
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 155
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 99.4736842105263
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 0.624338624338624
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 3.09576457622119e-68
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 206.838009636654
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 206.838009636654
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 99
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 62.4338624338624
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 189
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 1,
+              "ids": [
+                {
+                  "local": {
+                    "str": "Query_88563"
+                  }
+                },
+                {
+                  "genbank": {
+                    "accession": "KAJ8297155",
+                    "version": 1
+                  }
+                }
+              ],
+              "starts": [
+                0,
+                0
+              ],
+              "lens": [
+                189
+              ],
+              "strands": [
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 3,
+                  "data": {
+                    "strs": [
+                      "seqid:KAJ8297155.1",
+                      "seqid:PRQ77000.1",
+                      "seqid:CDR35909.1"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 506
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 506
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 3.02913018976872e-65
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 199.519217694225
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 118
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 155
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 99.4736842105263
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 0.602040816326531
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 3.02913018976872e-65
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 199.519217694225
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 199.519217694225
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 99
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 60.2040816326531
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 196
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 3,
+              "ids": [
+                {
+                  "local": {
+                    "str": "Query_88563"
+                  }
+                },
+                {
+                  "ddbj": {
+                    "accession": "GEM06089",
+                    "version": 1
+                  }
+                }
+              ],
+              "starts": [
+                0,
+                0,
+                -1,
+                133,
+                133,
+                140
+              ],
+              "lens": [
+                133,
+                7,
+                56
+              ],
+              "strands": [
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 1,
+                  "data": {
+                    "strs": [
+                      "seqid:GEM06089.1"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 484
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 484
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 4.75920525226461e-62
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 191.044827024043
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 114
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 150
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 99.4736842105263
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 0.603174603174603
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 4.75920525226461e-62
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 191.044827024043
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 191.044827024043
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 99
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 60.3174603174603
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 189
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 3,
+              "ids": [
+                {
+                  "local": {
+                    "str": "Query_88563"
+                  }
+                },
+                {
+                  "other": {
+                    "accession": "XP_016275756",
+                    "version": 1
+                  }
+                }
+              ],
+              "starts": [
+                0,
+                0,
+                124,
+                -1,
+                131,
+                124
+              ],
+              "lens": [
+                124,
+                7,
+                58
+              ],
+              "strands": [
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 2,
+                  "data": {
+                    "strs": [
+                      "seqid:XP_016275756.1",
+                      "seqid:EMS24637.1"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
+

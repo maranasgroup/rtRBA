@@ -1,0 +1,2335 @@
+RID: D4XGJRU0013	
+Job Title:YOR100C				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_35597 Length: 328
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+carnitine acyl carnitine carrier, mitochondrial [Rhodotorula...   Rhodotorula ... NA              1130832    241    241   87%   4e-78 44.26  307        XP_016272826.1   
+carnitine acyl carnitine carrier, mitochondrial [Rhodotorula...   Rhodotorula ... NA              5286       218    218   87%   5e-69 41.89  298        GEM10919.1       
+Mitochondrial carnitine/acylcarnitine carrier protein...          Rhodotorula ... NA              5286       215    256   87%   4e-63 42.60  888        KAJ8292327.1     
+putative mitochondrial ornithine transporter 1 [Rhodotorula...    Rhodotorula ... NA              5286       136    136   92%   1e-37 30.25  300        PRQ77100.1       
+mitochondrial ornithine transporter [Rhodotorula toruloides NP11] Rhodotorula ... NA              1130832    136    136   92%   1e-37 30.25  300        XP_016275861.1   
+mitochondrial ornithine transporter [Rhodotorula toruloides]      Rhodotorula ... NA              5286       124    124   92%   6e-33 28.80  295        GEM06005.1       
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       115    115   87%   5e-29 28.61  379        PRQ72419.1       
+Mitochondrial basic amino acids transporter [Rhodotorula...       Rhodotorula ... NA              5286       110    110   87%   1e-27 27.67  355        KAJ8294842.1     
+carnitine acyl carnitine carrier, mitochondrial [Rhodotorula...   Rhodotorula ... NA              1130832    109    109   90%   3e-27 27.45  355        XP_016269851.1   
+Mitochondrial substrate carrier family protein L [Rhodotorula...  Rhodotorula ... NA              5286       102    102   86%   1e-24 28.30  370        KAJ8293204.1     
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       101    101   86%   3e-24 29.84  369        PRQ71291.1       
+mitochondrial carrier protein [Rhodotorula toruloides NP11]       Rhodotorula ... NA              1130832    101    101   86%   4e-24 29.84  370        XP_016269459.1   
+mitochondrial carrier [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       82.4   82.4  88%   2e-17 25.00  341        PRQ73823.1       
+mitochondrial carrier protein, carnitine/acylcarnitine...         Rhodotorula ... NA              1130832    80.9   80.9  88%   5e-17 25.00  340        XP_016276406.1   
+mitochondrial carrier protein [Rhodotorula toruloides NP11]       Rhodotorula ... NA              1130832    79.3   115   82%   5e-16 30.39  680        XP_016270440.1   
+Calcium-binding mitochondrial carrier protein Aralar2...          Rhodotorula ... NA              5286       79.3   115   82%   5e-16 30.39  680        KAJ8296747.1     
+Mitochondrial inner membrane protein [Rhodotorula toruloides...   Rhodotorula ... NA              1001064    79.0   115   82%   7e-16 31.21  693        EGU13180.1       
+mitochondrial carrier protein [Rhodotorula toruloides]            Rhodotorula ... NA              5286       78.6   115   82%   9e-16 30.04  680        GEM06547.1       
+mitochondrial carrier protein, carnitine/acylcarnitine...         Rhodotorula ... NA              5286       77.0   77.0  88%   1e-15 25.32  341        GEM09674.1       
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       75.5   138   96%   4e-15 23.96  371        PRQ72516.1       
+mitochondrial carrier protein [Rhodotorula toruloides]            Rhodotorula ... NA              5286       72.4   72.4  73%   4e-14 27.92  335        GEM10385.1       
+putative mitochondrial carrier [Rhodotorula toruloides]           Rhodotorula ... NA              5286       72.8   136   93%   4e-14 23.86  372        KAJ8297002.1     
+mitochondrial carrier protein [Rhodotorula toruloides NP11]       Rhodotorula ... NA              1130832    72.4   137   93%   5e-14 23.86  372        XP_016275571.1   
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       66.6   66.6  86%   4e-12 24.85  346        PRQ70804.1       
+mitochondrial NAD+ transporter [Rhodotorula toruloides NP11]      Rhodotorula ... NA              1130832    65.5   65.5  86%   8e-12 23.94  339        XP_016274367.1   
+hypothetical protein AAT19DRAFT_10514 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       65.1   65.1  81%   9e-12 27.30  296        PRQ70974.1       
+RHTO0S17e01926g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       64.7   64.7  81%   1e-11 27.30  296        CDR48358.1       
+mitochondrial NAD+ transporter [Rhodotorula toruloides]           Rhodotorula ... NA              5286       64.7   64.7  86%   2e-11 23.01  338        GEM11013.1       
+Mitochondrial nicotinamide adenine dinucleotide transporter 1...  Rhodotorula ... NA              5286       64.3   64.3  86%   4e-11 24.17  820        KAJ8291786.1     
+mitochondrial 2-oxodicarboxylate carrier [Rhodotorula toruloides] Rhodotorula ... NA              5286       63.2   63.2  87%   5e-11 24.59  303        GEM11466.1       
+mitochondrial carrier protein [Rhodotorula toruloides]            Rhodotorula ... NA              5286       62.4   62.4  59%   7e-11 23.61  273        GEM06245.1       
+carnitine acyl carnitine carrier, mitochondrial [Rhodotorula...   Rhodotorula ... NA              5286       62.0   62.0  57%   7e-11 24.79  267        GEM07673.1       
+mitochondrial tricarboxylate transporter, citrate transporter...  Rhodotorula ... NA              5286       62.0   62.0  81%   9e-11 26.35  292        GEM12551.1       
+mitochondrial 2-oxodicarboxylate carrier [Rhodotorula toruloid... Rhodotorula ... NA              1130832    60.8   60.8  87%   2e-10 23.15  303        XP_016271316.1   
+mitochondrial carrier [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       60.8   60.8  87%   3e-10 23.15  303        PRQ71095.1       
+Calcium-binding mitochondrial carrier SAL1 [Rhodotorula...        Rhodotorula ... NA              5286       62.0   103   87%   3e-10 25.82  1345       KAJ8292905.1     
+RHTO0S03e09384g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       57.8   99.4  88%   4e-09 23.03  404        CDR38424.1       
+DUF89 domain-containing protein [Rhodotorula toruloides ATCC...   Rhodotorula ... NA              1001064    57.4   57.4  66%   7e-09 27.19  724        EGU11414.1       
+S-adenosylmethionine transporter [Rhodotorula toruloides]         Rhodotorula ... NA              5286       56.2   97.0  44%   8e-09 26.12  301        GEM08043.1       
+mitochondrial carrier protein [Rhodotorula toruloides NP11]       Rhodotorula ... NA              1130832    57.0   102   87%   8e-09 25.82  760        XP_016270961.1   
+mitochondrial carrier protein, coenzyme A transporter...          Rhodotorula ... NA              1130832    55.8   97.4  88%   2e-08 22.70  409        XP_016277139.1   
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       55.1   95.1  88%   3e-08 22.54  407        PRQ77848.1       
+putative membrane protein C6F6.13c [Rhodotorula toruloides]       Rhodotorula ... NA              5286       55.5   97.8  86%   4e-08 23.28  1949       KAJ8295816.1     
+putative membrane protein C6F6.13c [Rhodotorula toruloides]       Rhodotorula ... NA              5286       55.5   97.8  86%   4e-08 23.28  1925       KAJ8295817.1     
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       55.1   100   87%   4e-08 25.82  762        PRQ71580.1       
+mitochondrial carrier protein [Rhodotorula toruloides]            Rhodotorula ... NA              5286       53.1   98.6  87%   1e-07 24.88  668        GEM10051.1       
+mitochondrial carrier protein, S-adenosylmethionine transporte... Rhodotorula ... NA              1130832    52.4   94.3  44%   2e-07 25.19  310        XP_016275230.1   
+mitochondrial carrier protein, family 25 [Rhodotorula toruloides] Rhodotorula ... NA              5286       52.8   52.8  61%   2e-07 23.17  558        GEM11895.1       
+Mitochondrial 2-oxodicarboxylate carrier 2 [Rhodotorula...        Rhodotorula ... NA              5286       51.2   51.2  69%   3e-07 24.15  265        KAJ8291988.1     
+S-adenosylmethionine transporter [Rhodotorula toruloides ATCC...  Rhodotorula ... NA              1001064    51.2   93.2  44%   4e-07 26.12  306        EGU12010.1       
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       46.6   46.6  61%   1e-05 22.01  433        PRQ75609.1       
+mitochondrial carrier protein, family 25 [Rhodotorula toruloid... Rhodotorula ... NA              1130832    46.2   46.2  61%   2e-05 22.39  562        XP_016272469.1   
+flavin-adenine dinucleotide transporter [Rhodotorula toruloides]  Rhodotorula ... NA              5286       44.7   44.7  48%   6e-05 24.56  331        GEM08361.1       
+mitochondrial carrier [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       40.8   40.8  23%   0.001 32.93  310        PRQ77028.1       
+Mitochondrial carrier domain-containing protein [Rhodotorula...   Rhodotorula ... NA              5286       40.0   40.0  38%   0.002 27.07  412        PRQ76969.1       
+mitochondrial RNA splicing protein [Rhodotorula toruloides NP11]  Rhodotorula ... NA              1130832    40.0   40.0  23%   0.002 31.71  310        XP_016275787.1   
+mitochondrial RNA splicing protein [Rhodotorula toruloides]       Rhodotorula ... NA              5286       38.9   38.9  23%   0.003 31.71  310        GEM06063.1       
+mitochondrial carrier protein RIM2 [Rhodotorula toruloides NP11]  Rhodotorula ... NA              1130832    38.1   38.1  38%   0.007 26.32  411        XP_016275727.1   
+
+
+Alignments:
+
+>carnitine acyl carnitine carrier, mitochondrial [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272826.1 Length: 307
+>carnitine acyl carnitine carrier, mitochondrial [Rhodotorula toruloides NP11]
+Sequence ID: EMS21707.1 Length: 307
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71992.1 Length: 307
+>RHTO0S01e07514g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR35806.1 Length: 307 
+Range 1: 23 to 303
+
+Score:241 bits(615), Expect:4e-78, 
+Method:Compositional matrix adjust., 
+Identities:131/296(44%), Positives:185/296(62%), Gaps:24/296(8%)
+
+Query  36   IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSV  95
+            +KSF++GG GGV AV  G PFDL KVR Q         A+ +++K+       T   + +
+Sbjct  23   LKSFISGGAGGVAAVLVGQPFDLTKVRLQTAAPGQYTGAL-DVVKQ-------TFARDGL  74
+
+Query  96   KGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT  155
+            +GFY+G+ PPL GVTP+FAVSFWGY +GKKLV        S+ L+ G++AAAGF SAIPT
+Sbjct  75   RGFYRGMGPPLAGVTPMFAVSFWGYAMGKKLVYALTPNRTSSVLSYGELAAAGFFSAIPT  134
+
+Query  156  TLVTAPTERVKVVLQTSSKGSF------IQAAKTIVKEGGIASLFKGSLATLARDGPGSA  209
+            TLV AP ERVKV+LQ   +G        I A   + +EGG+ S+++G+LAT+ARDGPGSA
+Sbjct  135  TLVAAPVERVKVLLQMQGQGGKQLYSGPIDAVSKLYREGGLRSIYRGTLATVARDGPGSA  194
+
+Query  210  LYFASYEISKNYLNSRQPRQDAGKD-EPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQ  268
+             YF  YE+ K  +  +      G+D   +++  V +AGG AG++MW    P D +K++LQ
+Sbjct  195  AYFVVYEMVKKAMTPQ------GQDPSQLSLSAVMVAGGSAGVAMWTLAIPPDVVKSRLQ  248
+
+Query  269  AS--STRQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLF  322
+             +   T +  +   ++  + + G+   F G GPA+ R+FPANAATFLGVE++  L 
+Sbjct  249  GAPEGTYKGFVDCARQT-VAKDGVGALFKGFGPAMARAFPANAATFLGVELSMQLM  303
+
+
+
+
+>carnitine acyl carnitine carrier, mitochondrial [Rhodotorula toruloides]
+Sequence ID: GEM10919.1 Length: 298
+Range 1: 23 to 294
+
+Score:218 bits(554), Expect:5e-69, 
+Method:Compositional matrix adjust., 
+Identities:124/296(42%), Positives:176/296(59%), Gaps:33/296(11%)
+
+Query  36   IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSV  95
+            +KSF++GG GGV AV  G PFDL KVR Q         A+ +++K+       T   + V
+Sbjct  23   LKSFISGGAGGVAAVLVGQPFDLTKVRLQTAAPGQYTGAL-DVVKQ-------TFARDGV  74
+
+Query  96   KGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT  155
+            +GFY+G+ PPL GVTP+FAVSFWGY +GKKLV        ++ L+ G++AAAGF SAIPT
+Sbjct  75   RGFYRGMGPPLAGVTPMFAVSFWGYAMGKKLVYALTPNRTTSVLSYGELAAAGFFSAIPT  134
+
+Query  156  TLVTAPTERVKVVLQTSSKGSF------IQAAKTIVKEGGIASLFKGSLATLARDGPGSA  209
+            TLV AP ERVKV+LQ   +G        + A   + +EGG+ S+++G+LAT+ARDGPGSA
+Sbjct  135  TLVAAPVERVKVLLQMQGQGGKQLYSGPLDAVSKLYREGGLRSIYRGTLATVARDGPGSA  194
+
+Query  210  LYFASYEISKNYLNSRQPRQDAGKD-EPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQ  268
+             YF  YE+ K  L        AG+D   +++  V +AGG AG++MW    P D +K++LQ
+Sbjct  195  AYFVVYEMVKKRLTP------AGQDPSQLSLSAVMVAGGSAGVAMWTLAIPPDVVKSRLQ  248
+
+Query  269  AS--STRQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLF  322
+             +   T +  +   ++  + + G+   F G GPA+ R         LGVE++  L 
+Sbjct  249  GAPEGTYKGFVDCARQT-VAKDGVGALFKGFGPAMAR---------LGVELSMQLM  294
+
+
+
+
+>Mitochondrial carnitine/acylcarnitine carrier protein [Rhodotorula toruloides]
+Sequence ID: KAJ8292327.1 Length: 888
+Range 1: 23 to 285
+
+Score:215 bits(547), Expect:4e-63, 
+Method:Compositional matrix adjust., 
+Identities:118/277(43%), Positives:170/277(61%), Gaps:22/277(7%)
+
+Query  36   IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSV  95
+            +KSF++GG GGV AV  G PFDL KVR Q         A+ +++K+       T   + +
+Sbjct  23   LKSFISGGAGGVAAVLVGQPFDLTKVRLQTAAPGQYTGAL-DVVKQ-------TFARDGL  74
+
+Query  96   KGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT  155
+            +GFY+G+ PPL GVTP+FAVSFWGY +GKKLV        S+ L+ G++AAAGF SAIPT
+Sbjct  75   RGFYRGMGPPLAGVTPMFAVSFWGYAMGKKLVYALTPNRTSSVLSYGELAAAGFFSAIPT  134
+
+Query  156  TLVTAPTERVKVVLQTSSKG------SFIQAAKTIVKEGGIASLFKGSLATLARDGPGSA  209
+            TLV AP ERVKV+LQ   +G        I A   + +EGG+ S+++G+LAT+ARDGPGSA
+Sbjct  135  TLVAAPVERVKVLLQMQGQGGKQLYSGPIDAVSKLYREGGLRSIYRGTLATVARDGPGSA  194
+
+Query  210  LYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQA  269
+             YF  YE+ K  +  +   QD  +   +++  V +AGG AG++MW    P D +K++LQ 
+Sbjct  195  AYFVVYEMVKKAMTPQG--QDPSQ---LSLSAVMVAGGSAGVAMWTLAIPPDVVKSRLQG  249
+
+Query  270  SS--TRQNMLSATKEIYLQRGGIKGFFPGLGPALLRS  304
+            +   T +  +   ++  + + G+   F G GPA+ R+
+Sbjct  250  APEGTYKGFVDCARQT-VAKDGVGALFKGFGPAMART  285
+
+
+
+
+Range 2: 17 to 105
+
+Score:41.2 bits(95), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:27/90(30%), Positives:44/90(48%), Gaps:3/90(3%)
+
+Query  234  DEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQ--NMLSATKEIYLQRGGIK  291
+            ++  + L   ++GG  G++  L   P D  K +LQ ++  Q    L   K+ +  R G++
+Sbjct  17   EQSASALKSFISGGAGGVAAVLVGQPFDLTKVRLQTAAPGQYTGALDVVKQTFA-RDGLR  75
+
+Query  292  GFFPGLGPALLRSFPANAATFLGVEMTHSL  321
+            GF+ G+GP L    P  A +F G  M   L
+Sbjct  76   GFYRGMGPPLAGVTPMFAVSFWGYAMGKKL  105
+
+
+
+
+>putative mitochondrial ornithine transporter 1 [Rhodotorula toruloides]
+Sequence ID: PRQ77100.1 Length: 300
+Range 1: 8 to 297
+
+Score:136 bits(342), Expect:1e-37, 
+Method:Compositional matrix adjust., 
+Identities:95/314(30%), Positives:155/314(49%), Gaps:35/314(11%)
+
+Query  23   SRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQ---NGQANSTVHAITNII  79
+            ++PP  + PV     S +AG VGG+  V +G+P D++K R Q    GQ   T+   T   
+Sbjct  8    TQPPPATRPV-STAASLIAGSVGGMAQVISGNPLDVLKTRSQLAAPGQFKGTLDLATQ--  64
+
+Query  80   KEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNEL  139
+                     T     +  FYKGV PPL+G+  + ++ F      ++L++        + L
+Sbjct  65   ---------TFRNEGILAFYKGVTPPLIGIAAVNSLLFASNTAARRLISPY-----PDRL  110
+
+Query  140  TMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKE-----GGIASLF  194
+            ++GQ+A AG ++     ++ +P E  KV LQ +  G   +  + IV E     G    + 
+Sbjct  111  SIGQVATAGAMAGAVQAVLASPVEMFKVRLQ-AQYGPNPKRLRDIVGEMYSKYGWRQGIM  169
+
+Query  195  KGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMW  254
+            +G   T  R+ P  A ++A YE SK  L     +++ G D  + +     AGG+ G+  W
+Sbjct  170  RGYWITFVREIPAYAGFYAGYEWSKRAL-----QKNLGTDS-LPVWATLSAGGVGGLGYW  223
+
+Query  255  LAVFPIDTIKTKLQASSTR---QNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAAT  311
+             A +P+D +K+++Q +       N +  T     ++ G++ F  GL PA LR+ PA AAT
+Sbjct  224  TACYPLDVVKSRVQNAELPPRGANYIVETFRTMYRQEGLRAFTAGLTPAYLRAVPAAAAT  283
+
+Query  312  FLGVEMTHSLFKKY  325
+            FLG E+T  L +K+
+Sbjct  284  FLGFELTMELLQKH  297
+
+
+
+
+>mitochondrial ornithine transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275861.1 Length: 300
+>mitochondrial ornithine transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS24742.1 Length: 300
+>RHTO0S14e00804g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR47225.1 Length: 300 
+Range 1: 8 to 297
+
+Score:136 bits(342), Expect:1e-37, 
+Method:Compositional matrix adjust., 
+Identities:95/314(30%), Positives:155/314(49%), Gaps:35/314(11%)
+
+Query  23   SRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQ---NGQANSTVHAITNII  79
+            ++PP  + PV     S +AG VGG+  V +G+P D++K R Q    GQ   T+   T   
+Sbjct  8    TQPPPATRPV-STAASLIAGSVGGMAQVISGNPLDVLKTRSQLAAPGQFKGTLDLATQ--  64
+
+Query  80   KEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNEL  139
+                     T     +  FYKGV PPL+G+  + ++ F      ++L++        + L
+Sbjct  65   ---------TFRNEGILAFYKGVTPPLIGIAAVNSLLFASNTAARRLISPY-----PDRL  110
+
+Query  140  TMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKE-----GGIASLF  194
+            ++GQ+A AG ++     ++ +P E  KV LQ +  G   +  + IV E     G    + 
+Sbjct  111  SIGQVATAGAMAGAVQAVLASPVEMFKVRLQ-AQYGPNPKRLRDIVGEMYSKYGWRQGIM  169
+
+Query  195  KGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMW  254
+            +G   T  R+ P  A ++A YE SK  L     +++ G D  + +     AGG+ G+  W
+Sbjct  170  RGYWITFVREIPAYAGFYAGYEWSKRAL-----QKNLGTDS-LPVWATLSAGGVGGLGYW  223
+
+Query  255  LAVFPIDTIKTKLQASSTR---QNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAAT  311
+             A +P+D +K+++Q +       N +  T     ++ G++ F  GL PA LR+ PA AAT
+Sbjct  224  TACYPLDVVKSRVQNAELPPRGANYIVETFRTMYRQEGLRAFTAGLTPAYLRAVPAAAAT  283
+
+Query  312  FLGVEMTHSLFKKY  325
+            FLG E+T  L +K+
+Sbjct  284  FLGFELTMELLQKH  297
+
+
+
+
+>mitochondrial ornithine transporter [Rhodotorula toruloides]
+Sequence ID: GEM06005.1 Length: 295
+Range 1: 8 to 292
+
+Score:124 bits(310), Expect:6e-33, 
+Method:Compositional matrix adjust., 
+Identities:89/309(29%), Positives:149/309(48%), Gaps:30/309(9%)
+
+Query  23   SRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQ---NGQANSTVHAITNII  79
+            ++PP  + PV     S +AG VGG+  V +G+P D++K R Q    GQ   T+   T   
+Sbjct  8    TQPPPATRPV-STAASLIAGSVGGMAQVISGNPLDVLKTRSQLAAPGQFKGTLDLATQ--  64
+
+Query  80   KEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNEL  139
+                     T     +  FYKGV PPL+G+  + ++ F      ++L++        + L
+Sbjct  65   ---------TFRNEGILAFYKGVTPPLVGIAAVNSLLFAANTAARRLISPY-----PDRL  110
+
+Query  140  TMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKEGGIASLFKGSLA  199
+            ++GQ+A AG ++     ++ +P  R++     + K       +   K G    + +G   
+Sbjct  111  SIGQVATAGAMAGAVQAVLASPV-RLQAQYGPNPKRLRDIVGEMYSKYGWRQGIMRGYWI  169
+
+Query  200  TLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFP  259
+            T  R+ P  A ++A YE SK  L  +      G +  + +     AGG+ G+  W A +P
+Sbjct  170  TFVREIPAYAGFYAGYEWSKRALQKK-----LGTNT-LPVWATLTAGGVGGLGYWTACYP  223
+
+Query  260  IDTIKTKLQASSTRQNMLSATKEIY--LQRG-GIKGFFPGLGPALLRSFPANAATFLGVE  316
+            +D +K+++Q +       +   E +  + RG G++ F  GL PA LR+ PA AATFLG E
+Sbjct  224  LDVVKSRVQNAELPPRGANYIVETFRSMYRGEGLRAFTAGLTPAYLRAVPAAAATFLGFE  283
+
+Query  317  MTHSLFKKY  325
+            +T  L +K+
+Sbjct  284  LTMELLQKH  292
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ72419.1 Length: 379
+Range 1: 40 to 379
+
+Score:115 bits(287), Expect:5e-29, 
+Method:Compositional matrix adjust., 
+Identities:99/346(29%), Positives:153/346(44%), Gaps:66/346(19%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNS---  94
+             F AG V G+ ++ TGHPFD +KVR Q     S+  +   + + A +   G  + N+   
+Sbjct  40   DFFAGTVAGIASLVTGHPFDTVKVRLQTQPRTSSRSSTYTLAQTAASTKDGLYYRNAGHA  99
+
+Query  95   ---------VKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMA  145
+                     V+G YKGV  P+LGV  + A  F  Y     L++  +   G  E  +G++A
+Sbjct  100  FVRVVREEGVRGLYKGVTSPMLGVALMNASVFTSYKYAMNLLSPGD---GQKEPGLGEVA  156
+
+Query  146  AAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKE---------GGIASLFKG  196
+             AG  S + T+++T P +R+K+ LQ S   S   +A T  ++           + SL++G
+Sbjct  157  VAGAASGVFTSIITTPIDRLKI-LQQSVLPSSSSSAATPARQPSLLSLLRTLSLPSLYRG  215
+
+Query  197  SLATLARDGPGSALYFASYE---------ISKNYLNSRQPRQDAGKDEPVNIL-------  240
+              AT+ RD  G   YF +YE         +S      R  ++D  ++    +        
+Sbjct  216  WSATILRD-LGYGPYFLTYEYVVRGGSFGLSWAEGEKRHLKRDLREEVESEVFGIGEGGE  274
+
+Query  241  -------NVCLAGGIAGMSMWLAVFPIDTIKTKLQA----------------SSTRQNML  277
+                    V LAGG+AG+  W   FP+D +KTK+Q+                      +L
+Sbjct  275  EGAASPGRVLLAGGLAGIVGWGCTFPLDVVKTKIQSVPASSLLPSSTSTSSSPEKYSTIL  334
+
+Query  278  SATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLFK  323
+            S  +  Y    G + F  GLGP L+RS P N  TF   E+  + F+
+Sbjct  335  STIRTSY-HEAGWRVFIAGLGPTLVRSVPVNMVTFAVFELVVAAFR  379
+
+
+
+
+>Mitochondrial basic amino acids transporter [Rhodotorula toruloides]
+Sequence ID: KAJ8294842.1 Length: 355
+Range 1: 25 to 355
+
+Score:110 bits(276), Expect:1e-27, 
+Method:Compositional matrix adjust., 
+Identities:96/347(28%), Positives:154/347(44%), Gaps:77/347(22%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQN---------------GQA--------NSTVHA  74
+             F AG V G+ ++ TGHPFD +KVR Q                G+A         +  HA
+Sbjct  25   DFFAGTVAGIASLVTGHPFDTVKVRLQTQPRALSPSAALALAAGEAGKKDGLYYRNAGHA  84
+
+Query  75   ITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQG  134
+               ++KE             V+G YKGV  P+LGV  + A  F  Y     L++  +   
+Sbjct  85   FVRVVKE-----------EGVRGLYKGVTSPMLGVALMNASVFTSYKYTMNLLSPGD---  130
+
+Query  135  GSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQT--------SSKGSFIQAAKTIVK  186
+            G  E  +G++A AG  S + T+++T P +R+K++ Q+        ++  +   +  ++++
+Sbjct  131  GQKEPGLGEVAIAGAASGVFTSVITTPIDRLKILQQSVLPSSSSSAAASTRPPSLLSLLR  190
+
+Query  187  EGGIASLFKGSLATLARDGPGSALYFASYEISKNY----LNSRQPRQDAGKDEPVNIL--  240
+               + SL++G  ATL RD  G   YF +YE         L  R  ++D  ++    +   
+Sbjct  191  TLTLPSLYRGWSATLLRD-LGYGPYFLTYEYVVRGGSFGLERRHLKRDLREEVESEVFGE  249
+
+Query  241  ----------NVCLAGGIAGMSMWLAVFPIDTIKTKLQ--------------ASSTRQNM  276
+                       V LAGG+AG+  W   FP+D +KTK+Q               ++    +
+Sbjct  250  RAQEGAASPGRVLLAGGLAGIVGWGCTFPLDVVKTKIQSVPPASLSPSSSSAMAAQYSTI  309
+
+Query  277  LSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLFK  323
+            L   +  Y +  G + F  GLGP L+RS P N  TF   E+  + F+
+Sbjct  310  LGTIRASY-REAGWRVFVAGLGPTLVRSVPVNMVTFAVFELVVAAFR  355
+
+
+
+
+>carnitine acyl carnitine carrier, mitochondrial [Rhodotorula toruloides NP11]
+Sequence ID: XP_016269851.1 Length: 355
+>carnitine acyl carnitine carrier, mitochondrial [Rhodotorula toruloides NP11]
+Sequence ID: EMS18732.1 Length: 355
+>RHTO0S21e01486g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48912.1 Length: 355 
+Range 1: 16 to 355
+
+Score:109 bits(273), Expect:3e-27, 
+Method:Compositional matrix adjust., 
+Identities:98/357(27%), Positives:157/357(43%), Gaps:78/357(21%)
+
+Query  28   KSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNG---------------------  66
+            KS P+   +  F AG V G+ ++ TGHPFD +KVR Q                       
+Sbjct  16   KSAPISPAL-DFFAGTVAGIASLVTGHPFDTVKVRLQTQPRTLSPSAALALAAGEAGKKD  74
+
+Query  67   --QANSTVHAITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGK  124
+                 +  HA   ++KE             V+G YKGV  P+LGV  + A  F  Y    
+Sbjct  75   SLYYRNAGHAFVRVVKE-----------EGVRGLYKGVTSPMLGVALMNASVFTSYKYTM  123
+
+Query  125  KLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQT--------SSKGS  176
+             L++  +   G  E  +G++A AG  S + T+++T P +R+K++ Q+        ++  +
+Sbjct  124  NLLSPGD---GQKEPGLGEVAIAGAASGVFTSVITTPIDRLKILQQSVLPSSSSSAAAST  180
+
+Query  177  FIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNY----LNSRQPRQDAG  232
+               +  ++++   + SL++G  ATL RD  G   YF +YE         L  R  ++D  
+Sbjct  181  RPPSLLSLLRTLSLPSLYRGWSATLLRD-LGYGPYFLTYEYVVRGGSFGLERRHLKRDLR  239
+
+Query  233  KDEPVNIL------------NVCLAGGIAGMSMWLAVFPIDTIKTKLQ------------  268
+            ++    +              V LAGG+AG+  W   FP+D +KTK+Q            
+Sbjct  240  EEVESEVFGERAQEGAASPGRVLLAGGLAGIVGWGCTFPLDVVKTKIQSVPPASLSPSSS  299
+
+Query  269  --ASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLFK  323
+               ++   N+L   +  Y +  G + F  GLGP L+RS P N  TF   E+  + F+
+Sbjct  300  SAMAAQYSNILGTIRTSY-REAGWRVFVAGLGPTLVRSVPVNMVTFAVFELVVAAFR  355
+
+
+
+
+>Mitochondrial substrate carrier family protein L [Rhodotorula toruloides]
+Sequence ID: KAJ8293204.1 Length: 370
+Range 1: 65 to 357
+
+Score:102 bits(255), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:88/311(28%), Positives:132/311(42%), Gaps:45/311(14%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNS  94
+            +++ F AG   G+  +  GHPFD+IKVR Q     +               +K T+    
+Sbjct  65   DLRGFAAGTASGLTKLVVGHPFDVIKVRLQCSPPGT--------YGGPWECLKTTIRAEG  116
+
+Query  95   VKGFYKGVIPP----------LLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNE------  138
+             +  YKG  PP          L+G    + +    ++ G +    ++  G S +      
+Sbjct  117  PRALYKGATPPAIGWTLSDSMLMGSLHQYRLLIARFESGWRSGWRDDGAGLSKDGLSKGL  176
+
+Query  139  -LTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSF-----IQAAKTIVKEGGIAS  192
+             L++G    AG ++     +V  PTE +K  LQ  + G       I  AK IV+  G+  
+Sbjct  177  QLSLGGHFIAGLLAGQTVCVVACPTEHLKARLQMQTTGPRLYTGPIDCAKKIVQVRGVGG  236
+
+Query  193  LFKGSLATLA-RDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGM  251
+            L+ G  ATL  R   G  + F SYE+         P    G     N L    AGG+A  
+Sbjct  237  LWHGFGATLMFRSWMG--MMFFSYEVILRAFRKHVPDMKPGT---ANFL----AGGLASN  287
+
+Query  252  SMWLAVFPIDTIKTKLQASSTRQ----NMLSATKEIYLQRGGIKGFFPGLGPALLRSFPA  307
+            + W+  FP D +K +L   S         +S  ++IY + GG K F+ G  P +LR+FP 
+Sbjct  288  TFWMGSFPFDAVKNRLMTDSLTNPRYPTWMSCARQIYAE-GGAKAFYRGFVPCILRAFPT  346
+
+Query  308  NAATFLGVEMT  318
+            NA+  L  E T
+Sbjct  347  NASALLVWEST  357
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71291.1 Length: 369
+Range 1: 64 to 356
+
+Score:101 bits(252), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:94/315(30%), Positives:132/315(41%), Gaps:53/315(16%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNS  94
+            +++ F AG   G+  +  GHPFD+IKVR Q     +               +K T+    
+Sbjct  64   DLRGFAAGTASGMTKLVVGHPFDVIKVRLQCSPPGT--------YGGPWECLKTTIRAEG  115
+
+Query  95   VKGFYKGVIPPLLGVT-------------PIFAVSF---W--GY-DVGKKLVTFNNKQGG  135
+             +  YKG  PP +G T              +    F   W  G+ D G  L     K G 
+Sbjct  116  PRALYKGATPPAIGWTLSDSMLMGSLHQYRLLIARFESGWRSGWRDDGAGL----GKDGL  171
+
+Query  136  SN--ELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSF-----IQAAKTIVKEG  188
+            S   +L++G    AG ++     +V  PTE +K  LQ  + G       I  AK IV   
+Sbjct  172  SKGLQLSLGGHFVAGLLAGQTVCVVACPTEHLKARLQMQTTGPRLYTGPIDCAKKIVDVR  231
+
+Query  189  GIASLFKGSLATLA-RDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGG  247
+            G+  L+ G  ATL  R   G  + F SYE+         P    G     N L    AGG
+Sbjct  232  GVRGLWHGFGATLMFRSWMG--MMFFSYEVILRAFRKHVPDMKPGT---ANFL----AGG  282
+
+Query  248  IAGMSMWLAVFPIDTIKTKLQASSTRQ----NMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            +A  + W+  FP D +K +L   S         +S  ++IY + GG K F+ G  P +LR
+Sbjct  283  LASNTFWMGSFPFDAVKNRLMTDSLTNPRYPTWMSCARQIYAE-GGAKAFYRGFVPCILR  341
+
+Query  304  SFPANAATFLGVEMT  318
+            +FP NA+  L  E T
+Sbjct  342  AFPTNASALLVWEST  356
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016269459.1 Length: 370
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS18340.1 Length: 370
+>RHTO0S16e04258g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48239.1 Length: 370 
+Range 1: 65 to 357
+
+Score:101 bits(251), Expect:4e-24, 
+Method:Compositional matrix adjust., 
+Identities:94/315(30%), Positives:133/315(42%), Gaps:53/315(16%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNS  94
+            +++ F AG   G+  +  GHPFD+IKVR Q     +       +        K T+    
+Sbjct  65   DLRGFAAGTASGMTKLVVGHPFDVIKVRLQCSPPGTYGGPWECL--------KTTIRAEG  116
+
+Query  95   VKGFYKGVIPPLLGVT-------------PIFAVSF---W--GY-DVGKKLVTFNNKQGG  135
+             +  YKG  PP +G T              +    F   W  G+ D G  L     K G 
+Sbjct  117  PRALYKGATPPAIGWTLSDSMLMGSLHQYRLLIARFESGWRSGWRDDGAGL----GKDGL  172
+
+Query  136  SN--ELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSF-----IQAAKTIVKEG  188
+            S   +L++G    AG ++     +V  PTE +K  LQ  + G       I  AK IV+  
+Sbjct  173  SKGLQLSLGGHFIAGLLAGQTVCVVACPTEHLKARLQMQTTGPRLYTGPIDCAKKIVQVR  232
+
+Query  189  GIASLFKGSLATLA-RDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGG  247
+            G+  L+ G  ATL  R   G  + F SYE+         P    G     N L    AGG
+Sbjct  233  GVRGLWHGFGATLMFRSWMG--MMFFSYEVILRAFRKHVPDMKPGT---ANFL----AGG  283
+
+Query  248  IAGMSMWLAVFPIDTIKTKLQASSTRQ----NMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            +A  + W+  FP D +K +L   S         +S  ++IY + GG K F+ G  P +LR
+Sbjct  284  LASNTFWMGSFPFDAVKNRLMTDSLTNPRYPTWMSCARQIYAE-GGAKAFYRGFVPCILR  342
+
+Query  304  SFPANAATFLGVEMT  318
+            +FP NA+  L  E T
+Sbjct  343  AFPTNASALLVWEST  357
+
+
+
+
+>mitochondrial carrier [Rhodotorula toruloides]
+Sequence ID: PRQ73823.1 Length: 341
+Range 1: 41 to 329
+
+Score:82.4 bits(202), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:77/308(25%), Positives:131/308(42%), Gaps:36/308(11%)
+
+Query  34   ENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTN  93
+            EN ++ +A      C+   G P D +K R Q  + +S +        E            
+Sbjct  41   EN-RNTIAAVTASFCSTVAGFPLDSVKSRLQVKRYSSVLDCARRTYAE-----------E  88
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAI  153
+             ++GF++GV  PL+ +T +   SF  Y   K  +   N   G    T+G  A AGF+   
+Sbjct  89   GIRGFFRGVTIPLVTITLVRTASFSIYTWTKDDLQRRNVLTGE---TVGSTALAGFLGGA  145
+
+Query  154  PTTLV----TAPTERVKVVLQTS-----SKG------SFIQAAKTIVKEGGIASLFKGSL  198
+             + L+    T   E  K+ LQ        KG        I+    + + GGI  L+ G  
+Sbjct  146  ASGLLLSVGTTAFEYTKIKLQLEYLIAMKKGVPYVPRGTIKGFLDLYRAGGILGLYTGFR  205
+
+Query  199  ATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVF  258
+                RD  G+ LYF  Y+ +++ + +     D  ++ P   L++ + G +AG+S W A++
+Sbjct  206  LHALRDTLGTGLYFGMYDSAQHVIRNNP---DVFENVPTT-LSIFICGSVAGVSSWAAIY  261
+
+Query  259  PIDTIKTKLQASSTRQNMLSATKEIY--LQRGGIKGFFPGLGPALLRSFPANAATFLGVE  316
+            P+D +K   Q ++       +   I+  L  GG+   + GLG +  RS   +   +  +E
+Sbjct  262  PVDLVKAHTQRNALADLAYESPVSIFKRLSAGGVTKLYRGLGVSAGRSVFTHGLMWTILE  321
+
+Query  317  MTHSLFKK  324
+             T S   +
+Sbjct  322  KTRSAIAR  329
+
+
+
+
+>mitochondrial carrier protein, carnitine/acylcarnitine translocase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276406.1 Length: 340
+>mitochondrial carrier protein, carnitine/acylcarnitine translocase [Rhodotorula toruloides NP11]
+Sequence ID: EMS25287.1 Length: 340
+>putative mitochondrial carrier C29A3.11c [Rhodotorula toruloides]
+Sequence ID: KAJ8295484.1 Length: 340
+>RHTO0S07e08108g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR43085.1 Length: 340 
+Range 1: 40 to 328
+
+Score:80.9 bits(198), Expect:5e-17, 
+Method:Compositional matrix adjust., 
+Identities:77/308(25%), Positives:130/308(42%), Gaps:36/308(11%)
+
+Query  34   ENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTN  93
+            EN ++ +A      C+   G P D +K R Q  + +S +        E            
+Sbjct  40   EN-RNTIAAVTASFCSTVAGFPLDSVKSRLQVKRYSSVLDCARRTYAE-----------E  87
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAI  153
+             ++GF++GV  PL+ +T +   SF  Y   K  +   N   G    T+G  A AGF+   
+Sbjct  88   GIRGFFRGVTIPLVTITLVRTASFSIYTWTKDDLQRRNVLTGE---TVGSTALAGFLGGA  144
+
+Query  154  PTTLV----TAPTERVKVVLQTS-----SKG------SFIQAAKTIVKEGGIASLFKGSL  198
+             + L+    T   E  K+ LQ        KG        I+    + + GGI  L+ G  
+Sbjct  145  ASGLLLSVGTTAFEYTKIKLQLEYLIAMKKGVPYVPRGTIKGFLDLYRAGGILGLYTGFR  204
+
+Query  199  ATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVF  258
+                RD  G+ LYF  Y+ +++ + +     D  ++ P   L+  + G +AG+S W A++
+Sbjct  205  LHALRDTLGTGLYFGMYDSAQHVIRNNP---DVFENVPTT-LSTFICGSVAGVSSWAAIY  260
+
+Query  259  PIDTIKTKLQASSTRQNMLSATKEIY--LQRGGIKGFFPGLGPALLRSFPANAATFLGVE  316
+            P+D +K   Q ++       +   I+  L  GG+   + GLG +  RS   +   +  +E
+Sbjct  261  PVDLVKAHTQRNALADLAYESPVSIFKRLSAGGVTKLYRGLGVSAGRSVFTHGLMWTILE  320
+
+Query  317  MTHSLFKK  324
+             T S   +
+Sbjct  321  KTRSAIAR  328
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270440.1 Length: 680
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS19321.1 Length: 680
+>RHTO0S24e01332g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR49230.1 Length: 680 
+Range 1: 369 to 634
+
+Score:79.3 bits(194), Expect:5e-16, 
+Method:Compositional matrix adjust., 
+Identities:86/283(30%), Positives:129/283(45%), Gaps:31/283(10%)
+
+Query  54   HPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIF  113
+            +P DL K R QN Q +  V  +  + K +   V+         GFY+G+ P L+GV P  
+Sbjct  369  YPIDLTKTRMQN-QRSKVVGEL--LYKNSLDCVRKVYKNEGFIGFYRGLPPQLIGVAPEK  425
+
+Query  114  AVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS  173
+            A+     D+ ++  T  +K  G  +L   ++ A G        + T P E VK+ LQ   
+Sbjct  426  AIKLTVNDLVREYAT--DKDTGRIKLRW-ELFAGGLAGGC-QVVFTNPLEIVKIRLQMQG  481
+
+Query  174  KGSFI-----QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASY-EISKNYLNSRQP  227
+            + + I     Q A  IVK  G+  L+KG++A L RD P SA+YF +Y  + K+  +    
+Sbjct  482  ENAKITGAPRQTAAQIVKSLGLLGLYKGAIACLCRDVPFSAIYFPAYAHLKKDVFHE---  538
+
+Query  228  RQDAGKDEPVNIL--NVCLAGGIAGMSMWLAVFPIDTIKTKLQA-----SSTRQNMLSAT  280
+                G+D  V      +  A      + +L   P D IKT+LQ       ST + ++ A 
+Sbjct  539  ----GRDGKVLPYGEALAAAAAAGMPAAYLTT-PADVIKTRLQTEARKGESTYKGVVDAF  593
+
+Query  281  KEIYLQRGGIKGFFPGLGPA-LLRSFPANAATFLGVEMTHSLF  322
+            ++I L   G +  F G GPA +LRS P    T +  E     F
+Sbjct  594  RKI-LNEEGARALFKG-GPARVLRSSPQFGVTLVAYENLKKHF  634
+
+
+
+
+Range 2: 367 to 426
+
+Score:36.6 bits(83), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:21/61(34%), Positives:32/61(52%), Gaps:8/61(13%)
+
+Query  256  AVFPIDTIKTKLQASSTR-------QNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPAN  308
+            AV+PID  KT++Q   ++       +N L   +++Y   G I GF+ GL P L+   P  
+Sbjct  367  AVYPIDLTKTRMQNQRSKVVGELLYKNSLDCVRKVYKNEGFI-GFYRGLPPQLIGVAPEK  425
+
+Query  309  A  309
+            A
+Sbjct  426  A  426
+
+
+
+
+>Calcium-binding mitochondrial carrier protein Aralar2 [Rhodotorula toruloides]
+Sequence ID: KAJ8296747.1 Length: 680
+Range 1: 369 to 634
+
+Score:79.3 bits(194), Expect:5e-16, 
+Method:Compositional matrix adjust., 
+Identities:86/283(30%), Positives:129/283(45%), Gaps:31/283(10%)
+
+Query  54   HPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIF  113
+            +P DL K R QN Q +  V  +  + K +   V+         GFY+G+ P L+GV P  
+Sbjct  369  YPIDLTKTRMQN-QRSKVVGEL--LYKNSLDCVRKVYKNEGFIGFYRGLPPQLIGVAPEK  425
+
+Query  114  AVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS  173
+            A+     D+ ++  T  +K  G  +L   ++ A G        + T P E VK+ LQ   
+Sbjct  426  AIKLTVNDLVREYAT--DKDTGRIKLRW-ELFAGGLAGGC-QVVFTNPLEIVKIRLQMQG  481
+
+Query  174  KGSFI-----QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASY-EISKNYLNSRQP  227
+            + + I     Q A  IVK  G+  L+KG++A L RD P SA+YF +Y  + K+  +    
+Sbjct  482  ENAKITGAPRQTAAQIVKSLGLLGLYKGAIACLCRDVPFSAIYFPAYAHLKKDVFHE---  538
+
+Query  228  RQDAGKDEPVNIL--NVCLAGGIAGMSMWLAVFPIDTIKTKLQA-----SSTRQNMLSAT  280
+                G+D  V      +  A      + +L   P D IKT+LQ       ST + ++ A 
+Sbjct  539  ----GRDGKVLPYGEALAAAAAAGMPAAYLTT-PADVIKTRLQTEARKGESTYKGVVDAF  593
+
+Query  281  KEIYLQRGGIKGFFPGLGPA-LLRSFPANAATFLGVEMTHSLF  322
+            ++I L   G +  F G GPA +LRS P    T +  E     F
+Sbjct  594  RKI-LNEEGARALFKG-GPARVLRSSPQFGVTLVAYENLKKHF  634
+
+
+
+
+Range 2: 367 to 426
+
+Score:36.6 bits(83), Expect:0.032, 
+Method:Compositional matrix adjust., 
+Identities:21/61(34%), Positives:32/61(52%), Gaps:8/61(13%)
+
+Query  256  AVFPIDTIKTKLQASSTR-------QNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPAN  308
+            AV+PID  KT++Q   ++       +N L   +++Y   G I GF+ GL P L+   P  
+Sbjct  367  AVYPIDLTKTRMQNQRSKVVGELLYKNSLDCVRKVYKNEGFI-GFYRGLPPQLIGVAPEK  425
+
+Query  309  A  309
+            A
+Sbjct  426  A  426
+
+
+
+
+>Mitochondrial inner membrane protein [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU13180.1 Length: 693
+>mitochondrial inner membrane protein [Rhodotorula toruloides]
+Sequence ID: PRQ72875.1 Length: 693 
+Range 1: 382 to 647
+
+Score:79.0 bits(193), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:88/282(31%), Positives:128/282(45%), Gaps:29/282(10%)
+
+Query  54   HPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIF  113
+            +P DL K R QN Q +  V  +  + K +   V+         GFY+G+ P L+GV P  
+Sbjct  382  YPIDLTKTRMQN-QRSKVVGEL--LYKNSLDCVRKVYKNEGFIGFYRGLPPQLIGVAPEK  438
+
+Query  114  AVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS  173
+            A+     D+ ++  T  +K  G  +L   ++ A G        + T P E VK+ LQ   
+Sbjct  439  AIKLTVNDLVREYAT--DKDTGRIKLRW-ELFAGGLAGGC-QVVFTNPLEIVKIRLQMQG  494
+
+Query  174  KGSFI-----QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASY-EISKNYLNSRQP  227
+            + + I     Q A  IVK  G+  L+KG++A L RD P SA+YF +Y  + K+  +    
+Sbjct  495  ENAKITGAPRQTAGQIVKSLGLLGLYKGAIACLCRDVPFSAIYFPAYAHLKKDVFHE---  551
+
+Query  228  RQDAGKDEPVNIL-NVCLAGGIAGMSMWLAVFPIDTIKTKLQ-----ASSTRQNMLSATK  281
+                G+D  V        A   AGM       P D IKT+LQ       ST + ++ A +
+Sbjct  552  ----GRDGKVLPYGEALAAAAAAGMPAAYLTTPADVIKTRLQTEARKGESTYKGVVDAFR  607
+
+Query  282  EIYLQRGGIKGFFPGLGPA-LLRSFPANAATFLGVEMTHSLF  322
+            +I L   G +  F G GPA +LRS P    T +  E     F
+Sbjct  608  KI-LNEEGARALFKG-GPARVLRSSPQFGVTLVAYENLKKHF  647
+
+
+
+
+Range 2: 380 to 439
+
+Score:36.6 bits(83), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:21/61(34%), Positives:32/61(52%), Gaps:8/61(13%)
+
+Query  256  AVFPIDTIKTKLQASSTR-------QNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPAN  308
+            AV+PID  KT++Q   ++       +N L   +++Y   G I GF+ GL P L+   P  
+Sbjct  380  AVYPIDLTKTRMQNQRSKVVGELLYKNSLDCVRKVYKNEGFI-GFYRGLPPQLIGVAPEK  438
+
+Query  309  A  309
+            A
+Sbjct  439  A  439
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides]
+Sequence ID: GEM06547.1 Length: 680
+Range 1: 369 to 634
+
+Score:78.6 bits(192), Expect:9e-16, 
+Method:Compositional matrix adjust., 
+Identities:85/283(30%), Positives:130/283(45%), Gaps:31/283(10%)
+
+Query  54   HPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIF  113
+            +P DL K R QN Q +  V  +  + K +   V+         GFY+G+ P L+GV P  
+Sbjct  369  YPIDLTKTRMQN-QRSKVVGEL--LYKNSLDCVRKVYKNEGFIGFYRGLPPQLIGVAPEK  425
+
+Query  114  AVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS  173
+            A+     D+ ++  +  +K  G  +L    +  AG ++     + T P E VK+ LQ   
+Sbjct  426  AIKLTVNDLVREYAS--DKDTGRIKLRWELL--AGGLAGGCQVVFTNPLEIVKIRLQMQG  481
+
+Query  174  KGSFI-----QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASY-EISKNYLNSRQP  227
+            + + I     Q A  IVK  G+  L+KG++A L RD P SA+YF +Y  + K+  +    
+Sbjct  482  ENAKITGAPRQTAAQIVKSLGLLGLYKGAIACLCRDVPFSAIYFPAYAHLKKDVFHE---  538
+
+Query  228  RQDAGKDEPVNIL--NVCLAGGIAGMSMWLAVFPIDTIKTKLQA-----SSTRQNMLSAT  280
+                G+D  V      +  A      + +L   P D IKT+LQ       ST + ++ A 
+Sbjct  539  ----GRDGKVLPYGEALAAAAIAGMPAAYLTT-PADVIKTRLQTEARKGESTYKGVVDAF  593
+
+Query  281  KEIYLQRGGIKGFFPGLGPA-LLRSFPANAATFLGVEMTHSLF  322
+            ++I L   G +  F G GPA +LRS P    T +  E     F
+Sbjct  594  RKI-LSEEGARALFKG-GPARVLRSSPQFGVTLVAYENLKKHF  634
+
+
+
+
+Range 2: 367 to 426
+
+Score:36.6 bits(83), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:21/61(34%), Positives:32/61(52%), Gaps:8/61(13%)
+
+Query  256  AVFPIDTIKTKLQASSTR-------QNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPAN  308
+            AV+PID  KT++Q   ++       +N L   +++Y   G I GF+ GL P L+   P  
+Sbjct  367  AVYPIDLTKTRMQNQRSKVVGELLYKNSLDCVRKVYKNEGFI-GFYRGLPPQLIGVAPEK  425
+
+Query  309  A  309
+            A
+Sbjct  426  A  426
+
+
+
+
+>mitochondrial carrier protein, carnitine/acylcarnitine translocase [Rhodotorula toruloides]
+Sequence ID: GEM09674.1 Length: 341
+Range 1: 41 to 329
+
+Score:77.0 bits(188), Expect:1e-15, 
+Method:Compositional matrix adjust., 
+Identities:78/308(25%), Positives:129/308(41%), Gaps:36/308(11%)
+
+Query  34   ENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTN  93
+            EN ++ +A      C+   G P D +K R Q  + +S +        E            
+Sbjct  41   EN-RNTIAAITASFCSTVAGFPLDSVKSRLQVKRYSSVLDCARRTYAE-----------E  88
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAI  153
+             ++GF++GV  PL+ +T +   SF  Y   K  +   N   G    T+G  A AGF+   
+Sbjct  89   GIRGFFRGVTIPLVTITLVRTASFSIYTWTKGDLQRRNLLTGE---TVGSTALAGFLGGA  145
+
+Query  154  PTTLV----TAPTERVKVVLQTS-----SKG------SFIQAAKTIVKEGGIASLFKGSL  198
+             + L+    T   E  K+ LQ        KG        I+    + + GG+  L+ G  
+Sbjct  146  ASGLLLSVGTTAFEYTKIKLQLEYLIAMKKGVPYVPRGTIKGFLDLYRAGGVFGLYTGFR  205
+
+Query  199  ATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVF  258
+                RD  G+ LYF  Y+ S  ++    P  D  ++ P   L+  + G +AG+S W A++
+Sbjct  206  LHALRDTLGTGLYFGMYD-SAQHVIWNNP--DVFENVPTT-LSTFVCGSVAGVSSWAAIY  261
+
+Query  259  PIDTIKTKLQASSTRQNMLSATKEIY--LQRGGIKGFFPGLGPALLRSFPANAATFLGVE  316
+            P+D +K   Q ++       +   I+  L  GG+   + GLG +  RS   +   +  +E
+Sbjct  262  PVDLVKAHTQRNALADLAYESPVSIFKRLSAGGVTKLYRGLGVSAGRSVFTHGLMWTILE  321
+
+Query  317  MTHSLFKK  324
+             T S   +
+Sbjct  322  KTRSAIAR  329
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ72516.1 Length: 371
+Range 1: 66 to 357
+
+Score:75.5 bits(184), Expect:4e-15, 
+Method:Compositional matrix adjust., 
+Identities:75/313(24%), Positives:130/313(41%), Gaps:46/313(14%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQ----NGQANSTVHAITNIIKEAKTQVKGTLFTN  93
+            +F+AG + G  +     P + +K+  Q    + Q     H +T + +E            
+Sbjct  66   AFIAGALAGAASRTVVSPLERLKILLQVQGASAQYKGVWHGLTKMWRE-----------E  114
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAI  153
+              KG+ +G    +L + P  AV F  Y++ K  +     +G    +   +   AG ++ I
+Sbjct  115  GFKGYMRGNGINVLRIAPYSAVQFSSYELFKSAL-----RGEDGSMDTPRRLTAGSLAGI  169
+
+Query  154  PTTLVTAPTERVKVVLQTSSKGSFIQAAKT------IVK--------EGGIASLFKGSLA  199
+             + + T P + V+  L   S    ++  +T      IV+        EGG+ +L++G + 
+Sbjct  170  CSVVSTYPLDLVRSRLSVESASLGMKEGRTDGRSTGIVRMTLKVMREEGGVKALYRGLVP  229
+
+Query  200  TLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFP  259
+            T A   P  A  FASYE+ K  L        +   EP     + L GG+AG       +P
+Sbjct  230  TSAGVAPYVAFNFASYELLKIQLMD----HTSDHHEPGTFAKL-LCGGVAGAVSQTLTYP  284
+
+Query  260  IDTIKTKLQASSTRQNML-----SATKEIY--LQRGGIKGFFPGLGPALLRSFPANAATF  312
+             D ++ ++Q    +   L      A   ++  +++ GIKG + GL P LL+  P+   +F
+Sbjct  285  ADLLRRRMQMVGLKSQALGYEYTGAWNAVFSIIRQDGIKGLYRGLWPNLLKCAPSIGVSF  344
+
+Query  313  LGVEMTHSLFKKY  325
+               E T      Y
+Sbjct  345  AVYEWTKETLDDY  357
+
+
+
+
+Range 2: 146 to 356
+
+Score:62.8 bits(151), Expect:8e-11, 
+Method:Compositional matrix adjust., 
+Identities:57/233(24%), Positives:101/233(43%), Gaps:41/233(17%)
+
+Query  11   SLLKEESGSLTKSRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANS  70
+            S L+ E GS+   R                AG + G+C+V + +P DL++ R        
+Sbjct  146  SALRGEDGSMDTPR-------------RLTAGSLAGICSVVSTYPLDLVRSRL-------  185
+
+Query  71   TVHAITNIIKEAKTQVKGTLFTN----------SVKGFYKGVIPPLLGVTPIFAVSFWGY  120
+            +V + +  +KE +T  + T               VK  Y+G++P   GV P  A +F  Y
+Sbjct  186  SVESASLGMKEGRTDGRSTGIVRMTLKVMREEGGVKALYRGLVPTSAGVAPYVAFNFASY  245
+
+Query  121  DVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTE----RVKVV-LQTSSKG  175
+            ++  K+   ++        T  ++   G   A+  TL T P +    R+++V L++ + G
+Sbjct  246  EL-LKIQLMDHTSDHHEPGTFAKLLCGGVAGAVSQTL-TYPADLLRRRMQMVGLKSQALG  303
+
+Query  176  ----SFIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNYLNS  224
+                    A  +I+++ GI  L++G    L +  P   + FA YE +K  L+ 
+Sbjct  304  YEYTGAWNAVFSIIRQDGIKGLYRGLWPNLLKCAPSIGVSFAVYEWTKETLDD  356
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides]
+Sequence ID: GEM10385.1 Length: 335
+Range 1: 67 to 313
+
+Score:72.4 bits(176), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:74/265(28%), Positives:106/265(40%), Gaps:41/265(15%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNS  94
+            +++ F AG   G+  +  GHPFD+IKVR Q     +               +K T+    
+Sbjct  67   DLRGFAAGTASGLTKLVVGHPFDVIKVRLQCSPPGT--------YGGPWECLKTTIRVEG  118
+
+Query  95   VKGFYKGVIPPLLGVT--------------PIFAVSFWGYDVGKKLVTFNNKQGGSN---  137
+             +  YKG  PP +G T               + A    G+  G +       Q G +   
+Sbjct  119  PRALYKGATPPAIGWTLSDSMLMGSLHQYRLLIARFESGWRSGWRDDGAELGQDGLSKGL  178
+
+Query  138  ELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSF-----IQAAKTIVKEGGIAS  192
+            +L++G    AG ++     +V  PTE +K  LQ  + G       I  AK IV+  G+  
+Sbjct  179  QLSLGGHFIAGLLAGQTVCVVACPTEHLKARLQMQTTGPRLYTGPIDCAKKIVQVRGVRG  238
+
+Query  193  LFKGSLATLA-RDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGM  251
+            L+ G  ATL  R   G  + F SYE+         P    G     N     LAGG+A  
+Sbjct  239  LWHGFGATLMFRSWMG--MMFFSYEVILRAFRKHLPDMKPGT---ANF----LAGGLASN  289
+
+Query  252  SMWLAVFPIDTIKTKLQASSTRQNM  276
+            + W+  FP D +K K   SS    M
+Sbjct  290  TFWMGSFPFDAVK-KCAPSSVLSRM  313
+
+
+
+
+>putative mitochondrial carrier [Rhodotorula toruloides]
+Sequence ID: KAJ8297002.1 Length: 372
+Range 1: 66 to 350
+
+Score:72.8 bits(177), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:73/306(24%), Positives:130/306(42%), Gaps:46/306(15%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQ----NGQANSTVHAITNIIKEAKTQVKGTLFTN  93
+            +F+AG + G  +     P + +K+  Q    + Q     H +T + +E            
+Sbjct  66   AFIAGALAGAASRTVVSPLERLKILLQVQGASAQYKGVWHGLTKMWRE-----------E  114
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAI  153
+              KG+ +G    +L + P  AV F  Y++ K  +     +G    +   +   AG ++ I
+Sbjct  115  GFKGYMRGNGINVLRIAPYSAVQFSSYELFKSAL-----RGEDGSMDTPRRLTAGSLAGI  169
+
+Query  154  PTTLVTAPTERVKVVLQTSSKGSFIQAAKT------IVK--------EGGIASLFKGSLA  199
+             + + T P + V+  L   S    ++  +T      IV+        EGG+ +L++G + 
+Sbjct  170  CSVVSTYPLDLVRSRLSVESASLGMKEGRTDGRSTGIVRMTLKVMREEGGVKALYRGLVP  229
+
+Query  200  TLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFP  259
+            T A   P  A  FASYE+ K  L       ++   EP     + L GG+AG       +P
+Sbjct  230  TSAGVAPYVAFNFASYELLKIQLMD----HNSDHHEPGTFAKL-LCGGVAGAVSQTLTYP  284
+
+Query  260  IDTIKTKLQASSTRQNML-----SATKEIY--LQRGGIKGFFPGLGPALLRSFPANAATF  312
+             D ++ ++Q    +   L      A   ++  +++ GIKG + GL P LL+  P+   +F
+Sbjct  285  ADLLRRRMQMVGLKSQALGYEYTGAWNAVFSIVRQDGIKGLYRGLWPNLLKCAPSIGVSF  344
+
+Query  313  LGVEMT  318
+               E +
+Sbjct  345  AVYEWS  350
+
+
+
+
+Range 2: 146 to 354
+
+Score:63.5 bits(153), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:61/232(26%), Positives:102/232(43%), Gaps:43/232(18%)
+
+Query  11   SLLKEESGSLTKSRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANS  70
+            S L+ E GS+   R                AG + G+C+V + +P DL++ R        
+Sbjct  146  SALRGEDGSMDTPR-------------RLTAGSLAGICSVVSTYPLDLVRSRL-------  185
+
+Query  71   TVHAITNIIKEAKTQVKGTLFTN----------SVKGFYKGVIPPLLGVTPIFAVSFWGY  120
+            +V + +  +KE +T  + T               VK  Y+G++P   GV P  A +F  Y
+Sbjct  186  SVESASLGMKEGRTDGRSTGIVRMTLKVMREEGGVKALYRGLVPTSAGVAPYVAFNFASY  245
+
+Query  121  DVGK-KLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTE----RVKVV-LQTSSK  174
+            ++ K +L+  N+        T  ++   G   A+  TL T P +    R+++V L++ + 
+Sbjct  246  ELLKIQLMDHNSDH--HEPGTFAKLLCGGVAGAVSQTL-TYPADLLRRRMQMVGLKSQAL  302
+
+Query  175  G----SFIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNYL  222
+            G        A  +IV++ GI  L++G    L +  P   + FA YE SK  L
+Sbjct  303  GYEYTGAWNAVFSIVRQDGIKGLYRGLWPNLLKCAPSIGVSFAVYEWSKETL  354
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275571.1 Length: 372
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS24452.1 Length: 372
+>RHTO0S01e14202g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36097.1 Length: 372 
+Range 1: 66 to 350
+
+Score:72.4 bits(176), Expect:5e-14, 
+Method:Compositional matrix adjust., 
+Identities:73/306(24%), Positives:130/306(42%), Gaps:46/306(15%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQ----NGQANSTVHAITNIIKEAKTQVKGTLFTN  93
+            +F+AG + G  +     P + +K+  Q    + Q     H +T + +E            
+Sbjct  66   AFIAGALAGAASRTVVSPLERLKILLQVQGASAQYKGVWHGLTKMWRE-----------E  114
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAI  153
+              KG+ +G    +L + P  AV F  Y++ K  +     +G    +   +   AG ++ I
+Sbjct  115  GFKGYMRGNGINVLRIAPYSAVQFSSYELFKSAL-----RGEDGSMDTPRRLTAGSLAGI  169
+
+Query  154  PTTLVTAPTERVKVVLQTSSKGSFIQAAKT------IVK--------EGGIASLFKGSLA  199
+             + + T P + V+  L   S    ++  +T      IV+        EGG+ +L++G + 
+Sbjct  170  CSVVSTYPLDLVRSRLSVESASLGMKEGRTDGRSTGIVRMTLKVMREEGGVKALYRGLVP  229
+
+Query  200  TLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFP  259
+            T A   P  A  FASYE+ K  L       ++   EP     + L GG+AG       +P
+Sbjct  230  TSAGVAPYVAFNFASYELLKIQLVD----HNSDHHEPGTFAKL-LCGGVAGAVSQTLTYP  284
+
+Query  260  IDTIKTKLQASSTRQNML-----SATKEIY--LQRGGIKGFFPGLGPALLRSFPANAATF  312
+             D ++ ++Q    +   L      A   ++  +++ GIKG + GL P LL+  P+   +F
+Sbjct  285  ADLLRRRMQMVGLKSQALGYEYTGAWNAVFSIVRQDGIKGLYRGLWPNLLKCAPSIGVSF  344
+
+Query  313  LGVEMT  318
+               E +
+Sbjct  345  AVYEWS  350
+
+
+
+
+Range 2: 146 to 354
+
+Score:65.1 bits(157), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:62/232(27%), Positives:102/232(43%), Gaps:43/232(18%)
+
+Query  11   SLLKEESGSLTKSRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANS  70
+            S L+ E GS+   R                AG + G+C+V + +P DL++ R        
+Sbjct  146  SALRGEDGSMDTPR-------------RLTAGSLAGICSVVSTYPLDLVRSRL-------  185
+
+Query  71   TVHAITNIIKEAKTQVKGTLFTN----------SVKGFYKGVIPPLLGVTPIFAVSFWGY  120
+            +V + +  +KE +T  + T               VK  Y+G++P   GV P  A +F  Y
+Sbjct  186  SVESASLGMKEGRTDGRSTGIVRMTLKVMREEGGVKALYRGLVPTSAGVAPYVAFNFASY  245
+
+Query  121  DVGK-KLVTFNNKQGGSNELTMGQMAAAGFISAIPTTLVTAPTE----RVKVV-LQTSSK  174
+            ++ K +LV  N+        T  ++   G   A+  TL T P +    R+++V L++ + 
+Sbjct  246  ELLKIQLVDHNSDH--HEPGTFAKLLCGGVAGAVSQTL-TYPADLLRRRMQMVGLKSQAL  302
+
+Query  175  G----SFIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNYL  222
+            G        A  +IV++ GI  L++G    L +  P   + FA YE SK  L
+Sbjct  303  GYEYTGAWNAVFSIVRQDGIKGLYRGLWPNLLKCAPSIGVSFAVYEWSKETL  354
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ70804.1 Length: 346
+Range 1: 25 to 337
+
+Score:66.6 bits(161), Expect:4e-12, 
+Method:Compositional matrix adjust., 
+Identities:82/330(25%), Positives:132/330(40%), Gaps:64/330(19%)
+
+Query  37   KSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVK  96
+            +S +AG   G+       P D+IK + Q G A++       ++ E++   +    T+  +
+Sbjct  25   ESMLAGAGAGLVTSIVTCPLDVIKTKLQAGGASNGA---AGVLGESRL-TRHIWVTDGFR  80
+
+Query  97   GFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT-  155
+            G Y+G+ P ++G  P +A+ F  YD  K+     + +G   EL       A  +SA+   
+Sbjct  81   GLYRGLGPTIIGYLPTWAIYFTVYDQVKR--QLEDIRG---ELVRPDDPVAHILSAMTAG  135
+
+Query  156  ---TLVTAPTERVKVVLQTSSKGS-------FIQAAKTIVKEGGIASLFKGSLATLARDG  205
+               T++T P   VK    T   G+          A   I +E G  + ++G L +L    
+Sbjct  136  ASGTILTNPLWVVKTRFMTQESGADEPRYRHTWDALVRIYREEGPKAFYRGLLPSLF-GV  194
+
+Query  206  PGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKT  265
+               A+ F  YE  K        R + G D P   + VC +   + M   +A +P + ++T
+Sbjct  195  AHVAVQFPLYERFKV-----MSRPEDGSDIPSWTILVCSSA--SKMIASIATYPHEVLRT  247
+
+Query  266  KLQASSTRQNMLSATK----------------------------EIYLQRGGIKGFFPGL  297
+            +LQ    R       K                            +  L+  G+ GF+ GL
+Sbjct  248  RLQIQKNRHAAAVVDKVSNYGLPTTNSATSPQAAPALEGVVKTFQRILREEGVAGFYRGL  307
+
+Query  298  GPALLRSFPANAATFLGVE--------MTH  319
+            G  LLR+ PA+A T L  E        MTH
+Sbjct  308  GVNLLRTVPASAMTLLTYEELMRRLVCMTH  337
+
+
+
+
+>mitochondrial NAD+ transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274367.1 Length: 339
+>mitochondrial NAD+ transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS23248.1 Length: 339
+>RHTO0S12e02102g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46254.1 Length: 339 
+Range 1: 25 to 330
+
+Score:65.5 bits(158), Expect:8e-12, 
+Method:Compositional matrix adjust., 
+Identities:79/330(24%), Positives:130/330(39%), Gaps:71/330(21%)
+
+Query  37   KSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVK  96
+            +S +AG   G+       P D+IK + Q G A++    +  + +           T+  +
+Sbjct  25   ESMLAGAGAGLVTSIVTCPLDVIKTKLQAGGASNGAAGVLGLTRH-------IWVTDGFR  77
+
+Query  97   GFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT-  155
+            G Y+G+ P ++G  P +A+ F  YD  K+     + +G  + +       A  +SA+   
+Sbjct  78   GLYRGLGPTIIGYLPTWAIYFTVYDQVKR--QLEDIRGPDDPV-------AHILSAMTAG  128
+
+Query  156  ---TLVTAPTERVKVVLQTSSKGS-------FIQAAKTIVKEGGIASLFKGSLATLARDG  205
+               T++T P   VK    T   G+          A   I +E G  + ++G L +L    
+Sbjct  129  ASGTILTNPLWVVKTRFMTQESGADEPRYRHTWDALVRIYREEGPKAFYRGLLPSLF-GV  187
+
+Query  206  PGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKT  265
+               A+ F  YE  K        R + G D P + + VC +   + M   +A +P + ++T
+Sbjct  188  AHVAVQFPLYERFKV-----MSRPEDGSDIPSSTILVCSSA--SKMIASIATYPHEVLRT  240
+
+Query  266  KLQASSTRQNMLSATK----------------------------EIYLQRGGIKGFFPGL  297
+            +LQ    R       K                            +  L+  G+ GF+ GL
+Sbjct  241  RLQIQKNRHAAAVGDKVPNYGLPTTNSATSPRAAPALEGVVKTFQRILREEGVAGFYRGL  300
+
+Query  298  GPALLRSFPANAATFLGVE--------MTH  319
+            G  LLR+ PA+A T L  E        MTH
+Sbjct  301  GVNLLRTVPASAMTLLTYEELMRRLVRMTH  330
+
+
+
+
+>hypothetical protein AAT19DRAFT_10514 [Rhodotorula toruloides]
+Sequence ID: PRQ70974.1 Length: 296
+Range 1: 14 to 272
+
+Score:65.1 bits(157), Expect:9e-12, 
+Method:Compositional matrix adjust., 
+Identities:77/282(27%), Positives:113/282(40%), Gaps:39/282(13%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANST----VHAITNIIKEAKTQVKGTLFTN  93
+            + VAG   G       +PF+ +K + Q           + AIT          K T    
+Sbjct  14   ALVAGAFAGAVEGAATYPFEYLKTQTQFAHRTDGKPPGLWAIT----------KQTYARQ  63
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKK-LVTFNNKQGGSNELTMGQMAAAGFISA  152
+             + GFY GV   + G      V F  YD  K+ LV  + +  G   L  G    AG + A
+Sbjct  64   GILGFYSGVGALVTGNALKAGVRFVSYDRFKQMLVDRDGRLSGPRSLLAG--LGAGMMEA  121
+
+Query  153  IPTTLVTAPTERVKVVLQTSSKGS------FIQAAKTIVKEGGIASLFKGSLATLARDGP  206
+            +       P+E +K  L    K         +    +I+KE G   +++G     AR G 
+Sbjct  122  V---FAVTPSETIKTKLIDDQKREVPRYRGLVHGTVSIIKEEGFRGIYRGLGPVAARQGA  178
+
+Query  207  GSALYFASYEISKNYL--NSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIK  264
+             SA+ F +Y   K+++  NSR      G+  P  +      G IAG+    A  P+D IK
+Sbjct  179  NSAVRFTTYGTLKSFVSGNSR-----PGETLPAGVTFAI--GAIAGVVTVYATMPLDVIK  231
+
+Query  265  TKLQ---ASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            T++Q   A S  +N       I+ +  GI  F+ G  P L R
+Sbjct  232  TRMQSLEARSQYRNSFHCAARIFSEE-GIFRFWRGATPRLAR  272
+
+
+
+
+>RHTO0S17e01926g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48358.1 Length: 296
+Range 1: 14 to 272
+
+Score:64.7 bits(156), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:77/282(27%), Positives:113/282(40%), Gaps:39/282(13%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANST----VHAITNIIKEAKTQVKGTLFTN  93
+            + VAG   G       +PF+ +K + Q           + AIT          K T    
+Sbjct  14   ALVAGAFAGAVEGAATYPFEYLKTQTQFAHRTDGKPPGLWAIT----------KQTYARQ  63
+
+Query  94   SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKK-LVTFNNKQGGSNELTMGQMAAAGFISA  152
+             + GFY GV   + G      V F  YD  K+ LV  + +  G   L  G    AG + A
+Sbjct  64   GILGFYSGVGALVTGNALKAGVRFVSYDRFKQMLVDQDGRLSGPRSLLAG--LGAGMMEA  121
+
+Query  153  IPTTLVTAPTERVKVVLQTSSKGS------FIQAAKTIVKEGGIASLFKGSLATLARDGP  206
+            +       P+E +K  L    K         +    +I+KE G   +++G     AR G 
+Sbjct  122  V---FAVTPSETIKTKLIDDQKREVPRYRGLVHGTVSIIKEEGFRGIYRGLGPVAARQGA  178
+
+Query  207  GSALYFASYEISKNYL--NSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIK  264
+             SA+ F +Y   K+++  NSR      G+  P  +      G IAG+    A  P+D IK
+Sbjct  179  NSAVRFTTYGTLKSFVSGNSR-----PGETLPAGVTFAI--GAIAGVVTVYATMPLDVIK  231
+
+Query  265  TKLQ---ASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            T++Q   A S  +N       I+ +  GI  F+ G  P L R
+Sbjct  232  TRMQSLEARSQYRNSFHCAARIFSEE-GIFRFWRGATPRLAR  272
+
+
+
+
+>mitochondrial NAD+ transporter [Rhodotorula toruloides]
+Sequence ID: GEM11013.1 Length: 338
+Range 1: 25 to 329
+
+Score:64.7 bits(156), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:75/326(23%), Positives:126/326(38%), Gaps:64/326(19%)
+
+Query  37   KSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVK  96
+            +S +AG   G+       P D+IK + Q G A+     +  I +            +  +
+Sbjct  25   ESMLAGAGAGLVTSIVTCPLDVIKTKLQAGGASKGAAGVLGIAQH-------IWVNDGFR  77
+
+Query  97   GFYKGVIPPLLGVTPIFAVSFWGYD-VGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT  155
+            G Y+G+ P ++G  P +A+ F  YD V ++L            +    +A A        
+Sbjct  78   GLYRGLGPTIIGYLPTWAIYFTVYDQVKRQLEDIRGPDDPVAHILSAMLAGAS------G  131
+
+Query  156  TLVTAPTERVKVVLQTSSKGS-------FIQAAKTIVKEGGIASLFKGSLATLARDGPGS  208
+            T++T P   VK    T   G+          A   I +E G  + ++G L +L     G 
+Sbjct  132  TILTNPLWVVKTRFMTQESGADEPRYRHTWDALVRIYREEGPKAFYRGLLPSLF----GV  187
+
+Query  209  ALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQ  268
+            A     + + + +    +P  + G D P + + VC +   + M   +A +P + ++T+LQ
+Sbjct  188  AHVAVQFPLYERFKVMSRP--EDGSDIPSSTILVCSSA--SKMIASIATYPHEVLRTRLQ  243
+
+Query  269  ASSTRQ---------------------------NMLSATKEIYLQRGGIKGFFPGLGPAL  301
+                R                              +  T +  L+  G+ GF+ GLG  L
+Sbjct  244  IQKNRHASAVDKAPSYGLPTNNSATSPQGAPALEGVVKTFQRILREEGVAGFYRGLGVNL  303
+
+Query  302  LRSFPANAATFLGVE--------MTH  319
+            LR+ PA+A T L  E        MTH
+Sbjct  304  LRTVPASAMTLLTYEELMRRLVRMTH  329
+
+
+
+
+>Mitochondrial nicotinamide adenine dinucleotide transporter 1 [Rhodotorula toruloides]
+Sequence ID: KAJ8291786.1 Length: 820
+Range 1: 506 to 811
+
+Score:64.3 bits(155), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:80/331(24%), Positives:131/331(39%), Gaps:73/331(22%)
+
+Query  37   KSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVK  96
+            +S +AG   G+       P D+IK + Q G A++    +  + +           T+  +
+Sbjct  506  ESMLAGAGAGLVTSIVTCPLDVIKTKLQAGGASNGAAGVLGLTRH-------IWVTDGFR  558
+
+Query  97   GFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT-  155
+            G Y+G+ P ++G  P +A+ F  YD  K+     + +G  + +       A  +SA+   
+Sbjct  559  GLYRGLGPTIIGYLPTWAIYFTVYDQVKR--QLEDIRGPDDPV-------AHILSAMTAG  609
+
+Query  156  ---TLVTAPTERVKVVLQTSSKGS-------FIQAAKTIVKEGGIASLFKGSLATLARDG  205
+               T++T P   VK    T   G+          A   I +E G  + ++G L +L   G
+Sbjct  610  ASGTILTNPLWVVKTRFMTQESGADEPRYRHTWDALVRIYREEGPKAFYRGLLPSLF--G  667
+
+Query  206  PGS-ALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIK  264
+                A+ F  YE  K        R + G D P + + VC +   + M   +A +P + ++
+Sbjct  668  VAHVAVQFPLYERFKVLS-----RPEDGSDIPSSTILVCSSA--SKMIASIATYPHEVLR  720
+
+Query  265  TKLQASSTRQNMLSATK----------------------------EIYLQRGGIKGFFPG  296
+            T+LQ    R       K                            +  L+  G+ GF+ G
+Sbjct  721  TRLQIQKNRHAAAVVDKVPNYGLPTTNSATSPQAAPALEGVVKTFQRILREEGVAGFYRG  780
+
+Query  297  LGPALLRSFPANAATFLGVE--------MTH  319
+            LG  LLR+ PA+A T L  E        MTH
+Sbjct  781  LGVNLLRTVPASAMTLLTYEELMRRLVRMTH  811
+
+
+
+
+>mitochondrial 2-oxodicarboxylate carrier [Rhodotorula toruloides]
+Sequence ID: GEM11466.1 Length: 303
+Range 1: 14 to 296
+
+Score:63.2 bits(152), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:75/305(25%), Positives:123/305(40%), Gaps:40/305(13%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVR--CQNGQA-------NSTVHAITNII-KEAKTQVK  87
+             F+AG + GV  +   +P D++K R   Q G+A       N  V     II KE   ++ 
+Sbjct  14   QFLAGAIAGVTELLCLYPLDVVKTRMQLQVGKAVPGAEHYNGMVDCFRKIIAKEGAGRL-  72
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAA  147
+                       Y+G++PPL+   P  AV F   D   K  TF  +  G +++T       
+Sbjct  73   -----------YRGLVPPLMLEAPKRAVKFAANDFWGK--TF-KQTFGVDKMTQSLSILT  118
+
+Query  148  GFISAIPTTLVTAPTERVKVVLQ--TSSKGSFIQAAKTIVKEGGIASLFKGSLATLARDG  205
+            G  +    ++V  P E VK+ LQ   S+    +     IVK+ G   L+ G   T  R  
+Sbjct  119  GCSAGATESIVVVPFELVKIRLQDKNSTYRGPMDVVSQIVKKDGPLGLYAGLEPTFWRHV  178
+
+Query  206  PGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKT  265
+              +  YF      +  L    P+ +    +   + N  ++G + G        P D +K+
+Sbjct  179  MWNGGYFGCIFQVRALL----PKAET---KSAQLFNDFVSGAVGGFVGTAFNTPFDVVKS  231
+
+Query  266  KLQAS------STRQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTH  319
+            ++Q S      + + N    +  +  +  G+   + G  P +LR  P      L VE T 
+Sbjct  232  RVQNSVKVAGQAPKYNWTFPSLLLIAREEGVGALYSGFLPKVLRLAPGGGVLLLVVEFTL  291
+
+Query  320  SLFKK  324
+             +F+K
+Sbjct  292  GIFRK  296
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides]
+Sequence ID: GEM06245.1 Length: 273
+Range 1: 69 to 273
+
+Score:62.4 bits(150), Expect:7e-11, 
+Method:Compositional matrix adjust., 
+Identities:51/216(24%), Positives:95/216(43%), Gaps:32/216(14%)
+
+Query  37   KSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTN---  93
+            +   AG + G+C+V + +P DL++ R        +V + +  +KE +T  + T       
+Sbjct  69   RRLTAGSLAGICSVVSTYPLDLVRSRL-------SVESASLGMKEGRTDGRSTGIVRMTL  121
+
+Query  94   -------SVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNEL-TMGQMA  145
+                     K  Y+G++P   GV P  A +F  Y++ K  +   ++    +E  T  ++ 
+Sbjct  122  KVMREEGGFKALYRGLVPTSAGVAPYVAFNFASYELLK--IQLMDQSADHHEPGTFAKLL  179
+
+Query  146  AAGFISAIPTTLVTAPTERVKVVLQT----------SSKGSFIQAAKTIVKEGGIASLFK  195
+              G   A+  TL T P + ++  +Q              G++  A  +I+++ GI  L++
+Sbjct  180  CGGVAGAVSQTL-TYPADLLRRRMQMVGLKSQALGYEYTGAW-NAVFSIIRQDGIKGLYR  237
+
+Query  196  GSLATLARDGPGSALYFASYEISKNYLNSRQPRQDA  231
+            G    L +  P   + FA YE SK  L+     ++A
+Sbjct  238  GLWPNLLKCAPSIGVSFAVYEWSKETLDDYFEEEEA  273
+
+
+
+
+>carnitine acyl carnitine carrier, mitochondrial [Rhodotorula toruloides]
+Sequence ID: GEM07673.1 Length: 267
+Range 1: 27 to 267
+
+Score:62.0 bits(149), Expect:7e-11, 
+Method:Compositional matrix adjust., 
+Identities:60/242(25%), Positives:101/242(41%), Gaps:54/242(22%)
+
+Query  135  GSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTI----------  184
+            G  E  + ++A AG  S + T+++T P +R+K++ Q+                       
+Sbjct  27   GQKEPGLIEVAIAGAASGVFTSIITTPIDRLKILQQSVRPSPSSSPLPAFPARQPSLLSL  86
+
+Query  185  VKEGGIASLFKGSLATLARDGPGSALYFASYE-----------ISKNYLNSRQPRQDAGK  233
+            V+   ++SL++G  ATL RD  G   YF +YE            S      R  ++D   
+Sbjct  87   VRSLSLSSLYRGWTATLLRD-IGYGPYFLTYEYVVRGGSFGLPFSWAEGERRHLKRDLRD  145
+
+Query  234  DEPVNIL---------------NVCLAGGIAGMSMWLAVFPIDTIKTKLQ----------  268
+            +    +                 V +AGG+AG+  W   FP+D +KTK+Q          
+Sbjct  146  ELESEVFGVGAEEEEGGAASAGRVLVAGGLAGIVGWGCTFPLDVVKTKIQSIPLPSLLPP  205
+
+Query  269  -------ASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSL  321
+                   A++++ + + +T     +  G + F  GLGP L+RS P N  TF   E+  + 
+Sbjct  206  ATLSPSSATASQYSTILSTIRTSYREAGWRVFVAGLGPTLVRSVPVNMVTFAVFELVVAA  265
+
+Query  322  FK  323
+            F+
+Sbjct  266  FR  267
+
+
+
+
+>mitochondrial tricarboxylate transporter, citrate transporter [Rhodotorula toruloides]
+Sequence ID: GEM12551.1 Length: 292
+Range 1: 14 to 268
+
+Score:62.0 bits(149), Expect:9e-11, 
+Method:Compositional matrix adjust., 
+Identities:73/277(26%), Positives:110/277(39%), Gaps:33/277(11%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTLFTNSVKG  97
+            + VAG   G       +PF+ +K + Q        H +           K T     V G
+Sbjct  14   ALVAGAFAGAVEGAATYPFEYLKTQTQ------FAHRLDGKPPGLWAITKKTYARQGVLG  67
+
+Query  98   FYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTL  157
+            FY GV   + G      V F  YD  K+++    +  G   L  G    AG + A+    
+Sbjct  68   FYSGVGALVTGNALKAGVRFVSYDRFKQML---GRLSGPRSLLAG--LGAGMMEAL---F  119
+
+Query  158  VTAPTERVKVVLQTSSKGS------FIQAAKTIVKEGGIASLFKGSLATLARDGPGSALY  211
+               P+E +K  L    K         +    +I+KE G   +++G     AR G  SA+ 
+Sbjct  120  AVTPSETIKTKLIDDQKRDVPRYRGLVHGTISIIKEEGFRGIYRGLGPVAARQGANSAVR  179
+
+Query  212  FASYEISKNYL--NSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQA  269
+            F +Y   K+++  NSR      G+  P  +      G IAG+    A  P+D IKT++Q+
+Sbjct  180  FTTYGTLKSFVSGNSR-----PGETLPAGVTFAI--GAIAGVVTVYATMPLDVIKTRMQS  232
+
+Query  270  SSTR---QNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+               R   +N       I+ +  GI  F+ G  P L R
+Sbjct  233  LEARTQYRNSFHCAARIFSEE-GIFRFWRGATPRLAR  268
+
+
+
+
+>mitochondrial 2-oxodicarboxylate carrier [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271316.1 Length: 303
+>mitochondrial 2-oxodicarboxylate carrier [Rhodotorula toruloides NP11]
+Sequence ID: EMS20197.1 Length: 303
+>RHTO0S19e00782g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48615.1 Length: 303 
+Range 1: 14 to 296
+
+Score:60.8 bits(146), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:69/298(23%), Positives:118/298(39%), Gaps:26/298(8%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVR--CQNGQANSTVHAITNIIKEAKTQVKGTLFTNSV  95
+             F+AG + GV  +   +P D++K R   Q G+A         ++   +  +         
+Sbjct  14   QFLAGAIAGVTELLCLYPLDVVKTRMQLQVGKAVPGAEHYDGMVDCFRKIIA----KEGA  69
+
+Query  96   KGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT  155
+               Y+G++PPL+   P  AV F   D   K  TF  +  G +++T       G  +    
+Sbjct  70   GRLYRGLVPPLMLEAPKRAVKFAANDFWGK--TF-KQTFGVDKMTQSLSILTGCSAGATE  126
+
+Query  156  TLVTAPTERVKVVLQ---TSSKGSFIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYF  212
+            ++V  P E VK+ LQ   ++ KG  +     IVK+ G   L+ G   T  R    +  YF
+Sbjct  127  SVVVVPFELVKIRLQDKNSTYKGP-MDVVAQIVKKDGPLGLYAGLEPTFWRHVMWNGGYF  185
+
+Query  213  ASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST  272
+                  +  L   + +          + N  ++G + G        P D +K+++Q S  
+Sbjct  186  GCIFQVRALLPKAETKS-------AQLFNDFVSGAVGGFVGTAFNTPFDVVKSRVQNSVK  238
+
+Query  273  ------RQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLFKK  324
+                  + N    +  +  +  G+   + G  P +LR  P      L VE T  +F+K
+Sbjct  239  VAGQVPKYNWTFPSLLLIAREEGVGALYSGFLPKVLRLAPGGGVLLLVVEFTLGIFRK  296
+
+
+
+
+>mitochondrial carrier [Rhodotorula toruloides]
+Sequence ID: PRQ71095.1 Length: 303
+Range 1: 14 to 296
+
+Score:60.8 bits(146), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:69/298(23%), Positives:118/298(39%), Gaps:26/298(8%)
+
+Query  38   SFVAGGVGGVCAVFTGHPFDLIKVR--CQNGQANSTVHAITNIIKEAKTQVKGTLFTNSV  95
+             F+AG + GV  +   +P D++K R   Q G+A         ++   +  +         
+Sbjct  14   QFLAGAIAGVTELLCLYPLDVVKTRMQLQVGKAVPGAEHYDGMVDCFRKIIA----KEGA  69
+
+Query  96   KGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPT  155
+               Y+G++PPL+   P  AV F   D   K  TF  +  G +++T       G  +    
+Sbjct  70   GRLYRGLVPPLMLEAPKRAVKFAANDFWGK--TF-KQTFGVDKMTQSLSILTGCSAGATE  126
+
+Query  156  TLVTAPTERVKVVLQ---TSSKGSFIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYF  212
+            ++V  P E VK+ LQ   ++ KG  +     IVK+ G   L+ G   T  R    +  YF
+Sbjct  127  SVVVVPFELVKIRLQDKNSTYKGP-MDVVAQIVKKDGPLGLYAGLEPTFWRHVMWNGGYF  185
+
+Query  213  ASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST  272
+                  +  L   + +          + N  ++G + G        P D +K+++Q S  
+Sbjct  186  GCIFQVRALLPKAETKS-------AQLFNDFVSGAVGGFVGTAFNTPFDVVKSRVQNSVK  238
+
+Query  273  ------RQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLFKK  324
+                  + N    +  +  +  G+   + G  P +LR  P      L VE T  +F+K
+Sbjct  239  VAGQVPKYNWTFPSLLLIAREEGVGALYSGFLPKVLRLAPGGGVLLLVVEFTLGIFRK  296
+
+
+
+
+>Calcium-binding mitochondrial carrier SAL1 [Rhodotorula toruloides]
+Sequence ID: KAJ8292905.1 Length: 1345
+Range 1: 440 to 647
+
+Score:62.0 bits(149), Expect:3e-10, 
+Method:Composition-based stats., 
+Identities:55/213(26%), Positives:99/213(46%), Gaps:39/213(18%)
+
+Query  142  GQMAAAGFISAIPTTLVTAPTERVKVVLQTS-----------------------SKGSFI  178
+            G+   AG ++   +   TAP +R+KV L TS                         G+ +
+Sbjct  440  GKFLLAGGLAGAVSRTATAPFDRLKVYLITSPASAPPKPDPAAQLAKSGKPPRPGAGTLV  499
+
+Query  179  QAAKTIVKEGG-IASLFKGSLATLARDGPGSALYFASYEISKNYLNS---RQPRQDAGKD  234
+             A +T+  +GG I + + G+   + +  P SA+ F SYE +K        + P Q     
+Sbjct  500  NAIRTVYAQGGGIKAFWTGNGLNIIKIFPESAIKFLSYESAKRIFAQYWDKVPDQTL---  556
+
+Query  235  EPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASS----TRQNMLSATKEIYLQRGGI  290
+              ++  +  +AGGI G+     ++PI+++KT++ +SS        ++S T     + GG 
+Sbjct  557  --ISNSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNALISQTARDMWRSGGF  614
+
+Query  291  KGFFPGLGPALLRSFPANA---ATFLGVEMTHS  320
+            + FF GL   L+  FP +A   +TF G+++ ++
+Sbjct  615  RFFFRGLPAGLIGVFPYSAIDMSTFEGIKLAYT  647
+
+
+
+
+Range 2: 559 to 735
+
+Score:41.6 bits(96), Expect:8e-04, 
+Method:Composition-based stats., 
+Identities:52/202(26%), Positives:84/202(41%), Gaps:35/202(17%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVR-------CQNGQANSTVHAITNIIKEAKTQVK  87
+            N   FVAGG+GGV + F  +P + +K R       C+ G A         I + A+   +
+Sbjct  559  NSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNA--------LISQTARDMWR  610
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFN---NKQGGSNELTMGQM  144
+               F    + F++G+   L+GV P  A+    ++ G KL        + G +  LT G +
+Sbjct  611  SGGF----RFFFRGLPAGLIGVFPYSAIDMSTFE-GIKLAYTKWAGEEPGIAGSLTFGAI  665
+
+Query  145  AAAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKEGGIASLFKGSLATLARD  204
+            +            V A T+      QT +      AA    +  G    +KG   TL + 
+Sbjct  666  SGG----------VGASTQGTPAHPQTYT--GIRDAAFKCYQREGWRGFYKGLTPTLVKV  713
+
+Query  205  GPGSALYFASYEISKNYLNSRQ  226
+             P  A+ +A Y+ SK  L +++
+Sbjct  714  VPAVAISYAVYDTSKKMLFAQE  735
+
+
+
+
+>RHTO0S03e09384g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38424.1 Length: 404
+Range 1: 51 to 373
+
+Score:57.8 bits(138), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:79/343(23%), Positives:128/343(37%), Gaps:72/343(20%)
+
+Query  22   KSRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHA--ITNII  79
+            + R     + +R  + S  AGG+ G  A  +  P D +K+  Q    +   +A   T + 
+Sbjct  51   RKRTARDKDALRYALTSGFAGGIAGCVAKTSVAPLDRVKILFQTHSPDYQKYAGTWTGVF  110
+
+Query  80   KEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNEL  139
+            K +K     T     V+G  +G    L+ + P  A+ F  YD   +++    +       
+Sbjct  111  KASKAIYAET----GVRGLLQGHSATLIRIFPYAAIKFMAYDELHRVLMPTPEAE-----  161
+
+Query  140  TMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS------KGSFIQAAKTIVKEGG----  189
+            T G+   AG ++ I TT  T P E ++V L   S      + S ++  + I +       
+Sbjct  162  TSGRRFLAGSLAGIITTGFTYPLELIRVRLAFESHHSPKDRASLLRTIRAIYQNPPPPAS  221
+
+Query  190  -------------------------IASLFKGSLATLARDGPGSALYFASYEISKNYLN-  223
+                                     IA  ++G   TL    P +   F  +   K  L  
+Sbjct  222  SSSSAPPPQPSPSPVSSSSASTRPTIAHFYRGVWPTLVGIIPYAGTSFLMWGFLKTDLFP  281
+
+Query  224  -------SRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST----  272
+                    RQ R          +L++ LAGG+AG       +P+D ++ ++Q        
+Sbjct  282  SIFSPTFRRQNRA---------LLDL-LAGGVAGAIGQTTAYPLDIVRRRMQVGPVLHAD  331
+
+Query  273  ---RQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATF  312
+               R       K +Y Q GG +GFF GL    L+  P NA +F
+Sbjct  332  GRGRAGFWETAKGVYRQ-GGWRGFFVGLSIGYLKVVPMNAVSF  373
+
+
+
+
+Range 2: 290 to 393
+
+Score:41.6 bits(96), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:31/107(29%), Positives:47/107(43%), Gaps:5/107(4%)
+
+Query  33   REN--IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTL  90
+            R+N  +   +AGGV G     T +P D+++ R Q G     +HA            KG  
+Sbjct  290  RQNRALLDLLAGGVAGAIGQTTAYPLDIVRRRMQVG---PVLHADGRGRAGFWETAKGVY  346
+
+Query  91   FTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSN  137
+                 +GF+ G+    L V P+ AVSF  +   K+++      GG N
+Sbjct  347  RQGGWRGFFVGLSIGYLKVVPMNAVSFATWVAMKRVLGMEETPGGGN  393
+
+
+
+
+>DUF89 domain-containing protein [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11414.1 Length: 724
+Range 1: 101 to 307
+
+Score:57.4 bits(137), Expect:7e-09, 
+Method:Compositional matrix adjust., 
+Identities:62/228(27%), Positives:93/228(40%), Gaps:32/228(14%)
+
+Query  87   KGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAA  146
+            K T     + GFY GV   + G      V F  YD  K+++   +  G            
+Sbjct  101  KQTYARQGILGFYSGVGALVTGNALKAGVRFVSYDRFKQMLVDRDVTG----------LG  150
+
+Query  147  AGFISAIPTTLVTAPTERVKVVLQTSSKGS------FIQAAKTIVKEGGIASLFKGSLAT  200
+            AG + A+       P+E +K  L    K         +    +I+KE G   +++G    
+Sbjct  151  AGMMEAV---FAVTPSETIKTKLIDDQKREVPRYRGLVHGTVSIIKEEGFRGIYRGLGPV  207
+
+Query  201  LARDGPGSALYFASYEISKNYL--NSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVF  258
+             AR G  SA+ F +Y   K+++  NSR      G+  P  +      G IAG+    A  
+Sbjct  208  AARQGANSAVRFTTYGTLKSFVSGNSR-----PGETLPAGV--TFAIGAIAGVVTVYATM  260
+
+Query  259  PIDTIKTKLQ---ASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            P+D IKT++Q   A S  +N       I+ +  GI  F+ G  P L R
+Sbjct  261  PLDVIKTRMQSLEARSQYRNSFHCAARIFSEE-GIFRFWRGATPRLAR  307
+
+
+
+
+>S-adenosylmethionine transporter [Rhodotorula toruloides]
+Sequence ID: GEM08043.1 Length: 301
+Range 1: 45 to 174
+
+Score:56.2 bits(134), Expect:8e-09, 
+Method:Compositional matrix adjust., 
+Identities:35/134(26%), Positives:65/134(48%), Gaps:4/134(2%)
+
+Query  179  QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVN  238
+            Q+ + + + GG + +++G  + +    PG++L+F SYE+SK  L    PR   G  E   
+Sbjct  45   QSEQGLFRAGGFSGVYRGLGSAVVGSAPGASLFFTSYELSKEVLPKLFPRL--GTTELAP  102
+
+Query  239  ILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQRGGIKGFFPGLG  298
+            IL++ +A  +  ++  +   P + +K + Q  S         K ++ +R G+ GF+ G G
+Sbjct  103  ILHM-IAASLGEVAACMVRVPTEVVKQRSQTGSKGTRSWDVAKAVW-RREGLNGFYRGFG  160
+
+Query  299  PALLRSFPANAATF  312
+              + R  P     F
+Sbjct  161  STVAREIPFTCLQF  174
+
+
+
+
+Range 2: 21 to 90
+
+Score:40.8 bits(94), Expect:8e-04, 
+Method:Compositional matrix adjust., 
+Identities:26/81(32%), Positives:42/81(51%), Gaps:11/81(13%)
+
+Query  244  LAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            ++GG+AG ++    FPIDT+KT+ Q   + Q +  A        GG  G + GLG A++ 
+Sbjct  21   VSGGLAGTAVDTLFFPIDTLKTRAQ---SEQGLFRA--------GGFSGVYRGLGSAVVG  69
+
+Query  304  SFPANAATFLGVEMTHSLFKK  324
+            S P  +  F   E++  +  K
+Sbjct  70   SAPGASLFFTSYELSKEVLPK  90
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270961.1 Length: 760
+>mitochondrial carrier protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS19842.1 Length: 760
+>RHTO0S09e08262g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR44748.1 Length: 760 
+Range 1: 437 to 646
+
+Score:57.0 bits(136), Expect:8e-09, 
+Method:Compositional matrix adjust., 
+Identities:55/213(26%), Positives:100/213(46%), Gaps:35/213(16%)
+
+Query  142  GQMAAAGFISAIPTTLVTAPTERVKVVLQTSSK-----------------------GSFI  178
+            G+   AG ++   +   TAP +R+KV L TS                         G+ +
+Sbjct  437  GKFLLAGGLAGAVSRTATAPFDRLKVYLITSPASAPPKPDPAAQLAKSGKPPRPGAGTLV  496
+
+Query  179  QAAKTIVKEGG-IASLFKGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEP-  236
+             A +T+  +GG I + + G+   + +  P SA+ F SYE +K          D   D+  
+Sbjct  497  NAIRTVYAQGGGIKAFWTGNGLNIIKIFPESAIKFLSYESAKRIFAQYW---DKVPDQTL  553
+
+Query  237  VNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASS----TRQNMLSATKEIYLQRGGIKG  292
+            ++  +  +AGGI G+     ++PI+++KT++ +SS        ++S T     + GG + 
+Sbjct  554  ISNSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNALISQTARDMWRSGGFRF  613
+
+Query  293  FFPGLGPALLRSFPANA---ATFLGVEMTHSLF  322
+            FF GL   L+  FP +A   +TF G+++ ++ +
+Sbjct  614  FFRGLPAGLIGVFPYSAIDMSTFEGIKLAYTKW  646
+
+
+
+
+Range 2: 556 to 741
+
+Score:45.1 bits(105), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/199(25%), Positives:80/199(40%), Gaps:24/199(12%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVR-------CQNGQANSTVHAITNIIKEAKTQVK  87
+            N   FVAGG+GGV + F  +P + +K R       C+ G A         +I +     +
+Sbjct  556  NSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNA---------LISQT---AR  603
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFN---NKQGGSNELTMGQM  144
+                +   + F++G+   L+GV P  A+    ++ G KL        + G +  LT G +
+Sbjct  604  DMWRSGGFRFFFRGLPAGLIGVFPYSAIDMSTFE-GIKLAYTKWAGEEPGIAGSLTFGAI  662
+
+Query  145  AAA-GFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKEGGIASLFKGSLATLAR  203
+            +   G  S  P  LV    +         +      AA    +  G    +KG   TL +
+Sbjct  663  SGGVGASSVYPLNLVRTRLQAQGTPAHPQTYTGIRDAAFKCYQREGWRGFYKGLTPTLVK  722
+
+Query  204  DGPGSALYFASYEISKNYL  222
+              P  A+ +A Y+ SK  L
+Sbjct  723  VVPAVAISYAVYDTSKKML  741
+
+
+
+
+>mitochondrial carrier protein, coenzyme A transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277139.1 Length: 409
+>mitochondrial carrier protein, coenzyme A transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS26020.1 Length: 409 
+Range 1: 51 to 378
+
+Score:55.8 bits(133), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:79/348(23%), Positives:128/348(36%), Gaps:77/348(22%)
+
+Query  22   KSRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHA-------  74
+            + R     + +R  + S  AGG+ G  A  +  P D +K+  Q    +   +A       
+Sbjct  51   RKRTARDKDALRYALTSGFAGGIAGCVAKTSVAPLDRVKILFQTHSPDYQKYAGQSGPRT  110
+
+Query  75   ITNIIKEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQG  134
+             T + K +K     T     V+G  +G    L+ + P  A+ F  YD   +++    +  
+Sbjct  111  WTGVFKASKAIYAET----GVRGLLQGHSATLIRIFPYAAIKFMAYDELHRVLMPTPEAE  166
+
+Query  135  GSNELTMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS------KGSFIQAAKTIVKEG  188
+                 T G+   AG ++ I TT  T P E ++V L   S      + S ++  + I +  
+Sbjct  167  -----TSGRRFLAGSLAGIITTGFTYPLELIRVRLAFESHHSPKDRASLLRTIRAIYQNP  221
+
+Query  189  G-----------------------------IASLFKGSLATLARDGPGSALYFASYEISK  219
+                                          IA  ++G   TL    P +   F  +   K
+Sbjct  222  PPPASSSSSAPPPQPSPSPVSSSSASTRPTIAHFYRGVWPTLVGIIPYAGTSFLMWGFLK  281
+
+Query  220  NYLN--------SRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASS  271
+              L          RQ R          +L++ LAGG+AG       +P+D ++ ++Q   
+Sbjct  282  TDLFPSIFSPTFRRQNRA---------LLDL-LAGGVAGAIGQTTAYPLDIVRRRMQVGP  331
+
+Query  272  T-------RQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATF  312
+                    R       K +Y Q GG +GFF GL    L+  P NA +F
+Sbjct  332  VLHADGRGRAGFWETAKGVYRQ-GGWRGFFVGLSIGYLKVVPMNAVSF  378
+
+
+
+
+Range 2: 295 to 398
+
+Score:41.6 bits(96), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:31/107(29%), Positives:47/107(43%), Gaps:5/107(4%)
+
+Query  33   REN--IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTL  90
+            R+N  +   +AGGV G     T +P D+++ R Q G     +HA            KG  
+Sbjct  295  RQNRALLDLLAGGVAGAIGQTTAYPLDIVRRRMQVG---PVLHADGRGRAGFWETAKGVY  351
+
+Query  91   FTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSN  137
+                 +GF+ G+    L V P+ AVSF  +   K+++      GG N
+Sbjct  352  RQGGWRGFFVGLSIGYLKVVPMNAVSFATWVAMKRVLGMEETPGGGN  398
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ77848.1 Length: 407
+Range 1: 51 to 376
+
+Score:55.1 bits(131), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:78/346(23%), Positives:128/346(36%), Gaps:75/346(21%)
+
+Query  22   KSRPPIKSNPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHA--ITNII  79
+            + R     + +R  + S  AGG+ G  A  +  P D +K+  Q    +   +A   T + 
+Sbjct  51   RKRTARDKDALRYALTSGFAGGIAGCVAKTSVAPLDRVKILFQTHSPDYQKYAGTWTGVF  110
+
+Query  80   KEAKTQVKGTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNEL  139
+            K +K     T     V+G  +G    L+ + P  A+ F  YD   +++    +       
+Sbjct  111  KASKAIYAET----GVRGLLQGHSATLIRIFPYAAIKFMAYDELHRVLMPTPEAE-----  161
+
+Query  140  TMGQMAAAGFISAIPTTLVTAPTERVKVVLQTSS------KGSFIQAAKTIVKEGG----  189
+            T G+   AG ++ I TT  T P E ++V L   S      + S ++  + I +       
+Sbjct  162  TSGRRFLAGSLAGIITTGFTYPLELIRVRLAFESHHSPKDRASLLRTIRAIYQNPPPPAS  221
+
+Query  190  ----------------------------IASLFKGSLATLARDGPGSALYFASYEISKNY  221
+                                        IA  ++G   TL    P +   F  +   K  
+Sbjct  222  SSSSAPQPTPSPSPVSASSAASASSRPTIAHFYRGVWPTLVGIIPYAGTSFLMWGFLKTD  281
+
+Query  222  LN--------SRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST-  272
+            L          RQ R          +L++ LAGG+AG       +P+D ++ ++Q     
+Sbjct  282  LFPSIFSPTFRRQNRA---------LLDL-LAGGVAGAIGQTTAYPLDIVRRRMQVGPVL  331
+
+Query  273  ------RQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATF  312
+                  R       K ++ Q GG +GFF GL    L+  P NA +F
+Sbjct  332  HADGRGRAGFWETAKGVHRQ-GGWRGFFVGLSIGYLKVVPMNAVSF  376
+
+
+
+
+Range 2: 293 to 394
+
+Score:40.0 bits(92), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:31/105(30%), Positives:46/105(43%), Gaps:5/105(4%)
+
+Query  33   REN--IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTL  90
+            R+N  +   +AGGV G     T +P D+++ R Q G     +HA            KG  
+Sbjct  293  RQNRALLDLLAGGVAGAIGQTTAYPLDIVRRRMQVG---PVLHADGRGRAGFWETAKGVH  349
+
+Query  91   FTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGG  135
+                 +GF+ G+    L V P+ AVSF  +   K+L+      GG
+Sbjct  350  RQGGWRGFFVGLSIGYLKVVPMNAVSFATWVAMKRLLGMEETPGG  394
+
+
+
+
+>putative membrane protein C6F6.13c [Rhodotorula toruloides]
+Sequence ID: KAJ8295816.1 Length: 1949
+Range 1: 59 to 373
+
+Score:55.5 bits(132), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:78/335(23%), Positives:126/335(37%), Gaps:72/335(21%)
+
+Query  30   NPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHA--ITNIIKEAKTQVK  87
+            + +R  + S  AGG+ G  A  +  P D +K+  Q    +   +A   T + K +K    
+Sbjct  59   DALRYALTSGFAGGIAGCVAKTSVAPLDRVKILFQTHSPDYQKYAGTWTGVFKASKAIYA  118
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAA  147
+             T     V+G  +G    L+ + P  A+ F  YD   +++    +       T G+   A
+Sbjct  119  ET----GVRGLLQGHSATLIRIFPYAAIKFMAYDELHRVLMPTPEAE-----TSGRRFLA  169
+
+Query  148  GFISAIPTTLVTAPTERVKVVLQTSS------KGSFIQAAKTIVKEGG------------  189
+            G ++ I TT  T P E ++V L   S      + S ++  + I +               
+Sbjct  170  GSLAGIITTGFTYPLELIRVRLAFESHHSPKDRASLLRTIRAIYQNPPPPASSSSSAPPP  229
+
+Query  190  -----------------IASLFKGSLATLARDGPGSALYFASYEISKNYLN--------S  224
+                             IA  ++G   TL    P +   F  +   K  L          
+Sbjct  230  QPSPSPVSSSSASTRPTIAHFYRGVWPTLVGIIPYAGTSFLMWGFLKTDLFPSIFSPTFR  289
+
+Query  225  RQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST-------RQNML  277
+            RQ R          +L++ LAGG+AG       +P+D ++ ++Q           R    
+Sbjct  290  RQNRA---------LLDL-LAGGVAGAIGQTTAYPLDIVRRRMQVGPVLHADGRGRAGFW  339
+
+Query  278  SATKEIYLQRGGIKGFFPGLGPALLRSFPANAATF  312
+               K +Y Q GG +GFF GL    L+  P NA +F
+Sbjct  340  ETAKGVYRQ-GGWRGFFVGLSIGYLKVVPMNAVSF  373
+
+
+
+
+Range 2: 290 to 393
+
+Score:42.4 bits(98), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:31/107(29%), Positives:47/107(43%), Gaps:5/107(4%)
+
+Query  33   REN--IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTL  90
+            R+N  +   +AGGV G     T +P D+++ R Q G     +HA            KG  
+Sbjct  290  RQNRALLDLLAGGVAGAIGQTTAYPLDIVRRRMQVG---PVLHADGRGRAGFWETAKGVY  346
+
+Query  91   FTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSN  137
+                 +GF+ G+    L V P+ AVSF  +   K+++      GG N
+Sbjct  347  RQGGWRGFFVGLSIGYLKVVPMNAVSFATWVAMKRVLGMEETPGGGN  393
+
+
+
+
+>putative membrane protein C6F6.13c [Rhodotorula toruloides]
+Sequence ID: KAJ8295817.1 Length: 1925
+Range 1: 59 to 373
+
+Score:55.5 bits(132), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:78/335(23%), Positives:126/335(37%), Gaps:72/335(21%)
+
+Query  30   NPVRENIKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHA--ITNIIKEAKTQVK  87
+            + +R  + S  AGG+ G  A  +  P D +K+  Q    +   +A   T + K +K    
+Sbjct  59   DALRYALTSGFAGGIAGCVAKTSVAPLDRVKILFQTHSPDYQKYAGTWTGVFKASKAIYA  118
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAA  147
+             T     V+G  +G    L+ + P  A+ F  YD   +++    +       T G+   A
+Sbjct  119  ET----GVRGLLQGHSATLIRIFPYAAIKFMAYDELHRVLMPTPEAE-----TSGRRFLA  169
+
+Query  148  GFISAIPTTLVTAPTERVKVVLQTSS------KGSFIQAAKTIVKEGG------------  189
+            G ++ I TT  T P E ++V L   S      + S ++  + I +               
+Sbjct  170  GSLAGIITTGFTYPLELIRVRLAFESHHSPKDRASLLRTIRAIYQNPPPPASSSSSAPPP  229
+
+Query  190  -----------------IASLFKGSLATLARDGPGSALYFASYEISKNYLN--------S  224
+                             IA  ++G   TL    P +   F  +   K  L          
+Sbjct  230  QPSPSPVSSSSASTRPTIAHFYRGVWPTLVGIIPYAGTSFLMWGFLKTDLFPSIFSPTFR  289
+
+Query  225  RQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST-------RQNML  277
+            RQ R          +L++ LAGG+AG       +P+D ++ ++Q           R    
+Sbjct  290  RQNRA---------LLDL-LAGGVAGAIGQTTAYPLDIVRRRMQVGPVLHADGRGRAGFW  339
+
+Query  278  SATKEIYLQRGGIKGFFPGLGPALLRSFPANAATF  312
+               K +Y Q GG +GFF GL    L+  P NA +F
+Sbjct  340  ETAKGVYRQ-GGWRGFFVGLSIGYLKVVPMNAVSF  373
+
+
+
+
+Range 2: 290 to 419
+
+Score:42.4 bits(98), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:36/134(27%), Positives:55/134(41%), Gaps:6/134(4%)
+
+Query  33   REN--IKSFVAGGVGGVCAVFTGHPFDLIKVRCQNGQANSTVHAITNIIKEAKTQVKGTL  90
+            R+N  +   +AGGV G     T +P D+++ R Q G     +HA            KG  
+Sbjct  290  RQNRALLDLLAGGVAGAIGQTTAYPLDIVRRRMQVG---PVLHADGRGRAGFWETAKGVY  346
+
+Query  91   FTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFI  150
+                 +GF+ G+    L V P+ AVSF  +   K+++      GG N     +    G  
+Sbjct  347  RQGGWRGFFVGLSIGYLKVVPMNAVSFATWVAMKRVLGMEETPGGGNSEAKKE-EGEGRC  405
+
+Query  151  SAIPTTLVTAPTER  164
+            S  P     +P+ R
+Sbjct  406  SRRPPDAARSPSPR  419
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71580.1 Length: 762
+Range 1: 439 to 648
+
+Score:55.1 bits(131), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:55/213(26%), Positives:101/213(47%), Gaps:35/213(16%)
+
+Query  142  GQMAAAGFISAIPTTLVTAPTERVKVVLQTSSK-----------------------GSFI  178
+            G+   AG ++   +   TAP +R+KV L TS                         G+ +
+Sbjct  439  GKFLLAGGMAGAVSRTATAPFDRLKVYLITSPASAPPKPDPAAQLAKSGKPPRPGAGTLV  498
+
+Query  179  QAAKTIVKEGG-IASLFKGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEP-  236
+             A + +  +GG I + + G+   + +  P SA+ F SYE +K          D   D+  
+Sbjct  499  NAIRAVYAQGGGIKAFWTGNGLNIIKIFPESAIKFLSYESAKRIFAQYW---DKVPDQTL  555
+
+Query  237  VNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASS---TRQN-MLSATKEIYLQRGGIKG  292
+            ++  +  +AGGI G+     ++PI+++KT++ +SS    + N ++S T     + GG + 
+Sbjct  556  ISNSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNALISQTARDMWRSGGFRF  615
+
+Query  293  FFPGLGPALLRSFPANA---ATFLGVEMTHSLF  322
+            FF GL   L+  FP +A   +TF G+++ ++ +
+Sbjct  616  FFRGLPAGLIGVFPYSAIDMSTFEGIKLAYTKW  648
+
+
+
+
+Range 2: 558 to 743
+
+Score:45.1 bits(105), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/199(25%), Positives:80/199(40%), Gaps:24/199(12%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVR-------CQNGQANSTVHAITNIIKEAKTQVK  87
+            N   FVAGG+GGV + F  +P + +K R       C+ G A         +I +     +
+Sbjct  558  NSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNA---------LISQT---AR  605
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFN---NKQGGSNELTMGQM  144
+                +   + F++G+   L+GV P  A+    ++ G KL        + G +  LT G +
+Sbjct  606  DMWRSGGFRFFFRGLPAGLIGVFPYSAIDMSTFE-GIKLAYTKWAGEEPGIAGSLTFGAI  664
+
+Query  145  A-AAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKEGGIASLFKGSLATLAR  203
+            +   G  S  P  LV    +         +      AA    +  G    +KG   TL +
+Sbjct  665  SGGVGASSVYPLNLVRTRLQAQGTPAHPQTYTGIRDAAFKCYQREGWRGFYKGLTPTLVK  724
+
+Query  204  DGPGSALYFASYEISKNYL  222
+              P  A+ +A Y+ SK  L
+Sbjct  725  VVPAVAISYAVYDTSKKML  743
+
+
+
+
+>mitochondrial carrier protein [Rhodotorula toruloides]
+Sequence ID: GEM10051.1 Length: 668
+Range 1: 345 to 554
+
+Score:53.1 bits(126), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:53/213(25%), Positives:97/213(45%), Gaps:35/213(16%)
+
+Query  142  GQMAAAGFISAIPTTLVTAPTERVKVVLQTS-----------------------SKGSFI  178
+            G+   AG ++   +   TAP +R+KV L TS                         G+ +
+Sbjct  345  GKFLLAGGMAGAVSRTATAPFDRLKVYLITSPTSAPPKPDPAAQLAKSGKPPRPGAGTLV  404
+
+Query  179  QAAKTIVKEGG-IASLFKGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEP-  236
+             A + +  +GG I + + G+   + +  P SA+ F SYE +K          D   D+  
+Sbjct  405  NAIRAVYAQGGGIKAFWTGNGLNIIKIFPESAIKFLSYESAKRIFAQYW---DKVPDQTL  461
+
+Query  237  VNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASS----TRQNMLSATKEIYLQRGGIKG  292
+            ++  +  +AGGI G+     ++PI+++KT++ +SS        ++  T       GG + 
+Sbjct  462  ISNSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNALIVQTMRDMWHAGGFRF  521
+
+Query  293  FFPGLGPALLRSFPANA---ATFLGVEMTHSLF  322
+            FF GL   L+  FP +A   +TF G+++ ++ +
+Sbjct  522  FFRGLPAGLIGVFPYSAIDMSTFEGIKLAYTKW  554
+
+
+
+
+Range 2: 464 to 653
+
+Score:45.4 bits(106), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/203(25%), Positives:82/203(40%), Gaps:24/203(11%)
+
+Query  35   NIKSFVAGGVGGVCAVFTGHPFDLIKVR-------CQNGQANSTVHAITNIIKEAKTQVK  87
+            N   FVAGG+GGV + F  +P + +K R       C+ G A      I   +++      
+Sbjct  464  NSSRFVAGGIGGVISQFCIYPIESLKTRVMSSSGGCKKGNA-----LIVQTMRD------  512
+
+Query  88   GTLFTNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFN---NKQGGSNELTMGQM  144
+                    + F++G+   L+GV P  A+    ++ G KL        + G +  LT G +
+Sbjct  513  -MWHAGGFRFFFRGLPAGLIGVFPYSAIDMSTFE-GIKLAYTKWAGEEPGIAGSLTFGAI  570
+
+Query  145  A-AAGFISAIPTTLVTAPTERVKVVLQTSSKGSFIQAAKTIVKEGGIASLFKGSLATLAR  203
+            +   G  S  P  LV    +         +      AA    +  G    +KG   TL +
+Sbjct  571  SGGVGASSVYPLNLVRTRLQAQGTPAHPQTYTGIRDAAFKCYQREGWRGFYKGLTPTLVK  630
+
+Query  204  DGPGSALYFASYEISKNYLNSRQ  226
+              P  A+ +A Y+ SK  L +++
+Sbjct  631  VVPAVAISYAVYDTSKKMLFAQE  653
+
+
+
+
+>mitochondrial carrier protein, S-adenosylmethionine transporter [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275230.1 Length: 310
+>mitochondrial carrier protein, S-adenosylmethionine transporter [Rhodotorula toruloides NP11]
+Sequence ID: EMS24111.1 Length: 310
+>putative mitochondrial carrier protein PET8 [Rhodotorula toruloides]
+Sequence ID: KAJ8293322.1 Length: 310
+>RHTO0S06e02652g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR41524.1 Length: 310 
+Range 1: 45 to 174
+
+Score:52.4 bits(124), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:34/135(25%), Positives:66/135(48%), Gaps:6/135(4%)
+
+Query  179  QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVN  238
+            Q+ +   + GG + +++G  + +    PG++L+F SYE+SK+ L    PR   G  E   
+Sbjct  45   QSEQGFFRAGGFSGVYRGLGSAVVGSAPGASLFFTSYELSKDALPKFFPR--LGTTELAP  102
+
+Query  239  ILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQRG-GIKGFFPGL  297
+            +L++ ++  +  ++  +   P + +K + Q  S         K ++  RG G++GF+ G 
+Sbjct  103  VLHM-ISASLGEVAACMVRVPTEVVKQRSQTGSKGTRSWDVAKTVW--RGEGLRGFYRGF  159
+
+Query  298  GPALLRSFPANAATF  312
+            G  + R  P     F
+Sbjct  160  GSTVAREIPFTCLQF  174
+
+
+
+
+Range 2: 21 to 91
+
+Score:42.0 bits(97), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:24/82(29%), Positives:43/82(52%), Gaps:11/82(13%)
+
+Query  244  LAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            ++GG+AG ++    FPIDT+KT+ Q           +++ + + GG  G + GLG A++ 
+Sbjct  21   VSGGLAGTAVDTLFFPIDTLKTRAQ-----------SEQGFFRAGGFSGVYRGLGSAVVG  69
+
+Query  304  SFPANAATFLGVEMTHSLFKKY  325
+            S P  +  F   E++     K+
+Sbjct  70   SAPGASLFFTSYELSKDALPKF  91
+
+
+
+
+>mitochondrial carrier protein, family 25 [Rhodotorula toruloides]
+Sequence ID: GEM11895.1 Length: 558
+Range 1: 168 to 421
+
+Score:52.8 bits(125), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:60/259(23%), Positives:96/259(37%), Gaps:61/259(23%)
+
+Query  92   TNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFIS  151
+            +  ++ F+ G   P+LG+  I +  F  Y  G+ +   +  +   N L+  ++ A+G  +
+Sbjct  168  SEGIRFFFAGTAGPILGLAFIDSAFFGLY--GRMMQALHQDRQDPNALS--RVFASGATA  223
+
+Query  152  AIPTTLVTAPTERVKVVLQTSSK-----GSFIQAAKTIVKEGGIASLFKGSLATLARDGP  206
+                 L+  P E VK   Q  S      GSF + A  I ++ G+   + G L T   DG 
+Sbjct  224  GALCALLETPIEVVKTRAQVESVPGKKLGSF-RIASQIARKEGLRGFYIGGLMTAVHDGI  282
+
+Query  207  GSALYFASYEISKNYLNSR-------------------------------------QPRQ  229
+             S ++F  Y + +  L                                        QP+Q
+Sbjct  283  SSGIFFWGYFVFRRILRGEDPLHANSATARPPPASTLEFFAASTTSSSTPPSFSTSQPQQ  342
+
+Query  230  DAGKDEPV--------------NILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQN  275
+             +  D P                IL +  AGG AG    L  +P D +KT+LQ ++    
+Sbjct  343  HSQPDTPAPIPSCSSAPTLSKTEILRILFAGGCAGALSALIPYPFDIVKTRLQTANFESR  402
+
+Query  276  MLSATKEIYLQRGGIKGFF  294
+              S+   I     GI+G F
+Sbjct  403  ARSSPVNIGRGGAGIEGRF  421
+
+
+
+
+>Mitochondrial 2-oxodicarboxylate carrier 2 [Rhodotorula toruloides]
+Sequence ID: KAJ8291988.1 Length: 265
+Range 1: 34 to 258
+
+Score:51.2 bits(121), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:57/236(24%), Positives:95/236(40%), Gaps:20/236(8%)
+
+Query  98   FYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFISAIPTTL  157
+             Y+G++PPL+   P  AV F   D   K  TF  +  G +++T       G  +    ++
+Sbjct  34   LYRGLVPPLMLEAPKRAVKFAANDFWGK--TF-KQTFGVDKMTQSLSILTGCSAGATESV  90
+
+Query  158  VTAPTERVKVVLQ---TSSKGSFIQAAKTIVKEGGIASLFKGSLATLARDGPGSALYFAS  214
+            V  P E VK+ LQ   ++ KG  +     IVK+ G   L+ G   T  R    +  YF  
+Sbjct  91   VVVPFELVKIRLQDKNSTYKGP-MDVVAQIVKKDGPLGLYAGLEPTFWRHVMWNGGYFGC  149
+
+Query  215  YEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASST--  272
+                +  L   + +          + N  ++G + G        P D +K+++Q S    
+Sbjct  150  IFQVRALLPKAETKS-------AQLFNDFVSGAVGGFVGTAFNTPFDVVKSRVQNSVKVA  202
+
+Query  273  ----RQNMLSATKEIYLQRGGIKGFFPGLGPALLRSFPANAATFLGVEMTHSLFKK  324
+                + N    +  +  +  G+   + G  P +LR  P      L VE T  +F+K
+Sbjct  203  GQVPKYNWTFPSLLLIAREEGVGALYSGFLPKVLRLAPGGGVLLLVVEFTLGIFRK  258
+
+
+
+
+>S-adenosylmethionine transporter [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12010.1 Length: 306
+>S-adenosylmethionine transporter [Rhodotorula toruloides]
+Sequence ID: PRQ76614.1 Length: 306 
+Range 1: 45 to 174
+
+Score:51.2 bits(121), Expect:4e-07, 
+Method:Compositional matrix adjust., 
+Identities:35/134(26%), Positives:60/134(44%), Gaps:4/134(2%)
+
+Query  179  QAAKTIVKEGGIASLFKGSLATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVN  238
+            Q+ +   + GG + +++G  + +    PG++L+F SYE+SK+ L    PR       PV 
+Sbjct  45   QSEQGFFRAGGFSGVYRGLGSAVVGSAPGASLFFTSYELSKDALPKFFPRLGTTDLAPVL  104
+
+Query  239  ILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQRGGIKGFFPGLG  298
+             +     G IA     +   P + +K + Q  S         K ++ Q  G++GF+ G G
+Sbjct  105  HMISASLGEIAAC---MVRVPTEVVKQRSQTGSKGTRSWVVAKTVW-QGEGLRGFYRGFG  160
+
+Query  299  PALLRSFPANAATF  312
+              + R  P     F
+Sbjct  161  STVAREIPFTCLQF  174
+
+
+
+
+Range 2: 21 to 91
+
+Score:42.0 bits(97), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:24/82(29%), Positives:43/82(52%), Gaps:11/82(13%)
+
+Query  244  LAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQRGGIKGFFPGLGPALLR  303
+            ++GG+AG ++    FPIDT+KT+ Q           +++ + + GG  G + GLG A++ 
+Sbjct  21   VSGGLAGTAVDTLFFPIDTLKTRAQ-----------SEQGFFRAGGFSGVYRGLGSAVVG  69
+
+Query  304  SFPANAATFLGVEMTHSLFKKY  325
+            S P  +  F   E++     K+
+Sbjct  70   SAPGASLFFTSYELSKDALPKF  91
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ75609.1 Length: 433
+Range 1: 39 to 292
+
+Score:46.6 bits(109), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:57/259(22%), Positives:93/259(35%), Gaps:61/259(23%)
+
+Query  92   TNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFIS  151
+            +  ++ F+ G   P+LG+  I +  F  Y  G+ +   +  +   N L+  ++ A+G  +
+Sbjct  39   SEGIRFFFAGTAGPILGLAFIDSAFFGLY--GRMMQALHQDRQDPNALS--RVFASGATA  94
+
+Query  152  AIPTTLVTAPTERVKVVLQTSSK-----GSFIQAAKTIVKEGGIASLFKGSLATLARDGP  206
+                 L+  P E VK   Q  S      GSF + A  I ++ G+   + G L T   DG 
+Sbjct  95   GALCALLETPIEVVKTRAQVESVPGKKLGSF-RIASQIARKEGLRGFYIGGLMTAVHDGI  153
+
+Query  207  GSALYFASYEISKNYLNSRQPRQDAG---------------------------------K  233
+             S ++F  Y + +  L    P   A                                  +
+Sbjct  154  SSGIFFWGYFVFRRMLRGEDPFHAASANAQPPPASTIESFAASTASSSSSSSPSSAPAWQ  213
+
+Query  234  DEP------------------VNILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQN  275
+             +P                    IL +  AGG AG    L  +P D +KT+LQ ++    
+Sbjct  214  SQPQPDTPAPIPSSSPPTLSKTEILRILFAGGCAGALSALIPYPFDIVKTRLQTANFESR  273
+
+Query  276  MLSATKEIYLQRGGIKGFF  294
+              S+   I     G +G F
+Sbjct  274  ARSSPVNIGRGGAGFEGRF  292
+
+
+
+
+>mitochondrial carrier protein, family 25 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272469.1 Length: 562
+>mitochondrial carrier protein, family 25 [Rhodotorula toruloides NP11]
+Sequence ID: EMS21350.1 Length: 562
+>Mitochondrial substrate carrier family protein S [Rhodotorula toruloides]
+Sequence ID: KAJ8291347.1 Length: 562
+>RHTO0S26e00254g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR49364.1 Length: 562 
+Range 1: 167 to 420
+
+Score:46.2 bits(108), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:58/259(22%), Positives:91/259(35%), Gaps:61/259(23%)
+
+Query  92   TNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFIS  151
+            +  ++ F+ G   P+LG+  I +  F  Y  G+ +      +   N L+  ++ A+G  +
+Sbjct  167  SEGIRFFFAGTAGPILGLAFIDSAFFGLY--GRMMQALRQDRQDPNALS--RVFASGATA  222
+
+Query  152  AIPTTLVTAPTERVKVVLQTSSK-----GSFIQAAKTIVKEGGIASLFKGSLATLARDGP  206
+                 L+  P E VK   Q  S      GSF + A  I ++ G+   + G L T   DG 
+Sbjct  223  GALCALLETPIEVVKTRAQVESVPGKKLGSF-RIASQIARKEGLRGFYIGGLMTAVHDGI  281
+
+Query  207  GSALYFASYEISKNYLNSRQPRQDAG----------------------------------  232
+             S ++F  Y + +  L    P   A                                   
+Sbjct  282  SSGIFFWGYFVFRRMLRGEDPFHAASATAHPPPASTLESFAASTASSSPSPSPSPAPASQ  341
+
+Query  233  ----KDEPV-------------NILNVCLAGGIAGMSMWLAVFPIDTIKTKLQASSTRQN  275
+                 D P               IL +  AGG AG    L  +P D +KT+LQ ++    
+Sbjct  342  PQSQPDTPAPIPSSSPLTLSKTEILRILFAGGCAGALSALIPYPFDIVKTRLQTANFESR  401
+
+Query  276  MLSATKEIYLQRGGIKGFF  294
+              S+   I     G +G F
+Sbjct  402  ARSSPVNIGRGGAGFEGRF  420
+
+
+
+
+>flavin-adenine dinucleotide transporter [Rhodotorula toruloides]
+Sequence ID: GEM08361.1 Length: 331
+Range 1: 18 to 179
+
+Score:44.7 bits(104), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:42/171(25%), Positives:73/171(42%), Gaps:22/171(12%)
+
+Query  145  AAAGFISAIPTTLVTAPTERVKVVLQTSSK-------GSFIQAAKTIVKEGGIASLFKGS  197
+            A  G  + I +T+   P + +KV LQ S+        G        IV++GG  SL++G 
+Sbjct  18   AFCGVSAGIVSTICMQPLDLLKVQLQVSTAQKTHGTLGQIWWGLGEIVRQGGYQSLYRGL  77
+
+Query  198  LATLARDGPGSALYFASYEISKNYLNSRQPRQDAGKDEPVNILNVCLAGGIAGMSMWLAV  257
+               L  +      YF  Y + K        R D G+++ +N     LA   +G+   +  
+Sbjct  78   TPNLVGNASSWGFYFLWYTMIK-------ARMDGGEEKKLNAGQHLLASATSGVITAVIT  130
+
+Query  258  FPIDTIKTKLQASSTRQNMLSATKEI------YLQRGGIKGFFPGLGPALL  302
+             PI  +KT++   +TR +   A + +        +  G++G   G+  AL+
+Sbjct  131  NPIWVVKTRM--FTTRADETKAYRGVLHGLATLAREEGVRGMSKGMTLALI  179
+
+
+
+
+>mitochondrial carrier [Rhodotorula toruloides]
+Sequence ID: PRQ77028.1 Length: 310
+Range 1: 22 to 103
+
+Score:40.8 bits(94), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:27/82(33%), Positives:42/82(51%), Gaps:4/82(4%)
+
+Query  244  LAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQR----GGIKGFFPGLGP  299
+            LAG +AG++   A+FP+D IKT++Q  ST  +   A+      R     G K  + G+  
+Sbjct  22   LAGSLAGIAEHAAMFPVDMIKTRMQVLSTSPSAAYASMSDAFTRISTTEGTKRMWRGVAS  81
+
+Query  300  ALLRSFPANAATFLGVEMTHSL  321
+             +L + PA+A  F   E+   L
+Sbjct  82   VILGAGPAHAVYFGMYELAKDL  103
+
+
+
+
+>Mitochondrial carrier domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ76969.1 Length: 412
+Range 1: 261 to 390
+
+Score:40.0 bits(92), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:36/133(27%), Positives:60/133(45%), Gaps:10/133(7%)
+
+Query  92   TNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFIS  151
+            +  VKGFY+G+   LLGVT    + +  Y+  K++       G   E    +++AA   +
+Sbjct  261  SQGVKGFYRGLSASLLGVTE-GTIQWSLYEQFKRIAKAGQAPG--EEDAGWRVSAAAGSA  317
+
+Query  152  AIPTTLVTAPTERVKVVLQ-------TSSKGSFIQAAKTIVKEGGIASLFKGSLATLARD  204
+                T++T P E V+  L+        +   S  Q  K ++KE G  + + G  A L R 
+Sbjct  318  KFVATVITYPHEVVRTRLRQPLPPSGVAKYKSLGQTFKLVIKEEGWRACYHGLTAHLMRV  377
+
+Query  205  GPGSALYFASYEI  217
+             P +   +  YE+
+Sbjct  378  IPNACCMYLVYEM  390
+
+
+
+
+>mitochondrial RNA splicing protein [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275787.1 Length: 310
+>mitochondrial RNA splicing protein [Rhodotorula toruloides NP11]
+Sequence ID: EMS24668.1 Length: 310
+>RHTO0S01e09208g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR35877.1 Length: 310 
+Range 1: 22 to 103
+
+Score:40.0 bits(92), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:26/82(32%), Positives:42/82(51%), Gaps:4/82(4%)
+
+Query  244  LAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQR----GGIKGFFPGLGP  299
+            LAG +AG++   A+FP+D IKT++Q  ST  +   A+      R     G K  + G+  
+Sbjct  22   LAGSLAGIAEHAAMFPVDMIKTRMQVLSTSPSAAYASMSDAFTRISTTEGTKRMWRGVAS  81
+
+Query  300  ALLRSFPANAATFLGVEMTHSL  321
+             +L + PA+A  F   E+   +
+Sbjct  82   VILGAGPAHAVYFGMYELAKDM  103
+
+
+
+
+>mitochondrial RNA splicing protein [Rhodotorula toruloides]
+Sequence ID: GEM06063.1 Length: 310
+Range 1: 22 to 103
+
+Score:38.9 bits(89), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:26/82(32%), Positives:41/82(50%), Gaps:4/82(4%)
+
+Query  244  LAGGIAGMSMWLAVFPIDTIKTKLQASSTRQNMLSATKEIYLQR----GGIKGFFPGLGP  299
+            LAG +AG+S    +FP+D IKT++Q  +T  +   A+      R     G K  + G+  
+Sbjct  22   LAGSLAGISEHAVMFPVDMIKTRMQVLATSPSAAYASMSDAFTRISTTEGTKRMWRGVAS  81
+
+Query  300  ALLRSFPANAATFLGVEMTHSL  321
+             +L + PA+A  F   E+   L
+Sbjct  82   VILGAGPAHAVYFGMYELAKDL  103
+
+
+
+
+>mitochondrial carrier protein RIM2 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275727.1 Length: 411
+>mitochondrial carrier protein RIM2 [Rhodotorula toruloides NP11]
+Sequence ID: EMS24608.1 Length: 411
+>putative mitochondrial carrier [Rhodotorula toruloides]
+Sequence ID: KAJ8297136.1 Length: 411
+>RHTO0S01e10572g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR35938.1 Length: 411 
+Range 1: 260 to 389
+
+Score:38.1 bits(87), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:35/133(26%), Positives:60/133(45%), Gaps:10/133(7%)
+
+Query  92   TNSVKGFYKGVIPPLLGVTPIFAVSFWGYDVGKKLVTFNNKQGGSNELTMGQMAAAGFIS  151
+            +  +KGFY+G+   LLGVT    + +  Y+  K++       G   E    +++AA   +
+Sbjct  260  SQGIKGFYRGLSASLLGVTE-GTIQWSLYEQFKRIAKAGQAPG--EEDAGWRVSAAAGSA  316
+
+Query  152  AIPTTLVTAPTERVKVVLQTSSKGSFI-------QAAKTIVKEGGIASLFKGSLATLARD  204
+                T++T P E V+  L+     S I       Q  + ++KE G  + + G  A L R 
+Sbjct  317  KFVATVITYPHEVVRTRLRQPLPPSGIAKYKSLGQTFQLVIKEEGWRACYHGLTAHLMRV  376
+
+Query  205  GPGSALYFASYEI  217
+             P +   +  YE+
+Sbjct  377  IPNACCMYLVYEM  389
+
+
+
+
+
+
+
+		
+
+

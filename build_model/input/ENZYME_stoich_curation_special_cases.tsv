@@ -1,0 +1,3 @@
+rxn_src	dir	enz	protein_stoich	status	comments
+XYLt_c_e	FWD	gxf1	gxf1:1	protStoichAsgnManual	from Marinobacter aquaeolei; treat identically to RT xylose transporter
+XYLt_c_e	REV	gxf1	gxf1:1	protStoichAsgnManual	from Marinobacter aquaeolei; treat identically to RT xylose transporter

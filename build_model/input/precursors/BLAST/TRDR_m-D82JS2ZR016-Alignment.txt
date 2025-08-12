@@ -1,0 +1,205 @@
+RID: D82JS2ZR016	
+Job Title:tr|A0A2T0AIM8|A0A2T0AIM8_RHOTO Thioredoxin...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: tr|A0A2T0AIM8|A0A2T0AIM8_RHOTO Thioredoxin domain-containing protein OS=Rhodosporidium toruloides OX=5286 GN=AAT19DRAFT_8921 PE=4 SV=1 Query ID: lcl|Query_3833 Length: 109
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein AAT19DRAFT_8921 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       218    218   100%  3e-75 100.00 109        PRQ77853.1       
+thioredoxin [Rhodotorula toruloides NP11]                         Rhodotorula ... NA              1130832    75.1   75.1  33%   8e-19 94.59  106        XP_016277134.1   
+Thioredoxin-1 [Rhodotorula toruloides]                            Rhodotorula ... NA              5286       77.0   77.0  33%   1e-17 94.59  985        KAJ8295820.1     
+thioredoxin [Rhodotorula toruloides]                              Rhodotorula ... NA              5286       71.6   71.6  33%   1e-17 89.19  102        GEM06974.1       
+thioredoxin [Rhodotorula toruloides]                              Rhodotorula ... NA              5286       37.4   37.4  33%   2e-04 47.22  72         GEM11098.1       
+thioredoxin [Rhodotorula toruloides NP11]                         Rhodotorula ... NA              1130832    35.8   35.8  33%   0.001 44.44  103        XP_016274263.1   
+RHTO0S12e04412g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       35.8   35.8  33%   0.001 44.44  108        CDR46435.1       
+putative thioredoxin [Rhodotorula toruloides]                     Rhodotorula ... NA              5286       35.4   35.4  33%   0.001 44.44  103        PRQ70691.1       
+DnaJ xdj1 [Rhodotorula toruloides]                                Rhodotorula ... NA              5286       35.8   35.8  33%   0.003 44.44  601        KAJ8291686.1     
+Thioredoxin H5 [Rhodotorula toruloides]                           Rhodotorula ... NA              5286       32.7   32.7  31%   0.041 41.18  241        KAJ8292470.1     
+Thioredoxin-like fold [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       32.3   32.3  31%   0.048 41.18  241        PRQ75877.1       
+
+
+Alignments:
+
+>hypothetical protein AAT19DRAFT_8921 [Rhodotorula toruloides]
+Sequence ID: PRQ77853.1 Length: 109
+Range 1: 1 to 109
+
+Score:218 bits(554), Expect:3e-75, 
+Method:Compositional matrix adjust., 
+Identities:109/109(100%), Positives:109/109(100%), Gaps:0/109(0%)
+
+Query  1    MTREQEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLKVRRCNSALSSLLSRCAGAGI  60
+            MTREQEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLKVRRCNSALSSLLSRCAGAGI
+Sbjct  1    MTREQEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLKVRRCNSALSSLLSRCAGAGI  60
+
+Query  61   DNGCLGAGRPRAPQRICVDLGRRAFASRPRKIVRLQSSLAIRNRKQQFV  109
+            DNGCLGAGRPRAPQRICVDLGRRAFASRPRKIVRLQSSLAIRNRKQQFV
+Sbjct  61   DNGCLGAGRPRAPQRICVDLGRRAFASRPRKIVRLQSSLAIRNRKQQFV  109
+
+
+
+
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277134.1 Length: 106
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS26015.1 Length: 106
+>RHTO0S03e09274g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38414.1 Length: 106 
+Range 1: 60 to 96
+
+Score:75.1 bits(183), Expect:8e-19, 
+Method:Compositional matrix adjust., 
+Identities:35/37(95%), Positives:37/37(100%), Gaps:0/37(0%)
+
+Query  4   EQEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+           ++EVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK
+Sbjct  60  QEEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  96
+
+
+
+
+>Thioredoxin-1 [Rhodotorula toruloides]
+Sequence ID: KAJ8295820.1 Length: 985
+Range 1: 748 to 784
+
+Score:77.0 bits(188), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:35/37(95%), Positives:37/37(100%), Gaps:0/37(0%)
+
+Query  4    EQEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+            ++EVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK
+Sbjct  748  QEEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  784
+
+
+
+
+>thioredoxin [Rhodotorula toruloides]
+Sequence ID: GEM06974.1 Length: 102
+Range 1: 56 to 92
+
+Score:71.6 bits(174), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:33/37(89%), Positives:35/37(94%), Gaps:0/37(0%)
+
+Query  4   EQEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+           ++EVA EVGIKAMPTFVLFKNG KVGTVVGADPNKLK
+Sbjct  56  QEEVAAEVGIKAMPTFVLFKNGAKVGTVVGADPNKLK  92
+
+
+
+
+>thioredoxin [Rhodotorula toruloides]
+Sequence ID: GEM11098.1 Length: 72
+Range 1: 28 to 63
+
+Score:37.4 bits(85), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:17/36(47%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  5   QEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+           ++ A EVGI+ +P F++FK   K+  VVGA P  LK
+Sbjct  28  EQAAQEVGIRTVPAFMVFKEMTKLEEVVGAQPAALK  63
+
+
+
+
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274263.1 Length: 103
+>thioredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS23144.1 Length: 103 
+Range 1: 59 to 94
+
+Score:35.8 bits(81), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:16/36(44%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  5   QEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+           ++ A EVGI+ +P F++FK   K+  V+GA P  LK
+Sbjct  59  EQAAQEVGIRTVPAFMVFKEMTKLEEVMGAQPAALK  94
+
+
+
+
+>RHTO0S12e04412g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46435.1 Length: 108
+Range 1: 64 to 99
+
+Score:35.8 bits(81), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:16/36(44%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  5   QEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+           ++ A EVGI+ +P F++FK   K+  V+GA P  LK
+Sbjct  64  EQAAQEVGIRTVPAFMVFKEMTKLEEVMGAQPAALK  99
+
+
+
+
+>putative thioredoxin [Rhodotorula toruloides]
+Sequence ID: PRQ70691.1 Length: 103
+Range 1: 59 to 94
+
+Score:35.4 bits(80), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:16/36(44%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  5   QEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+           ++ A EVGI+ +P F++FK   K+  V+GA P  LK
+Sbjct  59  EQAAQEVGIRTVPAFMVFKEMTKLEEVMGAQPAALK  94
+
+
+
+
+>DnaJ xdj1 [Rhodotorula toruloides]
+Sequence ID: KAJ8291686.1 Length: 601
+Range 1: 557 to 592
+
+Score:35.8 bits(81), Expect:0.003, 
+Method:Composition-based stats., 
+Identities:16/36(44%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  5    QEVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKLK  40
+            ++ A EVGI+ +P F++FK   K+  V+GA P  LK
+Sbjct  557  EQAAQEVGIRTVPAFMVFKEMTKLEEVMGAQPAALK  592
+
+
+
+
+>Thioredoxin H5 [Rhodotorula toruloides]
+Sequence ID: KAJ8292470.1 Length: 241
+Range 1: 67 to 100
+
+Score:32.7 bits(73), Expect:0.041, 
+Method:Compositional matrix adjust., 
+Identities:14/34(41%), Positives:22/34(64%), Gaps:0/34(0%)
+
+Query  6   EVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKL  39
+           ++A +  + AMPTF   ++G+ V T+ GADP  L
+Sbjct  67  QIAQKYKVTAMPTFFAIQSGKVVDTLKGADPAAL  100
+
+
+
+
+>Thioredoxin-like fold [Rhodotorula toruloides]
+Sequence ID: PRQ75877.1 Length: 241
+Range 1: 67 to 100
+
+Score:32.3 bits(72), Expect:0.048, 
+Method:Compositional matrix adjust., 
+Identities:14/34(41%), Positives:21/34(61%), Gaps:0/34(0%)
+
+Query  6   EVAGEVGIKAMPTFVLFKNGEKVGTVVGADPNKL  39
+           ++A +  + AMPTF   + G+ V T+ GADP  L
+Sbjct  67  QIAQKYKVTAMPTFFAIQAGKAVDTLKGADPAAL  100
+
+
+
+
+
+
+
+		
+
+

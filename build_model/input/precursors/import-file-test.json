@@ -1,0 +1,164 @@
+{
+"metabolites":[
+{
+"id":"sample_oc3coa__Z_x",
+"name":"trans-oct-3-enoyl-CoA",
+"compartment":"x",
+"charge":-4,
+"formula":"C29H44N7O17P3S",
+"notes":{
+"formula_charge_source":"manual"
+},
+"annotation":{
+"sbo":"SBO:0000247"
+}
+},
+{
+"id":"glu5sa_m",
+"name":"L-glutamic 5-semialdehyde",
+"compartment":"m",
+"charge":0,
+"formula":"C5H9N1O3",
+"annotation":{
+"biocyc":"META:L-GLUTAMATE_GAMMA-SEMIALDEHYDE",
+"chebi":"CHEBI:17232",
+"kegg.compound":"C01165",
+"pubchem.compound":"193305",
+"sbo":"SBO:0000247",
+"seed.compound":"cpd00858",
+"ymdb":"YMDB00918"
+}
+},
+{
+"id":"q9_c",
+"name":"ubiquinone-9",
+"compartment":"c",
+"charge":0,
+"formula":"C54H82O4",
+"annotation":{
+"biocyc":"META:UBIQUINONE-9",
+"kegg.compound":"C01967",
+"pubchem.compound":"5280473",
+"sbo":"SBO:0000247",
+"seed.compound":"cpd01351"
+}
+}
+],
+"reactions":[
+{
+"id":"G5SADr_m",
+"name":"L-glutamate 5-semialdehyde dehydratase",
+"metabolites":{
+"1pyr5c_m":1,
+"glu5sa_m":-1,
+"h2o_m":1,
+"h_m":1
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"SPONT",
+"subsystem":"Arginine and proline metabolism",
+"annotation":{
+"kegg.reaction":"R03314",
+"sbo":"SBO:0000176"
+}
+},
+{
+"id":"GHMT2r_m",
+"name":"glycine hydroxymethyltransferase",
+"metabolites":{
+"gly_m":1,
+"h2o_m":1,
+"mlthf_m":1,
+"ser__L_m":-1,
+"thf_m":-1
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"UNKNOWN",
+"subsystem":"Glycine, serine and threonine metabolism",
+"annotation":{
+"ec-code":"2.1.2.1",
+"kegg.reaction":"R00945",
+"sbo":"SBO:0000176"
+}
+},
+{
+"id":"ETFOXRq9_c",
+"name":"electron transfer flavoprotein-ubiquinone oxidoreductase",
+"metabolites":{
+"fad_c":1,
+"fadh2_c":-1,
+"h_c":1,
+"q9_m":-1,
+"q9h2_m":1
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"rt1850 and rt1701 and rt1518",
+"subsystem":"Oxidative phosphorylation",
+"annotation":{
+"sbo":"SBO:0000176",
+"seed.reaction":"rxn12212"
+}
+}
+],
+"genes":[
+{
+"id":"rt8483",
+"name":"GRX1",
+"notes":{
+"notes":"Found via bidirectional BLASTp search on S. cerevisiae GRX1",
+"protein_id":"RT15038",
+"transcript_id":"15166"
+},
+"annotation":{
+"sc_id":"YCL035C"
+}
+},
+{
+"id":"rt8484",
+"name":"COQ4",
+"notes":{
+"notes":"Found in annotated genome",
+"protein_id":"RT09681",
+"transcript_id":"9809"
+},
+"annotation":{
+"sc_id":"YDR204W"
+}
+},
+{
+"id":"rt8485",
+"name":"LOT6",
+"notes":{
+"Confidence Level":"1.5",
+"notes":"Found in annotated genome. Needed LOT6 for FMNH2 cofactor production but found no good matches to BLASTp for YLR011W in RT. Picked this gene since a flavin reductase does carry out LOT6's rxn (https://www.uniprot.org/uniprotkb/M4YFG7/entry)",
+"protein_id":"RT12341",
+"transcript_id":"12469"
+},
+"annotation":{
+"sc_id":"YLR011W"
+}
+}
+],
+"id":"iRhto1108C",
+"name":"iRhto1108C",
+"compartments":{
+"c":"cytoplasm",
+"e":"extracellular",
+"en":"cell envelope",
+"g":"Golgi",
+"gm":"Golgi membrane",
+"l":"lipid particle",
+"m":"mitochondrion",
+"mm":"mitochondrial membrane",
+"n":"nucleus",
+"r":"endoplasmic reticulum",
+"rm":"endoplasmic reticulum membrane",
+"v":"vacuole",
+"vm":"vacuolar membrane",
+"x":"peroxisome"
+},
+"version":"1"
+}

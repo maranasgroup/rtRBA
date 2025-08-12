@@ -1,0 +1,150 @@
+RID: DAC3Z92M016	
+Job Title:mtRNA				
+Program: BLASTN 
+Database: genomic/5286/GCA_001255795.1 
+Query #1: URS00021AF71F_5286 Rhodotorula toruloides small subunit ribosomal RNA Query ID: lcl|Query_17259 Length: 1933
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1,...                                    0          688    1168  76%   0.0   84.42  768797     CWKI01000004.1   
+
+
+Alignments:
+
+>Rhodosporidium toruloides genome assembly IFO0880_HGAP3_v1, scaffold IFO0880_HGAP3_scaffold_4, whole genome shotgun sequence
+Sequence ID: CWKI01000004.1 Length: 768797
+Range 1: 73282 to 73985
+
+Score:688 bits(372), Expect:0.0, 
+Identities:607/719(84%),  Gaps:21/719(2%), Strand: Plus/Minus
+
+Query  218    TTTGCTTAAGCATGCGCTAACATCACAGCAGCTAGTTGCCTAGGTAAAAGCTAAGCAAGG  277
+              ||||||||||||||||| |||| ||||||||||||| | |  ||||||||||   | |||
+Sbjct  73985  TTTGCTTAAGCATGCGCCAACACCACAGCAGCTAGTAGGCCCGGTAAAAGCTGGCCTAGG  73926
+
+Query  278    CTATGACGTGTAGACGTTAGTGAAAGCTACGACGTCCGCAATGACTACGAACGAAGTCAT  337
+              | ||||||||||| |||||||||||||||| ||| |||||||| |||| || || | |||
+Sbjct  73925  CCATGACGTGTAGGCGTTAGTGAAAGCTACAACGCCCGCAATGGCTACTAATGACGCCAT  73866
+
+Query  338    ACTACACTAGTAGGCAGCAGTGCAGAATATTTGTCAATGGTCGCAAGACTGAACAAGCTA  397
+              |||||||||||||||||||||||||||| ||||||||| |||| ||||||||||||||||
+Sbjct  73865  ACTACACTAGTAGGCAGCAGTGCAGAATTTTTGTCAATAGTCGTAAGACTGAACAAGCTA  73806
+
+Query  398    GCTAGATCGTGCATAGGCTTAAGCTTAGCACGTAACGTAACGTCATATAATGACGGCCGT  457
+              ||||| |||||||| ||||||||| | |||||| |||||| | |  || ||||| | | |
+Sbjct  73805  GCTAGGTCGTGCATGGGCTTAAGCCTGGCACGTTACGTAATGCCGCATTATGACTGGCAT  73746
+
+Query  458    TA-TAACAAGTTGCAACCCATTTCAGTGCCAGCAGTTGCGGTTAGACTGATGCAGCAAGC  516
+              || ||| ||||||| ||||||| |||||||||||||||||||||||||| ||||||||||
+Sbjct  73745  TACTAA-AAGTTGCGACCCATTACAGTGCCAGCAGTTGCGGTTAGACTGTTGCAGCAAGC  73687
+
+Query  517    GTTGCTAGTAATAAATAGGCGTAAAAAATGCGTAGGTGGGAGTTGGGTACCCGGTATGTA  576
+              ||||||| || ||||||||||||||| |||||||||    |  |||||   |   |  ||
+Sbjct  73686  GTTGCTAATACTAAATAGGCGTAAAACATGCGTAGG--CCA--TGGGT--TC---A--TA  73638
+
+Query  577    CTACCTGGTATTCCCCATATGGATTC-TAGTTGGGTAGTGGGTATGTTCAGCGTAGCAAT  635
+              | | || ||||| ||||| ||  | |  |||| |||||||||||| || || ||||||||
+Sbjct  73637  CAAGCTCGTATTGCCCAT-TGAGTCCACAGTTCGGTAGTGGGTATTTTTAGTGTAGCAAT  73579
+
+Query  636    GAAATGCATTGATGCTGAAAGGACCACCCTATTACTGCTACT--AGCTAGCAATTGACAC  693
+              ||||||| || |  || ||||||||||| || |||| |||||  || | || | || | |
+Sbjct  73578  GAAATGCTTTAAGCCTAAAAGGACCACCGTAGTACTACTACTGTAG-T-GCGACTGCCGC  73521
+
+Query  694    TAAGGCATGAACGCATAGGCATAAAAGAGGATTAGATACCCTCGTATTCTATGCTGTTAA  753
+              | ||||||||| |||||||||||||| ||||||||| ||||| |||||||||||||| ||
+Sbjct  73520  TTAGGCATGAATGCATAGGCATAAAAAAGGATTAGAGACCCTTGTATTCTATGCTGTAAA  73461
+
+Query  754    CGATGAAGGCTGCTAATTTAGCTTAG-CTTTACTAGCATGCAAACGCTT-AAGCCTTCTG  811
+              | || |||||||||    ||||  || || | |||||| |||||||||| ||||||| ||
+Sbjct  73460  CCATAAAGGCTGCTGGCCTAGCACAGGCTATGCTAGCAAGCAAACGCTTTAAGCCTTTTG  73401
+
+Query  812    CCTGGGTAGTACAGTCACACGGCTGAACACCAAATAACTAGACGGTTTTGAAGACCTGCA  871
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  73400  CCTGGGTAGTACAGTCACACGACTGAACACCAAATAACTAGACGGTTTTGAAGACCTGCA  73341
+
+Query  872    GTGAAGCATGAACCTTAATTCGACAATCCGCGCACAACCTTACCATCGCTTGCATGGGG  930
+              ||||||||||||||||||||||||| ||||||||  ||||||||| |||||||||||||
+Sbjct  73340  GTGAAGCATGAACCTTAATTCGACAGTCCGCGCAACACCTTACCACCGCTTGCATGGGG  73282
+
+
+
+
+Range 2: 72214 to 72819
+
+Score:372 bits(201), Expect:3e-102, 
+Identities:485/618(78%),  Gaps:35/618(5%), Strand: Plus/Minus
+
+Query  1338   CATAGGGGAATACGGTGTAATATACGTCATAGCCTACACAGGTGCTACATGTCCTTCTTC  1397
+              ||| ||| |||| || ||| | ||||||| | |  |||||||||||||||||||||||||
+Sbjct  72819  CAT-GGGCAATAGGGCGTACTTTACGTCACAACTCACACAGGTGCTACATGTCCTTCTTC  72761
+
+Query  1398   AGCATGTGTTGCTAAATGCGTGGTTCAATCCGCTAACATGCGCAAGCCTAGCAGCCAACA  1457
+              |||||||||||||||||||| |||| ||||||||||||||||||||||| ||||||||| 
+Sbjct  72760  AGCATGTGTTGCTAAATGCGAGGTTAAATCCGCTAACATGCGCAAGCCTTGCAGCCAACT  72701
+
+Query  1458   -GAATACGGTTGTTTGCGGTCCATATGACTGCAGATAGGGGTTAAGAAAGGACACCATGA  1516
+               ||    || ||||||| | |||||||||||||||   |||  |||||||||||||||||
+Sbjct  72700  TGACGT-GGCTGTTTGCAGCCCATATGACTGCAGACCAGGGCCAAGAAAGGACACCATGA  72642
+
+Query  1517   CCCCCATGCGATGGGCTGTCTTTGTGCTGCTAAAGCTAGTACAACGCAACGCTATTG--T  1574
+              |||||||||| ||||||| |||||||||||||| |||||| ||| |||||||| |||  |
+Sbjct  72641  CCCCCATGCGGTGGGCTGACTTTGTGCTGCTAAGGCTAGTGCAATGCAACGCTTTTGCAT  72582
+
+Query  1575   ----CT--AATGACAGC---AGCTATTTGTAAACGCTAGCTTGATGAATTGACAGCTGCA  1625
+                  |   |||| | ||   ||||| |||  ||  ||||| || ||||||    ||||||
+Sbjct  72581  TGGGCCGCAATGCCCGCAGTAGCTACTTGCCAATACTAGCCTGTTGAATTAGTGGCTGCA  72522
+
+Query  1626   AAGGCTG-T-CATGAATAAGGAATTGCAAGTAATCGTAGTGTAGTGCGCTACGGTGAACA  1683
+              |  ||   | ||  ||| |||||||||||||||||||||||||| |||||||||||||||
+Sbjct  72521  ATTGCCACTACA--AATTAGGAATTGCAAGTAATCGTAGTGTAGCGCGCTACGGTGAACA  72464
+
+Query  1684   CCCCATTCAAAATGTACTAATCACCCGTCACGTCGGGAGAGGCTTTCTAGCTGTAAAATA  1743
+              ||||||||||||||||||||| |||||||||||||| | |||||  ||||  ||||||  
+Sbjct  72463  CCCCATTCAAAATGTACTAATTACCCGTCACGTCGGCAAAGGCTACCTAGTAGTAAAACT  72404
+
+Query  1744   GGGCCTGCATGCGTGTA--CTGCAGTGTTAGCTTATAACGTCACACGGCGTATAAAACAG  1801
+               |||  || | | | ||  ||||||||    |||  || | |||| ||| | |  || ||
+Sbjct  72403  TGGCAGGCGT-CAT-TAGGCTGCAGTGGCCACTTGCAAGGCCACATGGC-T-TGCAA-AG  72349
+
+Query  1802   CGTCTGC-TAGCAAATTTGCA-AATT-T--G--ATGCCTTGCTGCAGCGCCATGTAGGCT  1854
+                || || |    || | ||  ||   |  |  |||||||||||||||     | | |||
+Sbjct  72348  --TC-GCATTTTTAAGTAGCCCAAGGCTACGCAATGCCTTGCTGCAGCTTGGCGCAAGCT  72292
+
+Query  1855   TTGCTAACAGCTAGCGCTAATCTGGACGAAGTCGTAATATAGGAGCGGTACGGGAACGTG  1914
+              |||||||   ||||||| ||| ||||||||||||||||| ||||| ||||||||||||||
+Sbjct  72291  TTGCTAATTACTAGCGCCAATGTGGACGAAGTCGTAATAAAGGAGTGGTACGGGAACGTG  72232
+
+Query  1915   CTGCTGAATAATGACTTT  1932
+              ||||||||||||||||||
+Sbjct  72231  CTGCTGAATAATGACTTT  72214
+
+
+
+
+Range 3: 74059 to 74224
+
+Score:108 bits(58), Expect:1e-22, 
+Identities:135/171(79%),  Gaps:10/171(5%), Strand: Plus/Minus
+
+Query  9      GAGTTTAGTTATGACTCATAGCGAACGCTATCTAGCAGTTTGACACATGCAAGTTCA-T-  66
+              |||||||||||||||||||||||||||||| |||||||||||||||||||||||| | | 
+Sbjct  74224  GAGTTTAGTTATGACTCATAGCGAACGCTACCTAGCAGTTTGACACATGCAAGTTTACTG  74165
+
+Query  67     CGTC-TGTT-C-TGCAAGTTTGCAATAGGGGGACCTTAGCAAATTGCTAACATAAGACGG  123
+              |  | |||| | |||| |    || |||||  |  |  |||   |||| || | || | |
+Sbjct  74164  CCCCATGTTGCATGCATGAACCCACTAGGGCTAAGT--GCA---TGCTTACTTTAGGCAG  74110
+
+Query  124    TAGCGTACAGGCGAGTATACGTTAGCTGCTAAGCTTAAGTGTCCTCTAAGG  174
+              ||||||||||||||||| ||||| || |||||||||||| | |||  ||||
+Sbjct  74109  TAGCGTACAGGCGAGTACACGTTGGCCGCTAAGCTTAAGCGCCCTGCAAGG  74059
+
+
+
+
+
+
+
+		
+
+

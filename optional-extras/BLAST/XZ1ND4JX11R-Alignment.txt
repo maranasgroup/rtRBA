@@ -1,0 +1,575 @@
+RID: XZ1ND4JX11R	
+Job Title:11 sequences (rtmCOB)				
+Program: TBLASTN 
+Subject:scaffold_1 ID: lcl|Query_159305(dna) Length: 110369
+Query #1: rtmCOB Query ID: lcl|Query_159294 Length: 385
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          186    710   99%   3e-54 96.88  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 61780 to 62067
+
+Score:186 bits(472), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:93/96(97%), Positives:94/96(97%), Gaps:0/96(0%)
+
+Query  290    LGVVAMFASLLILLAMPIVDTSRVRGSQFRPLMRWAFWLFAANFFVLMYIGSQHVEEPFV  349
+              LGVVAMFASLLILLAMPIVDTSRVRGSQFRPLMR AFWLFAANFFVLMYIGSQHVEEPFV
+Sbjct  61780  LGVVAMFASLLILLAMPIVDTSRVRGSQFRPLMR*AFWLFAANFFVLMYIGSQHVEEPFV  61959
+
+Query  350    TVGMVSTSLYFSWFLIIVPVIGLVENTLLDLACESK  385
+              TVGM+STSLYF WFLIIVPVIGLVENTLLDLACESK
+Sbjct  61960  TVGMISTSLYFGWFLIIVPVIGLVENTLLDLACESK  62067
+
+
+
+
+Range 2: 55405 to 55656
+
+Score:135 bits(339), Expect:9e-37, 
+Method:Compositional matrix adjust., 
+Identities:69/84(82%), Positives:73/84(86%), Gaps:1/84(1%)
+
+Query  1      MRLLKTHPILGLVNSYMVDSPQPASITYMWNFGSLLGLCLVIQIVTGITLAMHYTPSIDL  60
+              MRLLKTHPILGLVNSYMVDSPQPASITYM NFGSLLGLCLVIQIVTGITLAMHYTPSIDL
+Sbjct  55405  MRLLKTHPILGLVNSYMVDSPQPASITYM*NFGSLLGLCLVIQIVTGITLAMHYTPSIDL  55584
+
+Query  61     AFASVEHIMRDVHYG-WLIRYLHA  83
+              AFASVEH    + +   L++ LH 
+Sbjct  55585  AFASVEHKSNVLKFNTMLVKPLHG  55656
+
+
+
+
+Range 3: 56259 to 56456
+
+Score:129 bits(325), Expect:5e-35, 
+Method:Compositional matrix adjust., 
+Identities:62/66(94%), Positives:65/66(98%), Gaps:0/66(0%)
+
+Query  66     EHIMRDVHYGWLIRYLHANVASFFFICVYLHIGRGLYYGSYRSPRTLVWAIGVIILVLMM  125
+              + IMRDVHYGWLIRYLHANVASFFFICVYLHIGRGLYYGSYRSPRTLVWAIGV+ILVLM+
+Sbjct  56259  KAIMRDVHYGWLIRYLHANVASFFFICVYLHIGRGLYYGSYRSPRTLVWAIGVVILVLMI  56438
+
+Query  126    ATAFLG  131
+              ATAFLG
+Sbjct  56439  ATAFLG  56456
+
+
+
+
+Range 4: 60651 to 60830
+
+Score:92.0 bits(227), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:58/60(97%), Positives:59/60(98%), Gaps:0/60(0%)
+
+Query  210    IGISGNTDRLPFHPYFTFKDlvtvflfmlvlavmvfYAPNYLGHSDNYIPANPMQTPASI  269
+              +GISGNTDRLPFHPYFTFKDLVTVFLFMLVLA MVFYAPNYLGHSDNYIPANPMQTPASI
+Sbjct  60651  LGISGNTDRLPFHPYFTFKDLVTVFLFMLVLAAMVFYAPNYLGHSDNYIPANPMQTPASI  60830
+
+
+
+
+Range 5: 60103 to 60267
+
+Score:61.2 bits(147), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:45/55(82%), Positives:48/55(87%), Gaps:0/55(0%)
+
+Query  162    VQFVWGGFSVNNATLNRFFSLHYLLPFIlaalaamhllalhEHGSSNPIGISGNT  216
+              +  + GGFSVNNATLNRFFSLHYLLPFILAALAAMHLLALHEHGSSNP  + G T
+Sbjct  60103  ISDLGGGFSVNNATLNRFFSLHYLLPFILAALAAMHLLALHEHGSSNPNSLGGAT  60267
+
+
+
+
+Range 6: 58980 to 59045
+
+Score:41.6 bits(96), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:21/22(95%), Positives:21/22(95%), Gaps:0/22(0%)
+
+Query  144    ATVITNLLSAIPWIGTDFVQFV  165
+              ATVITNLLSAIP IGTDFVQFV
+Sbjct  58980  ATVITNLLSAIP*IGTDFVQFV  59045
+
+
+
+
+Range 7: 61510 to 61566
+
+Score:33.5 bits(75), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:15/19(79%), Positives:17/19(89%), Gaps:0/19(0%)
+
+Query  271    AGSHLLPFYAILRSIPNKL  289
+              + + LLPFYAILRSIPNKL
+Sbjct  61510  SCTDLLPFYAILRSIPNKL  61566
+
+
+
+
+Range 8: 58486 to 58524
+
+Score:30.4 bits(67), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:12/13(92%), Positives:12/13(92%), Gaps:0/13(0%)
+
+Query  132    YVLPYGQMSLWGA  144
+              YVLPYGQMSLWG 
+Sbjct  58486  YVLPYGQMSLWGE  58524
+
+
+
+
+
+Query #2: rtmNAD1 Query ID: lcl|Query_159295 Length: 350
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          313    519   96%   7e-99 78.10  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 79888 to 80517
+
+Score:313 bits(802), Expect:7e-99, 
+Method:Compositional matrix adjust., 
+Identities:205/210(98%), Positives:209/210(99%), Gaps:0/210(0%)
+
+Query  1      MLAVVFSllevlivlvpvllsvAFMTIIERKVLASMQRRVGPNTVGYFGVLQPFADALKL  60
+              MLAV+FSLLEVLIVLVPVLLSVAFMTIIERKVLASMQRRVGPNTVGYFGVLQPFADALKL
+Sbjct  80517  MLAVIFSLLEVLIVLVPVLLSVAFMTIIERKVLASMQRRVGPNTVGYFGVLQPFADALKL  80338
+
+Query  61     VVKETVVPQHATRSLFFLAPVISLVFSLLGWAVIPFASGLALSDFSLGVLYSLAISSIGV  120
+              VVKETVVPQHATRSLFFLAPVISLVFSLLGWAV+PFASGLALSDFSLGVLYSLAISSIGV
+Sbjct  80337  VVKETVVPQHATRSLFFLAPVISLVFSLLGWAVVPFASGLALSDFSLGVLYSLAISSIGV  80158
+
+Query  121    YGVLFAGWSANSKYAFLGSLRSTAQMISYELILSTavlavvllaGTFSYTAIIERQQavy  180
+              YGVLFAGWSANSKYAFLGSLRSTAQMISYELILSTAVLAV+LLAGTFSYTAIIERQQA+Y
+Sbjct  80157  YGVLFAGWSANSKYAFLGSLRSTAQMISYELILSTAVLAVILLAGTFSYTAIIERQQAIY  79978
+
+Query  181    ylvpllplfivffiavlAETNRTPFDLPEA  210
+              Y VPLLPLFIVFFIAVLAETNRTPFDLPEA
+Sbjct  79977  YAVPLLPLFIVFFIAVLAETNRTPFDLPEA  79888
+
+
+
+
+Range 2: 78805 to 79188
+
+Score:206 bits(523), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:117/128(91%), Positives:120/128(93%), Gaps:0/128(0%)
+
+Query  211    ESELVAGYFTEHSGMIFVFFFLAEYCSIVLMSALTSIFFVGGYVMPQCIANNTFINVQAV  270
+              ESELVAGYFTEHSGMIFVFFFLAEYCSIVLMSALTSIFF+GGYVMPQCI NNTFINVQAV
+Sbjct  79188  ESELVAGYFTEHSGMIFVFFFLAEYCSIVLMSALTSIFFLGGYVMPQCIVNNTFINVQAV  79009
+
+Query  271    VLALKTCLFCFVFVWFRATLPRLRYDQLMQFCWMAMLPvaiacfvlvlcllvafDVTPCF  330
+              VLALKTCLFCFVFVWFRATLPRLRYDQLMQFC MAMLPVAIACFVLVLCLLVAFDVTPC 
+Sbjct  79008  VLALKTCLFCFVFVWFRATLPRLRYDQLMQFC*MAMLPVAIACFVLVLCLLVAFDVTPCI  78829
+
+Query  331    PQRVGGLA  338
+               +    +A
+Sbjct  78828  TRPTPNVA  78805
+
+
+
+
+
+Query #3: rtmNAD2 Query ID: lcl|Query_159296 Length: 569
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          684    684   97%   0.0   67.86  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 47917 to 49551
+
+Score:684 bits(1765), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:411/560(73%), Positives:471/560(84%), Gaps:22/560(3%)
+
+Query  17     SSNVSALQQVRLTAVALMFAAYLALNCYYPATLSGGVSLYSGLFIADAVTPIADAFICLS  76
+              SSNVS LQ +RLTAVA++FAA LALNCY PATL  GVSL+SGLF ADAVT  ADAFIC++
+Sbjct  47917  SSNVSPLQHMRLTAVAMLFAACLALNCYSPATLGCGVSLFSGLFSADAVTTAADAFICIA  48096
+
+Query  77     ASLALMPWPVIFNAVKSPIIVTGPGMKIKRTGYTTSMSHNVHSNSITEYAMlalfsatgs  136
+              ASLALMPWP I  AVKSPI VTGPG++ K  G   + +  VHSN+I EYAMLALFS TGS
+Sbjct  48097  ASLALMPWPAICKAVKSPIYVTGPGLQQKLAGTMLNTTQTVHSNAIAEYAMLALFSTTGS  48276
+
+Query  137    llllsasnvvslylsIELQSFAVYVLASSYRNNEAATAAGLKYFLLGALSSALILMGTAL  196
+              L+LL+A++VVS+YL+IELQSFAVYVLA++YRNNEAATAAGLKYFLLGALSSA+IL+GTA+
+Sbjct  48277  LMLLAAADVVSMYLAIELQSFAVYVLAATYRNNEAATAAGLKYFLLGALSSAIILLGTAM  48456
+
+Query  197    LYKHTGLTDLQAIANLLAVSSPEDSIFNN---VMLSFVLMGVGMLFKLGAAPFHHWAPDV  253
+              LYKHTGLT+L AIANLLAV   +D +  +    ML  VL+GVG+LFK+GAAP H+WAPDV
+Sbjct  48457  LYKHTGLTNLHAIANLLAVQWSQDCLLTSGVGTMLGLVLIGVGLLFKVGAAPLHNWAPDV  48636
+
+Query  254    YNSVPTIVTTWLAVMPKLAVFMMLLSLCLILAGITTGSDLANMQAAINAWQlllllSAVM  313
+              YNSVPT+VTTWLAVMPK+AVFM+LL++CL++A  +  S L   QAAINAWQLLLL+SAV+
+Sbjct  48637  YNSVPTVVTTWLAVMPKIAVFMLLLNVCLMVAS-SAVSSLDVSQAAINAWQLLLLVSAVL  48813
+
+Query  314    SLVVGTVLGLAQRYVKRLLAYSTVSHVGFMLVALACVCYSNTGVDAVNAMLFYLAQYTLT  373
+              SLV+GTVLGLAQR++KRLLAYSTVSHVGFMLVALAC CYS TGV+AV+AMLFYL+QYTLT
+Sbjct  48814  SLVIGTVLGLAQRHIKRLLAYSTVSHVGFMLVALACACYSYTGVEAVSAMLFYLSQYTLT  48993
+
+Query  374    AIASFFVLLGLGYVLKGQPSTVQYAQRGDASDITLISMLAGHANTQPMLALSMLVCLFSM  433
+               +A+FFVLLG GYVLKGQP T    +RGDASD+ LIS LAGHA TQPMLALSMLVCLFSM
+Sbjct  48994  GLAAFFVLLGFGYVLKGQPGT-GLNERGDASDVALISTLAGHATTQPMLALSMLVCLFSM  49170
+
+Query  434    AGVPPMVGFFAKYNVLYVAMLNGHHAIALLGVVTSVISAAYYLRIVRVLYFDHIITSDDS  493
+              AGVPPMVGFFAKYNVLYVAMLNGH+AIALLGVVTSVISAAYYLR+VRVLYFD ++T    
+Sbjct  49171  AGVPPMVGFFAKYNVLYVAMLNGHYAIALLGVVTSVISAAYYLRVVRVLYFDPVMTGT--  49344
+
+Query  494    SVPGSENFSYPLPNSTSLTS----HGVESTavansnvslsisslhsysiACLTMFMLLFM  549
+                         +P ST LTS     GV+ T  A  + SL+I SLHSY+IACLTMFMLLFM
+Sbjct  49345  -----------VPQSTGLTSLHPGAGVQVTGPAGQHTSLAIGSLHSYAIACLTMFMLLFM  49491
+
+Query  550    LQPAIMLNSTQLLAMTLYTG  569
+              LQPAIMLNSTQLLAMT +TG
+Sbjct  49492  LQPAIMLNSTQLLAMTQFTG  49551
+
+
+
+
+
+Query #4: rtmNAD3 Query ID: lcl|Query_159297 Length: 127
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          208    208   81%   5e-66 96.12  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 49632 to 49940
+
+Score:208 bits(530), Expect:5e-66, 
+Method:Compositional matrix adjust., 
+Identities:99/103(96%), Positives:102/103(99%), Gaps:0/103(0%)
+
+Query  25     HRPDTEKVSAYECGFNVLSHQVRAPFAVQYYLVGILFLIFDLEIAVLYPLAVTLYEVTAY  84
+              HRPDTEKVSAYECGFNVLSHQVRAPFAVQYYLVGILFLIFDLEIAVLYPLAVTLYEVTAY
+Sbjct  49632  HRPDTEKVSAYECGFNVLSHQVRAPFAVQYYLVGILFLIFDLEIAVLYPLAVTLYEVTAY  49811
+
+Query  85     GFYVAMLFVVMLTIGFVYEYGKGALKFTDHRSSINRTMLSTMQ  127
+              GFYVAMLFVVMLT+GFVYEYGKGALKFTDHRSSINR ML++MQ
+Sbjct  49812  GFYVAMLFVVMLTVGFVYEYGKGALKFTDHRSSINRAMLTSMQ  49940
+
+
+
+
+
+Query #5: rtmNAD4 Query ID: lcl|Query_159298 Length: 502
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          769    769   96%   0.0   80.99  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 24980 to 26374
+
+Score:769 bits(1986), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:421/484(87%), Positives:445/484(91%), Gaps:19/484(3%)
+
+Query  19     MREDSTQAVSRVKQTallatvvafavamllWLQFDSASSEMQFTVKYAAFPHDSFnvgtg  78
+              MR+D+ QA SRVKQ ALLA+VVAFAVAMLLWLQFD AS+E+QFTVKY             
+Sbjct  24980  MRDDTAQAKSRVKQVALLASVVAFAVAMLLWLQFDCASNELQFTVKYTT-----------  25126
+
+Query  79     vggvsvsnntsYFNMHLGLDGLSLYFVLLTAFTMPICVLASWCNVQHSVKSYMIALLVLQ  138
+                        +YFNMHLG+DGLSLYFVLLTAFTMPIC+LASW NVQHS+KSYM+ALLVLQ
+Sbjct  25127  --------ALAYFNMHLGIDGLSLYFVLLTAFTMPICILASWANVQHSIKSYMVALLVLQ  25282
+
+Query  139    SLLTTAFVVQDLLLFYVFFEAVLVPLFVLVGVWGASADRVRAAfllflytllgslfmllA  198
+              SLLTTAFVVQDLLLFYVFFEAVLVPLFVLVGVWGASADRVRAAFLLF+YTLLGSLFMLLA
+Sbjct  25283  SLLTTAFVVQDLLLFYVFFEAVLVPLFVLVGVWGASADRVRAAFLLFMYTLLGSLFMLLA  25462
+
+Query  199    FIVIASATGTTDLQVLSLAGVNFAKQQWLWIAIFASLAVKTPLFPMHIWLSRAHVQASVA  258
+              FIVIA+ TGTTDLQVL+LAGVNFAKQQ L +AIFASLAVKTPL P+HI LSRAHVQASVA
+Sbjct  25463  FIVIAATTGTTDLQVLTLAGVNFAKQQ*L*LAIFASLAVKTPLLPVHI*LSRAHVQASVA  25642
+
+Query  259    VSMILAGLVLKLATYAYVRILLPMLPEASSYYGPLVQTVCVVTLIYSSLTTLRQTDFKVL  318
+              VSM+LAGLVLKLATYAYVRILLP+LPEASSY+ PLVQTVCVVTLIYSSLTTLRQTDFKVL
+Sbjct  25643  VSMVLAGLVLKLATYAYVRILLPLLPEASSYFAPLVQTVCVVTLIYSSLTTLRQTDFKVL  25822
+
+Query  319    VAYSSVAHMSVVVIGLFSNSLQGIEGALLLSIAHGLVSPALFYCLGGVLYDRYHTRQLRY  378
+              VAYSSVAHMSVVVIGLFSN+LQGIEGALLLSIAHG+VSPALFYCLGGVLYDRYHTRQLRY
+Sbjct  25823  VAYSSVAHMSVVVIGLFSNTLQGIEGALLLSIAHGVVSPALFYCLGGVLYDRYHTRQLRY  26002
+
+Query  379    YRGLLQYMPVFAMLLFMFVLGNMSTPLTLNWIGELLALLGAMQRSAVVGAAMSTGIVLSA  438
+              YRGL+QYMPVFAMLLFMFVLGNMSTPLTLN IGELLALLGAMQRSAVVG AMSTGIVLSA
+Sbjct  26003  YRGLVQYMPVFAMLLFMFVLGNMSTPLTLN*IGELLALLGAMQRSAVVGVAMSTGIVLSA  26182
+
+Query  439    CYSIWLYARMTGGTWSPYLGYAVDVTRREVMVLLPLLATMLVFGVCPNIILTDLHYSVTA  498
+              CYSIWLYARMTGGT SPYLGYAVDVTRREVMVLLPLLA M +FGVCPN+ILTDLHYSVTA
+Sbjct  26183  CYSIWLYARMTGGT*SPYLGYAVDVTRREVMVLLPLLAAMFIFGVCPNVILTDLHYSVTA  26362
+
+Query  499    LLNS  502
+              LLN+
+Sbjct  26363  LLNT  26374
+
+
+
+
+
+Query #6: rtmNAD4L Query ID: lcl|Query_159299 Length: 87
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          124    124   100%  4e-37 77.01  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 11724 to 11984
+
+Score:124 bits(310), Expect:4e-37, 
+Method:Compositional matrix adjust., 
+Identities:82/87(94%), Positives:87/87(100%), Gaps:0/87(0%)
+
+Query  1      MALSIVLFVLAMLGFVLNRKNLILMLISIEVMLLAVTLLVILSSYQFNDVIGQTYAVFii  60
+              MALSIVLFVLA+LGFVLNRKNLILMLISIEVMLLAVTLLVI++SY+FNDVIGQTYAVFII
+Sbjct  11724  MALSIVLFVLAVLGFVLNRKNLILMLISIEVMLLAVTLLVIVTSYEFNDVIGQTYAVFII  11903
+
+Query  61     aiagaesaiglgiLVAFYRTRGSITLY  87
+              AIAGAESAIGLGILVAFYRTRGSITL+
+Sbjct  11904  AIAGAESAIGLGILVAFYRTRGSITLF  11984
+
+
+
+
+
+Query #7: rtmNAD5 Query ID: lcl|Query_159300 Length: 666
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          693    1087  99%   0.0   84.27  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 15128 to 16405
+
+Score:693 bits(1789), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:387/426(91%), Positives:404/426(94%), Gaps:0/426(0%)
+
+Query  240    PTPVSALIHAATLVTAGVYLLLRSSPMLEYAPTALLAVTWVGAItaffaattGLLQNDVK  299
+              PTPVSALIHAATLVTAGVYLLLRSSPMLEYAPTALLAVT VGA+TAFFAATTGLLQNDVK
+Sbjct  15128  PTPVSALIHAATLVTAGVYLLLRSSPMLEYAPTALLAVT*VGAVTAFFAATTGLLQNDVK  15307
+
+Query  300    RVIAYSTCSQMGYLFMAVGLSQYSVALFHLVNHAFFKAVLFLAAGGVLHSMSDQQDMRRL  359
+              RVIAYSTCSQMGYLFMAVGLSQYSVALFHLVNHAFFKAVLFLAAGGVLHSM+DQQDMRRL
+Sbjct  15308  RVIAYSTCSQMGYLFMAVGLSQYSVALFHLVNHAFFKAVLFLAAGGVLHSMADQQDMRRL  15487
+
+Query  360    GGLVNVLPFTYVVMLAGSLSLMAVPYLTGFYSKDLILESGYAAFSFSGHVVYWLGTVTAM  419
+              GGLVNVLPFTYVV+LAGSLSLMAVP+LTGFYSKDLILESGYAAFS SGHVVY LGTVTAM
+Sbjct  15488  GGLVNVLPFTYVVILAGSLSLMAVPFLTGFYSKDLILESGYAAFSLSGHVVY*LGTVTAM  15667
+
+Query  420    LTSFYSFRLISMTFLTTANAAKTQYEKAHEQDlltmlpllllamlSIVYGYIAKDAFVGV  479
+              LTSFYS RLISMTFLTT NAAK QYE AHEQDLLT+LPLLLLA+LSI +GY+AKDAFVG+
+Sbjct  15668  LTSFYSLRLISMTFLTTPNAAKVQYEHAHEQDLLTVLPLLLLALLSIFFGYVAKDAFVGM  15847
+
+Query  480    GSDMLASSLFMLPSNVTLVEAEFALSTAIKLLPAIGTVFAAAFALLLYHQQASFTVLMSQ  539
+              GSDMLASSL MLP NVTLVEAEFAL TAIKLLPAIGT  AAA ALLLYHQQAS TVLM+Q
+Sbjct  15848  GSDMLASSLVMLPGNVTLVEAEFALPTAIKLLPAIGTACAAALALLLYHQQASLTVLMTQ  16027
+
+Query  540    HWLGQRMYAFLNSKWYIDAVYNKLIISKSLQLGLVTANVLDRGVIELLGPAGVTHSLHNA  599
+              H LGQ +YAFLNSKWYIDAVYNKL+I+K+LQLGLVTANVLDRG IELLGPAGVTHSLHNA
+Sbjct  16028  H*LGQHIYAFLNSKWYIDAVYNKLLITKALQLGLVTANVLDRGAIELLGPAGVTHSLHNA  16207
+
+Query  600    SNSLAKLDTGVVTHYALYMTISlallvlllflPVFSGVAMHDSTWLFYVPAGLIAVVYCH  659
+              S SLAKLDTGVVTHYALYMTI LALLVLLLF+PVFSGVAMHDST LFYVPA LIAVVYCH
+Sbjct  16208  SASLAKLDTGVVTHYALYMTIGLALLVLLLFMPVFSGVAMHDST*LFYVPAALIAVVYCH  16387
+
+Query  660    SVNTAQ  665
+              S++TAQ
+Sbjct  16388  SISTAQ  16405
+
+
+
+
+Range 2: 11988 to 12404
+
+Score:197 bits(500), Expect:4e-55, 
+Method:Compositional matrix adjust., 
+Identities:124/139(89%), Positives:132/139(94%), Gaps:0/139(0%)
+
+Query  1      MYLLLIAMPllgatlagllgrklgahgTQVVTCICMATTALLSAIAFYEVALCNSSVTVQ  60
+              MYLLLIAMPL+GATLAGLLGRKLG  G QVVTCICMATTA+L+A AFYEVALCN SVTVQ
+Sbjct  11988  MYLLLIAMPLVGATLAGLLGRKLGTRGAQVVTCICMATTAVLAATAFYEVALCNCSVTVQ  12167
+
+Query  61     LPSWLDTGLLAVDWSLAFDALSVSMLLAVTFVSSMVHVYSCSYMAADPHQQRFMSYLSMF  120
+              LPS LDTGLLAV+ SLAFD+LSV+MLLAVTFVS+MVHVYSCSYMAADPHQQRFM+YLSMF
+Sbjct  12168  LPS*LDTGLLAVN*SLAFDSLSVAMLLAVTFVSTMVHVYSCSYMAADPHQQRFMAYLSMF  12347
+
+Query  121    TFFMLVLIAGNNYIVLFLG  139
+              TFFMLVLIAGNNYIVLFLG
+Sbjct  12348  TFFMLVLIAGNNYIVLFLG  12404
+
+
+
+
+Range 3: 13692 to 13991
+
+Score:196 bits(498), Expect:6e-55, 
+Method:Compositional matrix adjust., 
+Identities:97/100(97%), Positives:98/100(98%), Gaps:0/100(0%)
+
+Query  140    WEGIGVSSYLLINFWFTRVQANKAAIQAMTVNRVGDMFLSIAFFVLFWTTGSLDYASVFA  199
+              WEGIGVSSYLLINFWFTRVQANKAAIQAMTVNRVGDMFLSIAFFVLF TTGSLDYASVFA
+Sbjct  13692  WEGIGVSSYLLINFWFTRVQANKAAIQAMTVNRVGDMFLSIAFFVLF*TTGSLDYASVFA  13871
+
+Query  200    VAPFINEAALTAICLLFLMAAMGKSAQLGLHTWLPSAMEG  239
+              VAPFINEAALTA+CLLFLMAAMGKSAQLGLHT LPSAMEG
+Sbjct  13872  VAPFINEAALTAVCLLFLMAAMGKSAQLGLHT*LPSAMEG  13991
+
+
+
+
+
+Query #8: rtmNAD6 Query ID: lcl|Query_159301 Length: 207
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+scaffold_1                                                                                        0          329    329   88%   9e-107 92.39  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 42798 to 43346
+
+Score:329 bits(843), Expect:9e-107, 
+Method:Compositional matrix adjust., 
+Identities:170/184(92%), Positives:175/184(95%), Gaps:1/184(0%)
+
+Query  24     KNPVMSVLYLIAVFLNVAGYLVLLGIAYLGLVYLIVYVGAIAILFLFVIMMLNLRLVELV  83
+              KNPVMSVLYLIAVFLNVAGYLVLLGIAYLGLVYLIVYVGAIAILFLFVIMMLNLRLVELV
+Sbjct  42798  KNPVMSVLYLIAVFLNVAGYLVLLGIAYLGLVYLIVYVGAIAILFLFVIMMLNLRLVELV  42977
+
+Query  84     ETGQQYTKNLPMAAMLAGMLFYELLTMVPAAAASMPTLVFSWFNATLFNAKTAVDVDANI  143
+              ETGQQYTKNLPMAAMLAG LFYELLTMVPAAAASMP L+FSWFNA LFNAKTAV  +ANI
+Sbjct  42978  ETGQQYTKNLPMAAMLAGTLFYELLTMVPAAAASMPKLLFSWFNAVLFNAKTAV-AEANI  43154
+
+Query  144    YQAFSTAVNDGQLASFTQIASIGHSLYTYAALWLVVASVIFMLAMVGPIVLCMTSADTST  203
+              YQ+FSTAV+DGQLASFTQI SIGHSLYTYAAL LVVASVIFMLAMVGPIVLCMT ADTST
+Sbjct  43155  YQSFSTAVHDGQLASFTQIESIGHSLYTYAAL*LVVASVIFMLAMVGPIVLCMTPADTST  43334
+
+Query  204    ADSK  207
+              A+ K
+Sbjct  43335  AEVK  43346
+
+
+
+
+
+Query #9: rtmATP6 Query ID: lcl|Query_159302 Length: 252
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+scaffold_1                                                                                        0          469    469   100%  7e-155 93.65  110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 44633 to 45388
+
+Score:469 bits(1207), Expect:7e-155, 
+Method:Compositional matrix adjust., 
+Identities:236/252(94%), Positives:247/252(98%), Gaps:0/252(0%)
+
+Query  1      MVLFSSPLEQFEVTSFLNVNLTLLGLNFALTNLGLYALLVLMLSISVHVLAANDRRLVPS  60
+              MVLF+SPLEQFEVTSFLNVNLTLLGLNFALTNLGLYALLVLML++SVHVLAANDRRLVPS
+Sbjct  44633  MVLFTSPLEQFEVTSFLNVNLTLLGLNFALTNLGLYALLVLMLALSVHVLAANDRRLVPS  44812
+
+Query  61     RWSVGLESAYASLHGMVKEQVGSSNERYLPFIYALFFFVILANLAGNVPYSFTISTSAVL  120
+              RWSVGLESAYASLHGMVKEQ+GSSNERYLPFIY LF FVILANL GNVPYSFTISTSAVL
+Sbjct  44813  RWSVGLESAYASLHGMVKEQIGSSNERYLPFIYGLFMFVILANLTGNVPYSFTISTSAVL  44992
+
+Query  121    SIGLSFTIFFAVTVLGLHKHGLHFFAFFVPAGTPLAMVPLLVLIELISYLARAFSLGVRL  180
+              SIGLSF IFF VTVLGLHKHG+HFFAFFVPAGTP+AMVPLLVLIELISYLARAFSLGVRL
+Sbjct  44993  SIGLSFAIFFGVTVLGLHKHGVHFFAFFVPAGTPVAMVPLLVLIELISYLARAFSLGVRL  45172
+
+Query  181    FANMVAGHTLLKILSGMLWPILTSGLLMFVVALIPMSIFLALVGLEVAVSVIQAYVFVVL  240
+              FANMVAGHTLLKILSGMLWPILTSG++MFVVAL+PM+IFLALVGLE+AVSVIQAYVFVVL
+Sbjct  45173  FANMVAGHTLLKILSGMLWPILTSGVVMFVVALVPMAIFLALVGLEIAVSVIQAYVFVVL  45352
+
+Query  241    TCVYLRDAIDLH  252
+              TCVYLRDAIDLH
+Sbjct  45353  TCVYLRDAIDLH  45388
+
+
+
+
+
+Query #10: rtmATP8 Query ID: lcl|Query_159303 Length: 48
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+scaffold_1                                                                                        0          92.8   92.8  100%  6e-27 100.00 110369     Query_159305     
+
+
+Alignments:
+
+>scaffold_1
+Sequence ID: Query_159305 Length: 110369
+Range 1: 90173 to 90316
+
+Score:92.8 bits(229), Expect:6e-27, 
+Method:Compositional matrix adjust., 
+Identities:48/48(100%), Positives:48/48(100%), Gaps:0/48(0%)
+
+Query  1      MPQLLPFYFVNQLSFAVLVLGTLVYVFGTYVLPVFVQLFVTRMYVTKL  48
+              MPQLLPFYFVNQLSFAVLVLGTLVYVFGTYVLPVFVQLFVTRMYVTKL
+Sbjct  90316  MPQLLPFYFVNQLSFAVLVLGTLVYVFGTYVLPVFVQLFVTRMYVTKL  90173
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,29 @@
+* highest-level directory for model (i.e., where 'pycore' and 'GAMS' are)
+$setGlobal model_root_path ../../
+$setGlobal gms_path %model_root_path%GAMS/model/
+
+$setGlobal biomass_path %gms_path%RBA_rxns_whole_biomass.txt
+
+$setGlobal species_path %gms_path%RBA_species.txt
+$setGlobal rxns_path %gms_path%RBA_rxns.txt
+$setGlobal prosyn_path %gms_path%RBA_rxns_prosyn.txt
+$setGlobal rxns_add_path ./RBA_rxns_add.txt
+$setGlobal prowaste_path %gms_path%RBA_rxns_prowaste.txt
+$setGlobal nuc_trans_path %gms_path%RBA_nuc_translation.txt
+$setGlobal mito_trans_path %gms_path%RBA_mito_translation.txt
+$setGlobal uptake_path %gms_path%RBA_rxns_EXREV.txt
+$setGlobal media_path %gms_path%RBA_rxns_EXREV_YNB_RabinowitzVersion.txt
+$setGlobal sij_path %gms_path%RBA_sij.txt
+$setGlobal prolen_path %gms_path%RBA_proteinLength.txt
+*$setGlobal kapp_path ../../parameterization/kapp/datasets/Rabinowitz2023_batchGlc_using_scRBA_methods/kapps_per_hr.txt
+$setGlobal kapp_path ../../input/kapp_Glc_lim_per_hour.txt
+$setGlobal enz_cap_declares_path %gms_path%RBA_enzCapacityConstraints_declares.txt
+$setGlobal enz_cap_eqns_path %gms_path%RBA_enzCapacityConstraints_eqns_equality_version.txt
+$setGlobal kapp_slack_enz_cap_eqns_path %gms_path%kapp-slack-RBA_enzCapacityConstraints_eqns_equality_version.txt
+$setGlobal phenotype_path phenotype.txt
+
+$setGlobal metabolism_path %gms_path%RBA_rxns_rxnmetabolicnetwork.txt
+$setGlobal enzsyn_path %gms_path%RBA_rxns_enzsyn.txt
+$setGlobal enzload_path %gms_path%RBA_rxns_enzload.txt
+$setGlobal ribosyn_path %gms_path%RBA_rxns_ribosyn.txt
+$setGlobal biosyn_path %gms_path%RBA_rxns_biosyn.txt

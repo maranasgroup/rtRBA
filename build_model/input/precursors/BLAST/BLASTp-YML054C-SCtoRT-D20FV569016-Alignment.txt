@@ -1,0 +1,1809 @@
+RID: D20FV569016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_40802 Length: 592
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+FMN-dependent dehydrogenase-domain containing protein...          Rhodotorula ... NA              5286       498    498   83%   6e-172 51.50  515        PRQ72683.1       
+RHTO0S04e01486g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       497    497   83%   2e-171 51.30  516        CDR39109.1       
+L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides...   Rhodotorula ... NA              1130832    474    474   83%   1e-162 50.30  509        XP_016271776.1   
+arylacetamide deacetylase [Rhodotorula toruloides]                Rhodotorula ... NA              5286       495    495   83%   6e-160 51.50  1498       GEM06390.1       
+L-mandelate dehydrogenase [Rhodotorula toruloides]                Rhodotorula ... NA              5286       357    357   85%   2e-116 40.38  561        PRQ78045.1       
+L-lactate dehydrogenase [Rhodotorula toruloides]                  Rhodotorula ... NA              5286       356    356   85%   6e-116 39.62  561        GEM06814.1       
+L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides...   Rhodotorula ... NA              1130832    354    354   85%   3e-115 39.92  561        XP_016276942.1   
+putative CYB2-L-lactate dehydrogenase [Rhodotorula toruloides]    Rhodotorula ... NA              5286       350    350   83%   2e-114 39.57  493        PRQ74597.1       
+mitochondrial chaperone BCS1 [Rhodotorula toruloides NP11]        Rhodotorula ... NA              1130832    347    347   83%   4e-113 38.67  493        XP_016271973.1   
+mitochondrial chaperone BCS1 [Rhodotorula toruloides]             Rhodotorula ... NA              5286       344    344   83%   3e-112 38.95  492        GEM09935.1       
+(S)-mandelate dehydrogenase, mitochondrial [Rhodotorula...        Rhodotorula ... NA              5286       340    340   85%   3e-109 38.46  586        KAJ8295990.1     
+Cytochrome b2, mitochondrial [Rhodotorula toruloides]             Rhodotorula ... NA              5286       324    324   84%   1e-97  37.52  1350       KAJ8294285.1     
+cytochrome b2 [Rhodotorula toruloides NP11]                       Rhodotorula ... NA              1130832    234    234   62%   2e-71  38.03  384        XP_016271928.1   
+putative L-lactate dehydrogenase [Rhodotorula toruloides ATCC...  Rhodotorula ... NA              1001064    233    233   61%   1e-70  38.04  384        EGU11693.1       
+(S)-mandelate dehydrogenase, mitochondrial [Rhodotorula...        Rhodotorula ... NA              5286       232    232   60%   2e-65  39.18  1103       KAJ8294318.1     
+dynamin related GTPase [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       211    211   57%   2e-58  37.75  1071       GEM09973.1       
+L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides...   Rhodotorula ... NA              1130832    141    141   59%   2e-36  29.38  434        XP_016272509.1   
+FMN-dependent dehydrogenase [Rhodotorula toruloides]              Rhodotorula ... NA              5286       141    141   59%   3e-36  28.09  434        PRQ75569.1       
+putative lactate 2-monooxygenase PB1A11.03 [Rhodotorula...        Rhodotorula ... NA              5286       134    134   59%   1e-33  28.19  454        KAJ8291319.1     
+Cytochrome b5-like heme/steroid binding domain-containing...      Rhodotorula ... NA              5286       70.1   70.1  11%   2e-14  46.27  114        PRQ73055.1       
+fatty acid desaturase 2 [Rhodotorula toruloides]                  Rhodotorula ... NA              5286       69.7   69.7  11%   3e-14  46.38  117        GEM06690.1       
+fatty acid desaturase 2 (delta-6 desaturase) [Rhodotorula...      Rhodotorula ... NA              1130832    66.2   66.2  11%   2e-13  44.78  83         XP_016276805.1   
+Acyl-CoA dehydrogenase/oxidase, N-terminal and middle...          Rhodotorula ... NA              5286       73.2   73.2  14%   2e-13  42.11  532        PRQ77895.1       
+acyl-CoA dehydrogenase [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       73.2   73.2  14%   2e-13  42.11  532        GEM06913.1       
+acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]              Rhodotorula ... NA              1130832    73.2   73.2  14%   2e-13  42.11  532        XP_016277088.1   
+fumarate reductase flavoprotein subunit [Rhodotorula toruloides]  Rhodotorula ... NA              5286       70.1   70.1  12%   3e-12  42.67  633        GEM12499.1       
+fumarate reductase flavoprotein subunit [Rhodotorula toruloide... Rhodotorula ... NA              1130832    69.7   69.7  12%   3e-12  42.67  633        XP_016272619.1   
+FAD binding domain-domain containing protein [Rhodotorula...      Rhodotorula ... NA              5286       69.7   69.7  12%   3e-12  42.67  631        PRQ70188.1       
+Fumarate reductase [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       69.3   69.3  12%   5e-12  42.67  998        KAJ8292586.1     
+Cytochrome b5-like heme/steroid binding domain-containing...      Rhodotorula ... NA              5286       65.5   65.5  11%   1e-11  41.56  227        PRQ71265.1       
+RHTO0S07e01244g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       64.7   64.7  9%    2e-11  50.00  227        CDR42563.1       
+Cytochrome b5 reductase 4 [Rhodotorula toruloides]                Rhodotorula ... NA              5286       64.7   64.7  9%    2e-11  50.00  227        KAJ8295270.1     
+Serine/threonine-protein kinase svkA [Rhodotorula toruloides]     Rhodotorula ... NA              5286       67.0   67.0  11%   3e-11  44.78  1423       KAJ8296100.1     
+Serine/threonine-protein kinase svkA [Rhodotorula toruloides]     Rhodotorula ... NA              5286       67.0   67.0  11%   3e-11  44.78  1451       KAJ8296101.1     
+acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]              Rhodotorula ... NA              1130832    66.2   66.2  11%   4e-11  45.07  520        XP_016269558.1   
+acyl-CoA dehydrogenase [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       65.9   65.9  15%   5e-11  38.68  518        GEM08969.1       
+acyl-CoA dehydrogenase [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       65.5   65.5  11%   5e-11  43.66  520        PRQ73500.1       
+Ceramide very long chain fatty acid hydroxylase SCS7...           Rhodotorula ... NA              5286       64.7   64.7  8%    1e-10  54.00  1006       KAJ8292087.1     
+inositolphosphorylceramide-B C-26 hydroxylase [Rhodotorula...     Rhodotorula ... NA              5286       63.2   63.2  8%    2e-10  54.00  372        PRQ72325.1       
+fatty acid-2 hydroxylase [Rhodotorula toruloides]                 Rhodotorula ... NA              5286       63.2   63.2  8%    2e-10  54.00  372        GEM10662.1       
+acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]              Rhodotorula ... NA              1130832    63.2   63.2  12%   3e-10  36.99  542        XP_016269664.1   
+Acyl-CoA dehydrogenase apdG [Rhodotorula toruloides]              Rhodotorula ... NA              5286       63.2   63.2  12%   3e-10  36.99  540        KAJ8295047.1     
+fatty acid-2 hydroxylase [Rhodotorula toruloides NP11]            Rhodotorula ... NA              1130832    62.4   62.4  8%    3e-10  54.00  372        XP_016270955.1   
+cytochrome b5 reductase 4 [Rhodotorula toruloides NP11]           Rhodotorula ... NA              1130832    60.1   60.1  8%    5e-10  52.94  222        XP_016276112.1   
+nitrate reductase (NADH) [Rhodotorula toruloides NP11]            Rhodotorula ... NA              1130832    62.8   62.8  11%   6e-10  44.29  949        XP_016271918.1   
+cytochrome b5 reductase 4 [Rhodotorula toruloides]                Rhodotorula ... NA              5286       59.7   59.7  8%    6e-10  50.98  198        GEM09426.1       
+Nitrate reductase [Rhodotorula toruloides ATCC 204091]            Rhodotorula ... NA              1001064    62.8   62.8  9%    6e-10  47.46  937        EGU11696.1       
+acyl-CoA dehydrogenase [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       62.0   62.0  12%   8e-10  35.62  555        GEM07418.1       
+Acyl-CoA dehydrogenase/oxidase, N-terminal and middle...          Rhodotorula ... NA              5286       60.1   60.1  10%   3e-09  39.06  544        PRQ76668.1       
+hypothetical protein AAT19DRAFT_12702 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       56.2   56.2  9%    7e-08  41.94  1075       PRQ77284.1       
+Nitrate reductase [NADH] [Rhodotorula toruloides]                 Rhodotorula ... NA              5286       55.5   55.5  9%    1e-07  40.32  1434       KAJ8297357.1     
+sulfite oxidase [Rhodotorula toruloides NP11]                     Rhodotorula ... NA              1130832    55.1   55.1  9%    2e-07  40.32  1080       XP_016276043.1   
+sulfite oxidase [Rhodotorula toruloides]                          Rhodotorula ... NA              5286       54.3   54.3  9%    2e-07  40.32  1065       GEM12114.1       
+cytochrome b5 [Rhodotorula toruloides NP11]                       Rhodotorula ... NA              1130832    49.7   49.7  10%   9e-07  36.92  172        XP_016276655.1   
+putative cytochrome b5 [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       49.7   49.7  10%   1e-06  36.92  172        KAJ8295663.1     
+fatty acid desaturase [Rhodotorula toruloides]                    Rhodotorula ... NA              5286       46.6   46.6  9%    1e-05  43.10  171        GEM11738.1       
+putative Fatty acid desaturase [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    46.2   46.2  9%    1e-05  43.10  172        EGU12327.1       
+cytochrome b5 type b (outer mitochondrial membrane) [Rhodotoru... Rhodotorula ... NA              1130832    42.4   42.4  10%   2e-04  32.39  134        XP_016273072.1   
+cytochrome b5 typeb [Rhodotorula toruloides]                      Rhodotorula ... NA              5286       42.4   42.4  10%   2e-04  32.39  134        GEM09139.1       
+Cytochrome b5-like heme/steroid binding domain-containing...      Rhodotorula ... NA              5286       40.4   40.4  8%    4e-04  35.71  100        PRQ73344.1       
+Cytochrome b5 [Rhodotorula toruloides]                            Rhodotorula ... NA              5286       40.0   40.0  6%    0.004  43.24  389        KAJ8296332.1     
+delta-9 fatty acid desaturase [Rhodotorula toruloides]            Rhodotorula ... NA              5286       39.3   39.3  6%    0.009  38.89  545        ANJ02850.1       
+delta-9 fatty acid desaturase [Rhodotorula toruloides NP11]       Rhodotorula ... NA              1130832    39.3   39.3  6%    0.009  38.89  545        XP_016270987.1   
+putative Stearoyl-CoA 9-desaturase [Rhodotorula toruloides ATC... Rhodotorula ... NA              1001064    39.3   39.3  6%    0.009  38.89  533        EGU12115.1       
+delta-9 fatty acid desaturase [Rhodotorula toruloides]            Rhodotorula ... NA              5286       38.9   38.9  6%    0.011  38.89  513        GEM10072.1       
+
+
+Alignments:
+
+>FMN-dependent dehydrogenase-domain containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ72683.1 Length: 515
+Range 1: 4 to 491
+
+Score:498 bits(1282), Expect:6e-172, 
+Method:Compositional matrix adjust., 
+Identities:257/499(52%), Positives:350/499(70%), Gaps:13/499(2%)
+
+Query  85   DMNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            D +K+ +  +EVAKH   D  WV++NG  YDLT F P HPGG  ++   AGKD T  +EP
+Sbjct  4    DADKRPLHHSEVAKHADKDSLWVIVNGNAYDLTEFAPEHPGGMGILLKYAGKDATEAYEP  63
+
+Query  145  LHAPNVIDKYIAPEKKLGPLQGSMPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIIN  204
+            +H P  +++Y+  +K LGP+  S   E+V    A  ET+E+  RK++ +   PP+D  ++
+Sbjct  64   IHPPGTLEQYLPKDKHLGPVDLS-GLEIV----AKEETQEEKDRKKRAEEK-PPMDECLS  117
+
+Query  205  LYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDML  264
+            LYDFE +A   L   AWAYYSSGA+DE+T REN NAY RI+F+P+IL DV  +D S+ +L
+Sbjct  118  LYDFEAVAKSVLPVGAWAYYSSGADDEITMRENRNAYQRIWFRPRILRDVTTIDFSSTIL  177
+
+Query  265  GSHVDVPFYVSATALCKLGNPLEGEKDVARGCG-QGVTKVPQMISTLASCSPEEIIEAAP  323
+            G    +P Y++ATAL KLG+P EGEK++      QGV    QMI TLASCS +EI++AA 
+Sbjct  178  GHKTSLPIYITATALGKLGHP-EGEKNLTWAAHEQGVI---QMIPTLASCSFDEIVDAAK  233
+
+Query  324  SDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKAG  383
+               Q+Q+ QLYVN DR+IT  +V++ EK G+K LF+TVDAP LG+REKDM+ KF++  + 
+Sbjct  234  PG-QVQFMQLYVNKDREITRKIVQHAEKRGIKGLFITVDAPQLGRREKDMRQKFADEGSN  292
+
+Query  384  PKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTKLPIVIKGVQRTEDVIKAAEI  443
+             +  +  +V+++QGA+RA+S FIDP L+WKDI   K  TK+PI++KGVQ  ED + AAE 
+Sbjct  293  VQRTQGESVDKTQGAARAISSFIDPGLSWKDIPWFKSITKMPIILKGVQCWEDAVLAAEQ  352
+
+Query  444  GVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRN-LKDKLEVFVDGGVRRGTDVLKAL  502
+            G++GVVLSNHGGRQLDF+R+ IE+L E M  L +R+ LK+  EV++DGGVRR  DVLKA+
+Sbjct  353  GLAGVVLSNHGGRQLDFARSGIEILEEVMRELRKRDLLKNGFEVYIDGGVRRAGDVLKAI  412
+
+Query  503  CLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+             LGAK VG+GRPFLYA S YG  GV KAI+IL+DE+EM+MRL+G  +I ++ P+++D S 
+Sbjct  413  ALGAKAVGIGRPFLYAYSAYGHEGVIKAIQILKDEMEMNMRLIGAPTIQDVTPEMIDTSG  472
+
+Query  563  LKARTVGVPNDVLYNEVYE  581
+            L  R V   +D L    YE
+Sbjct  473  LSNRLVDGASDYLMRANYE  491
+
+
+
+
+>RHTO0S04e01486g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR39109.1 Length: 516
+Range 1: 5 to 492
+
+Score:497 bits(1279), Expect:2e-171, 
+Method:Compositional matrix adjust., 
+Identities:256/499(51%), Positives:350/499(70%), Gaps:13/499(2%)
+
+Query  85   DMNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            D  K+ +  +EVAKH   D  WV++NG  YDLT F P HPGG  ++   AGKD T  +EP
+Sbjct  5    DAEKRPLHHSEVAKHADKDSLWVIVNGNAYDLTEFAPEHPGGMGILLKYAGKDATEAYEP  64
+
+Query  145  LHAPNVIDKYIAPEKKLGPLQGSMPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIIN  204
+            +H P  +++Y+  +K LGP+  S   E+V    A  ET+E+  RK++ +   PP+D  ++
+Sbjct  65   IHPPGTLEQYLPKDKHLGPVDLS-GLEIV----AKQETQEEKDRKKRAEEK-PPMDECLS  118
+
+Query  205  LYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDML  264
+            LYDFE +A   L   AWAYYSSGA+DE+T REN NAY RI+F+P+IL DV  +D S+ +L
+Sbjct  119  LYDFEAVAKSVLPVGAWAYYSSGADDEITMRENRNAYQRIWFRPRILRDVTTIDFSSTIL  178
+
+Query  265  GSHVDVPFYVSATALCKLGNPLEGEKDVARGCG-QGVTKVPQMISTLASCSPEEIIEAAP  323
+            G    +P Y++ATAL KLG+P EGEK++      QGV    QMI TLASCS +EI++AA 
+Sbjct  179  GHKTSLPIYITATALGKLGHP-EGEKNLTWAAHEQGVI---QMIPTLASCSFDEIVDAAK  234
+
+Query  324  SDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKAG  383
+               Q+Q+ QLYVN DR+IT  +V++ EK G+K LF+TVDAP LG+REKDM+ KF++  + 
+Sbjct  235  PG-QVQFMQLYVNKDREITRKIVQHAEKRGIKGLFITVDAPQLGRREKDMRQKFADEGSN  293
+
+Query  384  PKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTKLPIVIKGVQRTEDVIKAAEI  443
+             +  +  +V+++QGA+RA+S FIDP L+WKDI   K  TK+PI++KGVQ  ED + AAE 
+Sbjct  294  VQRTQGESVDKTQGAARAISSFIDPGLSWKDIPWFKSITKMPIILKGVQCWEDAVLAAEQ  353
+
+Query  444  GVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRN-LKDKLEVFVDGGVRRGTDVLKAL  502
+            G++GVVLSNHGGRQLDF+R+ IE+L E M  L++R+ LK+  EV++DGGVRR  DVLKA+
+Sbjct  354  GLAGVVLSNHGGRQLDFARSGIEILEEVMRELKKRDLLKNGFEVYIDGGVRRAGDVLKAI  413
+
+Query  503  CLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+             LGAK VG+GRPFLYA S YG  GV KAI+IL+DE+EM+MRL+G  +I ++ P+++D + 
+Sbjct  414  ALGAKAVGIGRPFLYAYSAYGHEGVIKAIQILKDEMEMNMRLIGAPTIQDVTPEMIDTAG  473
+
+Query  563  LKARTVGVPNDVLYNEVYE  581
+            L  R V   +D L    YE
+Sbjct  474  LSNRLVDGASDYLMRANYE  492
+
+
+
+
+>L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271776.1 Length: 509
+>L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides NP11]
+Sequence ID: EMS20657.1 Length: 509 
+Range 1: 5 to 485
+
+Score:474 bits(1220), Expect:1e-162, 
+Method:Compositional matrix adjust., 
+Identities:251/499(50%), Positives:345/499(69%), Gaps:20/499(4%)
+
+Query  85   DMNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            D  K+ +  +EVAKH   D  WV++NG  YDLT F P HPGG  ++   AGKD T   EP
+Sbjct  5    DAEKRPLHHSEVAKHADKDSLWVIVNGNAYDLTEFAPEHPGGMGILLKYAGKDAT---EP  61
+
+Query  145  LHAPNVIDKYIAPEKKLGPLQGSMPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIIN  204
+            +H P  +++Y+  +K LGP+  S   E+V    A  ET+E+  RK++ +   PP+D  ++
+Sbjct  62   IHPPGTLEQYLPKDKHLGPVDLS-GLEIV----AKQETQEEKDRKKRAEEK-PPMDECLS  115
+
+Query  205  LYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDML  264
+            LYDFE +A   L   AWAYYSSGA+DE+T REN NAY RI+F+P+IL DV  +D S+ +L
+Sbjct  116  LYDFEAVAKSVLPVGAWAYYSSGADDEITMRENRNAYQRIWFRPRILRDVTTIDFSSTIL  175
+
+Query  265  GSHVDVPFYVSATALCKLGNPLEGEKDVARGCG-QGVTKVPQMISTLASCSPEEIIEAAP  323
+            G    +P Y++ATAL KLG+P EGEK++      QGV    QMI TLASCS +EI++AA 
+Sbjct  176  GHKTSLPIYITATALGKLGHP-EGEKNLTWAAHEQGVI---QMIPTLASCSFDEIVDAAK  231
+
+Query  324  SDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKAG  383
+               Q+Q+ QLYVN DR+IT  +V++ EK G+K LF+TVDAP LG+REKDM+ KF++  + 
+Sbjct  232  PG-QVQFMQLYVNKDREITRKIVQHAEKRGIKGLFITVDAPQLGRREKDMRQKFADEGSN  290
+
+Query  384  PKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTKLPIVIKGVQRTEDVIKAAEI  443
+             +  +  +V+++QGA+RA+S FIDP L+WKDI   K  TK+PI++KGVQ  ED + AAE 
+Sbjct  291  VQRTQGESVDKTQGAARAISSFIDPGLSWKDIPWFKSITKMPIILKGVQCWEDAVLAAEQ  350
+
+Query  444  GVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRN-LKDKLEVFVDGGVRRGTDVLKAL  502
+            G++GVVLSNHGGRQLDF+R+ IE+L E M  L++R+ LK+  EV++DGGVRR  DVLKA+
+Sbjct  351  GLAGVVLSNHGGRQLDFARSGIEILEEVMRELKKRDLLKNGFEVYIDGGVRRAGDVLKAI  410
+
+Query  503  CLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+             LGAK VG+G    +A S YG  GV KAI+IL+DE+EM+MRL+G  +I ++ P+++D + 
+Sbjct  411  ALGAKAVGIG----HAYSAYGHEGVIKAIQILKDEMEMNMRLIGAPTIQDVTPEMIDTAG  466
+
+Query  563  LKARTVGVPNDVLYNEVYE  581
+            L  R V   +D L    YE
+Sbjct  467  LSNRLVDGASDYLMRANYE  485
+
+
+
+
+>arylacetamide deacetylase [Rhodotorula toruloides]
+Sequence ID: GEM06390.1 Length: 1498
+Range 1: 4 to 491
+
+Score:495 bits(1275), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:257/499(52%), Positives:349/499(69%), Gaps:13/499(2%)
+
+Query  85   DMNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            D  K+ +  +EVAKH   D  WV++NG  YDLT F P HPGG  ++   AGKD T  +EP
+Sbjct  4    DAEKRPLHHSEVAKHADKDSLWVIVNGNAYDLTEFAPEHPGGMGILLKYAGKDATEAYEP  63
+
+Query  145  LHAPNVIDKYIAPEKKLGPLQGSMPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIIN  204
+            +H P  +++Y+  +K LGP+  S   E+V    A  ET+E+  RK++ +   PP+D  ++
+Sbjct  64   IHPPGTLEQYLPKDKHLGPVDLSGL-EIV----AKEETQEEKDRKKRAEEK-PPMDECLS  117
+
+Query  205  LYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDML  264
+            LYDFE +A   L   AWAYYSSGA+DE+T REN NAY RI+F+P+IL DV  +D S+ +L
+Sbjct  118  LYDFEAVAKSVLPVGAWAYYSSGADDEITMRENRNAYQRIWFRPRILRDVTTIDFSSTIL  177
+
+Query  265  GSHVDVPFYVSATALCKLGNPLEGEKDVARGCG-QGVTKVPQMISTLASCSPEEIIEAAP  323
+            G    +P Y++ATAL KLG+P EGEK++      QGV    QMI TLASCS +EI++AA 
+Sbjct  178  GHKTTLPIYITATALGKLGHP-EGEKNLTWAAHEQGVI---QMIPTLASCSFDEIVDAA-  232
+
+Query  324  SDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKAG  383
+               Q+Q+ QLYVN DR+IT  +V++ EK G+K LFVTVDAP LG+REKDM+ KF++  + 
+Sbjct  233  KPGQVQFMQLYVNKDREITRKIVQHAEKRGIKGLFVTVDAPQLGRREKDMRQKFADEGSN  292
+
+Query  384  PKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTKLPIVIKGVQRTEDVIKAAEI  443
+             +  +  +V+++QGA+RA+S FIDP L+WKDI   K  TK+PI++KGVQ  ED + AAE 
+Sbjct  293  VQRTQGESVDKTQGAARAISSFIDPGLSWKDIPWFKSITKMPIILKGVQCWEDAVLAAEQ  352
+
+Query  444  GVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRN-LKDKLEVFVDGGVRRGTDVLKAL  502
+            G++GVVLSNHGGRQLDF+R+ IE+L E M  L +R+ LK+  EV++DGGVRR  DVLKA+
+Sbjct  353  GLAGVVLSNHGGRQLDFARSGIEILEEVMRELRKRDLLKNGFEVYIDGGVRRAGDVLKAI  412
+
+Query  503  CLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+             LGAK VG+GRPFLYA S YG  GV KAI+IL+DE+EM+MRL+G  ++ ++ P+++D S 
+Sbjct  413  ALGAKAVGIGRPFLYAYSAYGHQGVIKAIQILKDEMEMNMRLIGAPTLQDVTPEMIDTSG  472
+
+Query  563  LKARTVGVPNDVLYNEVYE  581
+            L  R V   +D L    YE
+Sbjct  473  LGNRLVDGASDYLMRANYE  491
+
+
+
+
+>L-mandelate dehydrogenase [Rhodotorula toruloides]
+Sequence ID: PRQ78045.1 Length: 561
+Range 1: 48 to 554
+
+Score:357 bits(916), Expect:2e-116, 
+Method:Compositional matrix adjust., 
+Identities:212/525(40%), Positives:317/525(60%), Gaps:39/525(7%)
+
+Query  59   GAILAATSSVAYLNWHNGQIDNEPKLDMNKQK-----ISPAEVAKHNKPDDCWVVINGYV  113
+            GA+L      AYL   +    + P     KQ+     ++ AEVAKHN   D WVVI+  V
+Sbjct  48   GAVLTVGGVAAYLYTQSPVHLDAPSPLPAKQRRRDRSLTAAEVAKHNSKGDIWVVIDSQV  107
+
+Query  114  YDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNVIDKYIAPEKKLGPLQGSMPPELV  173
+            +D++ F   HPGG  V++ NAGKDVT +F+ +H P  ++K++  +  +G +      ++ 
+Sbjct  108  WDISDFAEIHPGGIKVLEQNAGKDVTKVFKTIHPPKTLEKFLTDDNLVGYIDVDEATKI-  166
+
+Query  174  CPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDFEYLASQTLTKQAWAYYSSGANDEVT  233
+                  G+  ED  R EQ +  L  +D I+ L +FE +A   LT+ A +YYS+G+  E +
+Sbjct  167  ----GGGKNAEDF-RIEQARESLRNVDTIVCLDEFEEIAQSILTEMAASYYSTGSETEQS  221
+
+Query  234  HRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHVDVPFYVSATALCKLGNPLEGEKDVA  293
+             R+   ++ RI F+P+++  +R +D  T  LG    +PF+++   L +LG+P +GE ++ 
+Sbjct  222  LRDERESWQRIRFRPRVMRKMRHIDSRTSFLGMPQPLPFFIAPAGLARLGHP-DGELNIT  280
+
+Query  294  RGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQIQWYQLYVNSDRKITDDLVKNVEKLG  353
+            RG  +    V Q++S+ AS S +EI      D+ + W QLY+ SDR+     +K+  +LG
+Sbjct  281  RGAAE--HDVVQIVSSGASASIDEIFGEKQPDQTLFW-QLYLPSDREAGAKKIKHAVELG  337
+
+Query  354  VKALFVTVDAPSLGQREKDMKLKF-SNTKAGPKAMKKTNVEESQGAS-------RALSKF  405
+             KA+FVT D P LG+RE+D+KLK  S +   P A +     ++ GAS       R +S  
+Sbjct  338  AKAIFVTADVPVLGKRERDLKLKARSQSYEHPIAAQW----KAAGASDWDAVKQRGVSDI  393
+
+Query  406  -----IDPSLTWKDIEELKKKT-KLPIVIKGVQRTEDVIKAAEIGVSGVVLSNHGGRQLD  459
+                 ID +L W+DI  ++K+   +PIV+KGV   EDV +A   G  GVVLS HGGRQLD
+Sbjct  394  PDTAHIDANLCWEDIPWIRKQAPGIPIVVKGVGCVEDVEEAKRHGADGVVLSTHGGRQLD  453
+
+Query  460  FSRAPIEVLAETMPILEQRN--LKDKLEVFVDGGVRRGTDVLKALCLGAKGVGLGRPFLY  517
+             +RAPI+VL E    + ++N  L  ++EV++DGG RRGTDV+KALCLGAKGVG GR FLY
+Sbjct  454  GARAPIDVLVE----IRKKNPELLKEIEVYIDGGARRGTDVVKALCLGAKGVGFGRSFLY  509
+
+Query  518  ANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+            A S +G  GV KAI+IL +E+  +MRLLG  +IA+LKP+++++S+
+Sbjct  510  AQSAFGAAGVSKAIKILEEEVHSTMRLLGANTIADLKPEMVEVSS  554
+
+
+
+
+>L-lactate dehydrogenase [Rhodotorula toruloides]
+Sequence ID: GEM06814.1 Length: 561
+Range 1: 44 to 554
+
+Score:356 bits(914), Expect:6e-116, 
+Method:Compositional matrix adjust., 
+Identities:208/525(40%), Positives:314/525(59%), Gaps:31/525(5%)
+
+Query  55   ALRVGAILAATSSVAYLNWHNGQIDNEP-----KLDMNKQKISPAEVAKHNKPDDCWVVI  109
+             L  GA+L       YL   +    + P     K     + ++  EVAKHN   D WVVI
+Sbjct  44   GLGFGAVLTVGGVATYLYTQSTVFLDAPSPLPVKQRRRNRSLTATEVAKHNSKGDLWVVI  103
+
+Query  110  NGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNVIDKYIAPEKKLGPLQGSMP  169
+            +  V+D++ F   HPGG  V++ NAGKDVT +F+ +H P  ++K++  +  +G +     
+Sbjct  104  DSQVWDISDFAEIHPGGIKVLEQNAGKDVTKVFKTIHPPKTLEKFLTDDNLVGYIDVDEA  163
+
+Query  170  PELVCPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDFEYLASQTLTKQAWAYYSSGAN  229
+             ++       G+  ED  R EQ +  L  +D I+ L +FE +A   LT+ A +YYS+G+ 
+Sbjct  164  TKI-----GGGKNAEDF-RIEQARKSLRNVDTIVCLDEFEEIAQSILTEMAASYYSTGSE  217
+
+Query  230  DEVTHRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHVDVPFYVSATALCKLGNPLEGE  289
+             E + R+   ++ RI F+P+++  +R +D  T  LG    +PF+++   L +LG+P +GE
+Sbjct  218  TEQSLRDERESWQRIRFRPRVMRKMRHIDSRTSFLGIPQPLPFFIAPAGLARLGHP-DGE  276
+
+Query  290  KDVARGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQIQWYQLYVNSDRKITDDLVKNV  349
+             ++ RG  +    V Q++S+ AS S +EI  A  +D+ + W QLY+ SDR+     +K+ 
+Sbjct  277  LNITRGAAE--HDVVQIVSSGASASIDEIFGAKQADQTLFW-QLYLPSDREAGAKKIKHA  333
+
+Query  350  EKLGVKALFVTVDAPSLGQREKDMKLKF-SNTKAGPKAMK-------KTNVEESQGASRA  401
+             +LG KA+FVT D P LG+RE+D+KLK  S +   P A +         N  + +G S  
+Sbjct  334  VELGAKAIFVTADVPVLGKRERDLKLKARSQSYEHPIAAQWKAAGASDWNAVKQRGVSDI  393
+
+Query  402  L-SKFIDPSLTWKDIEELKKKT-KLPIVIKGVQRTEDVIKAAEIGVSGVVLSNHGGRQLD  459
+              +  ID +L W+DI  ++K+   +PIV+KGV   EDV +A   G  GVVLS HGGRQLD
+Sbjct  394  PDTAHIDANLCWEDIYWIRKQAPGIPIVVKGVGCVEDVEEAKRHGADGVVLSTHGGRQLD  453
+
+Query  460  FSRAPIEVLAETMPILEQRN--LKDKLEVFVDGGVRRGTDVLKALCLGAKGVGLGRPFLY  517
+             +RAPI+VL E    + ++N  L  ++EV++DGG RRGTDV+KALCLGAKGVG GR FLY
+Sbjct  454  GARAPIDVLIE----IRKKNPELLKEIEVYIDGGARRGTDVVKALCLGAKGVGFGRSFLY  509
+
+Query  518  ANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+            A S +G  GV KAI+IL +E+  +MRLLG  +I +LKP+++++S+
+Sbjct  510  AQSAFGAAGVSKAIKILEEEVHSTMRLLGANTIVDLKPEMVEVSS  554
+
+
+
+
+>L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276942.1 Length: 561
+>L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides NP11]
+Sequence ID: EMS25823.1 Length: 561
+>(S)-mandelate dehydrogenase, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8295991.1 Length: 561
+>RHTO0S03e04896g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38165.1 Length: 561 
+Range 1: 48 to 554
+
+Score:354 bits(909), Expect:3e-115, 
+Method:Compositional matrix adjust., 
+Identities:208/521(40%), Positives:314/521(60%), Gaps:31/521(5%)
+
+Query  59   GAILAATSSVAYLNWHNGQIDNEP-----KLDMNKQKISPAEVAKHNKPDDCWVVINGYV  113
+            GA+L       YL   +    + P     K     + ++ AEVAKHN   D WVVI+  V
+Sbjct  48   GAVLTVGGVATYLYTQSPVFLDAPSPLPVKQRRRDRSLTAAEVAKHNSKGDLWVVIDSQV  107
+
+Query  114  YDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNVIDKYIAPEKKLGPLQGSMPPELV  173
+            +D++ F   HPGG  V++ NAGKDVT +F+ +H P  ++K++  E  +G +      ++ 
+Sbjct  108  WDISDFAEIHPGGIKVLEQNAGKDVTKLFKTIHPPKTLEKFLTDENLVGYIDVDESTKI-  166
+
+Query  174  CPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDFEYLASQTLTKQAWAYYSSGANDEVT  233
+                  G+  ED  R EQ +  L  +D I+ L +FE +A   LT+ A +YY++G+  E +
+Sbjct  167  ----GGGKNAEDF-RIEQARKSLRNVDTIVCLDEFEEIAQSILTEMAASYYATGSETEQS  221
+
+Query  234  HRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHVDVPFYVSATALCKLGNPLEGEKDVA  293
+             R+   ++ RI F+P+++  +R +D  T  LG    +PF+++   L +LG+P +GE ++ 
+Sbjct  222  LRDERESWQRIRFRPRVMRKMRHIDSRTSFLGMPQPLPFFIAPAGLARLGHP-DGELNIT  280
+
+Query  294  RGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQIQWYQLYVNSDRKITDDLVKNVEKLG  353
+            RG  +    V Q++S+ AS S +EI   A   +QI ++QLY+  DR+     +K+  +LG
+Sbjct  281  RGAAE--HGVVQIVSSGASASIDEIF-GAKQREQILFWQLYLPGDREAGAKKIKHAVELG  337
+
+Query  354  VKALFVTVDAPSLGQREKDMKLKFSNTK------AGPKAMKKTNVE--ESQGASRAL-SK  404
+             KA+FVT D P LG+RE+D+KLK  +        A  KA   ++ E  +  G S    + 
+Sbjct  338  AKAIFVTADVPVLGKRERDLKLKARSQSYEHPIAAQWKAAGASDWEAVKQPGVSDIPDTA  397
+
+Query  405  FIDPSLTWKDIEELKKKT-KLPIVIKGVQRTEDVIKAAEIGVSGVVLSNHGGRQLDFSRA  463
+             ID +L W+DI  ++K+   +PIV+KGV   EDV +A   G  GVVLS HGGRQLD +RA
+Sbjct  398  HIDANLCWEDIPWIRKQAPGIPIVVKGVGCVEDVEEAKRYGADGVVLSTHGGRQLDGARA  457
+
+Query  464  PIEVLAETMPILEQRN--LKDKLEVFVDGGVRRGTDVLKALCLGAKGVGLGRPFLYANSC  521
+            PI+VL E    + ++N  L  ++EV++DGG RRGTDV+KALCLGAKGVG GR FLYA S 
+Sbjct  458  PIDVLIE----IRKKNPELLKEIEVYIDGGARRGTDVVKALCLGAKGVGFGRSFLYAQSA  513
+
+Query  522  YGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLLDLST  562
+            +G  GV KAI+IL +E+  +MRLLG  +IA+LKP+++++S+
+Sbjct  514  FGAAGVSKAIKILEEEVHSTMRLLGANTIADLKPEMVEVSS  554
+
+
+
+
+>putative CYB2-L-lactate dehydrogenase [Rhodotorula toruloides]
+Sequence ID: PRQ74597.1 Length: 493
+Range 1: 2 to 486
+
+Score:350 bits(897), Expect:2e-114, 
+Method:Compositional matrix adjust., 
+Identities:201/508(40%), Positives:294/508(57%), Gaps:38/508(7%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+            ++ A+VAKHN  +  W++ING  YDLT F  NHPGGQ ++   AG+D T  +EP+H P  
+Sbjct  2    LTGADVAKHNSSESLWMIINGKAYDLTEFQTNHPGGQKILLKFAGRDATEEYEPIHPPGT  61
+
+Query  151  IDKYIAPEKKLGPLQGS--MPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDF  208
+            I++ +  +K LG +  S  +P + +     P  T    A           L   +NL D 
+Sbjct  62   IEEALPADKHLGEVDMSTLLPEQKIIEQAVPKPTTAGDAPMT--------LGACLNLDDI  113
+
+Query  209  EYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHV  268
+            E  A + L  +AWAYY S A+DE TH  N  +++ +  +P++L DV  VD+S  +LG   
+Sbjct  114  EKAAERLLKPKAWAYYRSAADDERTHNWNRESFYSVRLRPRVLRDVTTVDLSASILGHTS  173
+
+Query  269  DVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQI  328
+             +P Y+S  A+ +L +P +GEK +AR       ++P M+S  AS   EE+   A  + QI
+Sbjct  174  SLPIYISPAAMGRLAHP-DGEKCLARVA--AAHQIPYMVSANASVGFEELASQA-KEGQI  229
+
+Query  329  QWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKA------  382
+             +YQLYVN DR  ++D+++ V K G KA+ VTVDAP  G+RE+D + K  +  A      
+Sbjct  230  LFYQLYVNRDRAKSEDILRRVAKAGYKAICVTVDAPVAGKRERDERAKLDDEAASDPNMQ  289
+
+Query  383  ------GPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKT-KLPIVIKGVQRTE  435
+                  GP A      E SQG ++AL  ++DP+L W D+E ++K +  LPI++KG+Q  E
+Sbjct  290  KAVKSTGPDAPDAPQDEPSQGIAQALGSYVDPTLAWHDLEWVRKASGGLPIIVKGIQCAE  349
+
+Query  436  DVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRNLKDKLEVFVDGGVRRG  495
+            D   AA+ G   ++LSNHGGRQL+ + + +E L E     E   LK KLEV+ DGG RRG
+Sbjct  350  DAALAAKNGAQAIILSNHGGRQLEGAPSSLETLLEIRK-FEPWVLK-KLEVWCDGGFRRG  407
+
+Query  496  TDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKP  555
+            TDVLKA+ LGA+ VG+GRPF+Y +  +G  GV K   +LR+E+  + RL+G TS+ E+ P
+Sbjct  408  TDVLKAIALGARCVGIGRPFMY-SLVFGDEGVNKVATVLREELAQNARLMGATSMTEVVP  466
+
+Query  556  DLLDLSTLKARTVGVPNDVLYNEVYEGP  583
+             +++   L+          +YN  YE P
+Sbjct  467  SMVNARELEQN--------VYNGPYESP  486
+
+
+
+
+>mitochondrial chaperone BCS1 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271973.1 Length: 493
+>mitochondrial chaperone BCS1 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20854.1 Length: 493
+>RHTO0S05e03136g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40415.1 Length: 493 
+Range 1: 2 to 486
+
+Score:347 bits(889), Expect:4e-113, 
+Method:Compositional matrix adjust., 
+Identities:198/512(39%), Positives:295/512(57%), Gaps:46/512(8%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+            ++ AE+AKHN  +  W++ING  YDLT F  NHPGGQ ++   AG+D T  +EP+H P  
+Sbjct  2    LTGAEIAKHNSSESLWMIINGKAYDLTEFQTNHPGGQKILLKFAGRDATEEYEPIHPPGT  61
+
+Query  151  IDKYIAPEKKLGPLQGS--MPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDF  208
+            I++ ++ +K LG +  S  +P + +     P  T    A           L   +NL D 
+Sbjct  62   IEEALSADKHLGDVDMSTLLPEQKIVEQAVPKSTTAGDAPMT--------LGACLNLDDI  113
+
+Query  209  EYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHV  268
+            E  A + L  +AWAYY S A+DE TH  N  +++ +  +P++L DV  VD+S  +LG   
+Sbjct  114  EKAAERLLKPKAWAYYRSAADDERTHNWNRESFYSVRLRPRVLRDVTTVDLSATVLGHTS  173
+
+Query  269  DVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQI  328
+             +P Y+S  A+ +L +P +GEK +AR       ++P M+S  AS   EE+   A  + QI
+Sbjct  174  SLPIYISPAAMGRLAHP-DGEKCLARVA--AAHQIPYMVSANASVGFEELASQA-KEGQI  229
+
+Query  329  QWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKA------  382
+             +YQLYVN DR  ++D+++ V K G KA+ VTVDAP  G+RE+D + K  +  A      
+Sbjct  230  LFYQLYVNRDRTKSEDILRRVAKAGYKAICVTVDAPVAGKRERDERAKLDDEAASDPNMQ  289
+
+Query  383  ------GPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKT-KLPIVIKGVQRTE  435
+                  GP A      E SQG ++AL  ++DP+L W D+E ++K +  LPI++KG+Q  +
+Sbjct  290  KAVKNTGPDAPDAPQDEPSQGIAQALGSYVDPTLAWHDLEWVRKASGGLPIIVKGIQCAD  349
+
+Query  436  DVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRNLK----DKLEVFVDGG  491
+            D   AA+ G   ++LSNHGGRQL+ + + +E L      LE R  +     KLEV+ DGG
+Sbjct  350  DAALAAKNGAQAIILSNHGGRQLEGAPSSLETL------LEIRKFEPWVFKKLEVWCDGG  403
+
+Query  492  VRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIA  551
+             RRGTDVLKA+ LGA+ VG+GRPF+Y +  +G  GV K   +LR+E+  + RL+G TS+ 
+Sbjct  404  FRRGTDVLKAIALGARCVGIGRPFMY-SLVFGDEGVNKVATVLREELAQNARLMGATSMK  462
+
+Query  552  ELKPDLLDLSTLKARTVGVPNDVLYNEVYEGP  583
+            E+ P +++   L+          +Y+  YE P
+Sbjct  463  EVVPAMVNARELEQN--------VYDGPYESP  486
+
+
+
+
+>mitochondrial chaperone BCS1 [Rhodotorula toruloides]
+Sequence ID: GEM09935.1 Length: 492
+Range 1: 2 to 488
+
+Score:344 bits(883), Expect:3e-112, 
+Method:Compositional matrix adjust., 
+Identities:201/516(39%), Positives:297/516(57%), Gaps:49/516(9%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+            ++ AEVAKHN  +  W++ING  YDLT F  NHPGGQ ++   AG+D T  +EP+H P  
+Sbjct  2    LTGAEVAKHNSSESLWMIINGKAYDLTEFQTNHPGGQKILLKFAGRDATEEYEPIHPPGT  61
+
+Query  151  IDKYIAPEKKLGPLQGS--MPPELVCPPYAPGETKEDIARKEQLKSLLP-PLDNIINLYD  207
+            I++ +  +K LG +  S  +P + V     P         K       P  L   +N+ D
+Sbjct  62   IEEALPADKHLGEVDMSTLLPEQKVVEQAVP---------KPATAGDAPVTLGACLNIDD  112
+
+Query  208  FEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDMLGSH  267
+             E  A + L  +AWAYY S A+DE T+  N  +++ +  +P++L DV  VD+S  +LG  
+Sbjct  113  IEKAAERLLKPKAWAYYRSAADDERTYNWNRESFYSVRLRPRVLRDVATVDLSASILGHT  172
+
+Query  268  VDVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQ  327
+              +P Y+S  A+ +L +P +GEK +AR       ++P M+S  AS   EE+  A+ ++ Q
+Sbjct  173  SSLPIYISPAAMGRLAHP-DGEKCLARIA--AAHQIPYMVSANASVGFEEL--ASQAEGQ  227
+
+Query  328  IQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKA-----  382
+            I +YQLYVN DR  ++D+++ V K G KA+ VTVDAP  G+RE+D + K  +  A     
+Sbjct  228  ILFYQLYVNRDRAKSEDILRRVAKAGYKAICVTVDAPVAGKRERDERAKLDDEAASDPNM  287
+
+Query  383  -------GPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKT-KLPIVIKGVQRT  434
+                   GP A      E SQG ++AL  ++DP+L W DIE ++K +  LPI++KG+Q  
+Sbjct  288  QKAVKSTGPDAPDAPQDEPSQGIAQALGSYVDPTLAWHDIEWVRKASGGLPIIVKGIQCA  347
+
+Query  435  EDVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRNLK----DKLEVFVDG  490
+            ED   AA+ G   ++LSNHGGRQL+ + + +E L      LE R  +     K+EV+ DG
+Sbjct  348  EDAALAAKNGAQAIILSNHGGRQLEGAPSSLETL------LEIRKFEPWVFKKVEVWCDG  401
+
+Query  491  GVRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSI  550
+            G RRGTDVLKA+ LGA+ VG+GRPF+Y +  +G  GV K   ILR+E+  + RL+G TS+
+Sbjct  402  GFRRGTDVLKAIALGARCVGIGRPFMY-SLVFGDEGVNKVATILREELAQNTRLMGATSM  460
+
+Query  551  AELKPDLLDLSTLKARTVGVPNDVLYNEVYEGPTLT  586
+             E+ P +++   L+          +Y+  YE P  T
+Sbjct  461  KEVVPAMVNARELEQN--------VYDGPYESPVRT  488
+
+
+
+
+>(S)-mandelate dehydrogenase, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8295990.1 Length: 586
+Range 1: 48 to 579
+
+Score:340 bits(871), Expect:3e-109, 
+Method:Compositional matrix adjust., 
+Identities:210/546(38%), Positives:315/546(57%), Gaps:56/546(10%)
+
+Query  59   GAILAATSSVAYLNWHNGQIDNEP-----KLDMNKQKISPAEVAKHNKPDDCWVVINGYV  113
+            GA+L       YL   +    + P     K     + ++ AEVAKHN   D WVVI+  V
+Sbjct  48   GAVLTVGGVATYLYTQSPVFLDAPSPLPVKQRRRDRSLTAAEVAKHNSKGDLWVVIDSQV  107
+
+Query  114  YD----------------LTR---------FLPNHPGGQDVIKFNAGKDVTAIFEPLHAP  148
+            ++                LTR         F   HPGG  V++ NAGKDVT +F+ +H P
+Sbjct  108  WECVLSPEGAVCVGARLELTRRLCGDSISDFAEIHPGGIKVLEQNAGKDVTKLFKTIHPP  167
+
+Query  149  NVIDKYIAPEKKLGPLQGSMPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDF  208
+              ++K++  E  +G +      ++       G+  ED  R EQ +  L  +D I+ L +F
+Sbjct  168  KTLEKFLTDENLVGYIDVDESTKI-----GGGKNAEDF-RIEQARKSLRNVDTIVCLDEF  221
+
+Query  209  EYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHV  268
+            E +A   LT+ A +YY++G+  E + R+   ++ RI F+P+++  +R +D  T  LG   
+Sbjct  222  EEIAQSILTEMAASYYATGSETEQSLRDERESWQRIRFRPRVMRKMRHIDSRTSFLGMPQ  281
+
+Query  269  DVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQI  328
+             +PF+++   L +LG+P +GE ++ RG  +    V Q++S+ AS S +EI   A   +QI
+Sbjct  282  PLPFFIAPAGLARLGHP-DGELNITRGAAE--HGVVQIVSSGASASIDEIF-GAKQREQI  337
+
+Query  329  QWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTK------A  382
+             ++QLY+  DR+     +K+  +LG KA+FVT D P LG+RE+D+KLK  +        A
+Sbjct  338  LFWQLYLPGDREAGAKKIKHAVELGAKAIFVTADVPVLGKRERDLKLKARSQSYEHPIAA  397
+
+Query  383  GPKAMKKTNVE--ESQGASRAL-SKFIDPSLTWKDIEELKKKT-KLPIVIKGVQRTEDVI  438
+              KA   ++ E  +  G S    +  ID +L W+DI  ++K+   +PIV+KGV   EDV 
+Sbjct  398  QWKAAGASDWEAVKQPGVSDIPDTAHIDANLCWEDIPWIRKQAPGIPIVVKGVGCVEDVE  457
+
+Query  439  KAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRN--LKDKLEVFVDGGVRRGT  496
+            +A   G  GVVLS HGGRQLD +RAPI+VL E    + ++N  L  ++EV++DGG RRGT
+Sbjct  458  EAKRYGADGVVLSTHGGRQLDGARAPIDVLIE----IRKKNPELLKEIEVYIDGGARRGT  513
+
+Query  497  DVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPD  556
+            DV+KALCLGAKGVG GR FLYA S +G  GV KAI+IL +E+  +MRLLG  +IA+LKP+
+Sbjct  514  DVVKALCLGAKGVGFGRSFLYAQSAFGAAGVSKAIKILEEEVHSTMRLLGANTIADLKPE  573
+
+Query  557  LLDLST  562
+            ++++S+
+Sbjct  574  MVEVSS  579
+
+
+
+
+>Cytochrome b2, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8294285.1 Length: 1350
+Range 1: 665 to 1143
+
+Score:324 bits(831), Expect:1e-97, 
+Method:Compositional matrix adjust., 
+Identities:194/517(38%), Positives:288/517(55%), Gaps:57/517(11%)
+
+Query  91    ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+             ++ AE+AKHN  +  W++ING  YDLT F  NHPGGQ ++   AG+D T  +EP+H P  
+Sbjct  665   LTGAEIAKHNSSESLWMIINGKAYDLTEFQTNHPGGQKILLKFAGRDATEEYEPIHPPGT  724
+
+Query  151   IDKYIAPEKKLGPLQGS--MPPELVCPPYAPGETKEDIARKEQLKSLLPPLDNIINLYDF  208
+             I + ++ +K LG +  S  +P + +     P  T    A           L   +NL D 
+Sbjct  725   IVEALSVDKHLGDVDMSTLLPEQKIVEQAVPKSTTAGDAPMT--------LGACLNLDDI  776
+
+Query  209   EYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDMLGSHV  268
+             E  A + L  +AWA           H  N  +++ +  +P++L DV  VD+S  +LG   
+Sbjct  777   EKAAERLLKPKAWA-----------HNWNRESFYSVRLRPRVLRDVTTVDLSATVLGHTS  825
+
+Query  269   DVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPEEIIEAAPSDKQI  328
+              +P Y+S  A+ +L +P +GEK +AR       ++P M+S  AS   EE+   A  + QI
+Sbjct  826   SLPIYISPAAMGRLAHP-DGEKCLARVA--AAHQIPYMVSANASVGFEELASQA-KEGQI  881
+
+Query  329   QWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKLKFSNTKA------  382
+              +YQLYVN DR  ++D+++ V K G KA+ VTVDAP  G+RE+D + K  +  A      
+Sbjct  882   LFYQLYVNRDRTKSEDILRRVAKAGYKAICVTVDAPVAGKRERDERAKLDDEAASDPNMQ  941
+
+Query  383   ------GPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKT-KLPIVIKGVQRTE  435
+                   GP A      E SQG ++AL  ++DP+L W D+E ++K +  LPI++KG+Q  E
+Sbjct  942   KAVKNTGPDAPDAPQDEPSQGIAQALGSYVDPTLAWHDLEWVRKASGGLPIIVKGIQCAE  1001
+
+Query  436   DVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRNLK----DKLEVFVDGG  491
+             D   AA+ G   ++LSNHGGRQL+ + + +E L      LE R  +     KLEV+ DGG
+Sbjct  1002  DAALAAKNGAQAIILSNHGGRQLEGAPSSLETL------LEIRKFEPWVFKKLEVWCDGG  1055
+
+Query  492   VRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIA  551
+              RRGTDVLKA+ LGA+ VG+GRPF+Y +  +G  GV K   +LR+E+  + RL+G TS+ 
+Sbjct  1056  FRRGTDVLKAIALGARCVGIGRPFMY-SLVFGDEGVNKVATVLREELAQNARLMGATSMK  1114
+
+Query  552   ELKPDLLDLSTLKARTVGVPNDVLYNEVYEGPTLTEF  588
+             E+ P +++   L+          +Y+  YE P  TE 
+Sbjct  1115  EVVPAMVNARELEQN--------VYDGPYESPPATEL  1143
+
+
+
+
+>cytochrome b2 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271928.1 Length: 384
+>cytochrome b2 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20809.1 Length: 384
+>RHTO0S05e02146g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40352.1 Length: 384 
+Range 1: 11 to 379
+
+Score:234 bits(597), Expect:2e-71, 
+Method:Compositional matrix adjust., 
+Identities:143/376(38%), Positives:213/376(56%), Gaps:11/376(2%)
+
+Query  198  PLDNIINLYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVR-K  256
+            PL +++NL DFE  A  TL  ++WAYY+S A+D  T  ++ + +  + F+P++L DV   
+Sbjct  11   PLSSLLNLDDFERSAEATLKPKSWAYYASAADDGWTAEQSKSIWQHVRFRPRVLRDVGGD  70
+
+Query  257  VDISTDMLGSHVDVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPE  316
+            VD+   + G    +PF +S  A+ KL +  +GE  + +G G+    +P   S  AS S  
+Sbjct  71   VDLRVRIAGIESRLPFMISPAAMGKLAHK-DGEMCIVKGAGR--VGIPYAPSNHASVSHR  127
+
+Query  317  EIIEAA-PSDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKL  375
+            ++  AA PS  Q  ++QLYV+ +R  ++  +   ++LG KA+ VTVD    G RE D++ 
+Sbjct  128  DLASAALPS--QSLFFQLYVHRERWRSEKQLAEAKELGYKAVIVTVDVAVPGNRELDLRT  185
+
+Query  376  KFSNTKAGPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTK-LPIVIKGVQRT  434
+                      A     V +   A    S  ID SL+WKD+E +KK +  LPI++KG+   
+Sbjct  186  GLDENTV-LLANPGIEVGKKAFAMATTSATIDASLSWKDLEWVKKASGGLPILVKGIHTV  244
+
+Query  435  EDVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRNLK-DKLEVFVDGGVR  493
+            ED I A + G SG+ LSNHGGRQ++ +  P+EVL E      Q      +  V +DGG+R
+Sbjct  245  EDAILAEQYGASGIFLSNHGGRQVNTASTPLEVLLEIRQSAPQLLASPSRFTVILDGGLR  304
+
+Query  494  RGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAEL  553
+            RGTD++KALCLGA    LGRPF+Y +  YG +GVEK   +L +EI    +LLGV S+ EL
+Sbjct  305  RGTDIVKALCLGAHACSLGRPFMY-SLVYGEDGVEKVARVLEEEIVRCCKLLGVRSVKEL  363
+
+Query  554  KPDLLDLSTLKARTVG  569
+             P  ++   ++    G
+Sbjct  364  GPQYVNARRVERSVFG  379
+
+
+
+
+>putative L-lactate dehydrogenase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11693.1 Length: 384
+>putative L-lactate dehydrogenase [Rhodotorula toruloides]
+Sequence ID: PRQ74644.1 Length: 384 
+Range 1: 11 to 369
+
+Score:233 bits(593), Expect:1e-70, 
+Method:Compositional matrix adjust., 
+Identities:140/368(38%), Positives:213/368(57%), Gaps:15/368(4%)
+
+Query  198  PLDNIINLYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVR-K  256
+            PL +++NL DFE  A  TL  ++WAYY+S A+D  T  ++   +  + F+P++L DV   
+Sbjct  11   PLSSLLNLEDFERSAEATLKPKSWAYYASAADDGWTAEQSKAIWQHVRFRPRVLRDVGGD  70
+
+Query  257  VDISTDMLGSHVDVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPE  316
+            VD+  ++ G    +PF VS  A+ KL +  +GE  + +G G+    +P   S  AS S  
+Sbjct  71   VDLRVEIAGIESRLPFMVSPAAMGKLAHK-DGELCIVKGAGR--VGIPYAPSNHASVSHR  127
+
+Query  317  EIIEAA-PSDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKL  375
+            ++  AA PS  Q  ++QLYV+ +R  ++  +   ++LG KA+ VTVD    G RE D++ 
+Sbjct  128  DLASAAVPS--QSLFFQLYVHRERWRSEKQLAEAKELGYKAVIVTVDVAVPGNRELDLRT  185
+
+Query  376  KFSNTKAGPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTK-LPIVIKGVQRT  434
+                      A     V +   A    S  ID SL+WKD++ +KK +  LP+++KG+   
+Sbjct  186  GLDENTV-LLANPGIEVGKKAFAMATTSATIDASLSWKDLDWVKKASGGLPVLVKGIHTV  244
+
+Query  435  EDVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAE---TMPILEQRNLKDKLEVFVDGG  491
+            ED + A + G SG+ LSNHGGRQ++ +  P+EVL E   + P L       +  V +DGG
+Sbjct  245  EDAVLAEQYGASGIFLSNHGGRQVNTASTPLEVLLEIRQSAPHLLAS--PSRFTVILDGG  302
+
+Query  492  VRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIA  551
+            +RRGTD++KALCLGA    LGRPF+Y +  YG +GVEK   +L +E+    +LLGV S+ 
+Sbjct  303  LRRGTDIVKALCLGAHACSLGRPFMY-SLVYGEDGVEKVARVLEEEVVRCCKLLGVRSVK  361
+
+Query  552  ELKPDLLD  559
+            EL+P  ++
+Sbjct  362  ELRPQYVN  369
+
+
+
+
+>(S)-mandelate dehydrogenase, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8294318.1 Length: 1103
+Range 1: 11 to 365
+
+Score:232 bits(591), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:143/365(39%), Positives:207/365(56%), Gaps:17/365(4%)
+
+Query  198  PLDNIINLYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVR-K  256
+            PL +++NL DFE  A  TL  ++WAYY+S A+D  T  ++   +  + F+P++L DV   
+Sbjct  11   PLSSLLNLDDFERSAEATLKPKSWAYYASAADDGWTAEQSKAIWQHVRFRPRVLRDVGGD  70
+
+Query  257  VDISTDMLGSHVDVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPE  316
+            VD+   + G    +PF VS  A+ KL +  +GE  + +G G+    +P   S  AS S  
+Sbjct  71   VDLHVGIAGIESRLPFMVSPAAMGKLAHK-DGEMCIVKGAGR--VGIPYAPSNHASVSHR  127
+
+Query  317  EIIEAA-PSDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKL  375
+            ++  A  PS  Q  ++QLYV+ +R  ++  +   ++LG KA+ VTVD    G RE D++ 
+Sbjct  128  DLASATLPS--QSLFFQLYVHRERWRSEKQLAEAKELGYKAVIVTVDVAVPGNRELDLRT  185
+
+Query  376  KFSNTK---AGPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTK-LPIVIKGV  431
+                     A P       V +   A    S  ID SL+WKD+E +KK +  LPI++KG+
+Sbjct  186  GLDENTVLLANPG----IEVGKKAFAMATTSATIDASLSWKDLEWVKKASGGLPILVKGI  241
+
+Query  432  QRTEDVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAETMPILEQRNLK-DKLEVFVDG  490
+               ED I A + G SG+ LSNHGGRQ++ +  P+EVL E      Q      +  V +DG
+Sbjct  242  HTVEDAILAEQYGASGIFLSNHGGRQVNTASTPLEVLLEIRQSAPQLLASPSRFTVILDG  301
+
+Query  491  GVRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSI  550
+            G+RRGTD++KALCLGA    LGRPF+Y +  YG +GVEK   +L +EI    +LLGV S+
+Sbjct  302  GLRRGTDIVKALCLGAHACSLGRPFMY-SLVYGEDGVEKVARVLEEEIVRCCKLLGVRSV  360
+
+Query  551  AELKP  555
+             EL P
+Sbjct  361  KELGP  365
+
+
+
+
+>dynamin related GTPase [Rhodotorula toruloides]
+Sequence ID: GEM09973.1 Length: 1071
+Range 1: 11 to 348
+
+Score:211 bits(538), Expect:2e-58, 
+Method:Compositional matrix adjust., 
+Identities:131/347(38%), Positives:196/347(56%), Gaps:15/347(4%)
+
+Query  198  PLDNIINLYDFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDV-RK  256
+            PL +++NL DFE  A  TL  ++WAYY+S A+D  T  ++   +  + F+P++L DV   
+Sbjct  11   PLSSLLNLDDFERSAEATLKPKSWAYYASAADDGWTAEQSKAIWQYVRFRPRVLRDVGNH  70
+
+Query  257  VDISTDMLGSHVDVPFYVSATALCKLGNPLEGEKDVARGCGQGVTKVPQMISTLASCSPE  316
+            VD+   + G    +PF VS  A+ KL +  +GE  + +G G+    +P   S  AS S  
+Sbjct  71   VDMRVQIAGIESRLPFMVSPAAMGKLAHK-DGELCIVKGAGR--VGIPYAPSNHASVSHH  127
+
+Query  317  EIIEAA-PSDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKDMKL  375
+             +  AA PS  Q  ++QLYV+ +R  ++  +   ++LG KA+ VTVD    G RE D++ 
+Sbjct  128  HLASAALPS--QPLFFQLYVHRERWRSEKQLAEAKELGHKAVIVTVDVAVPGNRELDLRT  185
+
+Query  376  KFSNTKAGPKAMKKTNVEESQGASRALSKFIDPSLTWKDIEELKKKTK-LPIVIKGVQRT  434
+                      A     V +   A    S  ID SL+WKD++ +KK +  L +++KG+   
+Sbjct  186  GLDENTV-LLANPGIEVGKKAFAMATTSATIDASLSWKDLDWVKKASGGLAVLVKGIHTV  244
+
+Query  435  EDVIKAAEIGVSGVVLSNHGGRQLDFSRAPIEVLAE---TMPILEQRNLKDKLEVFVDGG  491
+            ED I A + G  G+ LSNHGGRQ++ +  P+EVL E   + P L     +    V +DGG
+Sbjct  245  EDAILAEQYGADGIFLSNHGGRQVNTASTPLEVLLEIRQSAPHLLASPFR--FTVILDGG  302
+
+Query  492  VRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKAIEILRDEI  538
+            +RRGTD++KALCLGA    LGRPF+Y +  YG +GVEK   +L +E+
+Sbjct  303  LRRGTDIVKALCLGAHACSLGRPFMY-SLVYGEDGVEKVARVLEEEV  348
+
+
+
+
+>L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272509.1 Length: 434
+>L-lactate dehydrogenase (cytochrome) [Rhodotorula toruloides NP11]
+Sequence ID: EMS21390.1 Length: 434
+>putative lactate 2-monooxygenase PB1A11.03 [Rhodotorula toruloides]
+Sequence ID: KAJ8291318.1 Length: 434
+>RHTO0S18e00628g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48464.1 Length: 434 
+Range 1: 40 to 422
+
+Score:141 bits(356), Expect:2e-36, 
+Method:Compositional matrix adjust., 
+Identities:114/388(29%), Positives:183/388(47%), Gaps:41/388(10%)
+
+Query  207  DFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDM-LG  265
+            + E +A +TL+K  W Y SS A    THR N  A++R    P++LVD  + D+S  + LG
+Sbjct  40   EMENVAKETLSKGGWLYASSNAGVSWTHRANREAFYRWRIIPRMLVDTNQRDMSCTLKLG  99
+
+Query  266  SH---VDVPFYVSATALCKLGNPLEGEKDVARGCGQ------GVTKVPQMISTLASCSPE  316
+             +    D P   +   + K+ +PL GE + A+  G+        T   Q IS +A  + E
+Sbjct  100  QYEWKFDAPLGFAPIGINKIYHPL-GEFNAAKVAGELNLAYALSTAGSQPISEVARVNDE  158
+
+Query  317  EIIEA----APSDKQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKD  372
+                A    A   +  +++QLY   + ++T  L+++  + G  A  +T+D   L  R  D
+Sbjct  159  GFSRAGRSRAHGAQNGRFFQLYWPPNDELTISLLRDAHQNGYSACILTLDTWQLAWRHGD  218
+
+Query  373  MK---------LKFSNTKAGP--KAMKKTNVEESQGASRALSKFID-----PSLTWKDIE  416
+            +          +     KA P  + M +        A  A   +ID        +W+ + 
+Sbjct  219  ISAANYAFYRGIGHDLGKANPVFQRMCREKGITDLNAPEAGQYWIDLVWHGRPWSWEQLP  278
+
+Query  417  ELKKKTK-----LPIVIKGVQRTEDVIKAAEI-GVSGVVLSNHGGRQLDFSRAPIEVLAE  470
+             + K+ K      P V+KG+Q   D  +AAE  GV G+V+SNH GRQ+D + A ++ L  
+Sbjct  279  WVIKQWKEISGGKPFVLKGIQSVADAKRAAETEGVDGIVVSNHAGRQVDGAIASLDALKS  338
+
+Query  471  TMPILEQRNLKDKLEVFVDGGVRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKA  530
+             +       + +K+ V  D G+R   D+ KAL LGAK V  GRP++Y  S  G  GV   
+Sbjct  339  II----DAGVGEKITVMFDSGIRSAADIFKALALGAKFVFCGRPWVYGMSINGEAGVRHV  394
+
+Query  531  IEILRDEIEMSMRLLGVTSIAELKPDLL  558
+            +  L  E ++ + + G  ++ E+  D L
+Sbjct  395  MRGLLAEFDILLEVAGYRNLDEIDRDAL  422
+
+
+
+
+>FMN-dependent dehydrogenase [Rhodotorula toruloides]
+Sequence ID: PRQ75569.1 Length: 434
+Range 1: 40 to 422
+
+Score:141 bits(355), Expect:3e-36, 
+Method:Compositional matrix adjust., 
+Identities:109/388(28%), Positives:186/388(47%), Gaps:41/388(10%)
+
+Query  207  DFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDM-LG  265
+            + E +A +TL+K  W Y SS A    THR N  A++R    P++LVD  + D+S  + LG
+Sbjct  40   EMENVAKETLSKGGWLYASSNAGVSWTHRANREAFYRWRIIPRMLVDTNQRDMSCTLKLG  99
+
+Query  266  SH---VDVPFYVSATALCKLGNPLEGEKDVARGCGQG------VTKVPQMISTLASCSPE  316
+             +    D P   +   + K+ +PL GE + A+  G+        T   Q IS +A  + E
+Sbjct  100  KYEWKFDAPLGFAPIGINKIYHPL-GEFNAAKVAGELNLAYALSTAGSQPISEVARVNNE  158
+
+Query  317  EIIEAAPSD----KQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKD  372
+               +A  S     ++ +++QLY   + ++T  L+++  + G  A  +T+D   L  R  D
+Sbjct  159  GYAQAGRSRVHGAEKGRFFQLYWPPNDELTVSLLRDAHENGYSACILTLDTWQLAWRHGD  218
+
+Query  373  MKL-KFSNTKAGPKAMKKTN-VEESQGASRALSKFIDPS--------------LTWKDIE  416
+            +    ++  +     + K N V +     + ++    P                +W+ + 
+Sbjct  219  ISAANYAFYRGIGHDLGKANPVFQRMCREKGITDLNSPEAGQYWIDLVWHGRPWSWEQLP  278
+
+Query  417  ELKKKTK-----LPIVIKGVQRTEDVIKAAEI-GVSGVVLSNHGGRQLDFSRAPIEVLAE  470
+             + K+ +      P V+KG+Q   D  +AAE  GV G+V+SNH GRQ+D + A ++ L  
+Sbjct  279  WVIKQWQEISGGKPFVLKGIQSVADAKRAAETEGVDGIVVSNHAGRQVDGAIASLDAL--  336
+
+Query  471  TMPILEQRNLKDKLEVFVDGGVRRGTDVLKALCLGAKGVGLGRPFLYANSCYGRNGVEKA  530
+               ++    + +K+ V  D G+R   D+ KAL LGAK V  GRP++Y  S  G  GV   
+Sbjct  337  --KLIIDAGVGEKITVMFDSGIRSAADIFKALALGAKFVFCGRPWVYGMSINGETGVRHV  394
+
+Query  531  IEILRDEIEMSMRLLGVTSIAELKPDLL  558
+            +  L  E ++ + + G  ++ E+  D L
+Sbjct  395  MRGLLAEFDILLEVAGYRNLMEINRDAL  422
+
+
+
+
+>putative lactate 2-monooxygenase PB1A11.03 [Rhodotorula toruloides]
+Sequence ID: KAJ8291319.1 Length: 454
+Range 1: 40 to 442
+
+Score:134 bits(337), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:115/408(28%), Positives:184/408(45%), Gaps:61/408(14%)
+
+Query  207  DFEYLASQTLTKQAWAYYSSGANDEVTHRENHNAYHRIFFKPKILVDVRKVDISTDM-LG  265
+            + E +A +TL+K  W Y SS A    THR N  A++R    P++LVD  + D+S  + LG
+Sbjct  40   EMENVAKETLSKGGWLYASSNAGVSWTHRANREAFYRWRIIPRMLVDTNQRDMSCTLKLG  99
+
+Query  266  SH---VDVPFYVSATALCKLGNPLEGEKDVARGCGQG------VTKVPQMISTLASCSPE  316
+             +    D P   +   + K+ +PL GE + A+  G+        T   Q IS +A  + E
+Sbjct  100  QYEWKFDAPLGFAPIGINKIYHPL-GEFNAAKVAGELNLAYALSTAGSQPISEVARVNDE  158
+
+Query  317  EIIEAAPSD----KQIQWYQLYVNSDRKITDDLVKNVEKLGVKALFVTVDAPSLGQREKD  372
+                A  S     +  +++QLY   + ++T  L+++  + G  A  +T+D   L  R  D
+Sbjct  159  GFSRAGRSRAHGAQNGRFFQLYWPPNDELTISLLRDAHQNGYSACILTLDTWQLAWRHGD  218
+
+Query  373  MK---------LKFSNTKAGP--------KAMKKTNVEESQ-------GASRALSKFIDP  408
+            +          +     KA P        K +   N  E+          ++  S     
+Sbjct  219  ISAANYAFYRGIGHDLGKANPVFQRMCREKGITDLNAPEAGQYWIDLVWYAKTQSPLSSA  278
+
+Query  409  SLT------------WKDIEELKKKTK-----LPIVIKGVQRTEDVIKAAEI-GVSGVVL  450
+             LT            W+ +  + K+ K      P V+KG+Q   D  +AAE  GV G+V+
+Sbjct  279  KLTMGSSCRHGRPWSWEQLPWVIKQWKEISGGKPFVLKGIQSVADAKRAAETEGVDGIVV  338
+
+Query  451  SNHGGRQLDFSRAPIEVLAETMPILEQRNLKDKLEVFVDGGVRRGTDVLKALCLGAKGVG  510
+            SNH GRQ+D + A ++ L   +       + +K+ V  D G+R   D+ KAL LGAK V 
+Sbjct  339  SNHAGRQVDGAIASLDALKSII----DAGVGEKITVMFDSGIRSAADIFKALALGAKFVF  394
+
+Query  511  LGRPFLYANSCYGRNGVEKAIEILRDEIEMSMRLLGVTSIAELKPDLL  558
+             GRP++Y  S  G  GV   +  L  E ++ + + G  ++ E+  D L
+Sbjct  395  CGRPWVYGMSINGEAGVRHVMRGLLAEFDILLEVAGYRNLDEIDRDAL  442
+
+
+
+
+>Cytochrome b5-like heme/steroid binding domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ73055.1 Length: 114
+Range 1: 36 to 102
+
+Score:70.1 bits(170), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:31/67(46%), Positives:41/67(61%), Gaps:0/67(0%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+            I+  EVAKHN  +  WV+I G VYD+T FL +HPGG+ V+    G+D T  F   H+  V
+Sbjct  36   ITAEEVAKHNTAESAWVIIEGGVYDVTDFLEDHPGGKKVLLKGCGQDSTEKFHSFHSRKV  95
+
+Query  151  IDKYIAP  157
+            +DK   P
+Sbjct  96   LDKTAKP  102
+
+
+
+
+>fatty acid desaturase 2 [Rhodotorula toruloides]
+Sequence ID: GEM06690.1 Length: 117
+Range 1: 37 to 105
+
+Score:69.7 bits(169), Expect:3e-14, 
+Method:Compositional matrix adjust., 
+Identities:32/69(46%), Positives:42/69(60%), Gaps:0/69(0%)
+
+Query  89   QKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAP  148
+            Q I+  EVAKHN  D  WV+I G VYD+T FL +HPGG+ V+    G+D T  F   H+ 
+Sbjct  37   QVITAEEVAKHNTADSAWVIIEGGVYDVTDFLEDHPGGKKVLLKACGQDSTEKFWNFHSK  96
+
+Query  149  NVIDKYIAP  157
+             V++K   P
+Sbjct  97   KVLEKTAKP  105
+
+
+
+
+>fatty acid desaturase 2 (delta-6 desaturase) [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276805.1 Length: 83
+>fatty acid desaturase 2 (delta-6 desaturase) [Rhodotorula toruloides NP11]
+Sequence ID: EMS25686.1 Length: 83
+>RHTO0S03e01794g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38003.1 Length: 83 
+Range 1: 5 to 71
+
+Score:66.2 bits(160), Expect:2e-13, 
+Method:Composition-based stats., 
+Identities:30/67(45%), Positives:40/67(59%), Gaps:0/67(0%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+            I+  EVAKHN  D  WV++ G VYD+T FL +HPGG+ V+    G+D T  F   H  +V
+Sbjct  5    ITAEEVAKHNTADSAWVIVEGGVYDVTDFLEDHPGGKKVLLKACGQDSTEKFHQFHGASV  64
+
+Query  151  IDKYIAP  157
+            + K   P
+Sbjct  65   LKKTAKP  71
+
+
+
+
+>Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ77895.1 Length: 532
+Range 1: 28 to 120
+
+Score:73.2 bits(178), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:40/95(42%), Positives:55/95(57%), Gaps:9/95(9%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+             S  EVAKHNK DD W++++G VYDL++F+  HPGG  V+   AGKD T  F  +H  +V
+Sbjct  28   FSKDEVAKHNKEDDLWIIVDGAVYDLSKFVDLHPGGAHVLVQVAGKDATEAFFGMHRSDV  87
+
+Query  151  IDKYIAPEKKLGPLQGSMP------PELVCP-PYA  178
+            + KY      +G ++G  P      P  + P PYA
+Sbjct  88   LIKY--GRYVIGTVEGQKPRVILPTPGTLSPVPYA  120
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides]
+Sequence ID: GEM06913.1 Length: 532
+Range 1: 28 to 120
+
+Score:73.2 bits(178), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:40/95(42%), Positives:55/95(57%), Gaps:9/95(9%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+             S  EVAKHNK DD W++++G VYDL++F+  HPGG  V+   AGKD T  F  +H  +V
+Sbjct  28   FSKDEVAKHNKEDDLWIIVDGAVYDLSKFVDLHPGGAHVLVQVAGKDATEAFFGMHRSDV  87
+
+Query  151  IDKYIAPEKKLGPLQGSMP------PELVCP-PYA  178
+            + KY      +G ++G  P      P  + P PYA
+Sbjct  88   LVKY--GRYVIGTVEGQKPRVILPTPGTLSPVPYA  120
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277088.1 Length: 532
+>acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]
+Sequence ID: EMS25969.1 Length: 532
+>RHTO0S03e08218g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38321.1 Length: 532 
+Range 1: 28 to 120
+
+Score:73.2 bits(178), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:40/95(42%), Positives:55/95(57%), Gaps:9/95(9%)
+
+Query  91   ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+             S  EVAKHNK DD W++++G VYDL++F+  HPGG  V+   AGKD T  F  +H  +V
+Sbjct  28   FSKDEVAKHNKEDDLWIIVDGAVYDLSKFVDLHPGGAHVLVQVAGKDATEAFFGMHRSDV  87
+
+Query  151  IDKYIAPEKKLGPLQGSMP------PELVCP-PYA  178
+            + KY      +G ++G  P      P  + P PYA
+Sbjct  88   LVKY--GRYVIGTVEGQKPRVILPTPGTLSPVPYA  120
+
+
+
+
+>fumarate reductase flavoprotein subunit [Rhodotorula toruloides]
+Sequence ID: GEM12499.1 Length: 633
+Range 1: 556 to 629
+
+Score:70.1 bits(170), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:32/75(43%), Positives:47/75(62%), Gaps:1/75(1%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +++ S  EVAKHN  DD W+ +NG V ++T FL +HPGG   +   AGK+ +  F  LH 
+Sbjct  556  QKEYSLDEVAKHNTKDDIWIAVNGQVLNVTNFLNDHPGGAKALLLYAGKEASEEFNMLHD  615
+
+Query  148  PNVIDKYIAPEKKLG  162
+            P V+ +Y AP+  +G
+Sbjct  616  PKVVSRY-APDTVIG  629
+
+
+
+
+>fumarate reductase flavoprotein subunit [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272619.1 Length: 633
+>fumarate reductase flavoprotein subunit [Rhodotorula toruloides NP11]
+Sequence ID: EMS21500.1 Length: 633
+>RHTO0S11e07008g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR45974.1 Length: 633 
+Range 1: 556 to 629
+
+Score:69.7 bits(169), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:32/75(43%), Positives:47/75(62%), Gaps:1/75(1%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +++ S  EVAKHN  DD W+ +NG V ++T FL +HPGG   +   AGK+ +  F  LH 
+Sbjct  556  QKEYSLDEVAKHNTKDDIWIAVNGQVLNVTNFLNDHPGGAKALLLYAGKEASEEFNMLHD  615
+
+Query  148  PNVIDKYIAPEKKLG  162
+            P V+ +Y AP+  +G
+Sbjct  616  PKVVSRY-APDTVIG  629
+
+
+
+
+>FAD binding domain-domain containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ70188.1 Length: 631
+Range 1: 554 to 627
+
+Score:69.7 bits(169), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:32/75(43%), Positives:47/75(62%), Gaps:1/75(1%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +++ S  EVAKHN  DD W+ +NG V ++T FL +HPGG   +   AGK+ +  F  LH 
+Sbjct  554  QKEYSLDEVAKHNTKDDIWIAVNGQVLNVTNFLNDHPGGAKALLLYAGKEASEEFNLLHD  613
+
+Query  148  PNVIDKYIAPEKKLG  162
+            P V+ +Y AP+  +G
+Sbjct  614  PKVVSRY-APDTVIG  627
+
+
+
+
+>Fumarate reductase [Rhodotorula toruloides]
+Sequence ID: KAJ8292586.1 Length: 998
+Range 1: 905 to 978
+
+Score:69.3 bits(168), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:32/75(43%), Positives:47/75(62%), Gaps:1/75(1%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +++ S  EVAKHN  DD W+ +NG V ++T FL +HPGG   +   AGK+ +  F  LH 
+Sbjct  905  QKEYSLDEVAKHNTKDDIWIAVNGQVLNVTNFLNDHPGGAKALLLYAGKEASEEFNMLHD  964
+
+Query  148  PNVIDKYIAPEKKLG  162
+            P V+ +Y AP+  +G
+Sbjct  965  PKVVSRY-APDTVIG  978
+
+
+
+
+>Cytochrome b5-like heme/steroid binding domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71265.1 Length: 227
+Range 1: 151 to 227
+
+Score:65.5 bits(158), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:32/77(42%), Positives:44/77(57%), Gaps:8/77(10%)
+
+Query  90   KISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA--  147
+            +I+P+E+AKHN  +DCW V NG VY++  FL  HPGG   +   AGKD T +F   HA  
+Sbjct  151  RITPSELAKHNTQEDCWQVYNGKVYNVGPFLRYHPGGAGEMMRAAGKDATHLFMLAHAWV  210
+
+Query  148  ------PNVIDKYIAPE  158
+                   N +  ++ PE
+Sbjct  211  NYETLLENCLVGFLVPE  227
+
+
+
+
+>RHTO0S07e01244g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR42563.1 Length: 227
+Range 1: 151 to 208
+
+Score:64.7 bits(156), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:29/58(50%), Positives:38/58(65%), Gaps:0/58(0%)
+
+Query  90   KISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +I+P+E+AKHN  +DCW V NG VY++  FL  HPGG   +   AGKD T +F   HA
+Sbjct  151  RITPSELAKHNTREDCWQVYNGKVYNVGPFLRYHPGGAGEMMRAAGKDATHLFMLAHA  208
+
+
+
+
+>Cytochrome b5 reductase 4 [Rhodotorula toruloides]
+Sequence ID: KAJ8295270.1 Length: 227
+Range 1: 151 to 208
+
+Score:64.7 bits(156), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:29/58(50%), Positives:38/58(65%), Gaps:0/58(0%)
+
+Query  90   KISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +I+P+E+AKHN  +DCW V NG VY++  FL  HPGG   +   AGKD T +F   HA
+Sbjct  151  RITPSELAKHNTREDCWQVYNGKVYNVGPFLRYHPGGAGEMMRAAGKDATHLFMLAHA  208
+
+
+
+
+>Serine/threonine-protein kinase svkA [Rhodotorula toruloides]
+Sequence ID: KAJ8296100.1 Length: 1423
+Range 1: 1345 to 1411
+
+Score:67.0 bits(162), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:30/67(45%), Positives:40/67(59%), Gaps:0/67(0%)
+
+Query  91    ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+             I+  EVAKHN  D  WV++ G VYD+T FL +HPGG+ V+    G+D T  F   H  +V
+Sbjct  1345  ITAEEVAKHNTADSAWVIVEGGVYDVTDFLEDHPGGKKVLLKACGQDSTEKFHQFHGASV  1404
+
+Query  151   IDKYIAP  157
+             + K   P
+Sbjct  1405  LKKTAKP  1411
+
+
+
+
+>Serine/threonine-protein kinase svkA [Rhodotorula toruloides]
+Sequence ID: KAJ8296101.1 Length: 1451
+Range 1: 1373 to 1439
+
+Score:67.0 bits(162), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:30/67(45%), Positives:40/67(59%), Gaps:0/67(0%)
+
+Query  91    ISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNV  150
+             I+  EVAKHN  D  WV++ G VYD+T FL +HPGG+ V+    G+D T  F   H  +V
+Sbjct  1373  ITAEEVAKHNTADSAWVIVEGGVYDVTDFLEDHPGGKKVLLKACGQDSTEKFHQFHGASV  1432
+
+Query  151   IDKYIAP  157
+             + K   P
+Sbjct  1433  LKKTAKP  1439
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016269558.1 Length: 520
+>acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]
+Sequence ID: EMS18439.1 Length: 520
+>Acyl-CoA dehydrogenase apdG [Rhodotorula toruloides]
+Sequence ID: KAJ8293663.1 Length: 520
+>RHTO0S04e12332g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR39943.1 Length: 520 
+Range 1: 1 to 71
+
+Score:66.2 bits(160), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:32/71(45%), Positives:44/71(61%), Gaps:2/71(2%)
+
+Query  86   MNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFN--AGKDVTAIFE  143
+            M  +  S  +V++HNK  D W+V+NG VYDL+RF   HPGG  V+  +  AGKD +  F 
+Sbjct  1    MAARTFSLEQVSEHNKEGDLWIVVNGDVYDLSRFTDIHPGGAGVLLASDIAGKDASEAFF  60
+
+Query  144  PLHAPNVIDKY  154
+             LH  +V+ KY
+Sbjct  61   SLHRSSVLAKY  71
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides]
+Sequence ID: GEM08969.1 Length: 518
+Range 1: 1 to 102
+
+Score:65.9 bits(159), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:41/106(39%), Positives:53/106(50%), Gaps:17/106(16%)
+
+Query  86   MNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFN--AGKDVTAIFE  143
+            M  Q  S  ++ +HNK  D W+V+NG VYDL+RF   HPGG  V+  +  AGKD +  F 
+Sbjct  1    MAAQTYSLEQINEHNKEGDLWIVVNGDVYDLSRFTDIHPGGAGVLLASNIAGKDASEAFF  60
+
+Query  144  PLHAPNVIDKY-----------IAPEKKLGPLQGSMPPELVCPPYA  178
+             LH   V+ KY            +  K L PL G + P     PYA
+Sbjct  61   SLHRSAVLAKYKRLIIGQLDSSSSSPKYLLPLDGELSP----VPYA  102
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides]
+Sequence ID: PRQ73500.1 Length: 520
+Range 1: 1 to 71
+
+Score:65.5 bits(158), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:31/71(44%), Positives:44/71(61%), Gaps:2/71(2%)
+
+Query  86   MNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFN--AGKDVTAIFE  143
+            M  +  S  ++++HNK  D W+V+NG VYDL+RF   HPGG  V+  +  AGKD +  F 
+Sbjct  1    MAARTFSLEQISEHNKEGDLWIVVNGDVYDLSRFTDIHPGGAGVLLASDIAGKDASEAFF  60
+
+Query  144  PLHAPNVIDKY  154
+             LH  +V+ KY
+Sbjct  61   SLHRSSVLAKY  71
+
+
+
+
+>Ceramide very long chain fatty acid hydroxylase SCS7 [Rhodotorula toruloides]
+Sequence ID: KAJ8292087.1 Length: 1006
+Range 1: 140 to 189
+
+Score:64.7 bits(156), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/50(54%), Positives:36/50(72%), Gaps:0/50(0%)
+
+Query  94   AEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFE  143
+            +EV KHN   DCWVV N  VYD+++FL +HPGG D+I   AGKD+T + +
+Sbjct  140  SEVEKHNTAKDCWVVHNNTVYDVSQFLEDHPGGDDLILNWAGKDITEVMQ  189
+
+
+
+
+>inositolphosphorylceramide-B C-26 hydroxylase [Rhodotorula toruloides]
+Sequence ID: PRQ72325.1 Length: 372
+Range 1: 18 to 67
+
+Score:63.2 bits(152), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/50(54%), Positives:36/50(72%), Gaps:0/50(0%)
+
+Query  94   AEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFE  143
+            +EV KHN   DCWVV N  VYD+++FL +HPGG D+I   AGKD+T + +
+Sbjct  18   SEVEKHNTAKDCWVVHNNRVYDVSQFLEDHPGGDDLILNWAGKDITEVMQ  67
+
+
+
+
+>fatty acid-2 hydroxylase [Rhodotorula toruloides]
+Sequence ID: GEM10662.1 Length: 372
+Range 1: 18 to 67
+
+Score:63.2 bits(152), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/50(54%), Positives:36/50(72%), Gaps:0/50(0%)
+
+Query  94   AEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFE  143
+            +EV KHN   DCWVV N  VYD+++FL +HPGG D+I   AGKD+T + +
+Sbjct  18   SEVEKHNTAKDCWVVHNNRVYDVSQFLEDHPGGDDLILNWAGKDITEVMQ  67
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016269664.1 Length: 542
+>acyl-CoA dehydrogenase [Rhodotorula toruloides NP11]
+Sequence ID: EMS18545.1 Length: 542
+>RHTO0S10e00232g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR44775.1 Length: 542 
+Range 1: 1 to 73
+
+Score:63.2 bits(152), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/73(37%), Positives:45/73(61%), Gaps:1/73(1%)
+
+Query  86   MNKQKISPAEVAKH-NKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            M +Q  +  +VA H ++ D  W+++ G VYD+T+FL +HPGG+ ++    GKD T  F  
+Sbjct  1    MPQQTFTKEQVASHTSEKDGVWIIVEGGVYDVTKFLDDHPGGKKILINQGGKDATEKFWS  60
+
+Query  145  LHAPNVIDKYIAP  157
+             H+ +V++K   P
+Sbjct  61   FHSKSVLEKTAKP  73
+
+
+
+
+>Acyl-CoA dehydrogenase apdG [Rhodotorula toruloides]
+Sequence ID: KAJ8295047.1 Length: 540
+Range 1: 1 to 73
+
+Score:63.2 bits(152), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/73(37%), Positives:45/73(61%), Gaps:1/73(1%)
+
+Query  86   MNKQKISPAEVAKH-NKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            M +Q  +  +VA H ++ D  W+++ G VYD+T+FL +HPGG+ ++    GKD T  F  
+Sbjct  1    MPQQTFTKEQVASHTSEKDGVWIIVEGGVYDVTKFLDDHPGGKKILINQGGKDATEKFWS  60
+
+Query  145  LHAPNVIDKYIAP  157
+             H+ +V++K   P
+Sbjct  61   FHSKSVLEKTAKP  73
+
+
+
+
+>fatty acid-2 hydroxylase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270955.1 Length: 372
+>fatty acid-2 hydroxylase [Rhodotorula toruloides NP11]
+Sequence ID: EMS19836.1 Length: 372
+>RHTO0S01e00760g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR35501.1 Length: 372 
+Range 1: 18 to 67
+
+Score:62.4 bits(150), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/50(54%), Positives:36/50(72%), Gaps:0/50(0%)
+
+Query  94   AEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFE  143
+            +EV KHN   DCWVV N  VYD+++FL +HPGG D+I   AGKD+T + +
+Sbjct  18   SEVDKHNTAKDCWVVHNNRVYDVSQFLEDHPGGDDLILNWAGKDITEVMQ  67
+
+
+
+
+>cytochrome b5 reductase 4 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276112.1 Length: 222
+>cytochrome b5 reductase 4 [Rhodotorula toruloides NP11]
+Sequence ID: EMS24993.1 Length: 222 
+Range 1: 151 to 201
+
+Score:60.1 bits(144), Expect:5e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/51(53%), Positives:35/51(68%), Gaps:0/51(0%)
+
+Query  90   KISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTA  140
+            +I+P+E+AKHN  +DCW V NG VY++  FL  HPGG   +   AGKDV A
+Sbjct  151  RITPSELAKHNTREDCWQVYNGKVYNVGPFLRYHPGGAGEMMRAAGKDVLA  201
+
+
+
+
+>nitrate reductase (NADH) [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271918.1 Length: 949
+>nitrate reductase (NADH) [Rhodotorula toruloides NP11]
+Sequence ID: EMS20799.1 Length: 949
+>RHTO0S05e01926g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40342.1 Length: 949 
+Range 1: 569 to 635
+
+Score:62.8 bits(151), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:31/70(44%), Positives:44/70(62%), Gaps:3/70(4%)
+
+Query  78   IDNEPKLDMNKQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKD  137
+            I  +P +D   +KI+ AE+  HNK D+ W V+NG VYD T FL +HPGG + I   AG+D
+Sbjct  569  IMTKPDVD---RKITRAELVAHNKEDEPWFVVNGEVYDGTGFLKDHPGGSESITLVAGED  625
+
+Query  138  VTAIFEPLHA  147
+             +  F  +H+
+Sbjct  626  ASEDFMAIHS  635
+
+
+
+
+>cytochrome b5 reductase 4 [Rhodotorula toruloides]
+Sequence ID: GEM09426.1 Length: 198
+Range 1: 127 to 177
+
+Score:59.7 bits(143), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/51(51%), Positives:35/51(68%), Gaps:0/51(0%)
+
+Query  90   KISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTA  140
+            +++P+E+AKHN  +DCW V NG VY++  FL  HPGG   +   AGKDV A
+Sbjct  127  RVTPSELAKHNTREDCWQVYNGKVYNVGPFLRYHPGGAGEMMRAAGKDVLA  177
+
+
+
+
+>Nitrate reductase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11696.1 Length: 937
+>nitrate reductase [Rhodotorula toruloides]
+Sequence ID: PRQ74655.1 Length: 937 
+Range 1: 565 to 623
+
+Score:62.8 bits(151), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:28/59(47%), Positives:39/59(66%), Gaps:0/59(0%)
+
+Query  89   QKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            +KI+ AE+  HNK D+ W V+NG VYD T FL +HPGG + I   AG+D +  F  +H+
+Sbjct  565  RKITRAELVAHNKEDEPWFVVNGEVYDGTGFLKDHPGGSESITLVAGEDASEDFMAIHS  623
+
+
+
+
+>acyl-CoA dehydrogenase [Rhodotorula toruloides]
+Sequence ID: GEM07418.1 Length: 555
+Range 1: 1 to 73
+
+Score:62.0 bits(149), Expect:8e-10, 
+Method:Compositional matrix adjust., 
+Identities:26/73(36%), Positives:45/73(61%), Gaps:1/73(1%)
+
+Query  86   MNKQKISPAEVAKH-NKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEP  144
+            M ++  +  +VA H ++ D  W+++ G VYD+T+FL +HPGG+ ++    GKD T  F  
+Sbjct  1    MAQKTFTKQQVASHTSEKDGVWIIVEGGVYDVTKFLDDHPGGKKILLKQGGKDATDQFNN  60
+
+Query  145  LHAPNVIDKYIAP  157
+             H+ +V++K   P
+Sbjct  61   FHSKSVLEKTAKP  73
+
+
+
+
+>Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ76668.1 Length: 544
+Range 1: 12 to 75
+
+Score:60.1 bits(144), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:25/64(39%), Positives:41/64(64%), Gaps:1/64(1%)
+
+Query  95   EVAKH-NKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPNVIDK  153
+            +VA H ++ D  W+++ G VYD+T+FL +HPGG+ ++    GKD T  F   H+ +V++K
+Sbjct  12   QVASHTSEKDGVWIIVEGGVYDVTKFLDDHPGGKKILLNQGGKDATEKFWSFHSKSVLEK  71
+
+Query  154  YIAP  157
+               P
+Sbjct  72   TAKP  75
+
+
+
+
+>hypothetical protein AAT19DRAFT_12702 [Rhodotorula toruloides]
+Sequence ID: PRQ77284.1 Length: 1075
+Range 1: 680 to 741
+
+Score:56.2 bits(134), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:26/62(42%), Positives:38/62(61%), Gaps:3/62(4%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGK---DVTAIFEP  144
+            +++ S  E+ KH++ DDCW+V++G VYD T  L  HPGG+  I  +AGK     T  F  
+Sbjct  680  EKQFSREEIEKHSRADDCWIVVDGKVYDATSVLDWHPGGKAAILSHAGKVHQQTTDEFAS  739
+
+Query  145  LH  146
+            +H
+Sbjct  740  IH  741
+
+
+
+
+>Nitrate reductase [NADH] [Rhodotorula toruloides]
+Sequence ID: KAJ8297357.1 Length: 1434
+Range 1: 886 to 947
+
+Score:55.5 bits(132), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:25/62(40%), Positives:38/62(61%), Gaps:3/62(4%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGK---DVTAIFEP  144
+            +++ +  E+ KH++ DDCW+V++G VYD T  L  HPGG+  I  +AGK     T  F  
+Sbjct  886  EKQFTREEIEKHSRADDCWIVVDGKVYDATSVLDWHPGGKAAILSHAGKVHQQTTDEFAS  945
+
+Query  145  LH  146
+            +H
+Sbjct  946  IH  947
+
+
+
+
+>sulfite oxidase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276043.1 Length: 1080
+>sulfite oxidase [Rhodotorula toruloides NP11]
+Sequence ID: EMS24924.1 Length: 1080
+>RHTO0S14e04962g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR47532.1 Length: 1080 
+Range 1: 685 to 746
+
+Score:55.1 bits(131), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:25/62(40%), Positives:38/62(61%), Gaps:3/62(4%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGK---DVTAIFEP  144
+            +++ +  E+ KH++ DDCW+V++G VYD T  L  HPGG+  I  +AGK     T  F  
+Sbjct  685  EKQFTREEIEKHSRADDCWIVVDGKVYDATSVLDWHPGGKAAILSHAGKVHQQTTDEFAS  744
+
+Query  145  LH  146
+            +H
+Sbjct  745  IH  746
+
+
+
+
+>sulfite oxidase [Rhodotorula toruloides]
+Sequence ID: GEM12114.1 Length: 1065
+Range 1: 688 to 749
+
+Score:54.3 bits(129), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:25/62(40%), Positives:37/62(59%), Gaps:3/62(4%)
+
+Query  88   KQKISPAEVAKHNKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGK---DVTAIFEP  144
+            +++ +  E+ KH + DDCW+V++G VYD T  L  HPGG+  I  +AGK     T  F  
+Sbjct  688  EKQFTREEIEKHGRADDCWIVVDGKVYDATSVLDWHPGGKAAILSHAGKVHQQTTDEFAS  747
+
+Query  145  LH  146
+            +H
+Sbjct  748  IH  749
+
+
+
+
+>cytochrome b5 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276655.1 Length: 172
+>cytochrome b5 [Rhodotorula toruloides NP11]
+Sequence ID: EMS25536.1 Length: 172
+>RHTO0S15e00914g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR47717.1 Length: 172 
+Range 1: 79 to 143
+
+Score:49.7 bits(117), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/65(37%), Positives:35/65(53%), Gaps:1/65(1%)
+
+Query  91   ISPAEVAKHNKPDD-CWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPN  149
+            I P  ++KHN  +D  W+++   VYD T FL  HPGG +V    AGK  T  F   H+  
+Sbjct  79   IPPESISKHNNLEDGLWIIVEDRVYDCTNFLDLHPGGPEVFHQFAGKQCTWQFWKWHSRK  138
+
+Query  150  VIDKY  154
+             ++ +
+Sbjct  139  HLEPW  143
+
+
+
+
+>putative cytochrome b5 [Rhodotorula toruloides]
+Sequence ID: KAJ8295663.1 Length: 172
+Range 1: 79 to 143
+
+Score:49.7 bits(117), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/65(37%), Positives:35/65(53%), Gaps:1/65(1%)
+
+Query  91   ISPAEVAKHNKPDD-CWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHAPN  149
+            I P  ++KHN  +D  W+++   VYD T FL  HPGG +V    AGK  T  F   H+  
+Sbjct  79   IPPESISKHNNLEDGLWIIVEDRVYDCTNFLDLHPGGPEVFHQFAGKQCTWQFWKWHSRK  138
+
+Query  150  VIDKY  154
+             ++ +
+Sbjct  139  HLEPW  143
+
+
+
+
+>fatty acid desaturase [Rhodotorula toruloides]
+Sequence ID: GEM11738.1 Length: 171
+Range 1: 78 to 135
+
+Score:46.6 bits(109), Expect:1e-05, 
+Method:Composition-based stats., 
+Identities:25/58(43%), Positives:31/58(53%), Gaps:1/58(1%)
+
+Query  91   ISPAEVAKH-NKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            I P  ++KH N  D  W+V+   VYD T FL  HPGG +V    AGK  T  F   H+
+Sbjct  78   IPPESISKHDNLEDGLWIVVEDRVYDCTNFLDLHPGGPEVFHQFAGKQCTWQFWKWHS  135
+
+
+
+
+>putative Fatty acid desaturase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12327.1 Length: 172
+>putative fatty acid desaturase [Rhodotorula toruloides]
+Sequence ID: PRQ74085.1 Length: 172 
+Range 1: 79 to 136
+
+Score:46.2 bits(108), Expect:1e-05, 
+Method:Composition-based stats., 
+Identities:25/58(43%), Positives:31/58(53%), Gaps:1/58(1%)
+
+Query  91   ISPAEVAKH-NKPDDCWVVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPLHA  147
+            I P  ++KH N  D  W+V+   VYD T FL  HPGG +V    AGK  T  F   H+
+Sbjct  79   IPPESISKHDNLKDGLWIVVEDRVYDCTNFLDLHPGGPEVFHQFAGKQCTWQFWKWHS  136
+
+
+
+
+>cytochrome b5 type b (outer mitochondrial membrane) [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273072.1 Length: 134
+>cytochrome b5 type b (outer mitochondrial membrane) [Rhodotorula toruloides NP11]
+Sequence ID: EMS21953.1 Length: 134
+>RHTO0S02e04566g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36616.1 Length: 134 
+Range 1: 25 to 95
+
+Score:42.4 bits(98), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:23/71(32%), Positives:36/71(50%), Gaps:7/71(9%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPL----HAPNVIDKYI---APEK  159
+            ++I+G VY +++FL  HPGG +V+    G+D T  FE +     A  ++ KY     PE 
+Sbjct  25   MLIHGKVYAISKFLDEHPGGDEVLFGEVGRDATEAFEDVGHSDEAREILKKYYVGEGPEG  84
+
+Query  160  KLGPLQGSMPP  170
+                  G+  P
+Sbjct  85   TASAASGAKAP  95
+
+
+
+
+>cytochrome b5 typeb [Rhodotorula toruloides]
+Sequence ID: GEM09139.1 Length: 134
+Range 1: 25 to 95
+
+Score:42.4 bits(98), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:23/71(32%), Positives:36/71(50%), Gaps:7/71(9%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPL----HAPNVIDKYI---APEK  159
+            ++I+G VY +++FL  HPGG +V+    G+D T  FE +     A  ++ KY     PE 
+Sbjct  25   MLIHGKVYAISKFLDEHPGGDEVLFGEVGRDATEAFEDVGHSDEAREILKKYYVGEGPEG  84
+
+Query  160  KLGPLQGSMPP  170
+                  G+  P
+Sbjct  85   TASSASGAKAP  95
+
+
+
+
+>Cytochrome b5-like heme/steroid binding domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ73344.1 Length: 100
+Range 1: 25 to 80
+
+Score:40.4 bits(93), Expect:4e-04, 
+Method:Composition-based stats., 
+Identities:20/56(36%), Positives:32/56(57%), Gaps:4/56(7%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFEPL----HAPNVIDKYIAPE  158
+            ++I+G VY +++FL  HPGG +V+    G+D T  FE +     A  ++ KY   E
+Sbjct  25   MLIHGKVYAISKFLDEHPGGDEVLFGEVGRDATEAFEDVGHSDEAREILKKYYVGE  80
+
+
+
+
+>Cytochrome b5 [Rhodotorula toruloides]
+Sequence ID: KAJ8296332.1 Length: 389
+Range 1: 280 to 316
+
+Score:40.0 bits(92), Expect:0.004, 
+Method:Compositional matrix adjust., 
+Identities:16/37(43%), Positives:25/37(67%), Gaps:0/37(0%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIFE  143
+            ++I+G VY +++FL  HPGG +V+    G+D T  FE
+Sbjct  280  MLIHGKVYAISKFLDEHPGGDEVLFGEVGRDATEAFE  316
+
+
+
+
+>delta-9 fatty acid desaturase [Rhodotorula toruloides]
+Sequence ID: ANJ02850.1 Length: 545
+>delta9 fatty acid desaturase/stearoyl-CoA desaturase [Rhodotorula toruloides]
+Sequence ID: AXG32173.1 Length: 545
+>putative stearoyl-CoA 9-desaturase [Rhodotorula toruloides]
+Sequence ID: PRQ71615.1 Length: 545 
+Range 1: 408 to 443
+
+Score:39.3 bits(90), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:14/36(39%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIF  142
+            +V+ G+++D++ F+  HPGG  +IK   G+D T  F
+Sbjct  408  LVVAGFIHDVSTFIDQHPGGAGLIKTRLGRDATTAF  443
+
+
+
+
+>delta-9 fatty acid desaturase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270987.1 Length: 545
+>delta-9 fatty acid desaturase [Rhodotorula toruloides NP11]
+Sequence ID: EMS19868.1 Length: 545
+>Acyl-CoA desaturase [Rhodotorula toruloides]
+Sequence ID: KAJ8292883.1 Length: 545
+>RHTO0S09e07690g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR44689.1 Length: 545 
+Range 1: 408 to 443
+
+Score:39.3 bits(90), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:14/36(39%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIF  142
+            +V+ G+++D++ F+  HPGG  +IK   G+D T  F
+Sbjct  408  LVVAGFIHDVSTFIDQHPGGAGLIKTRLGRDATTAF  443
+
+
+
+
+>putative Stearoyl-CoA 9-desaturase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12115.1 Length: 533
+Range 1: 396 to 431
+
+Score:39.3 bits(90), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:14/36(39%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIF  142
+            +V+ G+++D++ F+  HPGG  +IK   G+D T  F
+Sbjct  396  LVVAGFIHDVSTFIDQHPGGAGLIKTRLGRDATTAF  431
+
+
+
+
+>delta-9 fatty acid desaturase [Rhodotorula toruloides]
+Sequence ID: GEM10072.1 Length: 513
+Range 1: 376 to 411
+
+Score:38.9 bits(89), Expect:0.011, 
+Method:Compositional matrix adjust., 
+Identities:14/36(39%), Positives:24/36(66%), Gaps:0/36(0%)
+
+Query  107  VVINGYVYDLTRFLPNHPGGQDVIKFNAGKDVTAIF  142
+            +V+ G+++D++ F+  HPGG  +IK   G+D T  F
+Sbjct  376  LVVAGFIHDVSTFIDQHPGGAGLIKTRLGRDATTAF  411
+
+
+
+
+
+
+
+		
+
+

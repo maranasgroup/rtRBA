@@ -1,0 +1,9 @@
+Equation EnzCap0; EnzCap0.. v('ENZLOAD-ACt_c_m_FWD-rt5456')*865510962655770.1 =e= %mu% * v('RXN-ACt_c_m_FWD-rt5456');
+Equation EnzCap1; EnzCap1.. v('ENZLOAD-DGAT_rm_FWD-rt8092_rm')*865510962655770.1 =e= %mu% * v('RXN-DGAT_rm_FWD-rt8092_rm');
+Equation EnzCap2; EnzCap2.. v('ENZLOAD-FDH_c_FWD-rt3584')*865510962655770.1 =e= %mu% * v('RXN-FDH_c_FWD-rt3584');
+Equation EnzCap3; EnzCap3.. v('ENZLOAD-GF6PTA_c_FWD-rt3731')*865510962655770.1 =e= %mu% * v('RXN-GF6PTA_c_FWD-rt3731');
+Equation EnzCap4; EnzCap4.. v('ENZLOAD-H2Ot_c_e_REV-rt0646')*865510962655770.1 =e= %mu% * v('RXN-H2Ot_c_e_REV-rt0646');
+Equation EnzCap5; EnzCap5.. v('ENZLOAD-HEMEOS_m_FWD-rt2735')*865510962655770.1 =e= %mu% * v('RXN-HEMEOS_m_FWD-rt2735');
+Equation EnzCap6; EnzCap6.. v('ENZLOAD-PPCDC_c_FWD-rt0168')*865510962655770.1 =e= %mu% * v('RXN-PPCDC_c_FWD-rt0168');
+Equation EnzCap7; EnzCap7.. v('ENZLOAD-STATg_rm_FWD-rt3431')*865510962655770.1 =e= %mu% * v('RXN-STATg_rm_FWD-rt3431');
+Equation EnzCap8; EnzCap8.. v('ENZLOAD-UPP3S_c_FWD-rt2147')*865510962655770.1 =e= %mu% * v('RXN-UPP3S_c_FWD-rt2147');

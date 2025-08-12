@@ -1,0 +1,301 @@
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r'}
+Nonlethal knockout:  {'RPE_c', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'ACGAM6S2_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'TKT1_c'}
+Lethal knockout:  {'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'DPGM_c'}
+Nonlethal knockout:  {'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'RPE_c', 'DPGM_c', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'RPE_c', 'DPGM_c', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'RPE_c', 'DPGM_c', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'RPE_c', 'DPGM_c', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'RPE_c', 'DPGM_c', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT1_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S1_r', 'DPGM_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S1_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S1_r', 'DPGM_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S1_r', 'DPGM_c'}
+Lethal knockout:  {'TKT1_c', 'RPE_c', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S1_r', 'DPGM_c'}
+Lethal knockout:  {'RPE_c', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'DPGM_c', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'RPE_c', 'DPGM_c', 'ACGAM6S1_r'}
+Lethal knockout:  {'RPE_c', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'RPE_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'RPE_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'DPGM_c', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'TKT1_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT1_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Nonlethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Nonlethal knockout:  {'TKT1_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'ACGAM6S2_r', 'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S2_r', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'ACGAM6S1_r', 'ACGAM6S2_r', 'DPGM_c', 'TKT2_c'}
+Nonlethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'DPGM_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'ACGAM6S1_r', 'DPGM_c', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Lethal knockout:  {'TKT1_c', 'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}
+Nonlethal knockout:  {'DPGM_c', 'ACGAM6S1_r', 'TKT2_c'}

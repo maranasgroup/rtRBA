@@ -1,0 +1,26 @@
+{
+    "name": "your-project-specific-commands",
+    "displayName": "Your Project Specific Commands",
+    "description": "Custom commands for this project",
+    "version": "0.0.1",
+    "contributes": {
+        "commands": [
+            {
+                "command": "your-project.compareSortedWithLastCommit",
+                "title": "Compare Sorted with Last Commit"
+            }
+        ],
+        "menus": {
+            "explorer/context": [
+                {
+                    "command": "your-project.compareSortedWithLastCommit",
+                    "group": "navigation",
+                    "when": "scmProvider == git" 
+                }
+            ]
+        }
+    },
+    "scripts": {
+        "vscode:prepublish": "echo 'Hello world!'"
+    }
+}

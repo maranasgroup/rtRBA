@@ -1,0 +1,40 @@
+id,object_type,command
+# created on 2024-05-16 11:49:00 EST
+# how to obtain a rxn's equation:
+# rxn='BIOMASS'; print(rxn+',r,reaction:'+cobra.io.load_json_model('./input/iRhtoC.json').reactions.get_by_id(rxn).reaction)
+
+# different composition of acyl-CoA
+compACYLCOA_c,r,reaction:0.017295 docoscoa_c + 0.169042 linocoa_c + 0.061304 linolncoa_c + 0.422278 odecoa_c + 0.162602 pmtcoa_c + 0.138151 stcoa_c + 0.029328 ttccoa_c <=> acylcoa_c
+compACYLCOA_l,r,reaction:0.017295 docoscoa_l + 0.169042 linocoa_l + 0.061304 linolncoa_l + 0.422278 odecoa_l + 0.162602 pmtcoa_l + 0.138151 stcoa_l + 0.029328 ttccoa_l <=> acylcoa_l
+compACYLCOA_m,r,reaction:0.017295 docoscoa_m + 0.169042 linocoa_m + 0.061304 linolncoa_m + 0.422278 odecoa_m + 0.162602 pmtcoa_m + 0.138151 stcoa_m + 0.029328 ttccoa_m <=> acylcoa_m
+compACYLCOA_r,r,reaction:0.017295 docoscoa_r + 0.169042 linocoa_r + 0.061304 linolncoa_r + 0.422278 odecoa_r + 0.162602 pmtcoa_r + 0.138151 stcoa_r + 0.029328 ttccoa_r <=> acylcoa_r
+compACYLCOA_rm,r,reaction:0.017295 docoscoa_rm + 0.169042 linocoa_rm + 0.061304 linolncoa_rm + 0.422278 odecoa_rm + 0.162602 pmtcoa_rm + 0.138151 stcoa_rm + 0.029328 ttccoa_rm <=> acylcoa_rm
+compACYLCOA_x,r,reaction:0.017295 docoscoa_x + 0.169042 linocoa_x + 0.061304 linolncoa_x + 0.422278 odecoa_x + 0.162602 pmtcoa_x + 0.138151 stcoa_x + 0.029328 ttccoa_x <=> acylcoa_x
+
+# different composition of fatty acid 
+compFALPD_mm,r,reaction:0.162602 hdca_mm + 0.138151 ocdca_mm + 0.422278 ocdcea_mm + 0.169042 linoea_mm + 0.061304 linolen_mm + 0.017295 docosa_mm + 0.029328 ttcosa_mm <=> falpd_mm
+compFALPD_m,r,reaction:0.162602 hdca_m + 0.138151 ocdca_m + 0.422278 ocdcea_m + 0.169042 linoea_m + 0.061304 linolen_m + 0.017295 docosa_m + 0.029328 ttcosa_m <=> falpd_m
+compFALPD_rm,r,reaction:0.162602 hdca_rm + 0.138151 ocdca_rm + 0.422278 ocdcea_rm + 0.169042 linoea_rm + 0.061304 linolen_rm + 0.017295 docosa_rm + 0.029328 ttcosa_rm <=> falpd_rm
+compFALPD_en,r,reaction:0.162602 hdca_en + 0.138151 ocdca_en + 0.422278 ocdcea_en + 0.169042 linoea_en + 0.061304 linolen_en + 0.017295 docosa_en + 0.029328 ttcosa_en <=> falpd_en
+compFALPD_c,r,reaction:0.162602 hdca_c + 0.138151 ocdca_c + 0.422278 ocdcea_c + 0.169042 linoea_c + 0.061304 linolen_c + 0.017295 docosa_c + 0.029328 ttcosa_c <=> falpd_c
+
+# xylose metabolism corrections (commented out: other differences between release2 versions that reflect model version differences not condition-specific differences)
+# keep ABTD2Dy_c + ABTD4Dy_c off since they're part of corrections to the carbon metabolism
+# ABTD2Dy_c and ABTD4Dy_c had different GPRs in C-lim version because it was updated later than the N-limited version. Will use C-limited versions.
+## already applied in later updates: 
+#ABTD2Dx_c,r,lower_bound:-1000
+#ABTD2Dx_c,r,upper_bound:1000
+#ABTD4Dx_c,r,lower_bound:-1000
+#ABTD4Dx_c,r,upper_bound:1000
+
+# kept off to reflect updates to release2 of C-lim that Hoang forgot to apply to N-lim
+# XYLK_c,r,upper_bound:1000
+# XYLI1_c,r,lower_bound:-1000
+# XYLI1_c,r,upper_bound:1000
+
+# different biomass rxn
+BIOMASS,r,name:Biomass in chemostat (continuous) under nitrogen (NH4) limitation
+# doesn't work here so update in transaction-file.py instead: BIOMASS,r,reaction:1.51077453763982 13BDglucan_c + 0.397573120425124 16BDglucan_en + 0.0233952647746882 G00006_c + 0.126364048250071 alatrna_c + 0.00015090798409784 amet_c + 0.0499248142909947 argtrna_c + 0.0600132228405177 asntrna_c + 0.0600132228405177 asptrna_c + 228.020178 atp_c + 0.00015090798409784 btn_c + 0.00194067667549823 ca2_c + 0.0357184107561178 chtn_c + 0.00015090798409784 coa_c + 0.106438384735755 ctp_c + 0.000172035101871538 cu2_c + 0.00181079032725653 cystrna_c + 0.0107069214717418 datp_c + 0.0167115501589948 dctp_c + 0.0167115501589948 dgtp_c + 6.18722734801146e-05 docosa_c + 0.0107069214717418 dttp_c + 0.154787828368996 epist_c + 0.00015090798409784 fad_c + 0.00100202901440966 fe2_c + 0.100108406386661 glntrna_c + 0.100108406386661 glutrna_c + 0.114982404982636 glytrna_c + 0.0256377574183821 gpianchorSC_r + 0.0932629338070188 gtp_c + 227.9592 h2o_c + 0.000721340163987677 hdca_c + 0.00015090798409784 hemeA_c + 0.0249624071454974 histrna_c + 0.0761807833071284 iletrna_c + 0.0121948741949465 ipc_g + 0.910956046006613 k_c + 0.103600434562477 leutrna_c + 0.00183956832615267 linoea_c + 0.000493469107999938 linolen_c + 0.084975629986015 lystrna_c + 0.0147447732700003 mettrna_c + 0.0959880414451133 mg2_c + 0.00014185350505197 mn2_c + 0.00015090798409784 nad_c + 0.00015090798409784 nadp_c + 0.000479887389431132 ocdca_c + 0.000881302627131388 ocdcea_c + 0.0721159074406759 oglycanSC_g + 0.0331031753917023 pail_c + 0.062122780733717 pc_c + 0.0150047808588483 pe_c + 0.0486315795730823 phetrna_c + 0.0545811790114721 protrna_c + 0.00804641371209685 ps_c + 0.00015090798409784 pydx5p_c + 0.00015090798409784 ribflv_c + 0.0689376219981023 sertrna_c + 0.0471179998748687 so4_c + 0.00015090798409784 spmd_c + 0.0190838236690129 tag_c + 0.00015090798409784 thf_c + 0.00015090798409784 thmpp_c + 0.0720419741959952 thrtrna_c + 0.00840717070096447 trptrna_c + 0.000380288119926558 ttcosa_c + 0.0253504102761435 tyrtrna_c + 0.0557936221122254 utp_c + 0.0948055878835899 valtrna_c + 0.00237830982938196 zn2_c --> 227.9592 adp_c + 227.9592 h_c + 227.799758 pi_c + 0.371309649515556 ppi_c + 0.126364048250071 trnaala_c + 0.0499248142909947 trnaarg_c + 0.0600132228405177 trnaasn_c + 0.0600132228405177 trnaasp_c + 0.00181079032725653 trnacys_c + 0.100108406386661 trnagln_c + 0.100108406386661 trnaglu_c + 0.114982404982636 trnagly_c + 0.0249624071454974 trnahis_c + 0.0761807833071284 trnaile_c + 0.103600434562477 trnaleu_c + 0.084975629986015 trnalys_c + 0.0147447732700003 trnamet_c + 0.0486315795730823 trnaphe_c + 0.0545811790114721 trnapro_c + 0.0689376219981023 trnaser_c + 0.0720419741959952 trnathr_c + 0.00840717070096447 trnatrp_c + 0.0253504102761435 trnatyr_c + 0.0948055878835899 trnaval_c
+# different ngam
+# stuck with the old ngam since it was negative during the most recent tests
+ATPM_c,r,lower_bound:1.189

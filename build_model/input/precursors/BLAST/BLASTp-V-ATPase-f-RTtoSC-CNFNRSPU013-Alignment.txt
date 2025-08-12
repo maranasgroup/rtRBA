@@ -1,0 +1,169 @@
+RID: CNFNRSPU013	
+Job Title:tr|A0A0K3CIG5|A0A0K3CIG5_RHOTO Uncharacterized...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: tr|A0A0K3CIG5|A0A0K3CIG5_RHOTO Uncharacterized protein OS=Rhodosporidium toruloides OX=5286 GN=FGENESH: predicted gene_5.422 PE=4 SV=1 Query ID: lcl|Query_71807 Length: 87
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+uncharacterized protein YPR170W-B [Saccharomyces cerevisiae...    Saccharomyce... NA              559292     72.0   72.0  89%   7e-19 47.44  85         NP_001106949.1   
+2.7A Yeast Vo state3 [Saccharomyces cerevisiae S288C]             Saccharomyce... NA              559292     61.6   61.6  77%   6e-15 46.27  69         6M0R_O           
+RecName: Full=Putative uncharacterized protein YPR169W-A...       Saccharomyce... NA              559292     49.7   49.7  60%   3e-10 45.28  72         P0C5R7.1         
+amino acid transporter AGP1 [Saccharomyces cerevisiae S288C]      Saccharomyce... NA              559292     25.0   25.0  26%   2.2   43.48  633        NP_009905.3      
+cullin CUL3 [Saccharomyces cerevisiae S288C]                      Saccharomyce... NA              559292     24.6   24.6  51%   3.1   28.89  744        NP_011517.1      
+glutamine permease GNP1 [Saccharomyces cerevisiae S288C]          Saccharomyce... NA              559292     24.3   24.3  35%   4.2   32.26  663        NP_010796.1      
+branched-chain amino acid permease BAP2 [Saccharomyces...         Saccharomyce... NA              559292     23.5   23.5  26%   7.8   39.13  609        NP_009624.4      
+
+
+Alignments:
+
+>uncharacterized protein YPR170W-B [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_001106949.1 Length: 85
+>RecName: Full=V-type proton ATPase subunit f; Short=V-ATPase subunit f [Saccharomyces cerevisiae S288C]
+Sequence ID: P0C5R9.1 Length: 85
+>Yeast Vacuolar ATPase Vo in lipid nanodisc [Saccharomyces cerevisiae S288C]
+Sequence ID: 6C6L_O Length: 85
+>Chain f, Putative protein YPR170W-B [Saccharomyces cerevisiae S288C]
+Sequence ID: 6O7V_f Length: 85
+>Chain f, Putative protein YPR170W-B [Saccharomyces cerevisiae S288C]
+Sequence ID: 6O7W_f Length: 85
+>Chain f, Putative protein YPR170W-B [Saccharomyces cerevisiae S288C]
+Sequence ID: 6O7X_f Length: 85
+>Yeast Vo motor in complex with 1 VopQ molecule [Saccharomyces cerevisiae S288C]
+Sequence ID: 6PE4_F Length: 85
+>Yeast Vo motor in complex with 2 VopQ molecules [Saccharomyces cerevisiae S288C]
+Sequence ID: 6PE5_F Length: 85
+>Chain f, Yeast Vacuolar ATPase f subunit [Saccharomyces cerevisiae S288C]
+Sequence ID: 7FDA_f Length: 85
+>Chain f, Yeast Vacuolar ATPase f subunit [Saccharomyces cerevisiae S288C]
+Sequence ID: 7FDB_f Length: 85
+>Chain f, Yeast Vacuolar ATPase f subunit [Saccharomyces cerevisiae S288C]
+Sequence ID: 7FDC_f Length: 85 
+Range 1: 1 to 78
+
+Score:72.0 bits(175), Expect:7e-19, 
+Method:, 
+Identities:37/78(47%), Positives:47/78(60%), Gaps:0/78(0%)
+
+Query  2   LRPLVSTNLATCCSVLSLFGFLILGALGTAFNAGVEVLLRSEESPEDGHAVAVNCWFASL  61
+           +RP+VST  A CC+VLS FG +IL  +   FN   E  + S   PEDG AVA   + A+L
+Sbjct  1   MRPVVSTGKAWCCTVLSAFGVVILSVIAHLFNTNHESFVGSINDPEDGPAVAHTVYLAAL  60
+
+Query  62  VYLAFAIFCTCQIGANRR  79
+           VYL F +FC  Q+   RR
+Sbjct  61  VYLVFFVFCGFQVYLARR  78
+
+
+
+
+>2.7A Yeast Vo state3 [Saccharomyces cerevisiae S288C]
+Sequence ID: 6M0R_O Length: 69
+>3.6A Yeast Vo state3 prime [Saccharomyces cerevisiae S288C]
+Sequence ID: 6M0S_O Length: 69 
+Range 1: 1 to 67
+
+Score:61.6 bits(148), Expect:6e-15, 
+Method:, 
+Identities:31/67(46%), Positives:39/67(58%), Gaps:0/67(0%)
+
+Query  8   TNLATCCSVLSLFGFLILGALGTAFNAGVEVLLRSEESPEDGHAVAVNCWFASLVYLAFA  67
+           T  A CC+VLS FG +IL  +   FN   E  + S   PEDG AVA   + A+LVYL F 
+Sbjct  1   TGKAWCCTVLSAFGVVILSVIAHLFNTNHESFVGSINDPEDGPAVAHTVYLAALVYLVFF  60
+
+Query  68  IFCTCQI  74
+           +FC  Q+
+Sbjct  61  VFCGFQV  67
+
+
+
+
+>RecName: Full=Putative uncharacterized protein YPR169W-A [Saccharomyces cerevisiae S288C]
+Sequence ID: P0C5R7.1 Length: 72
+Range 1: 1 to 53
+
+Score:49.7 bits(117), Expect:3e-10, 
+Method:, 
+Identities:24/53(45%), Positives:31/53(58%), Gaps:0/53(0%)
+
+Query  2   LRPLVSTNLATCCSVLSLFGFLILGALGTAFNAGVEVLLRSEESPEDGHAVAV  54
+           +RP+VST  A CC+VLS FG +IL  +   FN   E  + S   PEDG A  +
+Sbjct  1   MRPVVSTGKAWCCTVLSAFGVVILSVIAHLFNTNHESFVGSINDPEDGPAYVI  53
+
+
+
+
+>amino acid transporter AGP1 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009905.3 Length: 633
+>RecName: Full=General amino acid permease AGP1; AltName: Full=Asparagine/glutamine permease [Saccharomyces cerevisiae S288C]
+Sequence ID: P25376.3 Length: 633 
+Range 1: 265 to 287
+
+Score:25.0 bits(53), Expect:2.2, 
+Method:, 
+Identities:10/23(43%), Positives:13/23(56%), Gaps:0/23(0%)
+
+Query  13   CCSVLSLFGFLILGALGTAFNAG  35
+            CC +L + GF ILG +     AG
+Sbjct  265  CCKILMMTGFFILGIIIDVGGAG  287
+
+
+
+
+>cullin CUL3 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_011517.1 Length: 744
+>RecName: Full=Cullin-3; AltName: Full=Cullin-B [Saccharomyces cerevisiae S288C]
+Sequence ID: P53202.1 Length: 744 
+Range 1: 457 to 501
+
+Score:24.6 bits(52), Expect:3.1, 
+Method:, 
+Identities:13/45(29%), Positives:23/45(51%), Gaps:0/45(0%)
+
+Query  23   LILGALGTAFNAGVEVLLRSEESPEDGHAVAVNCWFASLVYLAFA  67
+            +I   LGT F + +E++LR      + +    +    S+ YL+FA
+Sbjct  457  MIKKVLGTFFTSKLEIMLRDISLSSEMYQAFQHSTINSIEYLSFA  501
+
+
+
+
+>glutamine permease GNP1 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_010796.1 Length: 663
+>RecName: Full=High-affinity glutamine permease [Saccharomyces cerevisiae S288C]
+Sequence ID: P48813.2 Length: 663 
+Range 1: 294 to 324
+
+Score:24.3 bits(51), Expect:4.2, 
+Method:, 
+Identities:10/31(32%), Positives:16/31(51%), Gaps:0/31(0%)
+
+Query  13   CCSVLSLFGFLILGALGTAFNAGVEVLLRSE  43
+            CC +L + GF IL  +     AG +  + S+
+Sbjct  294  CCKILMIVGFFILAIIIDCGGAGTDGYIGSK  324
+
+
+
+
+>branched-chain amino acid permease BAP2 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009624.4 Length: 609
+>RecName: Full=Leu/Val/Ile amino-acid permease; AltName: Full=Branched-chain amino-acid permease 2 [Saccharomyces cerevisiae S288C]
+Sequence ID: P38084.2 Length: 609 
+Range 1: 240 to 262
+
+Score:23.5 bits(49), Expect:7.8, 
+Method:, 
+Identities:9/23(39%), Positives:13/23(56%), Gaps:0/23(0%)
+
+Query  13   CCSVLSLFGFLILGALGTAFNAG  35
+            CC +L + GF+IL  +     AG
+Sbjct  240  CCKILMIAGFIILSIVINCGGAG  262
+
+
+
+
+
+
+
+		
+
+

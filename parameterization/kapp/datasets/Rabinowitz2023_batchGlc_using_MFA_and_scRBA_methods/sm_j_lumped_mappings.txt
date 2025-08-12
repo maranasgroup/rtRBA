@@ -1,0 +1,12 @@
+/
+*Uncomment lines to use them (e.g., if v=0 for 'DGAT', which represents 'DGAT_c' and 'DGAT_m', line should be "'DGAT'.('DGAT_c','DGAT_m') 0")
+*'BIOMASS'.('','') 0.3865767403467832
+*'lumpFACOA160_c'.('','') 0.06036707134808959
+*'lumpFACOA180_c'.('','') 0.04881788035897049
+*'lumpFACOA200_c'.('','') 0.005799317620534721
+*'lumpFACOA220_c'.('','') 0.005799317620534721
+*'lumpFACOA240_c'.('','') 0.00474246957805935
+*'lumpFACOA260_c'.('','') 0.001000460604017428
+*'lumpFREEFA_c'.('','') 0.0007430004949465173
+*'lumpIPC_c'.('','') 0.0005002303020087374
+/

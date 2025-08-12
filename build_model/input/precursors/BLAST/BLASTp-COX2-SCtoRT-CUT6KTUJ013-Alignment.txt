@@ -1,0 +1,75 @@
+RID: CUT6KTUJ013	
+Job Title:SCtoRT-COX2				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_169067 Length: 252
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+cytochrome c oxidase subunit 2 [Rhodotorula toruloides]           Rhodotorula ... NA              5286       308    308   93%   1e-106 61.76  245        YP_009988024.1   
+cytochrome c oxidase subunit II [Rhodotorula toruloides]          Rhodotorula ... NA              5286       171    171   53%   6e-54  55.15  157        BAA09542.1       
+
+
+Alignments:
+
+>cytochrome c oxidase subunit 2 [Rhodotorula toruloides]
+Sequence ID: YP_009988024.1 Length: 245
+>cytochrome c oxidase subunit 2 [Rhodotorula toruloides]
+Sequence ID: QNL17834.1 Length: 245
+>cytochrome c oxidase subunit 2 [Rhodotorula toruloides]
+Sequence ID: CAE5968169.1 Length: 245 
+Range 1: 7 to 244
+
+Score:308 bits(790), Expect:1e-106, 
+Method:Compositional matrix adjust., 
+Identities:147/238(62%), Positives:182/238(76%), Gaps:2/238(0%)
+
+Query  16   DVPTPYACYFQDSATPNQEGILELHDNIMFYLLVILGLVSWMLYTIVMTYS--KNPIAYK  73
+            DVP P+   FQD ATP  EGI+ELHD I FYL+VI  LV WML  I+  +S  K  I +K
+Sbjct  7    DVPYPWQIGFQDGATPTFEGIVELHDTIFFYLVVISFLVFWMLAVIIAKFSSSKVGIVHK  66
+
+Query  74   YIKHGQTIEVIWTIFPAVILLIIAFPSFILLYLCDEVISPAMTIKAIGYQWYWKYEYSDF  133
+            Y  HG  IE++WTI PA++L+ IAFPSF LLYL DEVISP MT+K  G+QWYW YEYSDF
+Sbjct  67   YHNHGVLIELVWTITPALVLIAIAFPSFKLLYLMDEVISPTMTVKVAGHQWYWSYEYSDF  126
+
+Query  134  INDSGETVEFESYVIPDELLEEGQLRLLDTDTSMVVPVDTHIRFVVTAADVIHDFAIPSL  193
+            I   GE++EF+SY++P+  LE GQLRLL+ D  +VVPVDTHIRF+VT  DVIHD+A+P+L
+Sbjct  127  ITADGESIEFDSYMVPESDLELGQLRLLEVDNRVVVPVDTHIRFIVTGQDVIHDWAVPAL  186
+
+Query  194  GIKVDATPGRLNQVSALIQREGVFYGACSELCGTGHANMPIKIEAVSLPKFLEWLNEQ  251
+            G+K+DA PGRLNQ S ++QR GV+YG CSE+CG  HA MPI +EAV+L K+L WL+ Q
+Sbjct  187  GLKMDAVPGRLNQTSIIVQRPGVYYGQCSEICGVYHAFMPIVVEAVTLDKYLMWLDSQ  244
+
+
+
+
+>cytochrome c oxidase subunit II, partial [Rhodotorula toruloides]
+Sequence ID: BAA09542.1 Length: 157
+Range 1: 21 to 156
+
+Score:171 bits(434), Expect:6e-54, 
+Method:Compositional matrix adjust., 
+Identities:75/136(55%), Positives:102/136(75%), Gaps:0/136(0%)
+
+Query  64   TYSKNPIAYKYIKHGQTIEVIWTIFPAVILLIIAFPSFILLYLCDEVISPAMTIKAIGYQ  123
+             Y+ +PIA KY  HG  +E IWT+ PA+IL+++A PSF LLYL DEV  P+MT+KAIG Q
+Sbjct  21   NYNSHPIAAKYTTHGSIVEFIWTLIPALILILVALPSFKLLYLLDEVQKPSMTVKAIGRQ  80
+
+Query  124  WYWKYEYSDFINDSGETVEFESYVIPDELLEEGQLRLLDTDTSMVVPVDTHIRFVVTAAD  183
+            W+W YE +DF+ +  E V F+SY++P+E LEEG LR L+ D  +V+P+DT IR ++T+ D
+Sbjct  81   WFWSYELNDFVTNENEPVSFDSYMVPEEDLEEGSLRQLEVDNRLVLPIDTRIRLILTSGD  140
+
+Query  184  VIHDFAIPSLGIKVDA  199
+            VIH +A+PSLGIK D 
+Sbjct  141  VIHSWAVPSLGIKCDC  156
+
+
+
+
+
+
+
+		
+
+

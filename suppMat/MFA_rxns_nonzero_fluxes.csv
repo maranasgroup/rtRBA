@@ -1,0 +1,373 @@
+﻿rxn_name,category
+"1,3-beta-glucan synthase",0
+"1,6-beta-glucan synthase",0
+2-oxobutanoate transporter,0
+2-oxoadipate and 2-oxoglutarate transport,0
+L-aminoadipate-semialdehyde dehydrogenase (NADPH),0
+2-aminoadipate transaminase,0
+4-aminobutyrate transaminase,1
+acetyl-CoA C-acetyltransferase,0
+N-acetylglucosamine-6-phosphate synthase,0
+phosphoacetylglucosamine mutase,0
+acetylglutamate kinase,0
+2-aceto-2-hydroxybutanoate synthase,0
+ATP citrate lyase,0
+acetate kinase,0
+acetolactate synthase,0
+stearoyl-CoA desaturase (n-C18:0CoA -> n-C18:1CoA),0
+stearoyl-CoA desaturase (n-C18:1CoA -> n-C18:2CoA),0
+linoleoyl-CoA desaturase (n-C18:2CoA -> n-C18:3CoA),0
+citrate to cis-aconitate(3-),0
+cis-aconitate(3-) to isocitrate,0
+acteylornithine transaminase,0
+acetyl-CoA synthetase,0
+adenylate kinase,0
+adenosine kinase,0
+ADP/ATP transporter,0
+adenylyl-sulfate kinase,0
+adenylosuccinate lyase,0
+adenylosuccinate lyase (AICAR),0
+adenylosuccinate synthase,0
+1-Acyl-sn-glycerol-3-phosphate acyltransferase,0
+N-acetyl-g-glutamyl-phosphate reductase,0
+alanine glyoxylate aminotransferase,1
+adenosylhomocysteinase,0
+O-acetylhomoserine (thiol)-lyase,0
+phosphoribosylaminoimidazolecarboxamide formyltransferase,0
+phosphoribosylaminoimidazole-carboxylase,0
+"AKG transporter, mitochondrial",0
+2-oxoglutarate dehydrogenase,0
+oxoglutarate/malate exchange,0
+L-alanine transport,0
+L-alanine transaminase,0
+acetaldehyde dehydrogenase,1
+acetaldehyde dehydrogenase,1
+allophanate hydrolase,1
+anthranilate phosphoribosyltransferase,0
+anthranilate synthase,0
+arginase,0
+argininosuccinate lyase,0
+argininosuccinate synthase,0
+aspartate-semialdehyde dehydrogenase,0
+asparagine synthase (glutamine-hydrolysing),0
+aspartate carbamoyltransferase,0
+aspartate-glutamate transporter,0
+aspartate kinase,0
+aspartate transaminase,0
+aspartate transaminase,0
+ATP maintenance requirement,1
+ATP phosphoribosyltransferase,0
+ATP synthase,0
+Biomass reaction,0
+"3',5'-bisphosphate nucleotidase",0
+C-14 sterol reductase,0
+C-22 sterol desaturase (NADP),0
+C-s24 sterol reductase,0
+C-3 sterol dehydrogenase (4-methylzymosterol),0
+C-3 sterol dehydrogenase,0
+C-3 sterol keto reductase (4-methylzymosterol),0
+C-3 sterol keto reductase (zymosterol),0
+C-4 methyl sterol oxidase,0
+C-4 methyl sterol oxidase,0
+C-4 methyl sterol oxidase,0
+"C-4 sterol methyl oxidase (4,4-dimethylzymosterol)",0
+C-5 sterol desaturase,0
+C-8 sterol isomerase,0
+Ca2+ transport,0
+cystathionine b-lyase,1
+carbamoyl-phosphate synthase (glutamine-hydrolysing),0
+CDP-diacylglycerol synthase,0
+chorismate mutase,0
+chorismate synthase,0
+chitin synthase,0
+citrate transport,1
+citrate transport,0
+CO2 transport,0
+CO2 transport,0
+Composition of acyl-CoA,0
+citrate synthase,0
+CTP synthase (glutamine),0
+Cu2+ transport,0
+cysteine synthase,1
+cystathionine g-lyase,0
+cystathionine beta-synthase,0
+cytidylate kinase (CMP),0
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase,0
+Diacylglycerol acyltransferase,0
+"dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)",0
+"dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",0
+dihydrofolate reductase,0
+dihydoorotic acid dehydrogenase,0
+dihydroorotase,0
+3-dehydroquinate synthase,0
+3-dehydroquinate dehydratase,0
+dimethylallyltranstransferase,0
+dolichyl-phosphate-mannose--protein mannosyltransferase,0
+dolichyl-phosphate D-mannosyltransferase,0
+mevalonate pyrophoshate decarboxylase,0
+dTMP kinase,0
+dUTP diphosphatase,0
+enolase,0
+electron transfer flavoprotein-ubiquinone oxidoreductase,0
+Ca2+ exchange,0
+carbon dioxide exchange,0
+Cu2+ exchange,0
+iron(2+) exchange,0
+D-glucose exchange,0
+H+ exchange,0
+water exchange,0
+potassium exchange,0
+Mg2+ exchange,0
+Mn2+ exchange,0
+ammonium exchange,0
+oxygen exchange,0
+phosphate exchange,0
+sulphate exchange,0
+Zn2+ exchange,0
+FADH2 transport,1
+FAD transport,1
+fructose-bisphosphate aldolase,0
+"sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase",0
+fructose-bisphosphatase,0
+formate dehydrogenase,0
+iron (II) transport,0
+ferrocytochrome-c:oxygen oxidoreductase,0
+ubiquinol:ferricytochrome c reductase,0
+N-formyl-L-kynurenine amidohydrolase,0
+formate transport,0
+soluble fumarate reductase,1
+formate-tetrahydrofolate ligase,0
+formate-tetrahydrofolate ligase,0
+fumarase,0
+fumarase,0
+Glycerol-3-phosphate acyltransferase,0
+glycerol-3-phosphate dehydrogenase (NAD),0
+L-glutamate 5-semialdehyde dehydratase,0
+L-glutamate 5-semialdehyde dehydratase,0
+glutamate-5-semialdehyde dehydrogenase,1
+glucose 6-phosphate dehydrogenase,0
+UTP-glucose-1-phosphate uridylyltransferase,0
+glyceraldehyde-3-phosphate dehydrogenase,0
+glycinamide ribotide transformylase,0
+glutamine-fructose-6-phosphate transaminase,0
+glycine hydroxymethyltransferase,0
+glycine hydroxymethyltransferase,0
+guanylate kinase,0
+guanylate kinase (GMP:dATP),0
+glucose transport,0
+glutamine synthetase,0
+glutamate 5-kinase,1
+glutamate decarboxylase,1
+glutamate dehydrogenase (NAD),0
+glutamate dehydrogenase (NADP),0
+phosphoribosylpyrophosphate amidotransferase,0
+glutamate synthase (NADH2),1
+L-glutamate transport,0
+glycine cleavage system,0
+glycogen (starch) synthase,0
+hydroxyacylglutathione hydrolase,1
+glycine transport,0
+GMP synthase,0
+phosphogluconate dehydrogenase,0
+geranyltranstransferase,0
+water diffusion,0
+water diffusion,0
+homoacontinate hydratase,0
+2-methylcitrate dehydratase,0
+homocitrate synthase,0
+bicarbonate formation,0
+homocysteine S-methyltransferase,1
+hexokinase (D-glucose:ATP),0
+homoisocitrate dehydrogenase,0
+histidinol dehydrogenase,0
+histidinol-phosphatase,0
+hydroxymethylglutaryl CoA reductase,0
+hydroxymethylglutaryl CoA synthase,0
+homoserine dehydrogenase (NADH),0
+homoserine dehydrogenase (NADP),1
+homoserine O-trans-acetylase,0
+homoserine kinase,0
+histidinol-phosphate transaminase,0
+H+ diffusion,0
+proton leak,1
+isocitrate dehydrogenase (NAD+),0
+isocitrate dehydrogenase,1
+isocitrate lyase,1
+Imidazole-glycerol-3-phosphate synthase,0
+imidazoleglycerol-phosphate dehydratase,0
+indole-3-glycerol-phosphate synthase,0
+L-isoleucine transport,0
+isoleucine transaminase,0
+inosine monophosphate cyclohydrolase,0
+IMP dehydrogenase,0
+isopentenyl-diphosphate D-isomerase,0
+3-isopropylmalate dehydrogenase,0
+3-isopropylmalate dehydratase,0
+2-isopropylmalate hydratase,0
+2-isopropylmalate synthase,0
+acetohydroxy acid isomeroreductase,0
+ketol-acid reductoisomerase (2-aceto-2-hydroxybutanoate),0
+K+ transport,0
+kynureninase,0
+D-lactate/pyruvate antiport,0
+D-lactate transport,0
+L-lactaldehyde:NADP+ 1-oxidoreductase,0
+lactaldehyde dehydrogenase,0
+leucine transaminase,0
+lactoylglutathione lyase,1
+(S)-lactate:ferricytochrome-c 2-oxidoreductase,0
+cytochrome P450 lanosterol 14-alpha-demethylase (NADP),0
+lanosterol synthase,0
+Lumped reaction for C16:0-CoA synthesis,0
+Lumped reaction for C18:0-CoA synthesis,0
+Lumped reaction for C20:0-CoA synthesis,0
+Lumped reaction for C22:0-CoA synthesis,0
+Lumped reaction for C24:0-CoA synthesis,0
+Lumped reaction for C26:0-CoA synthesis,0
+lumped free fatty acid synthesis (via acyl-CoA thioesterase),0
+lumped inositol-P-ceramide synthesis,0
+myo-inositol-1-phosphate synthase,0
+malate synthase,1
+malate transport,0
+mannose-1-phosphate guanylyltransferase,0
+mannose-6-phosphate isomerase,0
+malate dehydrogenase,0
+malate dehydrogenase,0
+malic enzyme (NAD),0
+malic enzyme (NADP),1
+malic enzyme (NADP),1
+methionine adenosyltransferase,0
+cystathionine gamma-synthase,1
+methionine synthase,0
+mevalonate kinase (atp),0
+Mg2+ transport,0
+methylglyoxal synthase,0
+myo-inositol 1-phosphatase,0
+Mn2+ transport,0
+methenyltetrahydrofolate cyclohydrolase,0
+methenyltetrahydrofolate cyclohydrolase,0
+methylenetetrahydrofolate dehydrogenase (NADP),0
+methylenetetrahydrofolate dehydrogenase (NADP),0
+methylenetetrahydrofolate dehydrogenase (NAD),0
+"5,10-methylenetetrahydrofolate reductase (NADPH)",0
+NADH:ubiquinone oxidoreductase (complex I),0
+NADH dehydrogenase,0
+nucleoside diphosphate kinase,0
+nucleoside-diphosphate kinase (ATP:UDP),0
+nucleoside diphosphate kinase,0
+nucleoside diphosphate kinase,0
+nucleoside diphosphate kinase,0
+nucleoside diphosphate kinase,0
+nucleoside diphosphate kinase,0
+nucleoside diphosphate kinase,0
+ammonia transport,0
+NH3 transport,0
+nucleoside triphosphatase,1
+O2 transport,0
+O2 transport,0
+oxaloacetate decarboxylase,1
+oxaloacetate transport,1
+ornithine carbamoyltransferase,0
+2-oxo-4-methyl-3-carboxypentanoate decarboxylation,0
+orotidine-5'-phosphate decarboxylase,0
+ornithine cyclodeaminase,0
+ornithine transaminase,0
+ornithine transacetylase,0
+ornithine transport,0
+orotate phosphoribosyltransferase,0
+delta-1-Pyrroline-5-carboxylate dehydrogenase,0
+pyrroline-5-carboxylate reductase,0
+PI synthase,0
+PA phosphatase,0
+phosphoadenylyl-sulfate reductase (thioredoxin),0
+pyruvate carboxylase,0
+pyruvate dehydrogenase,0
+"Phosphatidyl-N,N-dimethylethanolamine methyltransferase",0
+PE methyltransferase,0
+phosphofructokinase (f6p),0
+phosphoglycerate dehydrogenase,0
+glucose-6-phosphate isomerase,0
+phosphoglycerate kinase,0
+6-phosphogluconolactonase,0
+phosphoglycerate mutase,0
+phosphoglucomutase,0
+phenylalanine transaminase,0
+phosphate transport,0
+phosphate transport,0
+phosphoketolase (fructose 6-phosphate),1
+phosphoketolase (xylulose 5-phosphate),1
+phosphomannomutase,0
+Phosphatidyl-N-methylethanolamine methyltransferase,0
+phosphomevalonate kinase,0
+inorganic diphosphatase,0
+phosphoenolpyruvate carboxykinase,0
+prephenate dehydrogenase (NADP),0
+prephenate dehydratase,0
+phosphoribosylglycinamidine synthetase,0
+phosphoribosylanthranilate isomerase,0
+phopshoribosylaminoimidazole synthetase,0
+phosphoribosyl-AMP cyclohydrolase,0
+phosphoribosyl amino imidazolesuccinocarbozamide synthetase,0
+phosphoribosyl-ATP pyrophosphatase,0
+5'-phosphoribosylformyl glycinamidine synthetase,0
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase,0
+proline oxidase (NAD),0
+L-proline transport,1
+phosphoribosylpyrophosphate synthetase,0
+3-phosphoshikimate 1-carboxyvinyltransferase,0
+PS decarboxylate,0
+phosphoserine transaminase,0
+phosphoserine phosphatase (L-serine),0
+PS synthase,0
+pyruvate kinase,0
+pyruvate decarboxylase,1
+pyruvate transport,0
+ribonucleotide reductase (ADP),0
+ribonucleotide reductase (GDP),0
+ribonucleotide reductase (CDP),0
+ribonucleotide reductase (UDP),0
+ribulose 5-phosphate 3-epimerase,0
+ribose-5-phosphate isomerase,0
+"saccharopine dehydrogenase (NADP, L-glutamate forming)",0
+"saccharopine dehydrogenase (NAD, L-lysine forming)",0
+sulfate adenylyltransferase,0
+S-adenosyl-methionine delta-24-sterol-c-methyltransferase,0
+sedoheptulose bisphosphatase,1
+serine O-acetyltransferase,1
+L-serine deaminase,1
+serine transport,0
+shikimate dehydrogenase,0
+shikimate kinase,0
+sulfite reductase (NADPH2),0
+sulfate uniport,0
+squalene epoxidase (NADP),0
+squalene synthase,0
+succinate-semialdehyde dehydrogenase (NADP),1
+Sterol acyltransferase,0
+succinate transport,1
+succinate dehydrogenase (ubiquinone-9),0
+succinate-fumarate transport,0
+succinate-CoA ligase (ADP-forming),0
+transaldolase,0
+threonine aldolase,1
+L-threonine deaminase,0
+threonine synthase,0
+threonine transport,0
+transketolase 1,0
+transketolase 2,0
+thymidylate synthase,0
+triose-phosphate isomerase,0
+thioredoxin reductase (NADPH),0
+trehalose-phosphatase,0
+"alpha,alpha-trehalose-phosphate synthase (UDP-forming)",0
+"L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",0
+tryptophan synthase (indoleglycerol phosphate),0
+tyrosine transaminase,0
+UDP-N-acetylglucosamine diphosphorylase,0
+UMP kinase,0
+urease,0
+urea carboxylase,1
+valine transport,0
+valine transaminase,0
+valine transaminase,0
+Zn2+ transport,0

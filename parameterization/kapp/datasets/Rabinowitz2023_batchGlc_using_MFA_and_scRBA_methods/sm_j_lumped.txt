@@ -1,0 +1,13 @@
+/
+'placeholder'
+'BIOMASS'
+'lumpFACOA160_c'
+'lumpFACOA180_c'
+'lumpFACOA200_c'
+'lumpFACOA220_c'
+'lumpFACOA240_c'
+'lumpFACOA260_c'
+'lumpFREEFA_c'
+'lumpIPC_c'
+'compACYLCOA_c'
+/

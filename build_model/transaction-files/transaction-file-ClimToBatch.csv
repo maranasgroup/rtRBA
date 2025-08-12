@@ -1,0 +1,4 @@
+id,object_type,command
+# created on 2024-07-23 14:17:00 EST,,
+# how to obtain a rxn's equation:,,
+# rxn='BIOMASS'; print(rxn+',r,reaction:'+cobra.io.load_json_model('./input/iRhtoC.json').reactions.get_by_id(rxn).reaction)

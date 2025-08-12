@@ -1,0 +1,578 @@
+{
+  "Seq_annot": {
+    "desc": [
+      {
+        "user": {
+          "type": {
+            "str": "Hist Seqalign"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "Hist Seqalign"
+              },
+              "data": {
+                "bool": true
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Type"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "psiblast"
+              },
+              "data": {
+                "int": 10
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Database Title"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects"
+              },
+              "data": {
+                "bool": false
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "data": {
+      "align": [
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 159
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 159
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 1.29608168190428e-16
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 65.8549648509032
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 39
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 52
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 88.5952380952381
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 0.506493506493506
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 1.29608168190428e-16
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 65.8549648509032
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 65.8549648509032
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 88
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 50.6493506493507
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 77
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 5,
+              "ids": [
+                {
+                  "embl": {
+                    "accession": "CDR35641",
+                    "version": 1
+                  }
+                },
+                {
+                  "other": {
+                    "accession": "NP_013429",
+                    "version": 1
+                  }
+                }
+              ],
+              "starts": [
+                0,
+                0,
+                29,
+                -1,
+                30,
+                29,
+                -1,
+                38,
+                39,
+                41
+              ],
+              "lens": [
+                29,
+                1,
+                9,
+                3,
+                35
+              ],
+              "strands": [
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 37,
+                  "data": {
+                    "strs": [
+                      "seqid:NP_013429.1",
+                      "seqid:P49167.1",
+                      "seqid:3JCT_k",
+                      "seqid:4V88_Bk",
+                      "seqid:4V88_Dk",
+                      "seqid:4V8T_k",
+                      "seqid:5APN_k",
+                      "seqid:5APO_k",
+                      "seqid:5FL8_k",
+                      "seqid:5H4P_k",
+                      "seqid:5JCS_k",
+                      "seqid:5MC6_AI",
+                      "seqid:5T62_x",
+                      "seqid:5T6R_x",
+                      "seqid:6ELZ_k",
+                      "seqid:6EM5_k",
+                      "seqid:6FT6_k",
+                      "seqid:6M62_k",
+                      "seqid:6N8J_k",
+                      "seqid:6N8K_k",
+                      "seqid:6N8L_k",
+                      "seqid:6N8M_x",
+                      "seqid:6N8N_x",
+                      "seqid:6N8O_x",
+                      "seqid:6Z6J_Lk",
+                      "seqid:6Z6K_Lk",
+                      "seqid:7AZY_j",
+                      "seqid:7BT6_k",
+                      "seqid:7BTB_k",
+                      "seqid:7OF1_k",
+                      "seqid:7OH3_k",
+                      "seqid:7OHQ_k",
+                      "seqid:7OHR_k",
+                      "seqid:7OHV_k",
+                      "seqid:7UG6_k",
+                      "seqid:7Z34_k",
+                      "seqid:8HFR_kr"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 156
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 156
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 4.79168989170917e-16
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 64.6993661231511
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 38
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 51
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 85.0238095238095
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 0.513513513513513
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 4.79168989170917e-16
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 64.6993661231511
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 64.6993661231511
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 84
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 51.3513513513514
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 74
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 5,
+              "ids": [
+                {
+                  "embl": {
+                    "accession": "CDR35641",
+                    "version": 1
+                  }
+                },
+                {
+                  "pdb": {
+                    "mol": "4U3M",
+                    "chain": 32,
+                    "chain_id": "O8"
+                  }
+                }
+              ],
+              "starts": [
+                3,
+                2,
+                29,
+                -1,
+                30,
+                28,
+                -1,
+                37,
+                39,
+                40
+              ],
+              "lens": [
+                26,
+                1,
+                9,
+                3,
+                35
+              ],
+              "strands": [
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 69,
+                  "data": {
+                    "strs": [
+                      "seqid:4U3M_O8",
+                      "seqid:4U3M_o8",
+                      "seqid:4U3N_O8",
+                      "seqid:4U3N_o8",
+                      "seqid:4U3U_O8",
+                      "seqid:4U3U_o8",
+                      "seqid:4U4N_O8",
+                      "seqid:4U4N_o8",
+                      "seqid:4U4O_O8",
+                      "seqid:4U4O_o8",
+                      "seqid:4U4Q_O8",
+                      "seqid:4U4Q_o8",
+                      "seqid:4U4R_O8",
+                      "seqid:4U4R_o8",
+                      "seqid:4U4U_O8",
+                      "seqid:4U4U_o8",
+                      "seqid:4U4Y_O8",
+                      "seqid:4U4Y_o8",
+                      "seqid:4U4Z_O8",
+                      "seqid:4U4Z_o8",
+                      "seqid:4U50_O8",
+                      "seqid:4U50_o8",
+                      "seqid:4U51_O8",
+                      "seqid:4U51_o8",
+                      "seqid:4U52_O8",
+                      "seqid:4U52_o8",
+                      "seqid:4U53_O8",
+                      "seqid:4U53_o8",
+                      "seqid:4U55_O8",
+                      "seqid:4U55_o8",
+                      "seqid:4U56_O8",
+                      "seqid:4U56_o8",
+                      "seqid:4U6F_O8",
+                      "seqid:4U6F_o8",
+                      "seqid:5DAT_O8",
+                      "seqid:5DAT_o8",
+                      "seqid:5DC3_O8",
+                      "seqid:5DC3_o8",
+                      "seqid:5DGE_O8",
+                      "seqid:5DGE_o8",
+                      "seqid:5DGF_O8",
+                      "seqid:5DGF_o8",
+                      "seqid:5DGV_O8",
+                      "seqid:5DGV_o8",
+                      "seqid:5FCI_O8",
+                      "seqid:5FCI_o8",
+                      "seqid:5FCJ_O8",
+                      "seqid:5FCJ_o8",
+                      "seqid:5I4L_O8",
+                      "seqid:5I4L_o8",
+                      "seqid:5MEI_AL",
+                      "seqid:5MEI_DM",
+                      "seqid:5NDV_O8",
+                      "seqid:5NDV_o8",
+                      "seqid:5NDW_O8",
+                      "seqid:5NDW_o8",
+                      "seqid:5OBM_O8",
+                      "seqid:5OBM_o8",
+                      "seqid:5ON6_AL",
+                      "seqid:5ON6_DM",
+                      "seqid:5TBW_AL",
+                      "seqid:5TBW_DM",
+                      "seqid:6GQ1_k",
+                      "seqid:6GQB_k",
+                      "seqid:6T7T_Lk",
+                      "seqid:6TB3_AI",
+                      "seqid:7B7D_Lg",
+                      "seqid:7NRC_Lm",
+                      "seqid:7NRD_Lm"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
+

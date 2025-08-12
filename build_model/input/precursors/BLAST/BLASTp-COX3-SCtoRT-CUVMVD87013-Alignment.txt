@@ -1,0 +1,55 @@
+RID: CUVMVD87013	
+Job Title:SCtoRT-COX3				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: unnamed protein product Query ID: lcl|Query_55412 Length: 270
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+cytochrome c oxidase subunit 3 [Rhodotorula toruloides]           Rhodotorula ... NA              5286       290    290   99%   1e-98 49.63  270        YP_009988033.1   
+
+
+Alignments:
+
+>cytochrome c oxidase subunit 3 [Rhodotorula toruloides]
+Sequence ID: YP_009988033.1 Length: 270
+>cytochrome c oxidase subunit 3 [Rhodotorula toruloides]
+Sequence ID: QNL17843.1 Length: 270
+>cytochrome c oxidase subunit 3 [Rhodotorula toruloides]
+Sequence ID: CAE5968192.1 Length: 270 
+Range 1: 2 to 269
+
+Score:290 bits(741), Expect:1e-98, 
+Method:Compositional matrix adjust., 
+Identities:133/268(50%), Positives:188/268(70%), Gaps:0/268(0%)
+
+Query  1    MTHLERSRHQQHPFHMVMPSPWPIVVSFALLSLALSTALTMHGYIGNMNMVYLALFVLLT  60
+            +  + R++ Q HP+H+V PSPWP++ SF+LL L ++ A+  +GY     +V +    +L 
+Sbjct  2    LQRVTRAQFQAHPYHLVTPSPWPLLTSFSLLILTVAAAMYFNGYANGGLLVSIGFITVLA  61
+
+Query  61   SSILWFRDIVAEATYLGDHTMAVRKGINLGFLMFVLSEVLIFAGLFWAYFHSAMSPDVTL  120
+            S  LWFRD++AE   LG+HT AV+KG+NLG  +F++SEV  F  +FWAYFHSA++P V L
+Sbjct  62   SMSLWFRDVIAEGALLGNHTFAVQKGLNLGVALFIVSEVFFFISIFWAYFHSALAPTVEL  121
+
+Query  121  GACWPPVGIEAVQPTELPLLNTIILLSSGATVTYSHHALIAGNRNKALSGLLITFWLIVI  180
+            G  WPP GI+A+ P E+PLLNT+ILL SGA+VTY+HH+LI G+R   ++GL++T  L  +
+Sbjct  122  GNAWPPAGIQALDPYEVPLLNTVILLGSGASVTYAHHSLIQGSRAGTIAGLIVTIALAAV  181
+
+Query  181  FVTCQYIEYTNAAFTISDGVYGSVFYAGTGLHFLHMVMLAAMLGVNYWRMRNYHLTAGHH  240
+            F   Q +EY  A+FTI+DG YGS FY  TG H LH+++    + V + R+ +Y LT  HH
+Sbjct  182  FTMLQGLEYHEASFTIADGAYGSTFYFATGFHGLHVIIGTLFIAVAFVRLLSYQLTDHHH  241
+
+Query  241  VGYETTIIYTHVLDVIWLFLYVVFYWWG  268
+            +G+E  I+Y H +DV+WLFLYV  YWWG
+Sbjct  242  LGFEAAILYWHFVDVVWLFLYVSVYWWG  269
+
+
+
+
+
+
+
+		
+
+

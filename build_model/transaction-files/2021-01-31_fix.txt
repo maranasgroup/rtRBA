@@ -1,0 +1,104 @@
+id	object_type	command
+#Fix on 2021-01-31
+ALDD2y_c	rxn	copy:ALDD2y_m
+ALDD2y_c	rxn	gpr:rt3674 or rt2756
+ALDD2y_c	rxn	notes:notes-cofactor assignment based on protein homology to S cerevisiae
+ALDD2x_c	rxn	gpr:rt2756
+ALDD2x_c	rxn	notes:notes-cofactor assignment based on protein homology to S cerevisiae
+ALDD2y_m	rxn	remove
+ALDD2x_m	rxn	remove
+GLUDC_c	rxn	gpr:rt1067 or rt2354 or rt1066
+GLUDC_m	rxn	remove
+SSALx_c	rxn	remove
+rt8468	gene	notes:notes-confirm to be succinate semialdehyde via ncbi BLAST, check with SC UGA2 YBR006W in ncbi CDD
+OAADC_c	rxn	create
+OAADC_c	rxn	name:oxaloacetate decarboxylase
+OAADC_c	rxn	reaction:h_c + oaa_c --> co2_c + pyr_c
+OAADC_c	rxn	gpr:rt7226
+OAADC_c	rxn	subsystem:Pyruvate metabolism
+OAADC_c	rxn	lower_bound:0
+OAADC_c	rxn	upper_bound:1000
+OAADC_c	rxn	annotation:kegg.reaction-R00217
+OAADC_c	rxn	annotation:ec-4.1.1.112
+rt7226	gene	name:YER010C
+CITt4_m	rxn	id:CITICITta_m
+Ktps_e	rxn	create
+Ktps_e	rxn	name:potassium transport
+Ktps_e	rxn	reaction:h_e + k_e --> h_c + k_c
+Ktps_e	rxn	gpr:rt2101
+Ktps_e	rxn	subsystem:Transport
+Ktps_e	rxn	lower_bound:0
+Ktps_e	rxn	upper_bound:1000
+Ktps_e	rxn	annotation:sbo-SBO:0000185
+rt2101	gene	name:NHX1
+ALDD2x_c	rxn	gpr:rt2756
+ALDD2y_c	rxn	name:acetaldehyde dehydrogenase (NADP)
+ALDD2y_c	rxn	reaction:acald_c + h2o_c + nadp_c --> ac_c + 2.0 h_c + nadph_c
+ALDD2y_c	rxn	gpr:rt3674 or rt2756
+ALDD2y_c	rxn	subsystem:Pyruvate metabolism
+ALDD2y_c	rxn	lower_bound:0
+ALDD2y_c	rxn	upper_bound:1000
+ALDD2y_c	rxn	annotation:kegg.reaction-R00711
+ALDD2y_c	rxn	annotation:ec-1.2.1.4
+FRD_c	rxn	reaction:fadh2_c + fum_c --> fad_c + h_c + succ_c
+FRD_c	rxn	lower_bound:0
+FRD_c	rxn	upper_bound:1000
+# Fix 02/11/2021
+GLUt_c_m	rxn	reaction:glu__L_c --> glu__L_m
+GLUt_c_m	rxn	lower_bound:0
+GLUt_c_m	rxn	upper_bound:1000
+GLUt_c_m	rxn	gpr:rt8431 or rt4150
+rt4150	gene	name:YMC2
+CITMALta_m	rxn	reaction:cit_m + mal__L_c <=> cit_c + mal__L_m
+CITMALta_m	rxn	lower_bound:-1000
+CITMALta_m	rxn	upper_bound:1000
+# Fi 03/15/2021
+ALCD2i2_c	rxn	gpr:rt0733 or rt3939 or rt7110 or rt8149 or rt7070
+ALCD2i1_c	rxn	notes:notes-genes are verified with best hit to SC and localization predicted by DeepLoc, no mitochondrial compartmentalized ADH
+ALCD2i2_c	rxn	notes:notes-genes are verified with best hit to SC and localization predicted by DeepLoc, no mitochondrial compartmentalized ADH
+G5SADr_c	rxn	gpr:SPONT
+G5SADr_m	rxn	copy:G5SADr_c
+P5CD_m	rxn	id:P5CD2_m
+P5CD2_m	rxn	annotation:kegg.reaction-R00245
+P5CD2_m	rxn	reaction:glu5sa_m + nad_m + h2o_m --> glu__L_m + nadh_m + 2 h_m
+P5CD2_m	rxn	name:L-glutamate semialdehyde dehydrogenase
+SERt_c_m	rxn	create
+SERt_c_m	rxn	name:L-serine transport
+SERt_c_m	rxn	reaction:ser__L_c <=> ser__L_m
+SERt_c_m	rxn	gpr:rt7910
+SERt_c_m	rxn	subsystem:Transport
+SERt_c_m	rxn	lower_bound:-1000
+SERt_c_m	rxn	upper_bound:1000
+rt7910	gene	name:FSF1
+rt7910	gene	annotation:sc_id-YOR271C
+FORt_c_m	rxn	gpr:UNKNOWN
+GHMT2r_m	rxn	copy:GHMT2r_c
+G5SADr_m	rxn	reaction:glu5sa_m <=> 1pyr5c_m + h2o_m + h_m
+G5SADr_m	rxn	lower_bound:-1000
+G5SADr_m	rxn	upper_bound:1000
+GHMT2r_m	rxn	gpr:UNKNOWN
+SUCFUMt_c_m	rxn	create
+SUCFUMt_c_m	rxn	name:succinate-fumarate transport
+SUCFUMt_c_m	rxn	reaction:fum_m + succ_c --> fum_c + succ_m
+SUCFUMt_c_m	rxn	gpr:rt4237
+SUCFUMt_c_m	rxn	subsystem:Transport
+SUCFUMt_c_m	rxn	lower_bound:0
+SUCFUMt_c_m	rxn	upper_bound:1000
+rt4237	gene	name:SFC1
+rt4237	gene	annotation:sc_id-YJR095W
+BIOMASS_RT_CLIM	rxn	reaction:1.001123 13BDglucan_c + 0.263454 16BDglucan_en + 0.015503 G00006_c + 0.386254 alatrna_c + 0.0001 amet_c + 0.152604 argtrna_c + 0.183441 asntrna_c + 0.183441 asptrna_c + 167.448754 atp_c + 0.0001 btn_c + 0.001286 ca2_c + 0.023669 chtn_c + 0.0001 coa_c + 0.07053 ctp_c + 0.000114 cu2_c + 0.005535 cystrna_c + 0.007095 datp_c + 0.011074 dctp_c + 0.011074 dgtp_c + 4.1e-05 docosa_c + 0.007095 dttp_c + 0.102571 epist_c + 0.0001 fad_c + 0.000664 fe2_c + 0.305999 glntrna_c + 0.305999 glutrna_c + 0.351464 glytrna_c + 0.016989 gpianchorSC_r + 0.0618 gtp_c + 167.408348 h2o_c + 0.000478 hdca_c + 0.0001 hemeA_c + 0.076302 histrna_c + 0.23286 iletrna_c + 0.008081 ipc_g + 0.60365 k_c + 0.316673 leutrna_c + 0.001219 linoea_c + 0.000327 linolen_c + 0.259743 lystrna_c + 0.04507 mettrna_c + 0.063607 mg2_c + 9.4e-05 mn2_c + 0.0001 nad_c + 0.0001 nadp_c + 0.000318 ocdca_c + 0.000584 ocdcea_c + 0.047788 oglycanSC_g + 0.021936 pail_c + 0.041166 pc_c + 0.009943 pe_c + 0.148651 phetrna_c + 0.166837 protrna_c + 0.005332 ps_c + 0.0001 pydx5p_c + 0.0001 ribflv_c + 0.21072 sertrna_c + 0.031223 so4_c + 0.0001 spmd_c + 0.012646 tag_c + 0.0001 thf_c + 0.0001 thmpp_c + 0.220209 thrtrna_c + 0.025698 trptrna_c + 0.000252 ttcosa_c + 0.077488 tyrtrna_c + 0.036971 utp_c + 0.28979 valtrna_c + 0.001576 zn2_c --> 167.408348 adp_c + 167.408348 h_c + 167.302693 pi_c + 0.246044 ppi_c + 0.386254 trnaala_c + 0.152604 trnaarg_c + 0.183441 trnaasn_c + 0.183441 trnaasp_c + 0.005535 trnacys_c + 0.305999 trnagln_c + 0.305999 trnaglu_c + 0.351464 trnagly_c + 0.076302 trnahis_c + 0.23286 trnaile_c + 0.316673 trnaleu_c + 0.259743 trnalys_c + 0.04507 trnamet_c + 0.148651 trnaphe_c + 0.166837 trnapro_c + 0.21072 trnaser_c + 0.220209 trnathr_c + 0.025698 trnatrp_c + 0.077488 trnatyr_c + 0.28979 trnaval_c
+#Fix on 2021-07-02
+FADH2t_c_m	rxn	reaction:fadh2_c --> fadh2_m
+FADt_c_m	rxn	reaction:fad_c --> fad_m
+ETFOXRq9_c	rxn	copy:ETFOXRq9_m
+ETFOXRq9_c	rxn	reaction:fadh2_c + q9_m --> fad_c + h_c + q9h2_m
+ETFOXRq9_c	rxn	lower_bound:0
+ETFOXRq9_c	rxn	upper_bound:1000
+PFK_3_c	rxn	remove
+ACS_c	rxn	subsystem:Acetyl-CoA synthesis
+AKGDH_m	rxn	subsystem:Citric acid cycle
+ETFOXRq9_c	rxn	subsystem:Oxidative phosphorylation
+G5SADr_m	rxn	subsystem:Arginine and proline metabolism
+GHMT2r_m	rxn	subsystem:Glycine, serine and threonine metabolism
+GHMT2r_m	rxn	lower_bound:-1000
+GHMT2r_m	rxn	upper_bound:1000

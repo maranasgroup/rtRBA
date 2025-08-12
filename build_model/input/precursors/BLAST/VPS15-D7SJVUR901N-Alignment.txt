@@ -1,0 +1,1609 @@
+RID: D7SJVUR901N	
+Job Title:sp|P22219|VPS15_YEAST Serine/threonine-protein...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: sp|P22219|VPS15_YEAST Serine/threonine-protein kinase VPS15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VPS15 PE=1 SV=4 Query ID: lcl|Query_389543 Length: 1454
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Other/VPS15 protein kinase [Rhodotorula toruloides ATCC 204091]   Rhodotorula ... NA              1001064    536    644   82%   1e-163 33.51  1696       EGU12656.1       
+phosphoinositide-3-kinase, regulatory subunit 4, p150...          Rhodotorula ... NA              1130832    536    645   82%   3e-163 33.40  1696       XP_016277042.1   
+putative serine/threonine-protein kinase VPS15 [Rhodotorula...    Rhodotorula ... NA              5286       533    642   82%   2e-162 33.30  1695       KAJ8295897.1     
+other/VPS15 protein kinase [Rhodotorula toruloides]               Rhodotorula ... NA              5286       524    636   84%   4e-159 33.48  1693       GEM06894.1       
+serine/threonine protein kinase [Rhodotorula toruloides]          Rhodotorula ... NA              5286       58.2   58.2  14%   5e-08  31.19  1149       GEM11102.1       
+Protein kinase-like domain-containing protein [Rhodotorula...     Rhodotorula ... NA              5286       56.2   56.2  13%   1e-07  30.54  399        PRQ70685.1       
+serine/threonine protein kinase [Rhodotorula toruloides NP11]     Rhodotorula ... NA              1130832    54.3   54.3  13%   9e-07  30.24  1137       XP_016274258.1   
+Maternal embryonic leucine zipper kinase [Rhodotorula toruloides] Rhodotorula ... NA              5286       54.3   54.3  13%   9e-07  30.24  1137       KAJ8291680.1     
+CAMK/CAMKL/Kin4 protein kinase [Rhodotorula toruloides]           Rhodotorula ... NA              5286       52.4   52.4  14%   3e-06  24.05  1518       GEM11554.1       
+serine/threonine protein kinase Kin4 [Rhodotorula toruloides...   Rhodotorula ... NA              1130832    50.8   50.8  14%   1e-05  23.63  1518       XP_016271218.1   
+CAMK/CAMKL/Kin4 protein kinase [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    50.4   50.4  14%   1e-05  23.63  1521       EGU11499.1       
+Protein kinase-like domain-containing protein [Rhodotorula...     Rhodotorula ... NA              5286       48.1   48.1  9%    3e-05  26.75  306        PRQ72501.1       
+aurora kinase [Rhodotorula toruloides]                            Rhodotorula ... NA              5286       48.1   48.1  12%   4e-05  24.21  503        GEM10158.1       
+serine/threonine-protein kinase/endoribonuclease IRE1...          Rhodotorula ... NA              1130832    48.5   48.5  12%   5e-05  23.08  1359       XP_016273898.1   
+other/IRE protein kinase [Rhodotorula toruloides]                 Rhodotorula ... NA              5286       48.1   48.1  12%   6e-05  23.08  1356       GEM10521.1       
+Protein kinase-like domain-containing protein [Rhodotorula...     Rhodotorula ... NA              5286       47.0   47.0  12%   6e-05  27.72  299        PRQ71552.1       
+RHTO0S03e04192g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       48.1   48.1  12%   6e-05  22.48  1102       CDR38130.1       
+mitogen-activated protein kinase kinase kinase [Rhodotorula...    Rhodotorula ... NA              5286       47.8   47.8  12%   8e-05  27.23  1506       GEM07191.1       
+Other/IRE protein kinase [Rhodotorula toruloides ATCC 204091]     Rhodotorula ... NA              1001064    47.8   47.8  12%   8e-05  23.08  1357       EGU11587.1       
+p21-activated kinase 1 [Rhodotorula toruloides]                   Rhodotorula ... NA              5286       46.6   46.6  8%    2e-04  26.92  961        GEM08599.1       
+p21-activated kinase 1 [Rhodotorula toruloides NP11]              Rhodotorula ... NA              1130832    46.6   46.6  8%    2e-04  26.92  969        XP_016270790.1   
+mitogen-activated protein kinase kinase kinase [Rhodotorula...    Rhodotorula ... NA              1130832    46.6   46.6  8%    2e-04  31.71  1430       XP_016274796.1   
+STE/STE20/PAKA protein kinase [Rhodotorula toruloides ATCC...     Rhodotorula ... NA              1001064    46.6   46.6  8%    2e-04  26.92  1069       EGU11233.1       
+serine/threonine-protein kinase TTK/MPS1 [Rhodotorula toruloides] Rhodotorula ... NA              5286       46.2   46.2  8%    2e-04  27.20  856        GEM07608.1       
+Serine/threonine-protein kinase ark1 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       45.8   45.8  11%   2e-04  24.26  505        KAJ8292801.1     
+aurora kinase [Rhodotorula toruloides NP11]                       Rhodotorula ... NA              1130832    45.8   45.8  11%   2e-04  24.26  505        XP_016273946.1   
+Other/AUR protein kinase [Rhodotorula toruloides ATCC 204091]     Rhodotorula ... NA              1001064    45.4   45.4  11%   3e-04  24.12  504        EGU12135.1       
+Histidine--tRNA ligase, mitochondrial [Rhodotorula toruloides]    Rhodotorula ... NA              5286       45.8   45.8  12%   3e-04  22.28  2685       KAJ8296015.1     
+protein serine/threonine kinase [Rhodotorula toruloides NP11]     Rhodotorula ... NA              1130832    45.4   45.4  12%   4e-04  22.28  1044       XP_016276911.1   
+Protein kinase-like domain-containing protein [Rhodotorula...     Rhodotorula ... NA              5286       45.1   45.1  12%   4e-04  23.61  386        PRQ77506.1       
+Serine/threonine-protein kinase mph1 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       45.1   45.1  8%    5e-04  26.77  1539       KAJ8294894.1     
+serine/threonine-protein kinase TTK/MPS1 [Rhodotorula toruloid... Rhodotorula ... NA              1130832    45.1   45.1  8%    6e-04  26.77  1235       XP_016272075.1   
+Cell division control protein 2 [Rhodotorula toruloides]          Rhodotorula ... NA              5286       42.7   42.7  7%    0.002  28.44  409        KAJ8291687.1     
+mitogen-activated protein kinase kinase [Rhodotorula toruloide... Rhodotorula ... NA              1130832    42.4   42.4  11%   0.003  25.97  543        XP_016275037.1   
+cyclin-dependent protein kinase [Rhodotorula toruloides NP11]     Rhodotorula ... NA              1130832    42.0   42.0  7%    0.004  28.44  409        XP_016274267.1   
+mitogen-activated protein kinase kinase [Rhodotorula toruloides]  Rhodotorula ... NA              5286       42.0   42.0  11%   0.005  25.97  904        GEM09855.1       
+AGC/DMPK/GEK protein kinase [Rhodotorula toruloides]              Rhodotorula ... NA              5286       41.6   41.6  8%    0.006  25.33  597        GEM06886.1       
+CMGC/CDK protein kinase [Rhodotorula toruloides ATCC 204091]      Rhodotorula ... NA              1001064    40.0   40.0  7%    0.013  27.52  409        EGU10978.1       
+Serine/threonine-protein kinase SSN3 [Rhodotorula toruloides]     Rhodotorula ... NA              5286       39.7   39.7  8%    0.016  27.73  447        KAJ8293935.1     
+cyclin-dependent protein kinase [Rhodotorula toruloides NP11]     Rhodotorula ... NA              1130832    39.7   39.7  8%    0.017  27.73  449        XP_016270723.1   
+cyclin-dependent protein kinase [Rhodotorula toruloides]          Rhodotorula ... NA              5286       39.7   39.7  8%    0.017  27.73  449        GEM08660.1       
+Protein kinase-like domain-containing protein [Rhodotorula...     Rhodotorula ... NA              5286       39.7   39.7  8%    0.017  27.73  449        PRQ78117.1       
+Protein kinase-like domain-containing protein [Rhodotorula...     Rhodotorula ... NA              5286       39.7   39.7  11%   0.020  25.84  425        PRQ74501.1       
+negative regulatorof the PHO system, protein serine/threonine...  Rhodotorula ... NA              5286       39.3   39.3  12%   0.023  22.75  333        GEM09108.1       
+negative regulator of the PHO system, protein serine/threonine... Rhodotorula ... NA              1130832    38.9   38.9  12%   0.024  22.75  329        XP_016273112.1   
+cyclin-dependent kinase 5 [Rhodotorula toruloides]                Rhodotorula ... NA              5286       38.9   38.9  12%   0.027  22.75  328        PRQ73394.1       
+hypothetical protein AAT19DRAFT_14757 [Rhodotorula toruloides]    Rhodotorula ... NA              5286       38.9   38.9  17%   0.043  25.28  1110       PRQ74404.1       
+
+
+Alignments:
+
+>Other/VPS15 protein kinase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12656.1 Length: 1696
+>Other/VPS15 protein kinase [Rhodotorula toruloides]
+Sequence ID: PRQ77941.1 Length: 1696 
+Range 1: 20 to 909
+
+Score:536 bits(1382), Expect:1e-163, 
+Method:Compositional matrix adjust., 
+Identities:319/952(34%), Positives:495/952(51%), Gaps:96/952(10%)
+
+Query  10   QASPSIAIFSYIDVLEEVHYVSQLNSSRFLKTCKALDPNGEIVIKVFIKPKDQYSLRPFL  69
+            +A P    F + ++  EVHY   + SSRFLK  +     G +V+KVF+K     SL+PF+
+Sbjct  20   KAQPGADPF-FAELGGEVHYDRSMGSSRFLKAVRGRHRQGALVVKVFVKQDPSISLKPFV  78
+
+Query  70   QRIRAQSFKLGQLPHVLNYSKLIETNRAGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAF  129
+            +R++A+   L   P+V  Y + IET RAGY++RQ + +NLYDR+S RP+L  +E ++IAF
+Sbjct  79   RRLKAEREALADCPNVQAYGRAIETERAGYLMRQWVASNLYDRISTRPFLSSVEKRWIAF  138
+
+Query  130  QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFDT  189
+            QLL  LK      I HGDIKTEN++VTSWNW  LTDF++  KP +LP D+P EF FYFDT
+Sbjct  139  QLLTGLKHARERGISHGDIKTENVVVTSWNWVYLTDFSSAFKPTHLPLDDPSEFSFYFDT  198
+
+Query  190  SKRRTCYLAPERFNSKLYQDGKSN--------NGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            S RRTCY+APERF S      K+         +G++T+ MD+FSLGCV+AE++ EG P F
+Sbjct  199  SSRRTCYIAPERFYSSDSDIAKTKESLEIGKRDGKITEAMDVFSLGCVLAELWMEGTPPF  258
+
+Query  242  NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFFP  301
+             LSQLFKY+   Y +  E  + E+   ++R+L+  M+ LDPS RLS  + LN+YRG  FP
+Sbjct  259  TLSQLFKYRQGEYSL--ESYLAEIEDIEIRSLIRSMVSLDPSSRLSFSDYLNQYRGTAFP  316
+
+Query  302  DYFYTFIYDYFRNLVTMT-------------TSTPISDNTCTNSTLEDNVKL---LDETT  345
+            + FYTF++ +   L                 T+TP++ +    +  +++  L    D+  
+Sbjct  317  EIFYTFLHPFLSALTDSASSSAPPPVPNRPGTATPVTGDGAGLAARQEHTLLRTDADDKI  376
+
+Query  346  EKIYRDFSQICHCLDFPLIKDGGEIGSDPPILESYKIEIEISRFLNTNLYFPQNYHLVLQ  405
+            E+++ ++  +   LD  L  +  + G++         E + +R L    +FP   HL  Q
+Sbjct  377  ERVWTEWEIVARYLDETLPNEDLQKGAE------SSDERQKNR-LPAETFFPIRLHLPGQ  429
+
+Query  406  QFTKVSEKIKSVKEECALLFISYLSHSIRSIVSTATKLKNLELLAVFAQFVSDENKIDRV  465
+            +   V+    +  +  AL+ ++ +  +IR+ V  A+ L+ LE+L    ++++DE ++DR+
+Sbjct  430  EGNVVAS--GASHDGPALVILALVCANIRNCVRPASVLRALEILLALNRYLTDETRLDRL  487
+
+Query  466  VPYFVCCFEDSDQDVQALSLLTLIQVLTSVRKLNQLNENIFVDYLLPRLKRLLISNRQNT  525
+            VPY V    D    V+A++L  L Q L  V  L   N ++F +Y+ P ++ L      + 
+Sbjct  488  VPYLVTLLSDDAATVRAMALRVLTQTLMLVTTLTPSNVDVFPEYIFPNVRPLA----NDV  543
+
+Query  526  NYL-RIVFANCLSDLAIIINRFQEFTFAQHCNDNSMDNNTEIMESSTKYSAKLIQSVEDL  584
+            + L R  +A C++ LA    RF +   A            +  ESS  Y+      +++L
+Sbjct  544  DILPRETYALCITPLARTARRFLDLAEALKTEGAFELTGLQDFESS-PYTGNFDSRLQEL  602
+
+Query  585  TV-------SFLTDNDTYVKMALLQNILPLCKFFGRERTNDIILSHLITYLNDKDPALRV  637
+                       LTD  T VK ALL NI  LC FFGR + ND +L+HL+TYLN +D  LR 
+Sbjct  603  HALVQEHIGPLLTDPSTAVKRALLSNIGDLCDFFGRLKANDAVLAHLVTYLNTRDWLLRK  662
+
+Query  638  SLIQTISGISILLGTVTLEQYILPLLIQTITDSEELVVISVLQSLKSLFKTGLIRKKYYI  697
+            +  +    ++  +G  +LE+YILPL+  ++ D EE VV+ VL+SL SL    L+ K    
+Sbjct  663  AWNEHAVDVAQCVGPRSLEEYILPLITLSLADPEEFVVVQVLESLTSLASQRLLTKGKIW  722
+
+Query  698  DISKTTSPLLLHPNNWIRQFTLMIIIEIINKLSKAEVYCILYPIIRPFFEFDV-EFNFKS  756
+            ++       L HPN WIR+ + + +  + + L   + +CILYP I+     DV E    S
+Sbjct  723  ELVSPVVSFLCHPNIWIREGSALFLSTVASLLEPTDKWCILYPTIKRLLRSDVKEITALS  782
+
+Query  757  MISCCKQPVSRSVYNLLCSWSVRASKSLFWKKIITNHVDSFGNNRIEFITKNYSSKNYGF  816
+            ++   ++P+SR V+    +W+ +  KS FW                              
+Sbjct  783  LLDNAREPISRVVFEAAVAWAGKNGKSHFWSA----------------------------  814
+
+Query  817  NKRDTKSSSSLKGIKTSSTVYSHDNKEIPLTAEDRNWIDKFHIIGLTEKDIWKIVALRGY  876
+             K   K +    G++T                ED   +++   +G++ +D +K+ A+R Y
+Sbjct  815  TKGPAKGAPRDAGVRTD---------------EDHAQLERLRQLGMSVEDEYKLTAMRDY  859
+
+Query  877  VIRTARVMAANPDFP-YNNSNYRPLVQNSPPNLNLTNIMPRNIFFDVEFAEE  927
+            + + A    A P    Y+     P   +S  NL    I+P+ IFF V   EE
+Sbjct  860  IAKVASSRQAMPSRGFYSPDALTP--SSSTANLQDLGIVPQTIFFSVRSPEE  909
+
+
+
+
+Range 2: 1102 to 1386
+
+Score:107 bits(266), Expect:7e-23, 
+Method:Compositional matrix adjust., 
+Identities:81/298(27%), Positives:145/298(48%), Gaps:30/298(10%)
+
+Query  1016  PERKVVVSNSYEGDVESIEKFL------STFKILPPLRDYKEFG-----------PIQEI  1058
+             P+R V   ++YEG+  +I++ L      S  + LP L  +   G           P +E 
+Sbjct  1102  PQRLV---STYEGNDPNIKQLLERTYLDSYREPLPELGPHVPPGIPRRKALRTNFPPRE-  1157
+
+Query  1059  VRSPNMGNLRGKLIATLMENEPNSITSSAVSPGETPYLITGSDQGVIKIWNLKEIIVGEV  1118
+              R+PN     G LIA L+E+  ++I S  VSP +  + +TGS  G +K+W+   +     
+Sbjct  1158  -RTPNRPE--GTLIAHLVEHT-DAIVSIQVSPDQL-FFVTGSLDGTVKVWDAMRLEKNVT  1212
+
+Query  1119  YSSSLTYDCSSTVTQITMIPNFDAFAVSSKDGQIIVLKVNHYQQESEVKFLNCECIRKIN  1178
+               S  T+     +T +  + N    A +S +G I + +V+        ++   + IR+  
+Sbjct  1213  SKSRQTFQQGGKITSVCFLDNSHCIASASTNGSIWIHRVDVSLSGQMPRYSKPQLIRQST  1272
+
+Query  1179  LKNFGKNEYAVRMRAFVNEEKSLLVALTNLSRVIIFDIRTLERLQIIENSPRHGAVSSIC  1238
+             + + G   +A  + ++  +  + LV  T+LS +++ DIRT+       N+   G ++++C
+Sbjct  1273  VDDGG---HATCLASYNTDTSTNLVFGTSLSSIVVLDIRTMRAEHEFANARHFGPITALC  1329
+
+Query  1239  IDEECCVLILGTTRGIIDIWDIRFNVLIRSWSFGDHAPITHVEVCQFYGKNSVIVVGG  1296
+             +D +   L+ GT  G++ +WD+RF +L+RSW+ G    I  + V    GK   IVV  
+Sbjct  1330  LDRKHLWLVSGTASGVLSVWDLRFGLLLRSWNIGPRR-IHQIAVHPVKGKGRWIVVAA  1386
+
+
+
+
+>phosphoinositide-3-kinase, regulatory subunit 4, p150 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016277042.1 Length: 1696
+>phosphoinositide-3-kinase, regulatory subunit 4, p150 [Rhodotorula toruloides NP11]
+Sequence ID: EMS25923.1 Length: 1696
+>RHTO0S03e07162g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38267.1 Length: 1696 
+Range 1: 20 to 909
+
+Score:536 bits(1380), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:318/952(33%), Positives:498/952(52%), Gaps:96/952(10%)
+
+Query  10   QASPSIAIFSYIDVLEEVHYVSQLNSSRFLKTCKALDPNGEIVIKVFIKPKDQYSLRPFL  69
+            +A P    F + ++  EVHY   + SSRFLK  +     G +V+KVF+K     SL+PF+
+Sbjct  20   KAQPGADPF-FAELGGEVHYDRSMGSSRFLKAVRGRHRQGALVVKVFVKQDPSISLKPFV  78
+
+Query  70   QRIRAQSFKLGQLPHVLNYSKLIETNRAGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAF  129
+            +R++A+   L   P+V  Y + IET RAGY++RQ + +NLYDR+S RP+L  +E ++IAF
+Sbjct  79   RRLKAEREALADCPNVQAYGRAIETERAGYLMRQWVASNLYDRISTRPFLSSVEKRWIAF  138
+
+Query  130  QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFDT  189
+            QLL  LK      I HGDIKTEN++VTSWNW  LTDF++  KP +LP D+P EF FYFDT
+Sbjct  139  QLLTGLKYARERGISHGDIKTENVVVTSWNWVYLTDFSSAFKPTHLPLDDPSEFSFYFDT  198
+
+Query  190  SKRRTCYLAPERFNSKLYQDGKSN--------NGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            S RRTCY+APERF S   +  K          +G++T+ MD+FSLGCV+AE++ EG P F
+Sbjct  199  SSRRTCYIAPERFYSSDSETAKKKESLEIGKRDGKITEAMDVFSLGCVLAELWMEGTPPF  258
+
+Query  242  NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFFP  301
+             LSQLFKY+   Y +  E  + E+   ++R+L+  M+ LDPS RLS    LN+YRG  FP
+Sbjct  259  TLSQLFKYRQGEYSL--ESYLAEIEDIEIRSLIRSMVSLDPSSRLSFSNYLNQYRGTAFP  316
+
+Query  302  DYFYTFIYDYFRNLVTMT-------------TSTPISDNTCTNSTLEDNVKL---LDETT  345
+            + FYTF++ +  +L                 T+TP++ +    +  +++  L    D+  
+Sbjct  317  EIFYTFLHPFLSSLTDSASSSAPPPVPSRPGTTTPVTGDGAGLAARQEHTLLRTDADDKI  376
+
+Query  346  EKIYRDFSQICHCLDFPLIKDGGEIGSDPPIL-ESYKIEIEISRFLNTNLYFPQNYHLVL  404
+            E+++ ++  +   LD  + K+  ++  D PI  E +K      R      +FP   HL  
+Sbjct  377  ERVWTEWEIVARYLDETVPKE--DLQKDAPISDERHK------RHSPAETFFPICLHLPG  428
+
+Query  405  QQFTKVSEKIKSVKEECALLFISYLSHSIRSIVSTATKLKNLELLAVFAQFVSDENKIDR  464
+            Q+   V+    + ++  AL+ ++ +  ++R+ V  A+ L+ LE+L    ++++DE ++DR
+Sbjct  429  QEGNVVAS--GASQDGPALVILALVCANVRNCVRPASVLRALEILLALNRYLTDETRLDR  486
+
+Query  465  VVPYFVCCFEDSDQDVQALSLLTLIQVLTSVRKLNQLNENIFVDYLLPRLKRLLISNRQN  524
+            +VPY V    D    V+A++L  L Q L  V  L   N ++F +Y+ P ++ L      +
+Sbjct  487  LVPYLVTLLSDDAATVRAMALRVLTQTLMLVTTLTPSNVDVFPEYIFPNVRPLA----ND  542
+
+Query  525  TNYL-RIVFANCLSDLAIIINRFQEFTFAQHCNDNSMDNNTEIMESSTKYSAKLIQSVED  583
+             + L R  +A C++ LA    RF +   A         +  +  ESS  Y+      +++
+Sbjct  543  VDILPRETYALCITPLARTARRFLDLAEALKTEGAFELSGLQDFESS-PYTGNFDSRLQE  601
+
+Query  584  LTV-------SFLTDNDTYVKMALLQNILPLCKFFGRERTNDIILSHLITYLNDKDPALR  636
+            L           LTD  T VK ALL NI  LC FFGR + ND +L+HL+TYLN +D  LR
+Sbjct  602  LHALVQEHIGPLLTDPSTAVKRALLSNIGDLCDFFGRLKANDAVLAHLVTYLNTRDWLLR  661
+
+Query  637  VSLIQTISGISILLGTVTLEQYILPLLIQTITDSEELVVISVLQSLKSLFKTGLIRKKYY  696
+             +  +    ++  +G  +LE+YILPL+  ++ D EE VV+ VL+SL SL    L+ K   
+Sbjct  662  KAWNEHAVDVAKCVGPRSLEEYILPLITLSLADPEEFVVVQVLESLTSLASQRLLTKGKI  721
+
+Query  697  IDISKTTSPLLLHPNNWIRQFTLMIIIEIINKLSKAEVYCILYPIIRPFFEFDV-EFNFK  755
+             ++       L HPN WIR+   + +  + + L   + +CILYP I+     DV E    
+Sbjct  722  WELVSPVVSFLCHPNIWIREGAALFLSTVASLLEPTDKWCILYPTIKRLLRSDVKEITAL  781
+
+Query  756  SMISCCKQPVSRSVYNLLCSWSVRASKSLFWKKIITNHVDSFGNNRIEFITKNYSSKNYG  815
+            S++   ++P+SR V+    +W+ +  KS FW                             
+Sbjct  782  SLLDNAREPISRVVFEAAVAWAGKNGKSHFWSA---------------------------  814
+
+Query  816  FNKRDTKSSSSLKGIKTSSTVYSHDNKEIPLTAEDRNWIDKFHIIGLTEKDIWKIVALRG  875
+              K   K +    G++T                ED   +++   +G++ +D +K+ A+R 
+Sbjct  815  -TKGPAKGAPRDAGVRTD---------------EDHAQLERLRQLGMSIEDEYKLTAMRD  858
+
+Query  876  YVIRTARVMAANPDFPYNNSNYRPLVQNSPPNLNLTNIMPRNIFFDVEFAEE  927
+            Y+ + A    A P   +++ +      +S  NL    I+P+ IFF V   EE
+Sbjct  859  YIAKIASSRQAMPSRGFDSPDAL-TPSSSTANLQDLGIVPQTIFFSVRSPEE  909
+
+
+
+
+Range 2: 1102 to 1386
+
+Score:108 bits(271), Expect:2e-23, 
+Method:Compositional matrix adjust., 
+Identities:85/299(28%), Positives:147/299(49%), Gaps:32/299(10%)
+
+Query  1016  PERKVVVSNSYEGDVESIEKFL------STFKILPPLRDYKEFG-----------PIQEI  1058
+             P+R V   ++YEG+  +I++ L      S  + LP L  +   G           P +E 
+Sbjct  1102  PQRLV---STYEGNDPNIKQLLERNYLDSYREPLPELGPHVPPGIPRRKALRTNFPPRE-  1157
+
+Query  1059  VRSPNMGNLRGKLIATLMENEPNSITSSAVSPGETPYLITGSDQGVIKIWNLKEIIVGEV  1118
+              R+PN     G LIA L+E+  ++I S  VSP +  + +TGS  G +K+W+   +     
+Sbjct  1158  -RTPN--RPEGTLIAHLVEHT-DAIVSIQVSPDQL-FFVTGSLDGTVKVWDAMRLEKNVT  1212
+
+Query  1119  YSSSLTYDCSSTVTQITMIPNFDAFAVSSKDGQIIVLKVNHYQQESEVKFLNCECIRKIN  1178
+               S  T+     +T + ++ N    A +S +G I + +V+        ++   + IR+  
+Sbjct  1213  SKSRQTFQQGGKITSVCILDNSHCVASASTNGSIWIHRVDVSLSGQMPRYSKPQLIRQYT  1272
+
+Query  1179  LKNFGKNEYAVRMRAFVNEEKSLLVALTNLSRVIIFDIRTLERLQIIENSPRH-GAVSSI  1237
+             + + G   +A  + ++  +  + LV  T+LS +++ DIR +       N PRH G V+++
+Sbjct  1273  VDDGG---HATCLASYNTDTSTNLVFGTSLSSIVVLDIRKMRAEHEFAN-PRHFGPVTAL  1328
+
+Query  1238  CIDEECCVLILGTTRGIIDIWDIRFNVLIRSWSFGDHAPITHVEVCQFYGKNSVIVVGG  1296
+             C+D +   L+ GT  G++ +WD+RF +L+RSWS G    I  + V    GK   IVV  
+Sbjct  1329  CLDRKHLWLVSGTANGVLSVWDLRFGLLLRSWSIGPRR-IHQIAVHPVKGKGRWIVVAA  1386
+
+
+
+
+>putative serine/threonine-protein kinase VPS15 [Rhodotorula toruloides]
+Sequence ID: KAJ8295897.1 Length: 1695
+Range 1: 20 to 909
+
+Score:533 bits(1373), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:317/952(33%), Positives:498/952(52%), Gaps:96/952(10%)
+
+Query  10   QASPSIAIFSYIDVLEEVHYVSQLNSSRFLKTCKALDPNGEIVIKVFIKPKDQYSLRPFL  69
+            +A P    F + ++  EVHY   + SSRFLK  +     G +V+KVF+K     SL+PF+
+Sbjct  20   KAQPGADPF-FAELGGEVHYDRSMGSSRFLKAVRGRHRQGALVVKVFVKQDPSISLKPFV  78
+
+Query  70   QRIRAQSFKLGQLPHVLNYSKLIETNRAGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAF  129
+            +R++A+   L   P+V  Y + IET RAGY++RQ + +NLYDR+S RP+L  +E ++IAF
+Sbjct  79   RRLKAEREALADCPNVQAYGRAIETERAGYLMRQWVASNLYDRISTRPFLSSVEKRWIAF  138
+
+Query  130  QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFDT  189
+            QLL  LK      I HGDIKTEN++VTSWNW  LTDF++  KP +LP D+P EF FYFDT
+Sbjct  139  QLLTGLKYARERGISHGDIKTENVVVTSWNWVYLTDFSSAFKPTHLPLDDPSEFSFYFDT  198
+
+Query  190  SKRRTCYLAPERFNSKLYQDGKSN--------NGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            S RRTCY+APERF S   +  K          +G++T+ MD+FSLGCV+AE++ EG P F
+Sbjct  199  SSRRTCYIAPERFYSSDSETAKKKESLEIGKRDGKITEAMDVFSLGCVLAELWMEGTPPF  258
+
+Query  242  NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFFP  301
+             LSQLFKY+   Y +  E  + E+   ++R+L+  M+ LDPS RLS    LN+YRG  FP
+Sbjct  259  TLSQLFKYRQGEYSL--ESYLAEIEDIEIRSLIRSMVSLDPSSRLSFSNYLNQYRGTAFP  316
+
+Query  302  DYFYTFIYDYFRNLVTMT-------------TSTPISDNTCTNSTLEDNVKL---LDETT  345
+            + FYTF++ +  +L                 T+TP++ +    +  +++  L    D+  
+Sbjct  317  EIFYTFLHPFLSSLTDSASSSAPPPVPSRPGTTTPVTGDGAGLAARQEHTLLRTDADDKI  376
+
+Query  346  EKIYRDFSQICHCLDFPLIKDGGEIGSDPPIL-ESYKIEIEISRFLNTNLYFPQNYHLVL  404
+            E+++ ++  +   LD  + K+  ++  D PI  E +K      R      +FP   HL  
+Sbjct  377  ERVWTEWEIVARYLDETVPKE--DLQKDAPISDERHK------RHSPAETFFPICLHLPG  428
+
+Query  405  QQFTKVSEKIKSVKEECALLFISYLSHSIRSIVSTATKLKNLELLAVFAQFVSDENKIDR  464
+            Q+   V+    + ++  AL+ ++ +  ++R+ V  A+ L+ LE+L    ++++DE ++DR
+Sbjct  429  QEGNVVAS--GASQDGPALVILALVCANVRNCVRPASVLRALEILLALNRYLTDETRLDR  486
+
+Query  465  VVPYFVCCFEDSDQDVQALSLLTLIQVLTSVRKLNQLNENIFVDYLLPRLKRLLISNRQN  524
+            +VPY V    D    V+A++L  L Q L  V  L   N ++F +Y+ P ++ L      +
+Sbjct  487  LVPYLVTLLSDDAATVRAMALRVLTQTLMLVTTLTPSNVDVFPEYIFPNVRPLA----ND  542
+
+Query  525  TNYL-RIVFANCLSDLAIIINRFQEFTFAQHCNDNSMDNNTEIMESSTKYSAKLIQSVED  583
+             + L R  +A C++ LA    RF +   A         +  +  ESS  Y+      +++
+Sbjct  543  VDILPRETYALCITPLARTARRFLDLAEALKTEGAFELSGLQDFESS-PYTGNFDSRLQE  601
+
+Query  584  LTV-------SFLTDNDTYVKMALLQNILPLCKFFGRERTNDIILSHLITYLNDKDPALR  636
+            L           LTD  T VK ALL NI  LC FF R + ND +L+HL+TYLN +D  LR
+Sbjct  602  LHALVQEHIGPLLTDPSTAVKRALLSNIGDLCDFFSRLKANDAVLAHLVTYLNTRDWLLR  661
+
+Query  637  VSLIQTISGISILLGTVTLEQYILPLLIQTITDSEELVVISVLQSLKSLFKTGLIRKKYY  696
+             +  +    ++  +G  +LE+YILPL+  ++ D EE VV+ VL+SL SL    L+ K   
+Sbjct  662  KAWNEHAVDVAKCVGPRSLEEYILPLITLSLADPEEFVVVQVLESLTSLASQRLLTKGKI  721
+
+Query  697  IDISKTTSPLLLHPNNWIRQFTLMIIIEIINKLSKAEVYCILYPIIRPFFEFDV-EFNFK  755
+             ++       L HPN WIR+  ++ +  + + L   + +CILYP I+     DV E    
+Sbjct  722  WELVSPVVSFLCHPNIWIREGAVLFLSTVASLLEPTDKWCILYPTIKRLLRSDVKEITAL  781
+
+Query  756  SMISCCKQPVSRSVYNLLCSWSVRASKSLFWKKIITNHVDSFGNNRIEFITKNYSSKNYG  815
+            S++   ++P+SR V+    +W+ +  KS FW                             
+Sbjct  782  SLLDNAREPISRVVFEAAVAWAGKNGKSHFWSA---------------------------  814
+
+Query  816  FNKRDTKSSSSLKGIKTSSTVYSHDNKEIPLTAEDRNWIDKFHIIGLTEKDIWKIVALRG  875
+              K   K +    G++T                ED   +++   +G++ +D +K+ A+R 
+Sbjct  815  -TKGPAKGAPRDAGVRTD---------------EDHAQLERLRQLGMSIEDEYKLTAMRD  858
+
+Query  876  YVIRTARVMAANPDFPYNNSNYRPLVQNSPPNLNLTNIMPRNIFFDVEFAEE  927
+            Y+ + A    A P   +++ +      +S  NL    I+P+ IFF V   EE
+Sbjct  859  YIAKIASSRQAMPSRGFDSPDAL-TPSSSTANLQDLGIVPQTIFFSVRSPEE  909
+
+
+
+
+Range 2: 1102 to 1386
+
+Score:108 bits(271), Expect:2e-23, 
+Method:Compositional matrix adjust., 
+Identities:85/299(28%), Positives:147/299(49%), Gaps:32/299(10%)
+
+Query  1016  PERKVVVSNSYEGDVESIEKFL------STFKILPPLRDYKEFG-----------PIQEI  1058
+             P+R V   ++YEG+  +I++ L      S  + LP L  +   G           P +E 
+Sbjct  1102  PQRLV---STYEGNDPNIKQLLERTYLDSYREPLPELGPHVPPGIPRRKALRTNFPPRE-  1157
+
+Query  1059  VRSPNMGNLRGKLIATLMENEPNSITSSAVSPGETPYLITGSDQGVIKIWNLKEIIVGEV  1118
+              R+PN     G LIA L+E+  ++I S  VSP +  + +TGS  G +K+W+   +     
+Sbjct  1158  -RTPNRPE--GTLIAHLVEHT-DAIVSIQVSPDQL-FFVTGSLDGTVKVWDAMRLEKNVT  1212
+
+Query  1119  YSSSLTYDCSSTVTQITMIPNFDAFAVSSKDGQIIVLKVNHYQQESEVKFLNCECIRKIN  1178
+               S  T+     +T + ++ N    A +S +G I + +V+        ++   + IR+  
+Sbjct  1213  SKSRQTFQQGGKITSVCILDNSHCVASASTNGSIWIHRVDVSLSGQMPRYSKPQLIRQYT  1272
+
+Query  1179  LKNFGKNEYAVRMRAFVNEEKSLLVALTNLSRVIIFDIRTLERLQIIENSPRH-GAVSSI  1237
+             + + G   +A  + ++  +  + LV  T+LS +++ DIR +       N PRH G V+++
+Sbjct  1273  VDDGG---HATCLASYNTDTSTNLVFGTSLSSIVVLDIRKMRAEHEFAN-PRHFGPVTAL  1328
+
+Query  1238  CIDEECCVLILGTTRGIIDIWDIRFNVLIRSWSFGDHAPITHVEVCQFYGKNSVIVVGG  1296
+             C+D +   L+ GT  G++ +WD+RF +L+RSWS G    I  + V    GK   IVV  
+Sbjct  1329  CLDRKHLWLVSGTANGVLSVWDLRFGLLLRSWSIGPRR-IHQIAVHPVKGKGRWIVVAA  1386
+
+
+
+
+>other/VPS15 protein kinase [Rhodotorula toruloides]
+Sequence ID: GEM06894.1 Length: 1693
+Range 1: 29 to 910
+
+Score:524 bits(1350), Expect:4e-159, 
+Method:Compositional matrix adjust., 
+Identities:315/941(33%), Positives:488/941(51%), Gaps:92/941(9%)
+
+Query  20   YIDVLEEVHYVSQLNSSRFLKTCKALDPNGEIVIKVFIKPKDQYSLRPFLQRIRAQSFKL  79
+            + ++  EVHY   + SSRFLK  +     G +V+KVF+K     SL+PF++R++A+   L
+Sbjct  29   FAELGGEVHYDRSMGSSRFLKAVRGRHRQGALVVKVFVKQDPSISLKPFVRRLKAEREAL  88
+
+Query  80   GQLPHVLNYSKLIETNRAGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAFQLLNALKDIH  139
+               P+V  Y + IET RAGY++RQ + +NLYDR+S RP+L  +E ++IAFQLL  LK   
+Sbjct  89   TDCPNVQAYGRAIETERAGYLMRQWVASNLYDRISTRPFLSSVEKRWIAFQLLTGLKHAR  148
+
+Query  140  NLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAP  199
+               I HGDIKTEN++VTSWNW  LTDF++  KP YLP D+P EF FYFDTS RRTCY+AP
+Sbjct  149  ERGISHGDIKTENVVVTSWNWVHLTDFSSAFKPTYLPLDDPSEFSFYFDTSSRRTCYIAP  208
+
+Query  200  ERFNSKLYQDGKSN--------NGRLTKEMDIFSLGCVIAEIFAEGRPIFNLSQLFKYKS  251
+            ERF S      K          +G++T+ MD+FSLGCV+AE++ EG P F LSQLFKY+ 
+Sbjct  209  ERFYSPESDIAKKKESLEVGKRDGKITEAMDVFSLGCVLAELWMEGTPPFTLSQLFKYRQ  268
+
+Query  252  NSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFFPDYFYTFIYDY  311
+              Y +  E  + E+   ++R+L+  M+ LDP  RL+  + LN+YRG  FP+ FYTF++ +
+Sbjct  269  GEYSL--ETYLAEIEDIEIRSLIRSMVSLDPISRLTFSDYLNQYRGTAFPEIFYTFLHPF  326
+
+Query  312  FRNLVTMT-------------TSTPISDNTCTNSTLEDNVKL---LDETTEKIYRDFSQI  355
+              +L                 ++TP + +    +  +++  L    D+  E+++ ++  I
+Sbjct  327  LSSLTESVALSAPPPVPSRPESATPGTGDGAGFAARQEHTLLRTDADDKIERVWTEWEII  386
+
+Query  356  CHCLDFPLIKDGGEIGSDPPILESYKIEIEISRFLNTNLYFPQNYHLVLQQFTKVSEKIK  415
+               LD  L K+  +  S      SY  E   S   ++  +FP   HL  Q+ + V+    
+Sbjct  387  ARYLDETLPKEDLQKESG----TSY--ERHKSHSPSSETFFPIRLHLPGQEDSTVA--TG  438
+
+Query  416  SVKEECALLFISYLSHSIRSIVSTATKLKNLELLAVFAQFVSDENKIDRVVPYFVCCFED  475
+            + ++  AL+ ++ +  +IR+ V   + L+ LE+L    ++++DE ++DR+VPY V    D
+Sbjct  439  ASQDGPALVVLALVCANIRNCVRPVSVLRALEILLALNRYLTDETRLDRLVPYLVTLLSD  498
+
+Query  476  SDQDVQALSLLTLIQVLTSVRKLNQLNENIFVDYLLPRLKRLLISNRQNTNYL-RIVFAN  534
+                V+A++L  L Q L  V  L   N ++F +Y+ P  +   I+N  + + L R  +A 
+Sbjct  499  DVATVRAMALRVLTQALMLVSTLTPSNVDVFPEYIFPNTRP--IAN--DVDILPRETYAL  554
+
+Query  535  CLSDLAIIINRFQEFTFAQHCNDNSMDNNTEIMESSTKYSAKLIQSVEDLTV-------S  587
+            C++ LA    RF +   A            +  ESS  Y+      +++L          
+Sbjct  555  CITPLAQTARRFLDLAEALKTEGAFELTGLQDFESS-PYTGNFDSRLQELHALVQEHIGP  613
+
+Query  588  FLTDNDTYVKMALLQNILPLCKFFGRERTNDIILSHLITYLNDKDPALRVSLIQTISGIS  647
+             LTD  T VK ALL NI  LC FFGR + ND +L+HL+TYLN +D  LR +  +    ++
+Sbjct  614  LLTDPSTAVKRALLSNIGDLCDFFGRLKANDAVLAHLVTYLNTRDWLLRKAWNEYAVDVA  673
+
+Query  648  ILLGTVTLEQYILPLLIQTITDSEELVVISVLQSLKSLFKTGLIRKKYYIDISKTTSPLL  707
+              +G  +LE+YILPL+  ++ D EE VV+ VL SL SL    L+ K    ++       L
+Sbjct  674  QCVGPRSLEEYILPLITLSLADPEEFVVVQVLDSLTSLASHRLLMKGKIWELVSPIVSFL  733
+
+Query  708  LHPNNWIRQFTLMIIIEIINKLSKAEVYCILYPIIRPFFEFDV-EFNFKSMISCCKQPVS  766
+             HPN WIR+ +   +  +   L   + +CILYP I+     DV E    S++   ++P+S
+Sbjct  734  CHPNIWIREGSARFLATVAGLLESTDKWCILYPTIKRLLRSDVKEITALSLLDNAREPIS  793
+
+Query  767  RSVYNLLCSWSVRASKSLFWKKIITNHVDSFGNNRIEFITKNYSSKNYGFNKRDTKSSSS  826
+            R V+    +W  +  KS FW                               K   K +  
+Sbjct  794  RVVFEAAVAWVGKNGKSHFWSA----------------------------TKGPAKGAPR  825
+
+Query  827  LKGIKTSSTVYSHDNKEIPLTAEDRNWIDKFHIIGLTEKDIWKIVALRGYVIRTARVMAA  886
+              G++T                ED   +++   +G++ +D +K+ A+R Y+ + A    A
+Sbjct  826  DAGVRTD---------------EDHAQLERLRQLGMSVEDEYKLTAMRDYIAKVASSRQA  870
+
+Query  887  NPDFPYNNSNYRPLVQNSPPNLNLTNIMPRNIFFDVEFAEE  927
+             P   +++ +      +S  NL    I+P+ IFF V   EE
+Sbjct  871  VPSRGFDSPDAL-TPSSSTANLQDLGIVPQTIFFSVRSPEE  910
+
+
+
+
+Range 2: 1069 to 1388
+
+Score:111 bits(278), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:92/338(27%), Positives:158/338(46%), Gaps:34/338(10%)
+
+Query  975   FKNKSIATTTSNLKNVFVQLEPTSYHMHSPNHGLKDNANVKPERKVVVSNSYEGDVESIE  1034
+             +K  +     S   N+F Q  PT      P   L       P+R V   ++YEG+   I+
+Sbjct  1069  YKASAAGDGDSITGNIFSQ-APTPAERGGPAKQLP-----LPQRLV---STYEGNDPKIK  1119
+
+Query  1035  KFLSTFKI------LPPLRDYKEFG-PIQEIVRS--------PNMGNLRGKLIATLMENE  1079
+             + L    +      LP L  +   G P ++ +R+        PN     G LIA L+E+ 
+Sbjct  1120  QLLERTYLDGYREPLPELGPHVPPGIPRRKALRTNFSPRERTPNRPE--GTLIAHLVEHT  1177
+
+Query  1080  PNSITSSAVSPGETPYLITGSDQGVIKIWNLKEIIVGEVYSSSLTYDCSSTVTQITMIPN  1139
+              ++I S  VSP    + +TGS  G +K+W+   +       S LT+     +T + ++ N
+Sbjct  1178  -DAIVSIQVSPDHL-FFVTGSHDGTVKVWDTMRLEKNVTSKSRLTFHQGGKITSVCILDN  1235
+
+Query  1140  FDAFAVSSKDGQIIVLKVNHYQQESEVKFLNCECIRKINLKNFGKNEYAVRMRAFVNEEK  1199
+                 A +S +G I + +V+        ++   + IR+  + + G   +A  + ++  +  
+Sbjct  1236  SHCVASASANGTIWIHRVDVSLSGQMPRYSKPQLIRQYTVDDAG---HATCLASYNTDTS  1292
+
+Query  1200  SLLVALTNLSRVIIFDIRTLERLQIIENSPRH-GAVSSICIDEECCVLILGTTRGIIDIW  1258
+             + LV  T+LS +++ DIRT+       N PRH G ++++C+D +   L+ GT  G++ +W
+Sbjct  1293  TNLVFGTSLSSIVVLDIRTMRPEHEFAN-PRHFGPITALCLDRKHLWLVSGTACGVLSVW  1351
+
+Query  1259  DIRFNVLIRSWSFGDHAPITHVEVCQFYGKNSVIVVGG  1296
+             D+RF +L+RSWS G    I  + V    GK   I V  
+Sbjct  1352  DLRFGLLLRSWSIGSRR-IHQIAVHPVKGKGRWIAVAA  1388
+
+
+
+
+>serine/threonine protein kinase [Rhodotorula toruloides]
+Sequence ID: GEM11102.1 Length: 1149
+Range 1: 166 to 357
+
+Score:58.2 bits(139), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:68/218(31%), Positives:103/218(47%), Gaps:40/218(18%)
+
+Query  119  LQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPED  178
+            L +   K    QLL+A++ +H+  I H DIK  NIL++  +  +L DF  F +     E 
+Sbjct  166  LPESRAKPYFLQLLSAVQHVHSHGIAHNDIKPSNILLSHEDRPVLIDF-GFAQ--QYEEG  222
+
+Query  179  NPGEFL--FYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAE  236
+            NP  FL    + T +    YL+PER    L+ +      RL+   D+F+LG  + EI   
+Sbjct  223  NPDRFLSSLSWGTPE----YLSPERAKGALHDE------RLS---DVFALGVTMYEIVV-  268
+
+Query  237  GRPIF---------NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRL-  286
+            GR  F         N  QL  Y + +  +  +F  + + ST+  +L+  M+  +PS +L 
+Sbjct  269  GRTPFEKSEDENFLNREQLEVYYNRT--LTGQFYGDYIISTEFESLIRHMV--EPSIKLR  324
+
+Query  287  --SCDELLNKYRGIFFPDYFYTFIYDYFRNLVTMTTST  322
+              SC   L K+R  FF D   +   D  RN +  TT T
+Sbjct  325  MPSCGAAL-KHR--FF-DLPPSPFADT-RNSILYTTPT  357
+
+
+
+
+>Protein kinase-like domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ70685.1 Length: 399
+Range 1: 173 to 353
+
+Score:56.2 bits(134), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:62/203(31%), Positives:92/203(45%), Gaps:32/203(15%)
+
+Query  130  QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFDT  189
+            QLL+A++ +H+  I H DIK  NIL+++ N  +L DF  F +     E  P  FL     
+Sbjct  173  QLLSAVQHLHSHGIAHNDIKPSNILLSAENRPVLIDF-GFAQ--QYEEGKPDRFLSSLSW  229
+
+Query  190  SKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF--------  241
+                  YL+PER    L+ +      RL+   D+F+LG  + EI   GR  F        
+Sbjct  230  GTPE--YLSPERAKGALHDE------RLS---DVFALGVTMYEIVV-GRTPFEKSEDENF  277
+
+Query  242  -NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRL-SCDELLNKYRGIF  299
+             N  QL  Y + +  +  +F  + + ST+   L+  M++     R+ SC   L K+R   
+Sbjct  278  LNREQLEVYYNRT--LTGQFYGDYIISTEFEALIHHMVEPSIELRMPSCGAAL-KHRFFD  334
+
+Query  300  FPDYFYTFIYDYFRNLVTMTTST  322
+             P   +  I    RN V  TT T
+Sbjct  335  LPPSPFANI----RNSVLYTTPT  353
+
+
+
+
+>serine/threonine protein kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274258.1 Length: 1137
+>serine/threonine protein kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS23139.1 Length: 1137
+>RHTO0S12e04522g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46445.1 Length: 1137 
+Range 1: 180 to 360
+
+Score:54.3 bits(129), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:62/205(30%), Positives:94/205(45%), Gaps:36/205(17%)
+
+Query  130  QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL--FYF  187
+            QLL+A++ +H+  I H DIK  NIL++  +  +L DF  F +     E  P  FL    +
+Sbjct  180  QLLSAVQHLHSHGIAHNDIKPSNILLSQDDRPVLIDF-GFAQ--QYEEGKPERFLSSLSW  236
+
+Query  188  DTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF------  241
+             T +    YL+PER    L+ +      RL+   D+F+LG  + EI   GR  F      
+Sbjct  237  GTPE----YLSPERAKGALHDE------RLS---DVFALGVTMYEIVV-GRTPFEKSEDE  282
+
+Query  242  ---NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRL-SCDELLNKYRG  297
+               N  QL  Y + +  +  +F  + + ST+  +L+  M++     R+ SC   L K+R 
+Sbjct  283  NFLNREQLEVYYNRT--LTGQFYGDYIISTEFESLIHHMVEPSIELRMPSCGAAL-KHRF  339
+
+Query  298  IFFPDYFYTFIYDYFRNLVTMTTST  322
+               P   Y  I    R  V  TT T
+Sbjct  340  FDLPPSPYANI----RQSVLYTTPT  360
+
+
+
+
+>Maternal embryonic leucine zipper kinase [Rhodotorula toruloides]
+Sequence ID: KAJ8291680.1 Length: 1137
+Range 1: 180 to 360
+
+Score:54.3 bits(129), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:62/205(30%), Positives:94/205(45%), Gaps:36/205(17%)
+
+Query  130  QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL--FYF  187
+            QLL+A++ +H+  I H DIK  NIL++  +  +L DF  F +     E  P  FL    +
+Sbjct  180  QLLSAVQHLHSHGIAHNDIKPSNILLSQDDRPVLIDF-GFAQ--QYEEGKPERFLSSLSW  236
+
+Query  188  DTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF------  241
+             T +    YL+PER    L+ +      RL+   D+F+LG  + EI   GR  F      
+Sbjct  237  GTPE----YLSPERAKGALHDE------RLS---DVFALGVTMYEIVV-GRTPFEKSEDE  282
+
+Query  242  ---NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRL-SCDELLNKYRG  297
+               N  QL  Y + +  +  +F  + + ST+  +L+  M++     R+ SC   L K+R 
+Sbjct  283  NFLNREQLEVYYNRT--LTGQFYGDYIISTEFESLIHHMVEPSIELRMPSCGAAL-KHRF  339
+
+Query  298  IFFPDYFYTFIYDYFRNLVTMTTST  322
+               P   Y  I    R  V  TT T
+Sbjct  340  FDLPPSPYANI----RQSVLYTTPT  360
+
+
+
+
+>CAMK/CAMKL/Kin4 protein kinase [Rhodotorula toruloides]
+Sequence ID: GEM11554.1 Length: 1518
+Range 1: 291 to 496
+
+Score:52.4 bits(124), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:57/237(24%), Positives:106/237(44%), Gaps:52/237(21%)
+
+Query  77   FKLGQLPHVLNYSKLIETNR-AGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAFQLLNAL  135
+             K+ + P+++    +IET +  G ++       L+D +    YL++ +   +  QL++ +
+Sbjct  291  LKMVRHPNIVRLYDVIETEKYIGIVLEYASGGELFDHILAHRYLKERDASRLFAQLISGV  350
+
+Query  136  KDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFD-------  188
+              +H+  +VH D+K EN+L+      I+TDF                F   F+       
+Sbjct  351  GYLHSKGVVHRDLKLENLLLDRNRNVIITDFG---------------FANRFNDAHVDLM  395
+
+Query  189  -TSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFA------------  235
+             TS    CY APE   S    DGK     +   +D++S G ++  + A            
+Sbjct  396  ATSCGSPCYAAPELVVS----DGK----YVGTAVDVWSCGVILYAMLAGYLPYDDDPANP  447
+
+Query  236  EGRPIFNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+            EG    N++ L+KY  ++     +++ +E      R+L+L M+  DP+KR +  E++
+Sbjct  448  EGD---NINLLYKYILSTPLTFPDWITDE-----PRDLLLTMLVPDPTKRCTIHEVM  496
+
+
+
+
+>serine/threonine protein kinase Kin4 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016271218.1 Length: 1518
+>serine/threonine protein kinase Kin4 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20099.1 Length: 1518
+>RHTO0S19e03092g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48715.1 Length: 1518 
+Range 1: 295 to 500
+
+Score:50.8 bits(120), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:56/237(24%), Positives:106/237(44%), Gaps:52/237(21%)
+
+Query  77   FKLGQLPHVLNYSKLIETNR-AGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAFQLLNAL  135
+             K+ + P+++    +IET +  G ++       L+D +    YL++ +   +  QL++ +
+Sbjct  295  LKMVRHPNIVRLYDVIETEKYIGIVLEYASGGELFDHILAHRYLKERDASRLFAQLISGV  354
+
+Query  136  KDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFD-------  188
+              +H+  +VH D+K EN+L+      I+TDF                F   F+       
+Sbjct  355  GYLHSKGVVHRDLKLENLLLDRNRNVIITDFG---------------FANRFNDAHVDLM  399
+
+Query  189  -TSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFA------------  235
+             TS    CY APE   S    DGK     +   +D++S G ++  + A            
+Sbjct  400  ATSCGSPCYAAPELVVS----DGK----YVGTAVDVWSCGVILYAMLAGYLPYDDDPANP  451
+
+Query  236  EGRPIFNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+            EG    N++ L+KY  ++     +++ +E      R+L+L M+  DP+KR +  +++
+Sbjct  452  EGD---NINLLYKYILSTPLTFPDWITDE-----PRDLLLTMLVPDPTKRCTIHDVM  500
+
+
+
+
+>CAMK/CAMKL/Kin4 protein kinase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11499.1 Length: 1521
+>CAMK/CAMKL/Kin4 protein kinase [Rhodotorula toruloides]
+Sequence ID: PRQ71201.1 Length: 1521 
+Range 1: 298 to 503
+
+Score:50.4 bits(119), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:56/237(24%), Positives:106/237(44%), Gaps:52/237(21%)
+
+Query  77   FKLGQLPHVLNYSKLIETNR-AGYMIRQHLKNNLYDRLSLRPYLQDIELKFIAFQLLNAL  135
+             K+ + P+++    +IET +  G ++       L+D +    YL++ +   +  QL++ +
+Sbjct  298  LKMVRHPNIVRLYDVIETEKYIGIVLEYASGGELFDHILAHRYLKERDASRLFAQLISGV  357
+
+Query  136  KDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFD-------  188
+              +H+  +VH D+K EN+L+      I+TDF                F   F+       
+Sbjct  358  GYLHSKGVVHRDLKLENLLLDRNRNVIITDFG---------------FANRFNDAHVDLM  402
+
+Query  189  -TSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFA------------  235
+             TS    CY APE   S    DGK     +   +D++S G ++  + A            
+Sbjct  403  ATSCGSPCYAAPELVVS----DGK----YVGTAVDVWSCGVILYAMLAGYLPYDDDPANP  454
+
+Query  236  EGRPIFNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+            EG    N++ L+KY  ++     +++ +E      R+L+L M+  DP+KR +  +++
+Sbjct  455  EGD---NINLLYKYILSTPLTFPDWITDEP-----RDLLLTMLVPDPTKRCTIHDVM  503
+
+
+
+
+>Protein kinase-like domain-containing protein, partial [Rhodotorula toruloides]
+Sequence ID: PRQ72501.1 Length: 306
+Range 1: 79 to 224
+
+Score:48.1 bits(113), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:42/157(27%), Positives:66/157(42%), Gaps:24/157(15%)
+
+Query  100  MIRQHLK----------NNLYDRLSLRPYLQDIELKFIAF---QLLNALKDIHNLNIVHG  146
+            M+R HL           N+L    + +P    I L FI +   Q+L+A++ IH   +VH 
+Sbjct  79   MVRSHLYLVMEAGETDLNSLLASYAGKP----ISLNFIRYIWEQMLSAVQVIHEEAVVHS  134
+
+Query  147  DIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAPERFNSKL  206
+            D+K  N ++       L DF    K +     N G      D       Y+ PE  N   
+Sbjct  135  DLKPANFVLVKGR-LKLIDFG-ISKAIAADTTNIGR-----DQQIGTANYMPPEALNDTG  187
+
+Query  207  YQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNL  243
+               G     +L +  D++SLGC++ ++   G P  +L
+Sbjct  188  LGQGGKRLMKLGRAADVWSLGCILYQMVYGGAPFSHL  224
+
+
+
+
+>aurora kinase [Rhodotorula toruloides]
+Sequence ID: GEM10158.1 Length: 503
+Range 1: 310 to 475
+
+Score:48.1 bits(113), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:46/190(24%), Positives:86/190(45%), Gaps:26/190(13%)
+
+Query  106  KNNLYDRLS-LRPYLQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILT  164
+            +  LY  LS  R + +    ++IA Q+ +AL  +H+ +++H DIK ENIL+       + 
+Sbjct  310  RGELYKILSKCRRFSEKRSSRYIA-QMADALAYLHSKHVIHRDIKPENILIGMNGELKIG  368
+
+Query  165  DFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIF  224
+            DF      V+ P +         D       YL PE   ++ + D          ++D++
+Sbjct  369  DFGWS---VHAPGNRRSTLCGTLD-------YLPPEMVENREHTD----------KVDLW  408
+
+Query  225  SLGCVIAEIFAEGRPIFNLSQLFKYKSNSYDVNR-EFLMEEMNSTDLRNLVLDMIQLDPS  283
+            +LG +  E F  G P F    L  +++    + R ++ +    S +  +L+  ++++ P 
+Sbjct  409  ALGVLCYE-FLVGNPPFE--DLSGHQATYNKITRLQYTIPATVSPEAADLIRKLLRIKPE  465
+
+Query  284  KRLSCDELLN  293
+             RL   E+L 
+Sbjct  466  DRLPLSEVLK  475
+
+
+
+
+>serine/threonine-protein kinase/endoribonuclease IRE1 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273898.1 Length: 1359
+>serine/threonine-protein kinase/endoribonuclease IRE1 [Rhodotorula toruloides NP11]
+Sequence ID: EMS22779.1 Length: 1359
+>Serine/threonine-protein kinase ppk4 [Rhodotorula toruloides]
+Sequence ID: KAJ8293085.1 Length: 1359
+>RHTO0S10e05028g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR45102.1 Length: 1359 
+Range 1: 1003 to 1215
+
+Score:48.5 bits(114), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:51/221(23%), Positives:97/221(43%), Gaps:44/221(19%)
+
+Query  108   NLYDRLSLRP-YLQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWC-----  161
+             +L D+ S  P  L+ ++ K    Q+ + L+ +H+L IVH DIK +NILV++         
+Sbjct  1003  DLVDQPSAFPDLLRQLDPKKALKQITSGLRHLHSLKIVHRDIKPQNILVSTAKRGQPGLR  1062
+
+Query  162   -ILTDFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNG-----  215
+              +++DF    K + + E +   F    + +     Y APE     +  +  +        
+Sbjct  1063  MLISDFG-LCKKLDVDESS---FQQTVNHAAGSFGYRAPEVLRGLVDPNEGATGTSSASA  1118
+
+Query  216   -------------------RLTKEMDIFSLGCVIAEIFAEGRPIFNLSQLFKYKSNSYDV  256
+                                RLT+ +DIFSLGC+   +   G   F      +Y+     +
+Sbjct  1119  GSGGSSTTLAGLTTTDPSMRLTRSIDIFSLGCIFYYVLTRGDHPFG----GRYEREMNIL  1174
+
+Query  257   NREFLMEEMN-----STDLRNLVLDMIQLDPSKRLSCDELL  292
+             N +  ++ ++     + ++++L+L M+  DP +R + D +L
+Sbjct  1175  NGKASLDRLDGLGEEAVEVQDLILRMVATDPRERPTADAVL  1215
+
+
+
+
+>other/IRE protein kinase [Rhodotorula toruloides]
+Sequence ID: GEM10521.1 Length: 1356
+Range 1: 1000 to 1212
+
+Score:48.1 bits(113), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:51/221(23%), Positives:97/221(43%), Gaps:44/221(19%)
+
+Query  108   NLYDRLSLRPYL-QDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWC-----  161
+             +L D+ S  P L + ++ K    Q+ + L+ +H+L IVH DIK +NILV++         
+Sbjct  1000  DLVDQPSAFPDLVRQLDPKKALKQITSGLRHLHSLKIVHRDIKPQNILVSTAKRGQPGLR  1059
+
+Query  162   -ILTDFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNG-----  215
+              +++DF    K + + E +   F    + +     Y APE     +  +  +        
+Sbjct  1060  MLISDFG-LCKKLDVDESS---FQQTVNHAAGSFGYRAPEVLRGLVDPNEGATGTSSASA  1115
+
+Query  216   -------------------RLTKEMDIFSLGCVIAEIFAEGRPIFNLSQLFKYKSNSYDV  256
+                                RLT+ +DIFSLGC+   +   G   F      +Y+     +
+Sbjct  1116  GSGGSSTTLAGLTTTDPSMRLTRSIDIFSLGCIFYYVLTRGDHPFG----GRYEREMNIL  1171
+
+Query  257   NREFLMEEMN-----STDLRNLVLDMIQLDPSKRLSCDELL  292
+             N +  ++ ++     + ++++L+L M+  DP +R + D +L
+Sbjct  1172  NGKASLDRLDGLGEEAVEVQDLILRMVATDPRERPTADAVL  1212
+
+
+
+
+>Protein kinase-like domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ71552.1 Length: 299
+Range 1: 111 to 273
+
+Score:47.0 bits(110), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:51/184(28%), Positives:84/184(45%), Gaps:25/184(13%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL  184
+            KF+  Q+L  L  +H   I+H DIK  NILV +     ++DF    K     ED      
+Sbjct  111  KFVR-QILTGLDYLHEREIIHRDIKGANILVDNKGNIKISDFGISKKV----EDTLLTGA  165
+
+Query  185  FYFDTSKRRTCY-LAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNL  243
+                 S + + Y +APE      Y          T + DI+SLGC++ E+     P  NL
+Sbjct  166  KVHRPSLQGSVYWMAPEVVKQTAY----------TSKADIWSLGCLVVEMLTGAHPWANL  215
+
+Query  244  SQL---FKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFF  300
+            +Q+   F+  S+     R  + +++ S++  + +    +++ + R S  ELL ++  I  
+Sbjct  216  TQMQAIFRIGSSV----RPTVPDDI-SSEADDFLEQTFEIEHTDRPSAKELL-QHGFIRD  269
+
+Query  301  PDYF  304
+            PD F
+Sbjct  270  PDAF  273
+
+
+
+
+>RHTO0S03e04192g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR38130.1 Length: 1102
+Range 1: 508 to 706
+
+Score:48.1 bits(113), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:49/218(22%), Positives:85/218(38%), Gaps:48/218(22%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA----------------A  168
+            +F   +++  ++ +H   I++ D+K EN+L+ +    +LTDF                  
+Sbjct  508  RFYISEIIEGVEGLHRAGIIYRDLKPENVLIAADGHIVLTDFGLSKDFGHNQVIPSATDG  567
+
+Query  169  FIKPVYLPEDNP---------GEFLFYFDTSKRRTC----YLAPERFNSKLYQDGKSNNG  215
+              +P +L  D+P           +L  +  +    C    YLAPE    + Y        
+Sbjct  568  LPRPHWL--DHPSRSASTPPVASWLGTYRETTTTFCGTAEYLAPEVLLGEPY--------  617
+
+Query  216  RLTKEMDIFSLGCVIAEIFAEGRPIFNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVL  275
+              + E DI+S G ++ E+ A   P    +    Y+   +D  R          D R L+ 
+Sbjct  618  --SYECDIWSAGTMLYEMLAGVTPFMADNHATMYRRVLHDDLRFDERSRQFDPDTRALIR  675
+
+Query  276  DMIQLDPSKRLSCDELLNKYRGIFFPDYFYTFIYDYFR  313
+             M+Q DP  R++    L + R      YF    +D+ R
+Sbjct  676  GMLQRDPVLRITIPR-LKRMR------YFNMISWDFIR  706
+
+
+
+
+>mitogen-activated protein kinase kinase kinase [Rhodotorula toruloides]
+Sequence ID: GEM07191.1 Length: 1506
+Range 1: 1318 to 1477
+
+Score:47.8 bits(112), Expect:8e-05, 
+Method:Compositional matrix adjust., 
+Identities:52/191(27%), Positives:84/191(43%), Gaps:35/191(18%)
+
+Query  125   KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL  184
+             KF+  Q+L  L  +H   I+H DIK  NILV +     ++DF    K V   ED      
+Sbjct  1318  KFV-RQILTGLDYLHEREIIHRDIKGANILVDNKGNIKISDFG-ISKKV---EDTLLTGA  1372
+
+Query  185   FYFDTSKRRTCY-LAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNL  243
+                  S + + Y +APE      Y          T + DI+SLGC++ E+     P  NL
+Sbjct  1373  KVHRPSLQGSVYWMAPEVVKQTAY----------TSKADIWSLGCLVVEMLTGAHPWANL  1422
+
+Query  244   SQL---FKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFF  300
+             +Q+   F+  S+     R  + +++ S++  N +    +++ + R S  ELL        
+Sbjct  1423  TQMQAIFRIGSSV----RPTVPDDI-SSEADNFLEQTFEIEHTDRPSAKELLQ-------  1470
+
+Query  301   PDYFYTFIYDY  311
+                 + FI D+
+Sbjct  1471  ----HAFIRDH  1477
+
+
+
+
+>Other/IRE protein kinase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11587.1 Length: 1357
+>Other/IRE protein kinase [Rhodotorula toruloides]
+Sequence ID: PRQ74348.1 Length: 1357 
+Range 1: 1001 to 1213
+
+Score:47.8 bits(112), Expect:8e-05, 
+Method:Compositional matrix adjust., 
+Identities:51/221(23%), Positives:97/221(43%), Gaps:44/221(19%)
+
+Query  108   NLYDRLSLRPYL-QDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWC-----  161
+             +L D+ S  P L + ++ K    Q+ + L+ +H+L IVH DIK +NILV++         
+Sbjct  1001  DLVDQPSAFPDLVRQLDPKKALKQITSGLRHLHSLKIVHRDIKPQNILVSTAKRGQPGLR  1060
+
+Query  162   -ILTDFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNG-----  215
+              +++DF    K + + E +   F    + +     Y APE     +  +  +        
+Sbjct  1061  MLISDFG-LCKKLDVDESS---FQQTVNHAAGSFGYRAPEVLRGLVDPNEGATGTSSASA  1116
+
+Query  216   -------------------RLTKEMDIFSLGCVIAEIFAEGRPIFNLSQLFKYKSNSYDV  256
+                                RLT+ +DIFSLGC+   +   G   F      +Y+     +
+Sbjct  1117  GSGGSSTTLAGLTTTDPSMRLTRSIDIFSLGCIFYYVLTRGDHPFG----GRYEREMNIL  1172
+
+Query  257   NREFLMEEMN-----STDLRNLVLDMIQLDPSKRLSCDELL  292
+             N +  ++ ++     + ++++L+L M+  DP +R + D +L
+Sbjct  1173  NGKASLDRLDGLGEEAVEVQDLILRMVATDPRERPTADAVL  1213
+
+
+
+
+>p21-activated kinase 1 [Rhodotorula toruloides]
+Sequence ID: GEM08599.1 Length: 961
+Range 1: 777 to 880
+
+Score:46.6 bits(109), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:35/130(27%), Positives:60/130(46%), Gaps:33/130(25%)
+
+Query  119  LQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA--AFIKPVYLP  176
+            + + ++  ++ ++L  LK +H   ++H DIK++NIL++      LTDF   A IK     
+Sbjct  777  MSEGQIAAVSREVLQGLKHLHEHGVIHRDIKSDNILLSMQGDIKLTDFGFCAQIK-----  831
+
+Query  177  EDNPGEFLFYFDTSKRRTC-----YLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIA  231
+                       D +KR T      ++APE    K Y            ++D++SLG +  
+Sbjct  832  ----------GDNAKRTTMVGTPYWMAPEVVTRKEY----------GPKVDVWSLGIMCI  871
+
+Query  232  EIFAEGRPIF  241
+            E+  EG P +
+Sbjct  872  EMI-EGEPPY  880
+
+
+
+
+>p21-activated kinase 1 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270790.1 Length: 969
+>p21-activated kinase 1 [Rhodotorula toruloides NP11]
+Sequence ID: EMS19671.1 Length: 969
+>RHTO0S01e17436g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36246.1 Length: 969 
+Range 1: 785 to 888
+
+Score:46.6 bits(109), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:35/130(27%), Positives:60/130(46%), Gaps:33/130(25%)
+
+Query  119  LQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA--AFIKPVYLP  176
+            + + ++  ++ ++L  LK +H   ++H DIK++NIL++      LTDF   A IK     
+Sbjct  785  MSEGQIAAVSREVLQGLKHLHEHGVIHRDIKSDNILLSMQGDIKLTDFGFCAQIK-----  839
+
+Query  177  EDNPGEFLFYFDTSKRRTC-----YLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIA  231
+                       D +KR T      ++APE    K Y            ++D++SLG +  
+Sbjct  840  ----------GDNAKRTTMVGTPYWMAPEVVTRKEY----------GPKVDVWSLGIMCI  879
+
+Query  232  EIFAEGRPIF  241
+            E+  EG P +
+Sbjct  880  EMI-EGEPPY  888
+
+
+
+
+>mitogen-activated protein kinase kinase kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274796.1 Length: 1430
+>mitogen-activated protein kinase kinase kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS23677.1 Length: 1430
+>RHTO0S05e10726g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR41003.1 Length: 1430 
+Range 1: 1242 to 1349
+
+Score:46.6 bits(109), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:39/123(32%), Positives:56/123(45%), Gaps:16/123(13%)
+
+Query  125   KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL  184
+             KF+  Q+L  L  +H   I+H DIK  NILV +     ++DF    K V   ED      
+Sbjct  1242  KFV-RQILTGLDYLHEREIIHRDIKGANILVDNKGNIKISDFG-ISKKV---EDTLLTGA  1296
+
+Query  185   FYFDTSKRRTCY-LAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNL  243
+                  S + + Y +APE      Y          T + DI+SLGC++ E+     P  NL
+Sbjct  1297  KVHRPSLQGSVYWMAPEVVKQTAY----------TSKADIWSLGCLVVEMLTGAHPWANL  1346
+
+Query  244   SQL  246
+             +Q+
+Sbjct  1347  TQM  1349
+
+
+
+
+>STE/STE20/PAKA protein kinase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU11233.1 Length: 1069
+>STE/STE20/PAKA protein kinase [Rhodotorula toruloides]
+Sequence ID: PRQ78187.1 Length: 1069 
+Range 1: 885 to 988
+
+Score:46.6 bits(109), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:35/130(27%), Positives:60/130(46%), Gaps:33/130(25%)
+
+Query  119  LQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA--AFIKPVYLP  176
+            + + ++  ++ ++L  LK +H   ++H DIK++NIL++      LTDF   A IK     
+Sbjct  885  MSEGQIAAVSREVLQGLKHLHEHGVIHRDIKSDNILLSMQGDIKLTDFGFCAQIK-----  939
+
+Query  177  EDNPGEFLFYFDTSKRRTC-----YLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIA  231
+                       D +KR T      ++APE    K Y            ++D++SLG +  
+Sbjct  940  ----------GDNAKRTTMVGTPYWMAPEVVTRKEY----------GPKVDVWSLGIMCI  979
+
+Query  232  EIFAEGRPIF  241
+            E+  EG P +
+Sbjct  980  EMI-EGEPPY  988
+
+
+
+
+>serine/threonine-protein kinase TTK/MPS1 [Rhodotorula toruloides]
+Sequence ID: GEM07608.1 Length: 856
+Range 1: 599 to 716
+
+Score:46.2 bits(108), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:34/125(27%), Positives:56/125(44%), Gaps:10/125(8%)
+
+Query  122  IELKFIAF---QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPED  178
+            I L FI +   Q+L+A++ IH   +VH D+K  N ++      ++ DF    K +     
+Sbjct  599  ISLNFIRYIWEQMLSAVQVIHEEAVVHSDLKPANFVLVKGRLKLI-DFG-ISKAIAADTT  656
+
+Query  179  NPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGR  238
+            N G      D       Y+ PE  N      G     +L +  D++SLGC++ ++   G 
+Sbjct  657  NIGR-----DQQIGTANYMPPEALNDTGLGQGGKRLMKLGRAADVWSLGCILYQMVYGGA  711
+
+Query  239  PIFNL  243
+            P  +L
+Sbjct  712  PFSHL  716
+
+
+
+
+>Serine/threonine-protein kinase ark1 [Rhodotorula toruloides]
+Sequence ID: KAJ8292801.1 Length: 505
+Range 1: 332 to 476
+
+Score:45.8 bits(107), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:41/169(24%), Positives:77/169(45%), Gaps:25/169(14%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL  184
+            ++IA Q+ +AL  +H  +++H DIK ENIL+       + DF      V+ P +      
+Sbjct  332  RYIA-QMADALAYLHAKHVIHRDIKPENILIGMNGELKIGDFGWS---VHAPGNRRSTLC  387
+
+Query  185  FYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNLS  244
+               D       YL PE   ++ + D          ++D+++LG +  E F  G P F   
+Sbjct  388  GTLD-------YLPPEMVENREHTD----------KVDLWALGVLCYE-FLVGNPPFE--  427
+
+Query  245  QLFKYKSNSYDVNR-EFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+             L  +++    + R ++ +    S +  +L+  ++++ P  RL   E+L
+Sbjct  428  DLSGHQATYNKITRLQYTIPATVSPEAADLIRKLLRIKPEDRLPLSEVL  476
+
+
+
+
+>aurora kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273946.1 Length: 505
+>aurora kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS22827.1 Length: 505
+>RHTO0S09e05292g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR44513.1 Length: 505 
+Range 1: 332 to 476
+
+Score:45.8 bits(107), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:41/169(24%), Positives:77/169(45%), Gaps:25/169(14%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL  184
+            ++IA Q+ +AL  +H  +++H DIK ENIL+       + DF      V+ P +      
+Sbjct  332  RYIA-QMADALAYLHAKHVIHRDIKPENILIGMNGELKIGDFGWS---VHAPGNRRSTLC  387
+
+Query  185  FYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNLS  244
+               D       YL PE   ++ + D          ++D+++LG +  E F  G P F   
+Sbjct  388  GTLD-------YLPPEMVENREHTD----------KVDLWALGVLCYE-FLVGNPPFE--  427
+
+Query  245  QLFKYKSNSYDVNR-EFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+             L  +++    + R ++ +    S +  +L+  ++++ P  RL   E+L
+Sbjct  428  DLSGHQATYNKITRLQYTIPATVSPEAADLIRKLLRIKPEDRLPLSEVL  476
+
+
+
+
+>Other/AUR protein kinase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12135.1 Length: 504
+>Other/AUR protein kinase [Rhodotorula toruloides]
+Sequence ID: PRQ71716.1 Length: 504 
+Range 1: 331 to 476
+
+Score:45.4 bits(106), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:41/170(24%), Positives:77/170(45%), Gaps:25/170(14%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFL  184
+            ++IA Q+ +AL  +H  +++H DIK ENIL+       + DF      V+ P +      
+Sbjct  331  RYIA-QMADALAYLHAKHVIHRDIKPENILIGMNGELKIGDFGWS---VHAPGNRRSTLC  386
+
+Query  185  FYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNLS  244
+               D       YL PE   ++ + D          ++D+++LG +  E F  G P F   
+Sbjct  387  GTLD-------YLPPEMVENREHTD----------KVDLWALGVLCYE-FLVGNPPFE--  426
+
+Query  245  QLFKYKSNSYDVNR-EFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLN  293
+             L  +++    + R ++ +    S +  +L+  ++++ P  RL   E+L 
+Sbjct  427  DLSGHQATYNKITRLQYTIPATVSPEAADLIRKLLRIKPEDRLPLSEVLK  476
+
+
+
+
+>Histidine--tRNA ligase, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8296015.1 Length: 2685
+Range 1: 1239 to 1407
+
+Score:45.8 bits(107), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:43/193(22%), Positives:75/193(38%), Gaps:28/193(14%)
+
+Query  125   KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA---AFIKPVYLPEDNPG  181
+             +F   +++  ++ +H   I++ D+K EN+L+ +    +LTDF     F     +P    G
+Sbjct  1239  RFYISEIIEGVEGLHRAGIIYRDLKPENVLIAADGHIVLTDFGLSKDFGHNQVIPSATDG  1298
+
+Query  182   -EFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPI  240
+                  + D   R+     P  +                 E DI+S G ++ E+ A   P 
+Sbjct  1299  LPRPHWLDHPSRKVLLGEPYSY-----------------ECDIWSAGTMLYEMLAGVTPF  1341
+
+Query  241   FNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFF  300
+                +    Y+   +D  R          D R L+  M+Q DP  R++    L + R    
+Sbjct  1342  MADNHATMYRRVLHDDLRFDERSRQFDPDTRALIRGMLQRDPVLRITIPR-LKRMR----  1396
+
+Query  301   PDYFYTFIYDYFR  313
+               YF    +D+ R
+Sbjct  1397  --YFNMISWDFIR  1407
+
+
+
+
+>protein serine/threonine kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276911.1 Length: 1044
+>protein serine/threonine kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS25792.1 Length: 1044 
+Range 1: 495 to 663
+
+Score:45.4 bits(106), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:43/193(22%), Positives:75/193(38%), Gaps:28/193(14%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA---AFIKPVYLPEDNPG  181
+            +F   +++  ++ +H   I++ D+K EN+L+ +    +LTDF     F     +P    G
+Sbjct  495  RFYISEIIEGVEGLHRAGIIYRDLKPENVLIAADGHIVLTDFGLSKDFGHNQVIPSATDG  554
+
+Query  182  -EFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPI  240
+                 + D   R+     P  +                 E DI+S G ++ E+ A   P 
+Sbjct  555  LPRPHWLDHPSRKVLLGEPYSY-----------------ECDIWSAGTMLYEMLAGVTPF  597
+
+Query  241  FNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLNKYRGIFF  300
+               +    Y+   +D  R          D R L+  M+Q DP  R++    L + R    
+Sbjct  598  MADNHATMYRRVLHDDLRFDERSRQFDPDTRALIRGMLQRDPVLRITIPR-LKRMR----  652
+
+Query  301  PDYFYTFIYDYFR  313
+              YF    +D+ R
+Sbjct  653  --YFNMISWDFIR  663
+
+
+
+
+>Protein kinase-like domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ77506.1 Length: 386
+Range 1: 111 to 309
+
+Score:45.1 bits(105), Expect:4e-04, 
+Method:Composition-based stats., 
+Identities:51/216(24%), Positives:85/216(39%), Gaps:44/216(20%)
+
+Query  125  KFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA--------AFIKPVY--  174
+            +F   +++  ++ +H   I++ D+K EN+L+ +    +LTDF           I P    
+Sbjct  111  RFYISEIIEGVEGLHRAGIIYRDLKPENVLIAADGHIVLTDFGLSKDFGHNQVIPPATDG  170
+
+Query  175  LPE----DNP---------GEFLFYFDTSKRRTC----YLAPERFNSKLYQDGKSNNGRL  217
+            LP     D+P           +L  +  +    C    YLAPE    + Y          
+Sbjct  171  LPRPHWLDHPSRSASTPPVASWLGTYRETTTTFCGTAEYLAPEVLLGEPY----------  220
+
+Query  218  TKEMDIFSLGCVIAEIFAEGRPIFNLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLVLDM  277
+            + E DI+S G ++ E+ A   P    +    Y+   +D  R          D R L+  M
+Sbjct  221  SYECDIWSAGTMLYEMLAGVTPFMADNHATMYRRVLHDDLRFDEQSRQFDPDTRALIRGM  280
+
+Query  278  IQLDPSKRLSCDELLNKYRGIFFPDYFYTFIYDYFR  313
+            +Q DP  R++    L + R      YF    +D+ R
+Sbjct  281  LQRDPVLRITIPR-LKRMR------YFNMISWDFIR  309
+
+
+
+
+>Serine/threonine-protein kinase mph1 [Rhodotorula toruloides]
+Sequence ID: KAJ8294894.1 Length: 1539
+Range 1: 1280 to 1399
+
+Score:45.1 bits(105), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:34/127(27%), Positives:57/127(44%), Gaps:10/127(7%)
+
+Query  120   QDIELKFIAF---QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLP  176
+             + I L FI +   Q+L+A++ IH   +VH D+K  N ++      ++ DF    K +   
+Sbjct  1280  KPISLNFIRYIWEQMLSAVQVIHEEAVVHSDLKPANFVLVKGRLKLI-DFG-ISKAIAAD  1337
+
+Query  177   EDNPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAE  236
+               N G      D       Y+ PE  N      G     +L +  D++SLGC++ ++   
+Sbjct  1338  TTNIGR-----DQQIGTANYMPPEALNDTGLGQGGKRLMKLGRAADVWSLGCILYQMVYG  1392
+
+Query  237   GRPIFNL  243
+             G P  +L
+Sbjct  1393  GAPFSHL  1399
+
+
+
+
+>serine/threonine-protein kinase TTK/MPS1 [Rhodotorula toruloides NP11]
+Sequence ID: XP_016272075.1 Length: 1235
+>serine/threonine-protein kinase TTK/MPS1 [Rhodotorula toruloides NP11]
+Sequence ID: EMS20956.1 Length: 1235
+>RHTO0S16e00672g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR48073.1 Length: 1235 
+Range 1: 976 to 1095
+
+Score:45.1 bits(105), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:34/127(27%), Positives:57/127(44%), Gaps:10/127(7%)
+
+Query  120   QDIELKFIAF---QLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLP  176
+             + I L FI +   Q+L+A++ IH   +VH D+K  N ++      ++ DF    K +   
+Sbjct  976   KPISLNFIRYIWEQMLSAVQVIHEEAVVHSDLKPANFVLVKGRLKLI-DFG-ISKAIAAD  1033
+
+Query  177   EDNPGEFLFYFDTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAE  236
+               N G      D       Y+ PE  N      G     +L +  D++SLGC++ ++   
+Sbjct  1034  TTNIGR-----DQQIGTANYMPPEALNDTGLGQGGKRLMKLGRAADVWSLGCILYQMVYG  1088
+
+Query  237   GRPIFNL  243
+             G P  +L
+Sbjct  1089  GAPFSHL  1095
+
+
+
+
+>Cell division control protein 2 [Rhodotorula toruloides]
+Sequence ID: KAJ8291687.1 Length: 409
+Range 1: 156 to 248
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Composition-based stats., 
+Identities:31/109(28%), Positives:50/109(45%), Gaps:17/109(15%)
+
+Query  127  IAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFY  186
+            +AFQLL+A+  +H+  I H DI   N++++     +L DF   I+     ++ PG   F 
+Sbjct  156  LAFQLLSAVSYLHDHGIAHRDINPNNLVLSEGGRLVLIDFGIAIEA---EDEEPGSMFFE  212
+
+Query  187  FDTSKRRTCYLAPER-FNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIF  234
+              T      Y APE  F S+ Y             +D+++    +AE F
+Sbjct  213  VGTGS----YRAPELVFASRDYD---------APAIDLWATAVTLAECF  248
+
+
+
+
+>mitogen-activated protein kinase kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275037.1 Length: 543
+>mitogen-activated protein kinase kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS23918.1 Length: 543
+>RHTO0S05e05292g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR40595.1 Length: 543 
+Range 1: 359 to 518
+
+Score:42.4 bits(98), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:47/181(26%), Positives:72/181(39%), Gaps:32/181(17%)
+
+Query  124  LKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEF  183
+            L  IA  +L  L  +H+  I+H DIK  N+LVT      L DF              GE 
+Sbjct  359  LGKIAESILEGLVYLHDQKIIHRDIKPSNVLVTQDGLIKLCDFGVS-----------GEL  407
+
+Query  184  LFYF-DTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIF-------A  235
+            +  F  T    T YL+PER             G+ +   D++S+   + E+        A
+Sbjct  408  VNSFAGTFVGTTFYLSPERI----------RGGQYSINSDVWSMAVTVLEVALNRFPFPA  457
+
+Query  236  EGR-PIFNLSQLFKY--KSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+            EG  P+    +L  Y  K ++  +  E  +    +   RN +   +  DP+ R     LL
+Sbjct  458  EGEAPLNGPIELLTYLLKMDAVAIPDEPAIGIKYTNAFRNFIQVCLDKDPATRPGPQALL  517
+
+Query  293  N  293
+            +
+Sbjct  518  S  518
+
+
+
+
+>cyclin-dependent protein kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016274267.1 Length: 409
+>cyclin-dependent protein kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS23148.1 Length: 409
+>RHTO0S12e04324g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR46426.1 Length: 409 
+Range 1: 156 to 248
+
+Score:42.0 bits(97), Expect:0.004, 
+Method:Composition-based stats., 
+Identities:31/109(28%), Positives:49/109(44%), Gaps:17/109(15%)
+
+Query  127  IAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFY  186
+            +AFQLL+A+  +H   I H DI   N++++     +L DF   I+     ++ PG   F 
+Sbjct  156  LAFQLLSAVSYLHGHGIAHRDINPNNLVLSEGGRLVLIDFGIAIEA---EDEEPGSMFFE  212
+
+Query  187  FDTSKRRTCYLAPER-FNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIF  234
+              T      Y APE  F S+ Y             +D+++    +AE F
+Sbjct  213  VGTGS----YRAPELVFASRDYD---------APAIDLWATAVTLAECF  248
+
+
+
+
+>mitogen-activated protein kinase kinase [Rhodotorula toruloides]
+Sequence ID: GEM09855.1 Length: 904
+Range 1: 720 to 879
+
+Score:42.0 bits(97), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:47/181(26%), Positives:71/181(39%), Gaps:32/181(17%)
+
+Query  124  LKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEF  183
+            L  IA  +L  L  +H+  I+H DIK  N+LVT      L DF              GE 
+Sbjct  720  LGKIAESILEGLVYLHDQKIIHRDIKPSNVLVTRDGLIKLCDFGVS-----------GEL  768
+
+Query  184  LFYF-DTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIF-------A  235
+            +  F  T    T YL+PER             G+ +   D++S+   + E+        A
+Sbjct  769  VNSFAGTFVGTTFYLSPERI----------RGGQYSINSDVWSMAVTVLEVAVNRFPFPA  818
+
+Query  236  EGR-PIFNLSQLFKY--KSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELL  292
+            EG  P+    +L  Y  K +   +  E  +    +   RN +   +  DP+ R     LL
+Sbjct  819  EGEAPLIGPIELLTYLLKMDVVAIPDEPAIGIKYTNAFRNFIQVCLDKDPATRPGPQALL  878
+
+Query  293  N  293
+            +
+Sbjct  879  S  879
+
+
+
+
+>AGC/DMPK/GEK protein kinase [Rhodotorula toruloides]
+Sequence ID: GEM06886.1 Length: 597
+Range 1: 152 to 288
+
+Score:41.6 bits(96), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:38/150(25%), Positives:65/150(43%), Gaps:40/150(26%)
+
+Query  119  LQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDF--AAFIKPVYLP  176
+            L++  ++    +LL+A++ +H     H DIK +N+L+ +     LTDF  AA ++P    
+Sbjct  152  LKEDWVRAWTAELLDAVEWLHGKGWAHRDIKPQNLLLDATGHLQLTDFGSAAPLEPAS--  209
+
+Query  177  EDNPGEFLFYFDTSKRRTC--------YLAPE--RFNSKLYQDGKSNN----GRLT----  218
+                        +  RR C        Y+APE  R   K++Q+ +       G L+    
+Sbjct  210  -----------SSFARRYCCALVGTPDYIAPEVLRHAEKMFQEAEEGEAFGVGTLSVAGN  258
+
+Query  219  -------KEMDIFSLGCVIAEIFAEGRPIF  241
+                    E+D++S G V+ E+     P F
+Sbjct  259  EEERAYGPEVDVWSCGVVLYELLYGKAPFF  288
+
+
+
+
+>CMGC/CDK protein kinase [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU10978.1 Length: 409
+>CMGC/CDK protein kinase [Rhodotorula toruloides]
+Sequence ID: PRQ70696.1 Length: 409 
+Range 1: 156 to 248
+
+Score:40.0 bits(92), Expect:0.013, 
+Method:Composition-based stats., 
+Identities:30/109(28%), Positives:48/109(44%), Gaps:17/109(15%)
+
+Query  127  IAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFY  186
+            +AFQLL+A+  +H+  I H DI   N++++     +L DF          ++ PG   F 
+Sbjct  156  LAFQLLSAVSYLHDQGIAHRDINPNNLVLSEGGRLVLIDFGIATGA---SDEQPGSMFFE  212
+
+Query  187  FDTSKRRTCYLAPER-FNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIF  234
+              T      Y APE  F S+ Y             +D+++    +AE F
+Sbjct  213  VGTGS----YRAPELVFASRDYD---------APAIDLWAAAVTLAECF  248
+
+
+
+
+>Serine/threonine-protein kinase SSN3 [Rhodotorula toruloides]
+Sequence ID: KAJ8293935.1 Length: 447
+Range 1: 170 to 272
+
+Score:39.7 bits(91), Expect:0.016, 
+Method:Composition-based stats., 
+Identities:33/119(28%), Positives:55/119(46%), Gaps:17/119(14%)
+
+Query  124  LKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEF  183
+            LK + +QL N +  +H+  I+H D+K  NILVT      + D    +  +Y     P + 
+Sbjct  170  LKSLLWQLFNGVSYLHDNWIIHRDLKPANILVTEKGQVKIGDLG--LARLY---QEPLQS  224
+
+Query  184  LFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            L+  D       Y +PE    ++ Y          T  +D++S+GC+  E+    RP+F
+Sbjct  225  LYTSDKIVVTVWYRSPELLLGARHY----------TPAIDMWSMGCIYGELLGL-RPMF  272
+
+
+
+
+>cyclin-dependent protein kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016270723.1 Length: 449
+>cyclin-dependent protein kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS19604.1 Length: 449
+>RHTO0S01e15940g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36177.1 Length: 449 
+Range 1: 172 to 274
+
+Score:39.7 bits(91), Expect:0.017, 
+Method:Composition-based stats., 
+Identities:33/119(28%), Positives:55/119(46%), Gaps:17/119(14%)
+
+Query  124  LKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEF  183
+            LK + +QL N +  +H+  I+H D+K  NILVT      + D    +  +Y     P + 
+Sbjct  172  LKSLLWQLFNGVSYLHDNWIIHRDLKPANILVTEKGQVKIGDLG--LARLY---QEPLQS  226
+
+Query  184  LFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            L+  D       Y +PE    ++ Y          T  +D++S+GC+  E+    RP+F
+Sbjct  227  LYTSDKIVVTVWYRSPELLLGARHY----------TPAIDMWSMGCIYGELLGL-RPMF  274
+
+
+
+
+>cyclin-dependent protein kinase [Rhodotorula toruloides]
+Sequence ID: GEM08660.1 Length: 449
+Range 1: 172 to 274
+
+Score:39.7 bits(91), Expect:0.017, 
+Method:Composition-based stats., 
+Identities:33/119(28%), Positives:55/119(46%), Gaps:17/119(14%)
+
+Query  124  LKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEF  183
+            LK + +QL N +  +H+  I+H D+K  NILVT      + D    +  +Y     P + 
+Sbjct  172  LKSLLWQLFNGVSYLHDNWIIHRDLKPANILVTEKGQVKIGDLG--LARLY---QEPLQS  226
+
+Query  184  LFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            L+  D       Y +PE    ++ Y          T  +D++S+GC+  E+    RP+F
+Sbjct  227  LYTSDKIVVTVWYRSPELLLGARHY----------TPAIDMWSMGCIYGELLGL-RPMF  274
+
+
+
+
+>Protein kinase-like domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ78117.1 Length: 449
+Range 1: 172 to 274
+
+Score:39.7 bits(91), Expect:0.017, 
+Method:Composition-based stats., 
+Identities:33/119(28%), Positives:55/119(46%), Gaps:17/119(14%)
+
+Query  124  LKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEF  183
+            LK + +QL N +  +H+  I+H D+K  NILVT      + D    +  +Y     P + 
+Sbjct  172  LKSLLWQLFNGVSYLHDNWIIHRDLKPANILVTEKGQVKIGDLG--LARLY---QEPLQS  226
+
+Query  184  LFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIF  241
+            L+  D       Y +PE    ++ Y          T  +D++S+GC+  E+    RP+F
+Sbjct  227  LYTSDKIVVTVWYRSPELLLGARHY----------TPAIDMWSMGCIYGELLGL-RPMF  274
+
+
+
+
+>Protein kinase-like domain-containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ74501.1 Length: 425
+Range 1: 244 to 400
+
+Score:39.7 bits(91), Expect:0.020, 
+Method:Composition-based stats., 
+Identities:46/178(26%), Positives:71/178(39%), Gaps:32/178(17%)
+
+Query  127  IAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFAAFIKPVYLPEDNPGEFLFY  186
+            IA  +L  L  +H+  I+H DIK  N+LVT      L DF              GE +  
+Sbjct  244  IAESILEGLVYLHDQKIIHRDIKPSNVLVTRDGLIKLCDFGV-----------SGELVNS  292
+
+Query  187  F-DTSKRRTCYLAPERFNSKLYQDGKSNNGRLTKEMDIFSLGCVIAEIF-------AEGR  238
+            F  T    T YL+PER             G+ +   D++S+   + E+        AEG 
+Sbjct  293  FAGTFVGTTFYLSPERIRG----------GQYSINSDVWSMAVTVLEVALNRFPFPAEGE  342
+
+Query  239  -PIFNLSQLFKY--KSNSYDVNREFLMEEMNSTDLRNLVLDMIQLDPSKRLSCDELLN  293
+             P+    +L  Y  K ++  +  E  +    +   RN +   +  DP+ R     LL+
+Sbjct  343  APLNGPIELLTYLLKMDAVAIPDEPAIGIKYTNAFRNFIQVCLDKDPATRPGPQALLS  400
+
+
+
+
+>negative regulatorof the PHO system, protein serine/threonine kinase [Rhodotorula toruloides]
+Sequence ID: GEM09108.1 Length: 333
+Range 1: 95 to 283
+
+Score:39.3 bits(90), Expect:0.023, 
+Method:Compositional matrix adjust., 
+Identities:48/211(23%), Positives:78/211(36%), Gaps:55/211(26%)
+
+Query  116  RPYLQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA---AFIKP  172
+            R  L+   ++   +QLL      H+  ++H D+K +N+L+       L DF    AF  P
+Sbjct  95   RGALEPAVVRSFMWQLLKGTAFCHDNRVLHRDLKPQNLLINKKGELKLADFGLARAFGIP  154
+
+Query  173  VYLPEDNPGEFLFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIA  231
+            V             F        Y AP+    S+ Y          +  +D++S GC++A
+Sbjct  155  VNT-----------FSNEVVTLWYRAPDVLLGSRTY----------STSIDVWSAGCIMA  193
+
+Query  232  EIFAEGRPIF-------NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLV-LDMI-----  278
+            E+ + G P+F        LSQ+ +      +     +  E     LR    L+ I     
+Sbjct  194  EMIS-GVPLFRGRDNNDQLSQIIRILGTPDEATLRRIASESPEVQLRPFPRLNRIPWSSL  252
+
+Query  279  ----------------QLDPSKRLSCDELLN  293
+                            Q DP++RL C   L+
+Sbjct  253  YPKAHPLALDLLDKLLQFDPARRLDCTSALH  283
+
+
+
+
+>negative regulator of the PHO system, protein serine/threonine kinase [Rhodotorula toruloides NP11]
+Sequence ID: XP_016273112.1 Length: 329
+>negative regulator of the PHO system, protein serine/threonine kinase [Rhodotorula toruloides NP11]
+Sequence ID: EMS21993.1 Length: 329
+>Negative regulator of the PHO system [Rhodotorula toruloides]
+Sequence ID: KAJ8296294.1 Length: 329
+>RHTO0S02e03642g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR36550.1 Length: 329 
+Range 1: 95 to 283
+
+Score:38.9 bits(89), Expect:0.024, 
+Method:Compositional matrix adjust., 
+Identities:48/211(23%), Positives:78/211(36%), Gaps:55/211(26%)
+
+Query  116  RPYLQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA---AFIKP  172
+            R  L+   ++   +QLL      H+  ++H D+K +N+L+       L DF    AF  P
+Sbjct  95   RGALEPAVVRSFMWQLLKGTAFCHDNRVLHRDLKPQNLLINKKGELKLADFGLARAFGIP  154
+
+Query  173  VYLPEDNPGEFLFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIA  231
+            V             F        Y AP+    S+ Y          +  +D++S GC++A
+Sbjct  155  VNT-----------FSNEVVTLWYRAPDVLLGSRTY----------STSIDVWSAGCIMA  193
+
+Query  232  EIFAEGRPIF-------NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLV-LDMI-----  278
+            E+ + G P+F        LSQ+ +      +     +  E     LR    L+ I     
+Sbjct  194  EMIS-GVPLFRGRDNNDQLSQIIRILGTPDEATLRRIASESPEVQLRPFPRLNRIPWASL  252
+
+Query  279  ----------------QLDPSKRLSCDELLN  293
+                            Q DP++RL C   L+
+Sbjct  253  YPKAHPLALDLLDKLLQFDPARRLDCTSALH  283
+
+
+
+
+>cyclin-dependent kinase 5 [Rhodotorula toruloides]
+Sequence ID: PRQ73394.1 Length: 328
+Range 1: 95 to 283
+
+Score:38.9 bits(89), Expect:0.027, 
+Method:Compositional matrix adjust., 
+Identities:48/211(23%), Positives:78/211(36%), Gaps:55/211(26%)
+
+Query  116  RPYLQDIELKFIAFQLLNALKDIHNLNIVHGDIKTENILVTSWNWCILTDFA---AFIKP  172
+            R  L+   ++   +QLL      H+  ++H D+K +N+L+       L DF    AF  P
+Sbjct  95   RGALEPAVVRSFMWQLLKGTAFCHDNRVLHRDLKPQNLLINKKGELKLADFGLARAFGIP  154
+
+Query  173  VYLPEDNPGEFLFYFDTSKRRTCYLAPE-RFNSKLYQDGKSNNGRLTKEMDIFSLGCVIA  231
+            V             F        Y AP+    S+ Y          +  +D++S GC++A
+Sbjct  155  VNT-----------FSNEVVTLWYRAPDVLLGSRTY----------STSIDVWSAGCIMA  193
+
+Query  232  EIFAEGRPIF-------NLSQLFKYKSNSYDVNREFLMEEMNSTDLRNLV-LDMI-----  278
+            E+ + G P+F        LSQ+ +      +     +  E     LR    L+ I     
+Sbjct  194  EMIS-GVPLFRGRDNNDQLSQIIRILGTPDEATLRRIASESPEVQLRPFPRLNRIPWASL  252
+
+Query  279  ----------------QLDPSKRLSCDELLN  293
+                            Q DP++RL C   L+
+Sbjct  253  YPKAHPLALDLLDKLLQFDPARRLDCTSALH  283
+
+
+
+
+>hypothetical protein AAT19DRAFT_14757 [Rhodotorula toruloides]
+Sequence ID: PRQ74404.1 Length: 1110
+Range 1: 135 to 371
+
+Score:38.9 bits(89), Expect:0.043, 
+Method:Compositional matrix adjust., 
+Identities:67/265(25%), Positives:109/265(41%), Gaps:39/265(14%)
+
+Query  34   NSSRFLKTCKALDPNGEIVI--KVFIKPKDQYSLRPFLQRIRAQSFKLGQLPHVLNYSKL  91
+             SS  ++ C+++   GE     KV   P D       L+ + A    +   PH+L    +
+Sbjct  135  GSSGQVRLCRSMR-TGEFAAIKKVARLPPDHRHANDLLREVTAMKI-VSHHPHILELLDV  192
+
+Query  92   IETNRAGYMIRQHLKNN-LYDRLSLRPYLQDIELKFIAFQLLNALKDIHNLNIVHGDIKT  150
+             ET+   Y++ ++  +  L+  L     L   +++ +  QL++AL  +    + H DIK 
+Sbjct  193  FETDTHHYLVMEYCPDGELFHYLHEH-VLAPFQVQPVFGQLVSALVHLARFRLCHRDIKL  251
+
+Query  151  ENILVTS---WNWCI-LTDFAAFIKPVYLPEDNPGEFLFYFDTSKRRTCYLAPERFNSKL  206
+            ENIL+ S    +  + L DF       Y  E   GE L     S     Y APE      
+Sbjct  252  ENILIRSDVDGDLHVKLIDFGMV---AYQGE---GELLTESCGSPH---YAAPEVIMGSA  302
+
+Query  207  YQDGKSNNGRLTKEMDIFSLGCVIAEIFAEGRPIFNLSQ----LFKYKSNSYDVNREFLM  262
+            Y      +G L    D++S G V+  +     P F+       L K K   Y+      +
+Sbjct  303  Y------DGFLA---DVWSAGVVLFALLTRSLP-FDADNVPTVLEKVKKGEYE------L  346
+
+Query  263  EEMNSTDLRNLVLDMIQLDPSKRLS  287
+             E     +RNLV   + + PS+R++
+Sbjct  347  AEFVDGPVRNLVNRCLTVTPSERIT  371
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,23 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "data_summary.tsv",
+      "fileType": "DATA_TABLE"
+    },
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_001255795.1",
+  "files": [
+    {
+      "filePath": "GCA_001255795.1/GCA_001255795.1_IFO0880_HGAP3_v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+}]}

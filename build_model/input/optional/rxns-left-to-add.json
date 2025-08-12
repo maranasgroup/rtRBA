@@ -1,0 +1,107 @@
+{
+    "id": "R09394",
+    "name": "R09394",
+    "lower_bound": -1000.0,
+    "upper_bound": 1000.0,
+    "metabolites": {
+        "https://rdf.metanetx.org/chem/MNXM1100966": -1.0,
+        "met__L_c": -1.0,
+        "amet_c": 1.0,
+        "dad_5_c": -1.0,
+        "gtp_c": 1.0,
+        "Ambiguous: , https://rdf.metanetx.org/chem/MNXM1102419, CATION1_en, CATION1_vm, CATION1_gm, CATION1_mm, CATION1_rm, CATION1_v, CATION1_x, CATION1_n, CATION1_m, CATION1_l, CATION1_g, CATION1_c, CATION1_r, CATION1_e, metal2_c, metal2_e, metal2_m, metal2_x, feCATION_c, feCATION_e, feCATION_m, feCATION_n, mg2ormn2_c, mg2ormn2_e, mg2ormn2_en, mg2ormn2_m, mg2ormn2_vm, heme_c, heme_m, heme_r, heme_x": 1.0,
+        "Ambiguous: , https://rdf.metanetx.org/chem/MNXM8975, CATION1_en, CATION1_vm, CATION1_gm, CATION1_mm, CATION1_rm, CATION1_v, CATION1_x, CATION1_n, CATION1_m, CATION1_l, CATION1_g, CATION1_c, CATION1_r, CATION1_e, metal2_c, metal2_e, metal2_m, metal2_x, feCATION_c, feCATION_e, feCATION_m, feCATION_n, mg2ormn2_c, mg2ormn2_e, mg2ormn2_en, mg2ormn2_m, mg2ormn2_vm, heme_c, heme_m, heme_r, heme_x": -1.0
+    },
+    "gene_reaction_rule": "",
+    "subsystem": "Unassigned",
+    "annotation": {
+        "ec-code": "",
+        "kegg.reaction": "R09394",
+        "metanetx.reaction": "MNXR112822",
+        "sbo": ""
+    }
+},
+{
+    "id": "R11372",
+    "name": "R11372",
+    "lower_bound": -1000.0,
+    "upper_bound": 1000.0,
+    "metabolites": {
+        "ppi_c": 1.0,
+        "https://rdf.metanetx.org/chem/MNXM1100966": -1.0,
+        "h_c": -1.0,
+        "h2o_c": -1.0,
+        "https://rdf.metanetx.org/chem/MNXM1103916": 1.0
+    },
+    "gene_reaction_rule": "",
+    "subsystem": "Unassigned",
+    "annotation": {
+        "ec-code": "",
+        "kegg.reaction": "R11372",
+        "metanetx.reaction": "MNXR114669",
+        "sbo": ""
+    }
+},
+{
+    "id": "R09395",
+    "name": "R09395",
+    "lower_bound": -1000.0,
+    "upper_bound": 1000.0,
+    "metabolites": {
+        "https://rdf.metanetx.org/chem/MNXM1193": -1.0,
+        "https://rdf.metanetx.org/chem/MNXM1103916": 1.0,
+        "https://rdf.metanetx.org/chem/MNXM10846": -2.0,
+        "https://rdf.metanetx.org/chem/MNXM730270": 2.0
+    },
+    "gene_reaction_rule": "",
+    "subsystem": "Unassigned",
+    "annotation": {
+        "ec-code": "",
+        "kegg.reaction": "R09395",
+        "metanetx.reaction": "MNXR143670",
+        "sbo": ""
+    }
+},
+{
+    "id": "R09726",
+    "name": "R09726",
+    "lower_bound": -1000.0,
+    "upper_bound": 1000.0,
+    "metabolites": {
+        "ppi_c": 1.0,
+        "https://rdf.metanetx.org/chem/MNXM1193": -1.0,
+        "https://rdf.metanetx.org/chem/MNXM3054": 1.0,
+        "h_c": -1.0,
+        "atp_c": -1.0
+    },
+    "gene_reaction_rule": "",
+    "subsystem": "Unassigned",
+    "annotation": {
+        "ec-code": "",
+        "kegg.reaction": "R09726",
+        "metanetx.reaction": "MNXR101730",
+        "sbo": ""
+    }
+},
+{
+    "id": "R09735",
+    "name": "R09735",
+    "lower_bound": -1000.0,
+    "upper_bound": 1000.0,
+    "metabolites": {
+        "https://rdf.metanetx.org/chem/MNXM3054": 1.0,
+        "mobdate_c": 1.0,
+        "h_c": -1.0,
+        "h2o_c": -1.0,
+        "https://rdf.metanetx.org/chem/MNXM1104368": -1.0,
+        "amp_c": -1.0
+    },
+    "gene_reaction_rule": "",
+    "subsystem": "Unassigned",
+    "annotation": {
+        "ec-code": "",
+        "kegg.reaction": "R09735",
+        "metanetx.reaction": "MNXR151954",
+        "sbo": ""
+    }
+},

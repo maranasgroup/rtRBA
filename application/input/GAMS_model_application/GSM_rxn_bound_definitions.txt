@@ -1,0 +1,28 @@
+* Enforces stoichiometric model bounds in RBA
+$setGlobal gsm_rxns_path %gms_path%GSM_rxn_ids.txt
+$setGlobal gsm_rxn_pairs_path %gms_path%model/GSM_RBA_rxn_pairs.txt
+
+Sets
+gsm_j /* list of GSM model rxns */
+$include "%gsm_rxns_path%"
+;
+
+Parameters
+dir(gsm_j,j) /* lists GSM rxn, RBA rxn, and direction (-1 if RBA rxn is the reverse of GSM rxn, 1 otherwise) */
+$include "%gsm_rxn_pairs_path%"
+bounds()
+v_lb(gsm_j) /* lower bound of GSM rxn */
+v_ub(gsm_j) /* upper bound of GSM rxn */
+;
+
+Variables
+v_gsm(gsm_j) /* GSM rxn flux */
+;
+
+Equations
+v_GSM_eq, GSM_LB, GSM_UB
+;
+
+v_GSM_eq(gsm_j).. v_gsm(gsm_j) =e= sum(gsm_j, dir(gsm_j,j)*v(j));
+GSM_LB(gsm_j).. v_gsm(gsm_j) =g= (v_lb(gsm_j) * %nscale%)
+GSM_UB(gsm_j).. v_gsm(gsm_j) =l= (v_ub(gsm_j) * %nscale%)

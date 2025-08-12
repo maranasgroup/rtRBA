@@ -1,0 +1,22 @@
+* adds phenotype_common.txt, then settings based on FBA yield predictions
+$include RBA_GAMS_defaults_from_FBA.txt
+
+* everything below overrides default settings, including phenotype_common.txt
+
+* removes mitochondrial capacity limits
+$setGlobal max_allowed_mito_proteome_allo_fraction 1
+*$include ../../input/prosyn_constraints.txt
+v.fx('RXN-EX_glc__D_e_FWD-SPONT') = 0;
+v.fx('RXN-EX_glc__D_e_REV-SPONT') = 0;
+*kapp('RXN-PPNCL2_c_FWD-rt0510') = 44294.70139 + 1e-5;
+*kapp('RXN-PHEtps_e_FWD-rt5861') = 44294.70139 + 1e-5;
+*kapp('RXN-GLUtps_e_FWD-rt0594') = 44294.70139 + 1e-5;
+*kapp('RXN-PROtps_e_FWD-rt4390') = 44294.70139 + 1e-5;
+*kapp('RXN-METtps_e_FWD-rt5861') = 44294.70139 + 1e-5;
+*kapp('RXN-LYStps_e_FWD-rt5861') = 44294.70139 + 1e-5;
+*kapp('RXN-VALtps_e_FWD-rt5861') = 44294.70139 + 1e-5;
+*kapp('RXN-ARGtps_e_FWD-rt5861') = 44294.70139 + 1e-5;
+*kapp('RXN-SUCR_e_FWD-rt6458') = 44294.70139 + 1e-5;
+*kapp('RXN-THRtps_e_FWD-rt5861') = 44294.70139 + 1e-5;
+*kapp('RXN-HOMOX_m_FWD-COX15ARH1YAH1') = 44294.70139 + 1e-5;
+*kapp('RXN-INOSTtps_e_FWD-rt4674') = 44294.70139 + 1e-5;

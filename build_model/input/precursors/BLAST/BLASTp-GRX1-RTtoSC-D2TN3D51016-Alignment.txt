@@ -1,0 +1,127 @@
+RID: D2TN3D51016	
+Job Title:tr|A0A2T0A9I9|A0A2T0A9I9_RHOTO Glutaredoxin-1...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: tr|A0A2T0A9I9|A0A2T0A9I9_RHOTO Glutaredoxin-1 OS=Rhodosporidium toruloides OX=5286 GN=AAT19DRAFT_15038 PE=4 SV=1 Query ID: lcl|Query_97226 Length: 103
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+dithiol glutaredoxin GRX2 [Saccharomyces cerevisiae S288C]        Saccharomyce... NA              559292     74.7   74.7  81%   5e-19 43.18  143        NP_010801.1      
+dithiol glutaredoxin GRX1 [Saccharomyces cerevisiae S288C]        Saccharomyce... NA              559292     63.2   63.2  66%   7e-15 45.83  110        NP_009895.1      
+crystal structure of the reduced Grx1 from Saccharomyces...       Saccharomyce... NA              559292     63.2   63.2  66%   8e-15 45.83  115        6MWS_A           
+glutathione-disulfide reductase GRX7 [Saccharomyces cerevisiae... Saccharomyce... NA              559292     61.2   61.2  83%   2e-13 33.71  203        NP_009570.1      
+monothiol glutaredoxin GRX5 [Saccharomyces cerevisiae S288C]      Saccharomyce... NA              559292     41.6   41.6  92%   3e-06 30.00  150        NP_015266.1      
+
+
+Alignments:
+
+>dithiol glutaredoxin GRX2 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_010801.1 Length: 143
+>RecName: Full=Glutaredoxin-2; AltName: Full=Glutathione-dependent oxidoreductase 2; AltName: Full=Thioltransferase; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P17695.3 Length: 143 
+Range 1: 51 to 138
+
+Score:74.7 bits(182), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:38/88(43%), Positives:53/88(60%), Gaps:4/88(4%)
+
+Query  15   KRTVVFSKSYCPYCRRAK----QILKDAGEDFDVYELDQMDEGSEWQNALASKTGQRTVP  70
+            K   V +K+YCPYC+       Q L        V ELD+M  GSE Q+AL   +GQ+TVP
+Sbjct  51   KEVFVAAKTYCPYCKATLSTLFQELNVPKSKALVLELDEMSNGSEIQDALEEISGQKTVP  110
+
+Query  71   SIWIGGNFIGGCSDLEAKQRSGELKTLL  98
+            +++I G  IGG SDLE  +++G+L  +L
+Sbjct  111  NVYINGKHIGGNSDLETLKKNGKLAEIL  138
+
+
+
+
+>dithiol glutaredoxin GRX1 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009895.1 Length: 110
+>RecName: Full=Glutaredoxin-1; AltName: Full=Glutathione-dependent oxidoreductase 1 [Saccharomyces cerevisiae S288C]
+Sequence ID: P25373.1 Length: 110 
+Range 1: 21 to 92
+
+Score:63.2 bits(152), Expect:7e-15, 
+Method:Compositional matrix adjust., 
+Identities:33/72(46%), Positives:41/72(56%), Gaps:4/72(5%)
+
+Query  19  VFSKSYCPYCRRAKQI----LKDAGEDFDVYELDQMDEGSEWQNALASKTGQRTVPSIWI  74
+           V SK+YCPYC  A       LK       V +L+ M EG++ Q AL    GQRTVP+I+I
+Sbjct  21  VASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYEINGQRTVPNIYI  80
+
+Query  75  GGNFIGGCSDLE  86
+            G  IGG  DL+
+Sbjct  81  NGKHIGGNDDLQ  92
+
+
+
+
+>crystal structure of the reduced Grx1 from Saccharomyces cerevisiae [Saccharomyces cerevisiae S288C]
+Sequence ID: 6MWS_A Length: 115
+Range 1: 26 to 97
+
+Score:63.2 bits(152), Expect:8e-15, 
+Method:Compositional matrix adjust., 
+Identities:33/72(46%), Positives:41/72(56%), Gaps:4/72(5%)
+
+Query  19  VFSKSYCPYCRRAKQI----LKDAGEDFDVYELDQMDEGSEWQNALASKTGQRTVPSIWI  74
+           V SK+YCPYC  A       LK       V +L+ M EG++ Q AL    GQRTVP+I+I
+Sbjct  26  VASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGADIQAALYEINGQRTVPNIYI  85
+
+Query  75  GGNFIGGCSDLE  86
+            G  IGG  DL+
+Sbjct  86  NGKHIGGNDDLQ  97
+
+
+
+
+>glutathione-disulfide reductase GRX7 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_009570.1 Length: 203
+>RecName: Full=Monothiol glutaredoxin-7; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: P38068.1 Length: 203 
+Range 1: 92 to 180
+
+Score:61.2 bits(147), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/89(34%), Positives:51/89(57%), Gaps:3/89(3%)
+
+Query  9    QKIAQGKRTVVFSKSYCPYCRRAKQILKDA---GEDFDVYELDQMDEGSEWQNALASKTG  65
+             KI +    +VFSK+ CPY ++ K +L ++      + V ELD+ +   E Q+ +   TG
+Sbjct  92   NKIMEQSPMIVFSKTGCPYSKKLKALLTNSYTFSPSYYVVELDRHEHTKELQDQIEKVTG  151
+
+Query  66   QRTVPSIWIGGNFIGGCSDLEAKQRSGEL  94
+            +RTVP++ IGG   GG +++    ++ EL
+Sbjct  152  RRTVPNVIIGGTSRGGYTEIAELHKNDEL  180
+
+
+
+
+>monothiol glutaredoxin GRX5 [Saccharomyces cerevisiae S288C]
+Sequence ID: NP_015266.1 Length: 150
+>RecName: Full=Monothiol glutaredoxin-5, mitochondrial; Flags: Precursor [Saccharomyces cerevisiae S288C]
+Sequence ID: Q02784.1 Length: 150 
+Range 1: 35 to 133
+
+Score:41.6 bits(96), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:33/110(30%), Positives:50/110(45%), Gaps:26/110(23%)
+
+Query  4    REAVEQKIAQGKRTVVFSK-----SYCPYCRRAKQILKDAGED------FDVYELDQMDE  52
+            R+A+E  I +    V+F K       C + R    +L + G D      ++V E  ++ E
+Sbjct  35   RKAIEDAI-ESAPVVLFMKGTPEFPKCGFSRATIGLLGNQGVDPAKFAAYNVLEDPELRE  93
+
+Query  53   G----SEWQNALASKTGQRTVPSIWIGGNFIGGCSDLEAKQRSGELKTLL  98
+            G    SEW           T+P +++   FIGGC  + +  RSGEL  LL
+Sbjct  94   GIKEFSEWP----------TIPQLYVNKEFIGGCDVITSMARSGELADLL  133
+
+
+
+
+
+
+
+		
+
+

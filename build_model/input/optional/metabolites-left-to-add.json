@@ -1,0 +1,154 @@
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM1102419",
+  "name": "Reduced acceptor",
+  "compartment": "",
+  "charge": "",
+  "formula": "",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM8975",
+  "name": "Acceptor",
+  "compartment": "",
+  "charge": "",
+  "formula": "",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM730270",
+  "name": "C-terminal Gly-NH-CH(2)-C(O)SH residue",
+  "compartment": "",
+  "charge": "",
+  "formula": "C4H7N2O2S*",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},
+
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM1193",
+  "name": "molybdopterin",
+  "compartment": "",
+  "charge": "-3",
+  "formula": "C10H11N5O6PS2",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM10846",
+  "name": "Sulfur-carrier protein",
+  "compartment": "",
+  "charge": "",
+  "formula": "C4H7N2O3*",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM1104368",
+  "name": "Mo-molybdopterin",
+  "compartment": "",
+  "charge": "-2",
+  "formula": "C10H10MoN5O8PS2",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM1103916",
+  "name": "precursor Z hydrate",
+  "compartment": "",
+  "charge": "0",
+  "formula": "C10H14N5O8P",
+  "notes": {
+      "formula_charge_source": "auto"
+  },
+  "annotation": {
+      "chebi": "CHEBI:",
+      "kegg.compound": "",
+      "pubchem.compound": "",
+      "sbo": "",
+      "seed.compound": ""
+  }
+  },
+  {
+  "id": "https://rdf.metanetx.org/chem/MNXM1100966",
+  "name": "(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate",
+  "compartment": "",
+  "charge": "-4",
+  "formula": "C10H12N5O14P3",
+  "notes": {
+      "formula_charge_source": "auto"
+  },
+  "annotation": {
+      "chebi": "CHEBI:",
+      "kegg.compound": "",
+      "pubchem.compound": "",
+      "sbo": "",
+      "seed.compound": ""
+  }
+  },
+{
+  "id": "https://rdf.metanetx.org/chem/MNXM3054",
+  "name": "adenylyl-molybdopterin",
+  "compartment": "",
+  "charge": "-3",
+  "formula": "C20H23N10O12P2S2",
+  "notes": {
+    "formula_charge_source": "auto"
+  },
+  "annotation": {
+    "chebi": "CHEBI:",
+    "kegg.compound": "",
+    "pubchem.compound": "",
+    "sbo": "",
+    "seed.compound": ""
+  }
+},

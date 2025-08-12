@@ -1,0 +1,9 @@
+id,object_type,command
+# created on 2025-05-01 12:25:04 EST
+#updating GPRs to match results from https://doi.org/10.1186/s12934-023-02126-x
+XYLTOR_c,r,gpr:rt0620 or rt1622 or rt4609 or rt8084
+XYLTOR_c,r,notes:notes-Xylose assimilation pathway. GPR based on DOI 10.1186/s12934-023-02126-x.
+ABTD4Dx_c,r,gpr:rt0620
+# remove_part to clear notes and rewrite from scratch
+ABTD4Dx_c,r,notes:remove_part-notes
+ABTD4Dx_c,r,notes:notes-Xylose assimilation pathway. Assuming NAD+/NADH due to unverified cofactor usage. GPR based on DOI 10.1186/s12934-023-02126-x.

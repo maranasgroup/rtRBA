@@ -1,0 +1,221 @@
+RID: D5NVYY73013	
+Job Title:YPL252C				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_151013 Length: 172
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+adrenodoxin-type ferredoxin [Rhodotorula toruloides NP11]         Rhodotorula ... NA              1130832    143    143   76%   2e-43 50.00  201        XP_016276592.1   
+Adrenodoxin, mitochondrial [Rhodotorula toruloides]               Rhodotorula ... NA              5286       142    142   73%   5e-43 51.59  192        KAJ8295621.1     
+RHTO0S15e02322g1_1 [Rhodotorula toruloides]                       Rhodotorula ... NA              5286       140    140   73%   3e-42 50.79  192        CDR47812.1       
+ferredoxin [Rhodotorula toruloides]                               Rhodotorula ... NA              5286       138    138   73%   4e-42 50.00  153        PRQ74018.1       
+adrenodoxin-type ferredoxin [Rhodotorula toruloides]              Rhodotorula ... NA              5286       135    135   73%   4e-41 50.00  152        GEM11690.1       
+ferredoxin [Rhodotorula toruloides]                               Rhodotorula ... NA              5286       66.2   66.2  60%   5e-13 29.55  434        GEM07898.1       
+hypothetical protein RTG_01966 [Rhodotorula toruloides ATCC...    Rhodotorula ... NA              1001064    60.5   60.5  60%   4e-11 27.27  435        EGU12082.1       
+ferredoxin [Rhodotorula toruloides NP11]                          Rhodotorula ... NA              1130832    59.3   59.3  60%   1e-10 28.03  435        XP_016275418.1   
+
+
+Alignments:
+
+>adrenodoxin-type ferredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016276592.1 Length: 201
+>adrenodoxin-type ferredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS25473.1 Length: 201 
+Range 1: 57 to 188
+
+Score:143 bits(360), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:66/132(50%), Positives:91/132(68%), Gaps:0/132(0%)
+
+Query  41   FSTSSFLNHGHLKKPKPGEELKITFILKDGSQKTYEVCEGETILDIAQGHNLDMEGACGG  100
+            F  +    HG   +PKPGE + + F   +G   T E  EG+ I+D++  ++LD+E AC  
+Sbjct  57   FHATGVSAHGGKGRPKPGEGVTLHFKKPNGEIVTVEANEGDDIVDVSWEYDLDIEAACEK  116
+
+Query  101  SCACSTCHVIVDPDYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDGIRVALP  160
+            S ACSTCHVI++   YD+LPEP+DDENDMLDLA+GLT+TSRLGCQ+K++KD+    + LP
+Sbjct  117  SVACSTCHVILEEKVYDSLPEPDDDENDMLDLAFGLTDTSRLGCQVKVTKDMQDTTITLP  176
+
+Query  161  QMTRNVNNNDFS  172
+              TRN+  + FS
+Sbjct  177  SATRNLRVDGFS  188
+
+
+
+
+>Adrenodoxin, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8295621.1 Length: 192
+Range 1: 57 to 182
+
+Score:142 bits(357), Expect:5e-43, 
+Method:Compositional matrix adjust., 
+Identities:65/126(52%), Positives:88/126(69%), Gaps:0/126(0%)
+
+Query  41   FSTSSFLNHGHLKKPKPGEELKITFILKDGSQKTYEVCEGETILDIAQGHNLDMEGACGG  100
+            F  S    HG   +PKPGE + + F   +G   T E  EG+ I+D++  ++LD+E AC  
+Sbjct  57   FHASGVSAHGGKGRPKPGEGITLHFKKPNGEIVTVEANEGDDIVDVSWEYDLDIEAACEK  116
+
+Query  101  SCACSTCHVIVDPDYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDGIRVALP  160
+            S ACSTCHVI++   YD+LPEP+DDENDMLDLA+GLT+TSRLGCQ+K++KD+    + LP
+Sbjct  117  SVACSTCHVILEEKVYDSLPEPDDDENDMLDLAFGLTDTSRLGCQVKVTKDMQDTTITLP  176
+
+Query  161  QMTRNV  166
+              TRN+
+Sbjct  177  SATRNL  182
+
+
+
+
+>RHTO0S15e02322g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR47812.1 Length: 192
+Range 1: 57 to 182
+
+Score:140 bits(352), Expect:3e-42, 
+Method:Compositional matrix adjust., 
+Identities:64/126(51%), Positives:88/126(69%), Gaps:0/126(0%)
+
+Query  41   FSTSSFLNHGHLKKPKPGEELKITFILKDGSQKTYEVCEGETILDIAQGHNLDMEGACGG  100
+            F  +    HG   +PKPGE + + F   +G   T E  EG+ I+D++  ++LD+E AC  
+Sbjct  57   FHATGVSAHGGKGRPKPGEGVTLHFKKPNGEIVTVEANEGDDIVDVSWEYDLDIEAACEK  116
+
+Query  101  SCACSTCHVIVDPDYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDGIRVALP  160
+            S ACSTCHVI++   YD+LPEP+DDENDMLDLA+GLT+TSRLGCQ+K++KD+    + LP
+Sbjct  117  SVACSTCHVILEEKVYDSLPEPDDDENDMLDLAFGLTDTSRLGCQVKVTKDMQDTTITLP  176
+
+Query  161  QMTRNV  166
+              TRN+
+Sbjct  177  SATRNL  182
+
+
+
+
+>ferredoxin [Rhodotorula toruloides]
+Sequence ID: PRQ74018.1 Length: 153
+Range 1: 18 to 143
+
+Score:138 bits(347), Expect:4e-42, 
+Method:Compositional matrix adjust., 
+Identities:63/126(50%), Positives:88/126(69%), Gaps:0/126(0%)
+
+Query  41   FSTSSFLNHGHLKKPKPGEELKITFILKDGSQKTYEVCEGETILDIAQGHNLDMEGACGG  100
+            F  +    HG   +PKPGE + + F   +G   T E  EG+ ++D++  ++LD+E AC  
+Sbjct  18   FHATGVSAHGGKGRPKPGEGITLHFKKPNGEIVTVEANEGDDVVDVSWEYDLDIEAACEK  77
+
+Query  101  SCACSTCHVIVDPDYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDGIRVALP  160
+            S ACSTCHVI++   YD+LPEP+DDENDMLDLA+GLT+TSRLGCQ+K++KD+    + LP
+Sbjct  78   SVACSTCHVILEEKVYDSLPEPDDDENDMLDLAFGLTDTSRLGCQVKVTKDMQDTTITLP  137
+
+Query  161  QMTRNV  166
+              TRN+
+Sbjct  138  SATRNL  143
+
+
+
+
+>adrenodoxin-type ferredoxin [Rhodotorula toruloides]
+Sequence ID: GEM11690.1 Length: 152
+Range 1: 17 to 142
+
+Score:135 bits(341), Expect:4e-41, 
+Method:Compositional matrix adjust., 
+Identities:63/126(50%), Positives:86/126(68%), Gaps:0/126(0%)
+
+Query  41   FSTSSFLNHGHLKKPKPGEELKITFILKDGSQKTYEVCEGETILDIAQGHNLDMEGACGG  100
+            F  +    HG   +P PGE + + F    G   T E  EG+ I+D++  ++LD+E AC  
+Sbjct  17   FHATGASAHGGKGRPNPGEGITLHFKKPSGEIVTVEANEGDDIVDVSWEYDLDIEAACEK  76
+
+Query  101  SCACSTCHVIVDPDYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDGIRVALP  160
+            S ACSTCHVI++   YD+LPEP+DDENDMLDLA+GLT+TSRLGCQ+K++KD+    + LP
+Sbjct  77   SVACSTCHVILEEKVYDSLPEPDDDENDMLDLAFGLTDTSRLGCQVKVTKDMQDTTITLP  136
+
+Query  161  QMTRNV  166
+              TRN+
+Sbjct  137  SATRNL  142
+
+
+
+
+>ferredoxin [Rhodotorula toruloides]
+Sequence ID: GEM07898.1 Length: 434
+Range 1: 302 to 433
+
+Score:66.2 bits(160), Expect:5e-13, 
+Method:Compositional matrix adjust., 
+Identities:39/132(30%), Positives:66/132(50%), Gaps:28/132(21%)
+
+Query  58   GEELKITFILKDGSQKTYEVCEGETILDIAQGHNL-DMEGACGGSCACSTCHVIVDP---  113
+            G+ ++I FI  +G +K     EGE++++ A+ +++  +   CGG C C+TCHV + P   
+Sbjct  302  GDRVEIVFITYEGEEKQVLGYEGESLMETARRNDMPSILATCGGHCECATCHVHIPPISP  361
+
+Query  114  -------------------DYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDG  154
+                                    LPE  D+E++ L+ A G  + SRL CQI ++K++ G
+Sbjct  362  GSTPSAIGDPSAGRQPLALPQLAPLPEMTDEEDEQLEFAIGADDDSRLACQIPVTKELAG  421
+
+Query  155  I-----RVALPQ  161
+                  R+ LP+
+Sbjct  422  WIKAGGRIKLPR  433
+
+
+
+
+>hypothetical protein RTG_01966 [Rhodotorula toruloides ATCC 204091]
+Sequence ID: EGU12082.1 Length: 435
+>Sucrase/ferredoxin-like-domain containing protein [Rhodotorula toruloides]
+Sequence ID: PRQ76258.1 Length: 435 
+Range 1: 303 to 434
+
+Score:60.5 bits(145), Expect:4e-11, 
+Method:Compositional matrix adjust., 
+Identities:36/132(27%), Positives:66/132(50%), Gaps:28/132(21%)
+
+Query  58   GEELKITFILKDGSQKTYEVCEGETILDIAQGHNL-DMEGACGGSCACSTCHVIVDP---  113
+            G+ +++ F   +G +K     EGE++++ A+ +++  +   CGG C C+TCHV + P   
+Sbjct  303  GDRVELVFTTYEGLEKRVLGYEGESLMETARRNDMPSILATCGGHCECATCHVHIPPLSA  362
+
+Query  114  -------------------DYYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDI--  152
+                                    +PE +D+E++ L+ A G  + SRL CQI ++K++  
+Sbjct  363  NSASSAVADSSAGRKPLALPQSAPIPEMKDEEDEQLEFAIGADDHSRLACQIPVTKELAE  422
+
+Query  153  ---DGIRVALPQ  161
+                G R+ LP+
+Sbjct  423  WIKAGGRIKLPR  434
+
+
+
+
+>ferredoxin [Rhodotorula toruloides NP11]
+Sequence ID: XP_016275418.1 Length: 435
+>ferredoxin [Rhodotorula toruloides NP11]
+Sequence ID: EMS24299.1 Length: 435
+>Adrenodoxin, mitochondrial [Rhodotorula toruloides]
+Sequence ID: KAJ8293468.1 Length: 435
+>RHTO0S06e07118g1_1 [Rhodotorula toruloides]
+Sequence ID: CDR41855.1 Length: 435 
+Range 1: 303 to 434
+
+Score:59.3 bits(142), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/132(28%), Positives:66/132(50%), Gaps:28/132(21%)
+
+Query  58   GEELKITFILKDGSQKTYEVCEGETILDIAQGHNL-DMEGACGGSCACSTCHV-------  109
+            G+ ++I F   +G  K     EGE++++ A+ +++  +   CGG C C+TCHV       
+Sbjct  303  GDRVEIVFTTYEGEDKRVLGYEGESLMETARRNDMPSILATCGGHCECATCHVHIPPLSP  362
+
+Query  110  ------IVDPD---------YYDALPEPEDDENDMLDLAYGLTETSRLGCQIKMSKDI--  152
+                  + D           +   +PE +D+E++ L+ A G  + SRL CQI ++K++  
+Sbjct  363  NSPSSAVADSSTGRKPLALPHSAPIPEMKDEEDEQLEFAIGADDDSRLACQIPVTKELAE  422
+
+Query  153  ---DGIRVALPQ  161
+                G R+ LP+
+Sbjct  423  WIKAGGRIKLPR  434
+
+
+
+
+
+
+
+		
+
+
