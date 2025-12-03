@@ -13,7 +13,7 @@ Formulation and software usage guide are available at suppMat/scRBA_suppMethods_
 To install directly via the environment.yml file, Anaconda must already be installed. To create a self-contained environment for RBA, activate the Anaconda prompt and type:
 ```conda env create -f <path to environment.yml file>```
 # Building an RBA model
-See "RBA User Guide.docx" under suppMat.
+See "RBA User Guide.docx" under [suppMat](suppMat).
 # Funding
 This work was funded by the DOE Center for Advanced Bioenergy and Bioproducts Innovation (U.S. Department of Energy, Office of Science, Biological and Environmental Research Program under Award Number DE-SC0018420). Any opinions, findings, and conclusions or recommendations expressed in this publication are those of the author(s) and do not necessarily reflect the views of the U.S. Department of Energy. Computations for this research were performed on the Pennsylvania State University’s Roar Collab supercomputer. The authors of this work recognize the Penn State Institute for Computational and Data Sciences (RRID:SCR_025154) for providing access to computational research infrastructure within the Roar Core Facility (RRID: SCR_026424).
 # References
